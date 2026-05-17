@@ -148,11 +148,13 @@ function ReferenceCard({ ref_, isExpanded, onToggle }) {
   const color = categoryColor(category)
   const label = categoryLabel(category)
 
-  // Get the flagged verses from the poem
   const flaggedVerses = useMemo(() => {
     if (!poem || !verse_indices) return []
     return verse_indices.map(i => poem.verses[i]).filter(Boolean)
   }, [poem, verse_indices])
+
+  const openingVerse = poem?.verses?.[0]?.text ?? ''
+  const meter = poem?.meter ?? ''
 
   return (
     <div className="ref-card" style={{ '--ref-color': color }}>
@@ -170,7 +172,6 @@ function ReferenceCard({ ref_, isExpanded, onToggle }) {
           </div>
         </div>
         <div className="ref-right">
-          <span className="ref-poem-id">{ref_.poem_id}</span>
           <span className="ref-expand">{isExpanded ? '▲' : '▼'}</span>
         </div>
       </div>
@@ -181,15 +182,16 @@ function ReferenceCard({ ref_, isExpanded, onToggle }) {
           <div className="ref-verses">
             {flaggedVerses.map((v, i) => (
               <div key={i} className="ref-verse">
-                <span className="verse-num">{verse_indices[i]}</span>
+                <span className="verse-num">v.{verse_indices[i]}</span>
                 <span className="verse-text arabic">{v.text}</span>
               </div>
             ))}
           </div>
           {poem && (
             <div className="ref-poem-meta">
-              Meter: <span className="arabic">{poem.meter}</span>
-              {' · '}Verses in poem: {poem.verses.length}
+              <span className="poem-meter arabic">{meter}</span>
+              <span className="poem-meta-divider"> · </span>
+              <span className="poem-opening arabic">{openingVerse}</span>
             </div>
           )}
         </div>

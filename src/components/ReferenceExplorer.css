@@ -316,3 +316,17 @@
   color: var(--stone);
   letter-spacing: 0.04em;
 }
+
+.poem-meter {
+  font-weight: 700;
+  color: var(--rust);
+}
+
+.poem-meta-divider {
+  color: var(--stone-light);
+}
+
+.poem-opening {
+  color: var(--ink-light);
+  font-size: 0.9rem;
+}
