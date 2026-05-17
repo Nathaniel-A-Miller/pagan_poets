@@ -178,20 +178,33 @@ function ReferenceCard({ ref_, isExpanded, onToggle }) {
 
       {isExpanded && (
         <div className="ref-expanded">
-          <div className="ref-notes">{notes}</div>
-          <div className="ref-verses">
-            {flaggedVerses.map((v, i) => (
-              <div key={i} className="ref-verse">
-                <span className="verse-num">v.{verse_indices[i]}</span>
-                <span className="verse-text arabic">{v.text}</span>
+          {notes && (
+            <div className="ref-expanded-row">
+              <span className="expanded-label">Note</span>
+              <div className="ref-notes">{notes}</div>
+            </div>
+          )}
+          {flaggedVerses.length > 0 && (
+            <div className="ref-expanded-row">
+              <span className="expanded-label">Verse</span>
+              <div className="ref-verses">
+                {flaggedVerses.map((v, i) => (
+                  <div key={i} className="ref-verse">
+                    <span className="verse-num">v.{verse_indices[i]}</span>
+                    <span className="verse-text arabic">{v.text}</span>
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
+            </div>
+          )}
           {poem && (
-            <div className="ref-poem-meta">
-              <span className="poem-meter arabic">{meter}</span>
-              <span className="poem-meta-divider"> · </span>
-              <span className="poem-opening arabic">{openingVerse}</span>
+            <div className="ref-expanded-row">
+              <span className="expanded-label">Poem</span>
+              <div className="ref-poem-meta">
+                <span className="poem-meter arabic">{meter}</span>
+                <span className="poem-meta-divider"> · </span>
+                <span className="poem-opening arabic">{openingVerse}</span>
+              </div>
             </div>
           )}
         </div>
