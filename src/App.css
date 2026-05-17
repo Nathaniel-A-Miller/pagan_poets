@@ -1,0 +1,50 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+}
+
+.status {
+  text-align: center;
+  padding: 3rem;
+  color: var(--stone);
+  font-style: italic;
+  letter-spacing: 0.05em;
+}
+
+.status.error {
+  color: var(--rust);
+}
+
+.splash {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 6rem 2rem;
+  gap: 1.5rem;
+  opacity: 0.6;
+}
+
+.splash-arabic {
+  font-size: 3rem;
+  color: var(--rust);
+  letter-spacing: 0.05em;
+}
+
+.splash-sub {
+  font-size: 1rem;
+  color: var(--stone);
+  font-style: italic;
+  max-width: 400px;
+  text-align: center;
+  line-height: 1.7;
+}
