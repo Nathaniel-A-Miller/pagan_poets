@@ -335,14 +335,17 @@
   display: flex;
   gap: 1rem;
   align-items: flex-start;
+  direction: ltr;
 }
 
 .expanded-label {
   font-size: 0.68rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: var(--stone-light);
+  color: var(--stone);
   flex-shrink: 0;
-  width: 2.5rem;
+  width: 3rem;
   padding-top: 0.15rem;
+  direction: ltr;
+  font-weight: 700;
 }
