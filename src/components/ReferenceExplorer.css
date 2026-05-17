@@ -330,3 +330,19 @@
   color: var(--ink-light);
   font-size: 0.9rem;
 }
+
+.ref-expanded-row {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.expanded-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--stone-light);
+  flex-shrink: 0;
+  width: 2.5rem;
+  padding-top: 0.15rem;
+}
