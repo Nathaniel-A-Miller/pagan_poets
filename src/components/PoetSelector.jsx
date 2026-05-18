@@ -26,6 +26,7 @@ export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, 
 
       return cleanString(a.name_en).localeCompare(cleanString(b.name_en), 'en', { sensitivity: 'base' })
     })
+  }, [poets, regionFilter, periodFilter]) 
 
   return (
     <>
