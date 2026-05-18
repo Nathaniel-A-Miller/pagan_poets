@@ -12,7 +12,7 @@
   {
     "slug": "qays_ibn_al-khatim",
     "name_en": "Qays b. al-Khaṭīm",
-    "name_ar": "قيس بن ال خطيم",
+    "name_ar": "قيس بن الخطيم",
     "tribe": "Aws",
     "region": "Hijaz",
     "chronological_layer": "pre-Islamic",
@@ -60,13 +60,13 @@
     "analysis": "data/nabighahdhubyani/analysis.json"
   },
     {
-    "slug": "abu_dhuayb",
-    "name_en": "Abū Dhuʾayb al-Hudhalī",
-    "name_ar": "أبو ذؤيب الهذلي",
+    "slug": "saida_ibn_juayya",
+    "name_en": "Sāʿidah b. Juʾayyah",
+    "name_ar": "ساعدة بن جؤية",
     "tribe": "Hudhayl",
     "region": "Hijaz",
-    "chronological_layer": "mukhadramun",
-    "source": "data/abudhuayb/source.json",
-    "analysis": "data/abudhuayb/analysis.json"
+    "chronological_layer": "pre-Islamic",
+    "source": "data/saidajuayya/source.json",
+    "analysis": "data/saidajuayya/analysis.json"
   }
 ]
