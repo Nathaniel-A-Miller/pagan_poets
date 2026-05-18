@@ -63,11 +63,36 @@
   flex: 1;
   display: flex;
   justify-content: flex-start;
+  min-width: 180px;
 }
 
 .header-center {
-  flex: 2;
+  flex: 3;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.header-right {
+  flex: 1;
+  min-width: 180px;
+}
+
+.header-title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  color: var(--gold-light, #d4af37);
+  letter-spacing: 0.02em;
+}
+
+.header-subtitle {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--stone-light, #a09e98);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
 }
 
 /* Modernized Sidebar Action Button */

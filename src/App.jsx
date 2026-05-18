@@ -66,7 +66,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <Header onOpenMenu={() => setIsSidebarOpen(true)} />
+      <Header isMenuOpen={isSidebarOpen} onToggleMenu={() => setIsSidebarOpen(!isSidebarOpen)} />
 
       <main className="main">
         <PoetSelector

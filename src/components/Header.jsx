@@ -1,16 +1,20 @@
-export default function Header({ onOpenMenu }) {
+export default function Header({ isMenuOpen, onToggleMenu }) {
   return (
     <header className="header">
       <div className="header-left">
-        <button className="modern-menu-btn" onClick={onOpenMenu}>
-          <span className="btn-icon">☰</span>
-          <span className="btn-text">Select Poets</span>
+        <button className="modern-menu-btn" onClick={onToggleMenu}>
+          <span className="btn-icon">{isMenuOpen ? '×' : '☰'}</span>
+          <span className="btn-text">{isMenuOpen ? 'Close Menu' : 'Select Poets'}</span>
         </button>
       </div>
       
       <div className="header-center">
-        <h1>Pre-Islamic Poetry Explorer</h1>
+        <h1 className="header-title">Pre-Islamic Poetry Explorer</h1>
+        <p className="header-subtitle">A Digital Philology Workspace</p>
       </div>
+      
+      {/* This empty layout box keeps the center title perfectly centered */}
+      <div className="header-right"></div>
     </header>
   )
 }
