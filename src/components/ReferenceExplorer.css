@@ -349,3 +349,7 @@
   direction: ltr;
   font-weight: 700;
 }
+
+.filter-count {
+  margin-left: 0.5rem;
+}
