@@ -8,9 +8,9 @@ const BASE = import.meta.env.BASE_URL
 
 export default function App() {
   const [poetIndex, setPoetIndex] = useState([])
-  const [selectedPoet, setSelectedPoet] = useState(null)
-  const [poetData, setPoetData] = useState(null)   // source.json
-  const [analysisData, setAnalysisData] = useState(null)  // analysis.json
+  const [selectedSlugs, setSelectedSlugs] = useState([])
+  const [pooledData, setPooledData] = useState([])
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
 
@@ -22,48 +22,79 @@ export default function App() {
       .catch(() => setError('Could not load poet index.'))
   }, [])
 
-  // Load poet data when selection changes
+  // Load datasets for all selected poets whenever the selection array changes
   useEffect(() => {
-    if (!selectedPoet) return
+    if (selectedSlugs.length === 0) {
+      setPooledData([])
+      return
+    }
+
     setLoading(true)
     setError(null)
-    setPoetData(null)
-    setAnalysisData(null)
 
-    Promise.all([
-      fetch(`${BASE}${selectedPoet.source}`).then(r => r.json()),
-      fetch(`${BASE}${selectedPoet.analysis}`).then(r => r.json()),
-    ])
-      .then(([source, analysis]) => {
-        setPoetData(source)
-        setAnalysisData(analysis)
+    // Match selected slugs against entries in index.json
+    const poetsToFetch = poetIndex.filter(p => selectedSlugs.includes(p.slug))
+
+    // Form fetch calls for every checked poet
+    const fetchPromises = poetsToFetch.map(poet => {
+      return Promise.all([
+        fetch(`${BASE}${poet.source}`).then(r => r.json()),
+        fetch(`${BASE}${poet.analysis}`).then(r => r.json())
+      ]).then(([source, analysis]) => {
+        return {
+          poet: source.poet,
+          poems: source.poems,
+          analysis: analysis
+        }
+      })
+    })
+
+    Promise.all(fetchPromises)
+      .then(results => {
+        setPooledData(results)
       })
       .catch(() => setError('Could not load poet data.'))
       .finally(() => setLoading(false))
-  }, [selectedPoet])
+  }, [selectedSlugs, poetIndex])
+
+  // Handle checking and unchecking poets in the sidebar
+  const handleTogglePoet = (slug) => {
+    setSelectedSlugs(prev =>
+      prev.includes(slug) ? prev.filter(s => s !== slug) : [...prev, slug]
+    )
+  }
 
   return (
     <div className="app">
       <Header />
+      
+      {/* Control bar to open the sidebar menu */}
+      <div className="menu-bar">
+        <button className="menu-trigger-btn" onClick={() => setIsSidebarOpen(true)}>
+          ☰ Open Poet Selection Menu
+        </button>
+      </div>
+
       <main className="main">
         <PoetSelector
           poets={poetIndex}
-          selected={selectedPoet}
-          onSelect={setSelectedPoet}
+          selectedSlugs={selectedSlugs}
+          onTogglePoet={handleTogglePoet}
+          isOpen={isSidebarOpen}
+          onClose={() => setIsSidebarOpen(false)}
         />
-        {loading && <div className="status">Loading...</div>}
+
+        {loading && <div className="status">Loading data...</div>}
         {error && <div className="status error">{error}</div>}
-        {poetData && analysisData && !loading && (
-          <ReferenceExplorer
-            poet={poetData.poet}
-            poems={poetData.poems}
-            analysis={analysisData}
-          />
+        
+        {pooledData.length > 0 && !loading && (
+          <ReferenceExplorer pooledData={pooledData} />
         )}
-        {!selectedPoet && !loading && (
+
+        {selectedSlugs.length === 0 && !loading && (
           <div className="splash">
             <p className="splash-arabic arabic">شعر الجاهلية</p>
-            <p className="splash-sub">Select a poet to begin exploring religious references in pre-Islamic Arabic poetry.</p>
+            <p className="splash-sub">Open the menu and select poets to explore interleaved religious references.</p>
           </div>
         )}
       </main>
