@@ -118,3 +118,31 @@
   color: var(--stone);
   margin-top: 0.25rem;
 }
+
+/* Container bar for mass action buttons */
+.sidebar-bulk-actions {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: var(--parchment);
+  border-bottom: 1px solid var(--sand-dark);
+}
+
+.bulk-btn {
+  flex: 1;
+  background: transparent;
+  border: 1px solid var(--stone-light);
+  color: var(--ink-light);
+  padding: 0.4rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: all 0.15s ease;
+}
+
+.bulk-btn:hover {
+  background: var(--sand);
+  border-color: var(--rust);
+  color: var(--rust);
+}

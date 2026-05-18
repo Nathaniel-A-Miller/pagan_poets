@@ -73,6 +73,14 @@ export default function App() {
           poets={poetIndex}
           selectedSlugs={selectedSlugs}
           onTogglePoet={handleTogglePoet}
+          onSelectAll={(visibleSlugs) => {
+            // Combines existing selections with the currently visible poets
+            setSelectedSlugs(prev => [...new Set([...prev, ...visibleSlugs])])
+          }}
+          onDeselectAll={(visibleSlugs) => {
+            // Removes currently visible poets from selections, leaving hidden ones untouched
+            setSelectedSlugs(prev => prev.filter(slug => !visibleSlugs.includes(slug)))
+          }}
           isOpen={isSidebarOpen}
           onClose={() => setIsSidebarOpen(false)}
         />
