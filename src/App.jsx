@@ -42,7 +42,7 @@ export default function App() {
         fetch(`${BASE}${poet.analysis}`).then(r => r.json())
       ]).then(([source, analysis]) => {
         return {
-          poet: source.poet,
+          poet: { ...source.poet, ...poet },
           poems: source.poems,
           analysis: analysis
         }
