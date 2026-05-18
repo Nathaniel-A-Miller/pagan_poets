@@ -48,5 +48,15 @@
     "chronological_layer": "pre-Islamic",
     "source": "data/muhalhilrabia/source.json",
     "analysis": "data/muhalhilrabia/analysis.json"
+  },
+  {
+    "slug": "alnabighah_aldhubyani",
+    "name_en": "Al-Nābighah al-Dhubyānī",
+    "name_ar": "النابغة الذبياني",
+    "tribe": "Dhubyān",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "source": "data/nabighahdhubyani/source.json",
+    "analysis": "data/nabighahdhubyani/analysis.json"
   }
 ]
