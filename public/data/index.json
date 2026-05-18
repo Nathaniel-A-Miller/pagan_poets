@@ -18,5 +18,15 @@
     "chronological_layer": "pre-Islamic",
     "source": "data/qayskhatim/source.json",
     "analysis": "data/qayskhatim/analysis.json"
+  },
+  {
+    "slug": "aws_ibn_hajar",
+    "name_en": "Aws b. Ḥajar",
+    "name_ar": "أوس بن حجر",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "source": "data/awshajar/source.json",
+    "analysis": "data/awshajar/analysis.json"
   }
 ]

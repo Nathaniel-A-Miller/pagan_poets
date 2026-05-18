@@ -1,0 +1,726 @@
+[
+  {
+    "poem_id": "أوس_بن_حجر_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_000",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رب الداميات نحورها, أجماد اللبين وكبكب",
+        "notes": "The verse contains an oath sworn by 'the Lord of the bleeding chests/throats,' which alludes to sacrificial practices, and by specific sacred geographical locations, both common elements in pre-Islamic oaths."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_000",
+        "verse_indices": [
+          14
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عوذه لا تحلب",
+        "notes": "The phrase 'its 'awdh is not milked' refers to an animal dedicated by a vow or sacred protection, indicating a pre-Islamic ritualistic practice concerning sacred animals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_001",
+    "poem_index": 1,
+    "meter": "كامل تام",
+    "verse_count": 24,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_002",
+    "poem_index": 2,
+    "meter": "متقارب تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الشمس والبدر والكواكب تكسف",
+        "notes": "The verse describes celestial bodies (sun, moon, stars) eclipsing in response to the death of a great man, reflecting a pre-Islamic cosmological belief in the interconnectedness of cosmic and earthly events and the significance of celestial omens."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_002",
+        "verse_indices": [
+          11
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "نقاب يحدث بالغائب",
+        "notes": "The phrase describes a person who 'penetrates secrets' and 'speaks of the unseen,' indicating a role akin to a diviner or soothsayer, which falls under pre-Islamic tribal sacral roles."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_003",
+    "poem_index": 3,
+    "meter": "كامل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_004",
+    "poem_index": 4,
+    "meter": "بسيط تام",
+    "verse_count": 26,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_006",
+    "poem_index": 6,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_006",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "المطعم الأموات",
+        "notes": "This verse praises the deceased for 'feeding the dead,' which refers to pre-Islamic mortuary practices involving offerings or feasts for the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_007",
+    "poem_index": 7,
+    "meter": "كامل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_009",
+    "poem_index": 9,
+    "meter": "رمل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_012",
+    "poem_index": 12,
+    "meter": "متقارب تام",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_014",
+    "poem_index": 14,
+    "meter": "متقارب تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_015",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "The phrase \"لعمرك\" is a common pre-Islamic oath formula, swearing by the life of the addressee, which functions as a sacred entity in the oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_018",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللات والعزى",
+        "notes": "The verse contains an explicit oath by the pre-Islamic goddesses al-Lāt and al-ʿUzzā, indicating a pre-Islamic religious context."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_019",
+    "poem_index": 19,
+    "meter": "بسيط تام",
+    "verse_count": 40,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_020",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "This verse contains the pre-Islamic oath formula 'لعمرك' (by your life), which is a common form of swearing by a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_021",
+    "poem_index": 21,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_022",
+    "poem_index": 22,
+    "meter": "كامل تام",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_023",
+    "poem_index": 23,
+    "meter": "منسرح",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_025",
+    "poem_index": 25,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 60,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_027",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإله",
+        "notes": "The term 'الإله' (the God) is used to refer to a divine protector, common in pre-Islamic poetry for a supreme deity."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_027",
+        "verse_indices": [
+          34
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "حالف",
+        "notes": "The term 'حالف' (one who swears an oath) refers to the act of oath-taking, a significant ritual in pre-Islamic Arabian religion."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_027",
+        "verse_indices": [
+          58
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منيتي",
+        "notes": "The term 'منيتي' (my fate/death) reflects the pre-Islamic concept of *maniyya* as an irresistible cosmological force."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_027",
+        "verse_indices": [
+          58
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "قائف",
+        "notes": "The 'قائف' (tracker/diviner by tracks) represents a specialized role in pre-Islamic society, often with divinatory implications."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_027",
+        "verse_indices": [
+          59
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزمان بعزة",
+        "notes": "The phrase 'الزمان بعزة' (time with might) alludes to the pre-Islamic concept of *dahr* or time as a powerful, often indifferent, cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_028",
+    "poem_index": 28,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_028",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإل مرقبة",
+        "notes": "The phrase 'الإل مرقبة' refers to a revered sacred entity or deity, which was invoked as a protective or foundational element in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_030",
+    "poem_index": 30,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_031",
+    "poem_index": 31,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_031",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غولا",
+        "notes": "The verse explicitly mentions 'ghoul' (غولا), a type of supernatural being believed to inhabit deserts and prey on travelers in pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 52,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_032",
+        "verse_indices": [
+          43
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بالله",
+        "notes": "The phrase 'وبالله نلته' (and by Allah I attained it) constitutes an oath or an attribution of success to God, which is a common pre-Islamic religious expression."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_035",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنان",
+        "notes": "The term 'جنان' (jinnān), the plural of jinn, explicitly refers to supernatural entities believed to inhabit the Arabian landscape."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_035",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "على العمر",
+        "notes": "The phrase 'على العمر' (by life) is a common pre-Islamic oath formula, invoking life itself as a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_038",
+    "poem_index": 38,
+    "meter": "كامل تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_039",
+    "poem_index": 39,
+    "meter": "بسيط تام",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_039",
+        "verse_indices": [
+          20
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صداك",
+        "notes": "This verse refers to the pre-Islamic belief of the *ṣadā*, a bird believed to emerge from the skull of the deceased, representing their soul."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_039",
+        "verse_indices": [
+          21
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صداك",
+        "notes": "This verse continues the reference to the *ṣadā* and wishes for the deceased's grave to be well-provided, linking to pre-Islamic mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 48,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_040",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "إلهي",
+        "notes": "The phrase \"وإلهي\" is an explicit oath invoking a deity, a common practice in pre-Islamic Arabian speech."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_040",
+        "verse_indices": [
+          11,
+          12
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "يفرط نحسا أو يفيض بأسهم",
+        "notes": "The description of casting lots of ill-omen or drawing arrows (azlām) is a direct reference to pre-Islamic divination practices, continued in the subsequent verse."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_040",
+        "verse_indices": [
+          23
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أثواب الحرام",
+        "notes": "\"أثواب الحرام\" refers to special garments worn in sacred or forbidden contexts, likely related to pilgrimage or entry into a sacred precinct, indicating a ritual practice."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_040",
+        "verse_indices": [
+          36
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "موسم",
+        "notes": "\"موسم\" (mawsim) in pre-Islamic Arabia often referred to seasonal fairs or gatherings that had significant religious and ritualistic components, such as pilgrimages or sacrifices."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_040",
+        "verse_indices": [
+          41
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حمى ذي العز",
+        "notes": "\"حمى\" (ḥimā) denotes a protected or forbidden area, often with sacred connotations in pre-Islamic Arabia, implying a sacred space or territory."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_041",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse mentions 'الدهر' (Time/Fate), a key pre-Islamic cosmological concept often personified as a force governing human destiny, even if the subject of the poem is depicted as not being preoccupied by it."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_042",
+    "poem_index": 42,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_043",
+    "poem_index": 43,
+    "meter": "وافر تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_043",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ألية",
+        "notes": "The verse refers to an 'ancient oath' (ألية عتقت قديما) which implies a solemn, binding commitment with sacral implications, characteristic of pre-Islamic oath-taking even without an explicitly named deity."
+      },
+      {
+        "poem_id": "أوس_بن_حجر_043",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حرام",
+        "notes": "The phrase 'جارتي مني حرام' (my neighbor is sacred/inviolable from me) uses the term 'ḥarām' to denote a state of sacred protection and inviolability, a concept central to pre-Islamic sacred geography and the ritualistic duty of jiwār (neighbor protection)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_044",
+    "poem_index": 44,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_044",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الشيطان",
+        "notes": "The verse explicitly mentions 'al-shayṭān,' referring to a supernatural entity or demon from pre-Islamic Arabian belief, implying its malevolent influence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_045",
+    "poem_index": 45,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_046",
+        "verse_indices": [
+          4
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "محرما",
+        "notes": "The term 'muḥarraman' (inviolable, sacred) refers to the sacred and protected status of a neighbor's right, a concept deeply rooted in pre-Islamic Arabian tribal ethics and often reinforced by religious custom."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_048",
+    "poem_index": 48,
+    "meter": "سريع",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_048",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "This verse contains an explicit oath by 'Allāh', which was a recognized supreme deity in pre-Islamic Arabian belief and frequently invoked in oaths."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_049",
+    "poem_index": 49,
+    "meter": "كامل تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "أوس_بن_حجر_051",
+    "poem_index": 51,
+    "meter": "كامل تام",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "أوس_بن_حجر_051",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الخلاج",
+        "notes": "The term 'الخلاج' (twitching) refers to involuntary body movements, which were often interpreted as omens in pre-Islamic Arabian belief, indicating a divinatory practice."
+      }
+    ],
+    "error": false
+  }
+]
