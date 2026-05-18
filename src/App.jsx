@@ -87,7 +87,7 @@ export default function App() {
         {selectedSlugs.length === 0 && !loading && (
           <div className="splash">
             <p className="splash-arabic arabic">شعر الجاهلية</p>
-            <p className="splash-sub">Open the menu and select poets to explore interleaved religious references.</p>
+            <p className="splash-sub"> dir="ltr"Open the menu and select or filter poets to explore religious references.</p>
           </div>
         )}
       </main>
