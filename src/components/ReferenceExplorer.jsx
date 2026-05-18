@@ -127,7 +127,7 @@ export default function ReferenceExplorer({ pooledData }) {
                     <div className="ref-verses">
                       {flaggedVerses.map((v, i) => (
                         <div key={i} className="ref-verse">
-                          <span className="verse-num">{"v. " + ref.verse_indices[i]}</span>
+                          <span className="verse-num">{"v. " + (ref.verse_indices[i] + 1)}</span>
                           <span className="verse-text arabic">{v.text}</span>
                         </div>
                       ))}
