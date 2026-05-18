@@ -3,13 +3,19 @@
     "slug": "zuhayr_ibn_abi_sulma",
     "name_en": "Zuhayr ibn Abi Sulma",
     "name_ar": "زهير بن أبي سلمى",
+    "tribe": "Muzayna",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
     "source": "data/zuhayr/source.json",
     "analysis": "data/zuhayr/analysis.json"
   },
   {
     "slug": "qays_ibn_al-khatim",
     "name_en": "Qays b. al-Khaṭīm",
-    "name_ar":"قيس بن ال خطيم",
+    "name_ar": "قيس بن ال خطيم",
+    "tribe": "Aws",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
     "source": "data/qayskhatim/source.json",
     "analysis": "data/qayskhatim/analysis.json"
   }
