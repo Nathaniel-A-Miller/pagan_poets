@@ -1,0 +1,650 @@
+[
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_001",
+    "poem_index": 1,
+    "meter": "رمل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_002",
+    "poem_index": 2,
+    "meter": "خفيف تام",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_002",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies 'al-Dahr' (Time/Fate) as an active, destructive force, which is a key pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_003",
+    "poem_index": 3,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_004",
+    "poem_index": 4,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_004",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بربهم",
+        "notes": "The phrase 'بربهم' (by their Lord) constitutes an oath sworn by a divine entity, characteristic of pre-Islamic invocations."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_004",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بالله",
+        "notes": "The phrase 'آليت بالله' (I swore by God) is an explicit oath invoking 'Allāh', a common practice in pre-Islamic Arabian religion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_005",
+    "poem_index": 5,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "This verse explicitly mentions 'جن' (jinn), which are non-divine supernatural entities prominent in pre-Islamic Arabian belief, often associated with madness."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "جزاء العطاس",
+        "notes": "The phrase 'جزاء العطاس' (the recompense of sneezing) refers to the pre-Islamic belief that sneezing was an omen or a sign carrying specific consequences or interpretations."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_008",
+    "poem_index": 8,
+    "meter": "وافر تام",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_008",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "شعوبا يستدير بها المدار",
+        "notes": "This verse refers to an inescapable, revolving fate or destiny that brings about divisions, aligning with pre-Islamic cosmological concepts of dahr or manāyā."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_008",
+        "verse_indices": [
+          27
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "علي عمري",
+        "notes": "The phrase \"علي عمري\" constitutes a solemn oath by the poet's life, a common pre-Islamic practice to emphasize commitment and invoke a binding guarantee."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_009",
+    "poem_index": 9,
+    "meter": "خفيف تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_009",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أنشروا لي كليبا",
+        "notes": "This verse contains a plea to 'revive Kulayb' through vengeance, which reflects the pre-Islamic tribal obligation of vengeance as a quasi-ritual duty towards the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_011",
+    "poem_index": 11,
+    "meter": "وافر تام",
+    "verse_count": 35,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_011",
+        "verse_indices": [
+          26
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "و أبي أميمة",
+        "notes": "The verse contains an oath formula 'wa-abī Umayma' (by the father of Umayma), which is a common pre-Islamic practice of swearing by an ancestor or respected figure."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_012",
+    "poem_index": 12,
+    "meter": "كامل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_013",
+    "poem_index": 13,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_014",
+    "poem_index": 14,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_015",
+    "poem_index": 15,
+    "meter": "كامل تام",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_015",
+        "verse_indices": [
+          7
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly mentions 'الجن' (jinn) as supernatural beings who are affected by the poet's actions, fitting the category of supernatural entities in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_016",
+    "poem_index": 16,
+    "meter": "كامل تام",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_016",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أنصاب",
+        "notes": "The verse contains an oath sworn by 'anṣāb' (standing stones or idols), which are explicitly described as 'معبودة' (worshipped), indicating their status as sacred entities in pre-Islamic Arabian religion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_017",
+    "poem_index": 17,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_018",
+    "poem_index": 18,
+    "meter": "سريع",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_019",
+    "poem_index": 19,
+    "meter": "unknown",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_019",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an active, relentless force, reflecting the pre-Islamic cosmological concept of Dahr as an indifferent and often destructive agent."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_019",
+        "verse_indices": [
+          23
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نثأر به",
+        "notes": "The verse expresses the imperative to avenge ('nuth'ar bihi'), highlighting the pre-Islamic social and quasi-ritualistic obligation of *tha'r* (vengeance) for a slain kinsman."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_019",
+        "verse_indices": [
+          28
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "The verse explicitly compares warriors to 'likenesses of jinn' (أشباه جن), referencing the pre-Islamic belief in jinn as powerful supernatural entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_020",
+    "poem_index": 20,
+    "meter": "خفيف تام",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_020",
+        "verse_indices": [
+          8
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نفثة راق",
+        "notes": "This verse refers to the incantation (نفثة) of a raqi (راق), a pre-Islamic practitioner of spiritual healing or exorcism, which is a form of magical or divinatory practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_021",
+    "poem_index": 21,
+    "meter": "خفيف تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_021",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثأر",
+        "notes": "The verse refers to the concept of 'tha'r' (vengeance), which was a quasi-ritualistic obligation in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_021",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دفينا / تحت الأحجار والترب",
+        "notes": "The verse describes a buried person ('dafīn') under stones and earth, referring to a pre-Islamic burial practice."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_021",
+        "verse_indices": [
+          11
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "و الله",
+        "notes": "The phrase 'wa-Allāh' is a common pre-Islamic oath formula, invoking a higher deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_022",
+    "poem_index": 22,
+    "meter": "خفيف تام",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_022",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قتيل ينادي قتيلا",
+        "notes": "This verse alludes to the pre-Islamic belief that the spirit of a slain person (often associated with the ṣadā bird) would call out for vengeance until avenged."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_022",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نحبا",
+        "notes": "The term 'نحب' (nuhb) in this context refers to a solemn obligation or vow, specifically the duty of vengeance for the slain Kulayb, which was a central quasi-ritualistic aspect of pre-Islamic tribal honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_023",
+    "poem_index": 23,
+    "meter": "خفيف تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_023",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an active agent that turns situations, reflecting the pre-Islamic cosmological concept of Dahr as an impersonal, irresistible force governing human destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_024",
+    "poem_index": 24,
+    "meter": "خفيف تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_025",
+    "poem_index": 25,
+    "meter": "هزج",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_025",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'أكل الدهر' (Time has consumed/worn out) refers to al-Dahr as a personified, destructive cosmological force, a common pre-Islamic concept of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_026",
+    "poem_index": 26,
+    "meter": "خفيف تام",
+    "verse_count": 45,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_026",
+        "verse_indices": [
+          38
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "عاد",
+        "notes": "The comparison of the destruction of Bakr to the legendary annihilation of the tribe of ʿĀd references a pre-Islamic cosmological concept of fate or divine punishment leading to utter destruction."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_026",
+        "verse_indices": [
+          39
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يا كليبا أجب لدعوة داع",
+        "notes": "The poet's direct invocation to the deceased Kulayb to 'answer the call' reflects a pre-Islamic belief in the continued awareness or potential responsiveness of the dead, particularly in the context of seeking vengeance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_028",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "دم, منا, تحز الغلاصم",
+        "notes": "The verse describes a scene involving blood and the cutting of throats at 'Minā', explicitly referencing pre-Islamic sacrificial rituals and a sacred space."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_028",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' is used here in a way that reflects the pre-Islamic Arabian concept of Dahr as a powerful, overarching force of time and fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_030",
+    "poem_index": 30,
+    "meter": "كامل تام",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_030",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللات",
+        "notes": "The verse explicitly names the pre-Islamic goddess al-Lāt in the tribal name 'Taym al-Lāt', indicating a direct reference to a deity."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_030",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رب الحل و الإحرام",
+        "notes": "This phrase constitutes an oath by 'the Lord of the sacred and profane zones', which is a common pre-Islamic oath formula anchored to a sacred entity or concept related to ritual geography."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_030",
+        "verse_indices": [
+          10
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تمائم",
+        "notes": "The mention of 'tamāʾim' (amulets) refers to physical objects used in pre-Islamic Arabian belief for protection, representing a physical dimension of religious practice or a form of votive item."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_031",
+    "poem_index": 31,
+    "meter": "كامل تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_031",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "و رب الحل و الإحرام",
+        "notes": "This verse contains an oath sworn by 'the Lord of the sacred and profane states/zones', which is a common pre-Islamic oath formula referencing sacred territories and ritual states."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_032",
+    "poem_index": 32,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_033",
+    "poem_index": 33,
+    "meter": "منسرح",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_034",
+    "poem_index": 34,
+    "meter": "كامل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_035",
+    "poem_index": 35,
+    "meter": "كامل تام",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_035",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يخمشن من أدم الوجوه",
+        "notes": "This describes the pre-Islamic mourning practice of women scratching their faces in grief."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_035",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "متسلبات",
+        "notes": "This refers to the pre-Islamic mourning practice of women wearing special clothes of grief."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_035",
+        "verse_indices": [
+          13
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "اندبنه",
+        "notes": "This refers to the pre-Islamic mourning practice of lamentation for the deceased."
+      },
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_035",
+        "verse_indices": [
+          13
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قباطي الأكفان",
+        "notes": "This refers to the pre-Islamic burial practice of shrouding the deceased with fine cloth."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_036",
+    "poem_index": 36,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_037",
+    "poem_index": 37,
+    "meter": "كامل تام",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "muhalhil_b_ibn_rabīʿah_038",
+    "poem_index": 38,
+    "meter": "بسيط تام",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "muhalhil_b_ibn_rabīʿah_038",
+        "verse_indices": [
+          18
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The verse contains an imprecation 'لا أصلح الله' (May God not set right), invoking 'Allah' as a divine entity to curse, which aligns with pre-Islamic invocations of a higher power."
+      }
+    ],
+    "error": false
+  }
+]

@@ -38,5 +38,15 @@
     "chronological_layer": "pre-Islamic",
     "source": "data/alqamahfahl/source.json",
     "analysis": "data/alqamahfahl/analysis.json"
+  },
+  {
+    "slug": "muhalhil_ibn_rabia",
+    "name_en": "Muhalhil b. Rabīʿah",
+    "name_ar": "مهلهل بن ربيعة",
+    "tribe": "Taghlib",
+    "region": "Iraq / Euphrates Zone",
+    "chronological_layer": "pre-Islamic",
+    "source": "data/muhalhilrabia/source.json",
+    "analysis": "data/muhalhilrabia/analysis.json"
   }
 ]
