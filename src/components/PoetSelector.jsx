@@ -77,9 +77,9 @@ export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, 
                   onChange={() => onTogglePoet(poet.slug)}
                 />
                 <div className="poet-info">
-                  <div className="poet-row">
-                    <span className="poet-name">{poet.name_en}</span>
-                    {poet.name_ar && <span className="poet-name-ar arabic">{poet.name_ar}</span>}
+                  <div className="poet-names-block">
+                    <span className="poet-name-en">{poet.name_en}</span>
+                    {poet.name_ar && <div className="poet-name-ar arabic">{poet.name_ar}</div>}
                   </div>
                   <span className="poet-meta-tags">
                     {poet.tribe && `${poet.tribe} · `}{poet.region} · {poet.chronological_layer}
