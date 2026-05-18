@@ -116,7 +116,7 @@ export default function ReferenceExplorer({ pooledData }) {
                     <div className="ref-notes">
                       {ref.notes.split(/(\*[^*]+\*)/g).map((part, i) => {
                         if (part.startsWith('*') && part.endsWith('*')) {
-                          return <span key={i} style={{ fontStyle: 'normal', fontWeight: 'bold' }}>{part.slice(1, -1)}</span>;
+                          return <span key={i} style={{ fontStyle: 'normal' }}>{part.slice(1, -1)}</span>;
                         }
                         return part;
                       })}
