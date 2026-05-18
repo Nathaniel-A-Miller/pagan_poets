@@ -68,5 +68,15 @@
     "chronological_layer": "pre-Islamic",
     "source": "data/saidajuayya/source.json",
     "analysis": "data/saidajuayya/analysis.json"
+  },
+    {
+    "slug": "abu_dhuayb",
+    "name_en": "Abū Dhuʾayb al-Hudhalī",
+    "name_ar": "أبو ذؤيب الهذلي",
+    "tribe": "Hudhayl",
+    "region": "Hijaz",
+    "chronological_layer": "mukhadramun",
+    "source": "data/abudhuayb/source.json",
+    "analysis": "data/abudhuayb/analysis.json"
   }
 ]
