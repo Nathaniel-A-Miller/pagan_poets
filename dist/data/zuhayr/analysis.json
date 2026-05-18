@@ -1,0 +1,441 @@
+[
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 58,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_000",
+        "verse_indices": [
+          10
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "محرم",
+        "notes": "The term 'محرم' (maḥram) refers to a sacred, inviolable precinct, indicating a pre-Islamic concept of sacred geography where certain actions were forbidden."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_000",
+        "verse_indices": [
+          15
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "البيت الذي طاف حوله",
+        "notes": "The poet swears an oath by 'the House' (al-Bayt, referring to the Kaaba) and explicitly mentions the ritual of circumambulation (ṭawāf), anchoring the oath to a sacred entity and practice."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_000",
+        "verse_indices": [
+          25
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The verse refers to 'Allah' as an omniscient deity who knows what is hidden in people's souls, reflecting a pre-Islamic or early transitional belief in a supreme divine being."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_000",
+        "verse_indices": [
+          26
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "يوم الحساب",
+        "notes": "The phrase 'يوم الحساب' (Day of Reckoning) refers to a concept of divine judgment and accountability for deeds, which, while prominent in Islam, had precursors in pre-Islamic Arabian thought."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_000",
+        "verse_indices": [
+          38
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منايا",
+        "notes": "The term 'منايا' (fates/deaths) is used to describe death as an inevitable and predetermined force, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_000",
+        "verse_indices": [
+          47
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'المنايا' (fates/deaths) is used to describe death as an indiscriminate and inescapable force, reinforcing a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_000",
+        "verse_indices": [
+          53
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'المنايا' (fates/deaths) is used to emphasize the inescapability of fate, even through extreme measures, reflecting a pre-Islamic cosmological belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_001",
+    "poem_index": 1,
+    "meter": "بسيط تام",
+    "verse_count": 36,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_002",
+    "poem_index": 2,
+    "meter": "وافر تام",
+    "verse_count": 61,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_002",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سنحا",
+        "notes": "This verse describes a gazelle passing from right to left ('sanḥan'), which was considered a good omen in pre-Islamic Arabian augury."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_002",
+        "verse_indices": [
+          39
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يمين",
+        "notes": "This verse lists 'yamīn' (oath) as one of the three ways to resolve a right, highlighting its significance as a binding legal and religious practice in pre-Islamic society."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_002",
+        "verse_indices": [
+          42
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "التلاء",
+        "notes": "This verse mentions 'al-tilāʾ,' which refers to the act of swearing an oath, emphasizing its role in establishing guarantees and justice in pre-Islamic tribal law."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_002",
+        "verse_indices": [
+          49
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "مقسمة",
+        "notes": "This verse refers to a 'muqasama,' a solemn oath, often involving ritualistic elements like blood, used to bind parties in pre-Islamic tribal agreements."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_002",
+        "verse_indices": [
+          51
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "هديا",
+        "notes": "This verse mentions 'hadyan,' referring to an animal offering or sacrifice, a common ritual practice in pre-Islamic Arabian religion, often associated with sanctuaries."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_003",
+    "poem_index": 3,
+    "meter": "كامل أحذ",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_003",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "تالله",
+        "notes": "The phrase 'تالله' is an explicit oath by God, a common pre-Islamic practice invoking the supreme deity."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_003",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) is used here to denote fate or time as a powerful, often destructive, cosmological force, a key pre-Islamic concept."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_003",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "القدر",
+        "notes": "The phrase 'غير ملعن القدر' refers to not being cursed by 'القدر' (qadar), which signifies fate or destiny as a pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 41,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_004",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أقسمت بالمنازل من منى",
+        "notes": "The poet swears an oath by the sacred stations of Minā, a significant site in pre-Islamic pilgrimage rituals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 46,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_006",
+    "poem_index": 6,
+    "meter": "بسيط تام",
+    "verse_count": 33,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_006",
+        "verse_indices": [
+          23
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "منصب العتر, النسك",
+        "notes": "This verse explicitly describes a pre-Islamic ritual sacrifice (النسك, العتر) performed at a standing stone or altar (منصب), indicating a sacred space and ritual act."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_006",
+        "verse_indices": [
+          30
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر الله",
+        "notes": "The phrase \"لعمر الله\" is a common pre-Islamic oath formula, invoking a supreme deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_007",
+    "poem_index": 7,
+    "meter": "وافر تام",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_008",
+    "poem_index": 8,
+    "meter": "متقارب تام",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_008",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الفؤولا",
+        "notes": "The phrase \"أمضي الفؤولا\" (I proceed with the omens) explicitly refers to the pre-Islamic practice of taking and following omens (fa'l) before undertaking an action, which is a form of divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_009",
+    "poem_index": 9,
+    "meter": "وافر تام",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_009",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر أبيك",
+        "notes": "This verse contains a pre-Islamic oath formula invoking the life of the father, which was a common and significant form of oath in that period."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_010",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نعقر أمات الرباع ونيسر",
+        "notes": "This verse describes the pre-Islamic ritual of slaughtering camels (ʿaqr) and casting lots (maysir) for their meat, a practice associated with generosity and tribal honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 44,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_011",
+        "verse_indices": [
+          10
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "أغوال",
+        "notes": "The term 'أغوال' (ghouls) explicitly refers to a type of jinn or malevolent supernatural entity in pre-Islamic Arabian folklore."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_011",
+        "verse_indices": [
+          29
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ساعة نحس تتقى أم بأسعد",
+        "notes": "This verse refers to the belief in 'inauspicious hours' (ساعة نحس) to be avoided and 'auspicious hours' (بأسعد), reflecting a pre-Islamic cosmological understanding of time's inherent qualities and its influence on human affairs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_012",
+    "poem_index": 12,
+    "meter": "كامل تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_012",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحجرات نار الموقد",
+        "notes": "The phrase 'at the ḥujurāt, the fire of the kindled' suggests a communal gathering for a ritual around a fire in designated sacred enclosures, fitting the description of pre-Islamic ritual spaces and practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_013",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an enduring, non-perishing entity, consistent with its pre-Islamic conceptualization as a powerful cosmological force."
+      },
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_013",
+        "verse_indices": [
+          16
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse again mentions 'al-Dahr' (Time/Fate) as an active agent that can be 'astray' or misleading, reinforcing its role as a cosmological force in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_015",
+    "poem_index": 15,
+    "meter": "وافر تام",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_016",
+    "poem_index": 16,
+    "meter": "بسيط تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_017",
+    "poem_index": 17,
+    "meter": "بسيط تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_018",
+    "poem_index": 18,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_019",
+    "poem_index": 19,
+    "meter": "كامل تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_abī_sulmā_019",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الشهور أحلت",
+        "notes": "This verse refers to the concept of the sacred months (الأشهر الحرم) becoming lawful (أحلت), which regulated activities like travel and warfare in pre-Islamic Arabia, indicating a performative dimension of religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_020",
+    "poem_index": 20,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_abī_sulmā_022",
+    "poem_index": 22,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]
