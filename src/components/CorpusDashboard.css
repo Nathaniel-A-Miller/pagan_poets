@@ -1,0 +1,136 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 3rem 0 4rem;
+}
+
+.dashboard-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dashboard-title-ar {
+  font-size: 2.5rem;
+  color: var(--rust);
+  letter-spacing: 0.05em;
+}
+
+.dashboard-title-en {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--stone);
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+  max-width: 700px;
+}
+
+/* Hero number cards */
+.stat-card {
+  background: var(--parchment);
+  border: 1px solid var(--sand-dark);
+  padding: 1.5rem 2rem;
+}
+
+.stat-card--hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  border-left: 3px solid var(--rust);
+}
+
+.stat-value {
+  font-family: var(--font-display);
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--stone);
+}
+
+/* Breakdown cards */
+.stat-card--breakdown {
+  border-left: 3px solid var(--gold);
+}
+
+.stat-card-heading {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--stone);
+  margin-bottom: 1rem;
+}
+
+.breakdown-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.breakdown-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.breakdown-name {
+  font-size: 0.8rem;
+  color: var(--ink-light);
+  width: 7rem;
+  flex-shrink: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.breakdown-bar-wrap {
+  flex: 1;
+  height: 4px;
+  background: var(--sand-dark);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.breakdown-bar {
+  height: 100%;
+  background: var(--rust);
+  border-radius: 2px;
+  transition: width 0.4s ease;
+}
+
+.breakdown-bar--period {
+  background: var(--gold);
+}
+
+.breakdown-count {
+  font-size: 0.75rem;
+  color: var(--stone);
+  width: 1.5rem;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.dashboard-cta {
+  font-size: 0.85rem;
+  color: var(--stone);
+  font-style: italic;
+  letter-spacing: 0.03em;
+}

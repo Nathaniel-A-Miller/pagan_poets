@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import Header from './components/Header.jsx'
 import PoetSelector from './components/PoetSelector.jsx'
 import ReferenceExplorer from './components/ReferenceExplorer.jsx'
+import CorpusDashboard from './components/CorpusDashboard.jsx'
 import './App.css'
 
 const BASE = import.meta.env.BASE_URL
@@ -14,7 +15,6 @@ export default function App() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
 
-  // Load index on mount
   useEffect(() => {
     fetch(`${BASE}data/index.json`)
       .then(r => r.json())
@@ -22,7 +22,6 @@ export default function App() {
       .catch(() => setError('Could not load poet index.'))
   }, [])
 
-  // Load datasets for all selected poets whenever the selection array changes
   useEffect(() => {
     if (selectedSlugs.length === 0) {
       setPooledData([])
@@ -32,32 +31,25 @@ export default function App() {
     setLoading(true)
     setError(null)
 
-    // Match selected slugs against entries in index.json
     const poetsToFetch = poetIndex.filter(p => selectedSlugs.includes(p.slug))
 
-    // Form fetch calls for every checked poet
     const fetchPromises = poetsToFetch.map(poet => {
       return Promise.all([
         fetch(`${BASE}${poet.source}`).then(r => r.json()),
         fetch(`${BASE}${poet.analysis}`).then(r => r.json())
-      ]).then(([source, analysis]) => {
-        return {
-          poet: { ...source.poet, ...poet },
-          poems: source.poems,
-          analysis: analysis
-        }
-      })
+      ]).then(([source, analysis]) => ({
+        poet: { ...source.poet, ...poet },
+        poems: source.poems,
+        analysis: analysis
+      }))
     })
 
     Promise.all(fetchPromises)
-      .then(results => {
-        setPooledData(results)
-      })
+      .then(setPooledData)
       .catch(() => setError('Could not load poet data.'))
       .finally(() => setLoading(false))
   }, [selectedSlugs, poetIndex])
 
-  // Handle checking and unchecking poets in the sidebar
   const handleTogglePoet = (slug) => {
     setSelectedSlugs(prev =>
       prev.includes(slug) ? prev.filter(s => s !== slug) : [...prev, slug]
@@ -73,30 +65,25 @@ export default function App() {
           poets={poetIndex}
           selectedSlugs={selectedSlugs}
           onTogglePoet={handleTogglePoet}
-          onSelectAll={(visibleSlugs) => {
-            // Combines existing selections with the currently visible poets
+          onSelectAll={(visibleSlugs) =>
             setSelectedSlugs(prev => [...new Set([...prev, ...visibleSlugs])])
-          }}
-          onDeselectAll={(visibleSlugs) => {
-            // Removes currently visible poets from selections, leaving hidden ones untouched
+          }
+          onDeselectAll={(visibleSlugs) =>
             setSelectedSlugs(prev => prev.filter(slug => !visibleSlugs.includes(slug)))
-          }}
+          }
           isOpen={isSidebarOpen}
           onClose={() => setIsSidebarOpen(false)}
         />
 
         {loading && <div className="status">Loading data...</div>}
         {error && <div className="status error">{error}</div>}
-        
+
         {pooledData.length > 0 && !loading && (
           <ReferenceExplorer pooledData={pooledData} />
         )}
 
-        {selectedSlugs.length === 0 && !loading && (
-          <div className="splash">
-            <p className="splash-arabic arabic">شعر الجاهلية</p>
-            <p className="splash-sub" dir="ltr">Open the menu and select or filter poets to explore religious references.</p>
-          </div>
+        {selectedSlugs.length === 0 && !loading && poetIndex.length > 0 && (
+          <CorpusDashboard poetIndex={poetIndex} />
         )}
       </main>
     </div>

@@ -6,6 +6,7 @@
     "tribe": "Muzayna",
     "region": "Hijaz",
     "chronological_layer": "pre-Islamic",
+    "number_of_lines": 458
     "source": "data/zuhayr/source.json",
     "analysis": "data/zuhayr/analysis.json"
   },
