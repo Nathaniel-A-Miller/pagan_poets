@@ -1,17 +1,16 @@
-import './Header.css'
-
-export default function Header() {
+export default function Header({ onOpenMenu }) {
   return (
     <header className="header">
-      <div className="header-inner">
-        <div className="header-title">
-          <h1 className="title-en">Pagan Poets</h1>
-          <span className="title-divider">·</span>
-          <h1 className="title-ar arabic">شعراء الجاهلية</h1>
-        </div>
-        <p className="header-sub">Pre-Islamic Religious References in Early Arabic Poetry</p>
+      <div className="header-left">
+        <button className="modern-menu-btn" onClick={onOpenMenu}>
+          <span className="btn-icon">☰</span>
+          <span className="btn-text">Select Poets</span>
+        </button>
       </div>
-      <div className="header-rule" />
+      
+      <div className="header-center">
+        <h1>Pre-Islamic Poetry Explorer</h1>
+      </div>
     </header>
   )
 }

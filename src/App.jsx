@@ -66,14 +66,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <Header />
-      
-      {/* Control bar to open the sidebar menu */}
-      <div className="menu-bar">
-        <button className="menu-trigger-btn" onClick={() => setIsSidebarOpen(true)}>
-          ☰ Open Poet Selection Menu
-        </button>
-      </div>
+      <Header onOpenMenu={() => setIsSidebarOpen(true)} />
 
       <main className="main">
         <PoetSelector
