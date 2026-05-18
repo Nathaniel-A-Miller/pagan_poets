@@ -87,7 +87,7 @@ export default function CorpusDashboard({ poetIndex }) {
 
       </div>
 
-      <div className="dashboard-cta">
+      <div className="dashboard-cta" dir="ltr">
         Open the menu to select poets and explore references.
       </div>
     </div>

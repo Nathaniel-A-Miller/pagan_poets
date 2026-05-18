@@ -9,7 +9,7 @@ export default function Header({ isMenuOpen, onToggleMenu }) {
       </div>
       
       <div className="header-center">
-        <h1 className="header-title">Paganism in Early Poetry</h1>
+        <h1 className="header-title">Paganism in Early Arabic Poetry</h1>
         <p className="header-subtitle">A Digital Philology Workspace</p>
       </div>
       
