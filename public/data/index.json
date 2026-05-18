@@ -1,7 +1,7 @@
 [
   {
     "slug": "zuhayr_ibn_abi_sulma",
-    "name_en": "Zuhayr ibn Abi Sulma",
+    "name_en": "Zuhayr ibn Abī Sulmā",
     "name_ar": "زهير بن أبي سلمى",
     "tribe": "Muzayna",
     "region": "Hijaz",
@@ -23,6 +23,16 @@
     "slug": "aws_ibn_hajar",
     "name_en": "Aws b. Ḥajar",
     "name_ar": "أوس بن حجر",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "source": "data/awshajar/source.json",
+    "analysis": "data/awshajar/analysis.json"
+  },
+  {
+    "slug": "alqamah_alfahl",
+    "name_en": "ʿAlqamah al-Faḥl",
+    "name_ar": "علقمة الفحل",
     "tribe": "Tamīm",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
