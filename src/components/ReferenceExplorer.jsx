@@ -113,7 +113,14 @@ export default function ReferenceExplorer({ pooledData }) {
                 <div className="ref-expanded">
                   <div className="ref-expanded-row">
                     <span className="expanded-label">Note</span>
-                    <div className="ref-notes">{ref.notes}</div>
+                    <div className="ref-notes">
+                      {ref.notes.split(/(\*[^*]+\*)/g).map((part, i) => {
+                        if (part.startsWith('*') && part.endsWith('*')) {
+                          return <em key={i}>{part.slice(1, -1)}</em>;
+                        }
+                        return part;
+                      })}
+                    </div>
                   </div>
                   <div className="ref-expanded-row">
                     <span className="expanded-label">Verse</span>
