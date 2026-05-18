@@ -78,5 +78,15 @@
     "chronological_layer": "mukhadramun",
     "source": "data/abudhuayb/source.json",
     "analysis": "data/abudhuayb/analysis.json"
-  }
+  },
+    {
+    "slug": "khansaa",
+    "name_en": "Al-Khansāʾ",
+    "name_ar": "الخنساء",
+    "tribe": "Sulaym",
+    "region": "Hijaz",
+    "chronological_layer": "mukhadramun",
+    "source": "data/khansaa/source.json",
+    "analysis": "data/khansaa/analysis.json"
+    }
 ]

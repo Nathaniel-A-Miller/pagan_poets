@@ -1,0 +1,1627 @@
+[
+  {
+    "poem_id": "al-khansāʾ_000",
+    "poem_index": 0,
+    "meter": "بسيط تام",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The verse attributes agency to 'dahr' (time/fate), presenting it as a cosmological force that causes trouble, which is a pre-Islamic concept."
+      },
+      {
+        "poem_id": "al-khansāʾ_000",
+        "verse_indices": [
+          9
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الوتر",
+        "notes": "The phrase 'لل وتر طلابا' refers to the pursuit of vengeance (al-watr), which was a quasi-ritualistic duty in pre-Islamic Arabian society tied to honor and the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_002",
+    "poem_index": 2,
+    "meter": "-",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_003",
+    "poem_index": 3,
+    "meter": "ms01 : وافر تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_003",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "خوالد",
+        "notes": "The poet attributes her burden and sleeplessness to 'khawālid' (persistent entities) that 'do not return to a returning place,' which in pre-Islamic belief could refer to jinn or spirits causing affliction."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_004",
+    "poem_index": 4,
+    "meter": "بسيط تام",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_004",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "سقيا لقبرك",
+        "notes": "This verse contains a wish for rain upon the grave of the deceased, reflecting a pre-Islamic mortuary practice and belief concerning the well-being and blessing of the dead."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_005",
+    "poem_index": 5,
+    "meter": "بسيط تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_006",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمري",
+        "notes": "This verse contains the oath formula 'لعمري' (by my life), which is a common pre-Islamic oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_007",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "حلفت / أبرت",
+        "notes": "The verse explicitly mentions swearing an oath (حلفت) and fulfilling it (أبرت), which was a solemn and sacred act in pre-Islamic Arabian society, often implicitly invoking divine witness or sanction."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_009",
+    "poem_index": 9,
+    "meter": "وافر تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_010",
+    "poem_index": 10,
+    "meter": "مجزوء الكامل",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_010",
+        "verse_indices": [
+          2,
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الضريحة والصفائح, رمس, جدث",
+        "notes": "These verses explicitly describe the grave and burial practices ('ضريحة', 'صفائح', 'رمس', 'جدث'), which are components of pre-Islamic mortuary beliefs."
+      },
+      {
+        "poem_id": "al-khansāʾ_010",
+        "verse_indices": [
+          12,
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ريب الزمان, ام الزمان",
+        "notes": "These verses personify Time ('الزمان') as an active, destructive cosmological force ('ريب الزمان', 'ام الزمان'), a key pre-Islamic belief related to Dahr."
+      },
+      {
+        "poem_id": "al-khansāʾ_010",
+        "verse_indices": [
+          14
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يندبن نوحا",
+        "notes": "This verse describes women engaging in lamentation and wailing ('يندبن نوحا'), a significant pre-Islamic mourning rite."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_011",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سوانح وبوارح",
+        "notes": "This verse refers to 'سوانح' and 'بوارح,' which are terms for auspicious and inauspicious omens derived from bird flight, a common pre-Islamic divinatory practice."
+      },
+      {
+        "poem_id": "al-khansāʾ_011",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نائحات",
+        "notes": "The mention of 'نائحات' (wailing women) explicitly refers to a key component of pre-Islamic Arabian mourning rites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_012",
+    "poem_index": 12,
+    "meter": "خفيف تام",
+    "verse_count": 17,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طير, سنيح وبارح",
+        "notes": "The verse describes the poet observing a bird omen (ṭīra) and specifically mentions 'saniḥ' and 'bāriḥ,' which are technical terms for types of bird augury."
+      },
+      {
+        "poem_id": "al-khansāʾ_013",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The verse refers to 'al-manūn' as an irresistible force of fate or death, a common cosmological concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_014",
+    "poem_index": 14,
+    "meter": "متقارب تام",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_015",
+    "poem_index": 15,
+    "meter": "وافر تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_015",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "تبعوا ثمودا",
+        "notes": "This verse states that the deceased have 'followed Thamūd,' meaning they have met the same fate of perishing, which is a conceptual statement about the nature of death and human destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as a powerful, enduring force, which is a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-khansāʾ_016",
+        "verse_indices": [
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "القصاص",
+        "notes": "The verse explicitly states the obligation of vengeance ('ولا صلح حتى نستقيد الخرائدا'), a fundamental quasi-ritual duty in pre-Islamic Arabian society related to honor and the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_017",
+    "poem_index": 17,
+    "meter": "بسيط تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_018",
+    "poem_index": 18,
+    "meter": "مجزوء الكامل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_018",
+        "verse_indices": [
+          16
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "عارِد",
+        "notes": "The verse refers to an 'ārid (omen bird or ill omen) flying at the time of death, which is a clear reference to pre-Islamic augury or omens associated with death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_019",
+    "poem_index": 19,
+    "meter": "تام",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_019",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "اللحود",
+        "notes": "The phrase 'among the graves' (bayna al-luḥūd) explicitly refers to burial practices, a component of pre-Islamic mortuary belief."
+      },
+      {
+        "poem_id": "al-khansāʾ_019",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بلى",
+        "notes": "The concept of being 'hostage to decay' (rahīn balā) and the inevitability of decay for all youth expresses a pre-Islamic cosmological understanding of the nature of death."
+      },
+      {
+        "poem_id": "al-khansāʾ_019",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صرف",
+        "notes": "The term 'ṣarf' (turning or vicissitude) in the context of calamities refers to the pre-Islamic cosmological concept of fate or time as an active force."
+      },
+      {
+        "poem_id": "al-khansāʾ_019",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صروف الدهر",
+        "notes": "The explicit mention of 'ṣurūf al-dahr' (the turns of time/fate) directly refers to the pre-Islamic cosmological concept of dahr as a powerful, often destructive, force."
+      },
+      {
+        "poem_id": "al-khansāʾ_019",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'al-dahr forcibly overcame them' personifies dahr (time/fate) as a dominant cosmological agent, a central pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_020",
+    "poem_index": 20,
+    "meter": "بسيط تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_021",
+    "poem_index": 21,
+    "meter": "بسيط تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_022",
+    "poem_index": 22,
+    "meter": "كامل تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_022",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لله در",
+        "notes": "The phrase 'li-Llāhi darru' is an ancient Arabic exclamation of praise, functioning as an oath or invocation anchored to Allāh, who was a recognized deity in the pre-Islamic Arabian pantheon."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_024",
+    "poem_index": 24,
+    "meter": "وافر تام",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_024",
+        "verse_indices": [
+          13
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "معترك من الأرواح قفر",
+        "notes": "This verse describes the deceased as residing in a 'desolate place of spirits,' reflecting a pre-Islamic belief about the state or abode of souls after death."
+      },
+      {
+        "poem_id": "al-khansāʾ_024",
+        "verse_indices": [
+          18
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The personification of 'الدهر' (Time/Fate) as an agent capable of taking a friend is a direct reference to the pre-Islamic cosmological concept of الدهر as a powerful, often impersonal, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_025",
+    "poem_index": 25,
+    "meter": "بسيط تام",
+    "verse_count": 35,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_025",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an active, harmful force, reflecting a pre-Islamic cosmological understanding of dahr."
+      },
+      {
+        "poem_id": "al-khansāʾ_025",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse describes 'al-Dahr' as having 'turns and changes' (صرفه حول واطوار), reinforcing its role as a powerful, fluctuating cosmological force."
+      },
+      {
+        "poem_id": "al-khansāʾ_025",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The mention of 'al-Dahr' having 'sweet and bitter' aspects (احلاء وامرار) further characterizes it as an impersonal, influential force in human life."
+      },
+      {
+        "poem_id": "al-khansāʾ_025",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The poet describes 'al-Dahr' as an unblamable, self-acting entity (ليس له معاتب وحده يسدي ونيار), which aligns with the pre-Islamic concept of dahr as an uncontrollable cosmic power."
+      },
+      {
+        "poem_id": "al-khansāʾ_025",
+        "verse_indices": [
+          30
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "لحد, رمس",
+        "notes": "The verse explicitly describes the physical aspects of burial, mentioning the 'locus' (locus) and 'burial mound' (rams) containing the deceased, which refers to pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_026",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) refers to an impersonal, irresistible force of destiny or death, which is a key pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_027",
+    "poem_index": 27,
+    "meter": "unknown",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_027",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) refers to the pre-Islamic concept of time or fate as an impersonal, often destructive, cosmological force, which is lamented here."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_028",
+    "poem_index": 28,
+    "meter": "سريع",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_029",
+    "poem_index": 29,
+    "meter": "متقارب تام",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_030",
+    "poem_index": 30,
+    "meter": "كامل تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_031",
+    "poem_index": 31,
+    "meter": "كامل تام",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_031",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثأر",
+        "notes": "The mention of 'بلا ثأر' (without vengeance) refers to the unfulfilled obligation of blood revenge, a central aspect of pre-Islamic mortuary belief and tribal honor."
+      },
+      {
+        "poem_id": "al-khansāʾ_031",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'عثرة كانت من الدهر' attributes misfortune to 'al-Dahr', a pre-Islamic cosmological concept of time or fate as an impersonal, often destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_032",
+    "poem_index": 32,
+    "meter": "بسيط تام",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_032",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الضريح, سووا عليه بالواح واحجار",
+        "notes": "This verse explicitly describes the burial of the deceased, mentioning the tomb (الضريح) and the materials used to cover it."
+      },
+      {
+        "poem_id": "al-khansāʾ_032",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منيته, وقت ومقدار",
+        "notes": "The verse speaks of death as an appointed fate and measure (منيته, وقت ومقدار) for every soul, reflecting a pre-Islamic cosmological understanding of destiny."
+      },
+      {
+        "poem_id": "al-khansāʾ_032",
+        "verse_indices": [
+          16
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منيته, أقدار",
+        "notes": "This verse reiterates the idea of death as an inevitable fate and destiny (منيته, أقدار), aligning with pre-Islamic cosmological beliefs about predetermined outcomes."
+      },
+      {
+        "poem_id": "al-khansāʾ_032",
+        "verse_indices": [
+          18
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "حفرة",
+        "notes": "The mention of 'حفرة' (grave) directly refers to a burial place, linking to pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_033",
+    "poem_index": 33,
+    "meter": "رمل تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_033",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "رقية الراقي",
+        "notes": "This verse explicitly refers to 'ruqya' (incantation) performed by a 'rāqī' (charmer or exorcist), which was a pre-Islamic ritualistic practice for healing or protection."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_034",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'al-Dahr' (time/fate) is invoked as an active force that can make things difficult for people, reflecting the pre-Islamic cosmological concept of Dahr as a powerful, often indifferent or hostile, agent of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_035",
+    "poem_index": 35,
+    "meter": "مجزوء الكامل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_035",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الشمس كاسفة, القمر",
+        "notes": "This verse describes the sun eclipsing and the moon being misaligned as a direct cosmic reaction to the hero's death, reflecting a pre-Islamic belief in celestial bodies as omens or agents influenced by significant earthly events."
+      },
+      {
+        "poem_id": "al-khansāʾ_035",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The explicit mention of 'al-Jinn' (supernatural beings) rejoicing at the hero's death directly refers to pre-Islamic Arabian beliefs about these entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_036",
+    "poem_index": 36,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_036",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "القدر",
+        "notes": "This verse refers to 'al-qadar' (fate) as a force that overwhelmed the deceased, which aligns with pre-Islamic cosmological understandings of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_037",
+    "poem_index": 37,
+    "meter": "بسيط تام",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_037",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المقادير",
+        "notes": "The phrase 'ملمات المقادير' (calamities of fate/destiny) refers to the pre-Islamic concept of fate as an irresistible cosmological force, which aligns with the category of cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_038",
+    "poem_index": 38,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_039",
+    "poem_index": 39,
+    "meter": "سريع",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_039",
+        "verse_indices": [
+          13
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هام",
+        "notes": "The verse explicitly mentions the 'hām' (bone-bird), a pre-Islamic belief that the spirit of the deceased, especially if unavenged, would emerge from the grave as a bird crying for water."
+      },
+      {
+        "poem_id": "al-khansāʾ_039",
+        "verse_indices": [
+          20
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "البيت",
+        "notes": "The verse contains an oath sworn by 'al-Bayt' (the Kaaba), a central pre-Islamic sanctuary, and describes its visitors performing pilgrimage rituals towards the Jamārāt."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_040",
+    "poem_index": 40,
+    "meter": "تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_040",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (time/fate) is invoked as an impersonal cosmological force responsible for calamities, a common pre-Islamic concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_041",
+    "poem_index": 41,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_041",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وتر",
+        "notes": "This verse describes the deceased's fulfillment of the vengeance obligation (وتر), which was a quasi-ritual duty in pre-Islamic society tied to honor and the memory of the dead."
+      },
+      {
+        "poem_id": "al-khansāʾ_041",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term \"المنايا\" (fates/deaths) refers to an irresistible cosmological force, a common concept in pre-Islamic Arabian belief regarding destiny and the end of life."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_042",
+    "poem_index": 42,
+    "meter": "بسيط تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_043",
+    "poem_index": 43,
+    "meter": "بسيط تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_043",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ريب الزمان / الزمان",
+        "notes": "This verse refers to 'Time' (الزمان) and its 'vicissitudes' (ريب الزمان) as a destructive, inescapable force, which aligns with the pre-Islamic cosmological concept of Dahr."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_044",
+    "poem_index": 44,
+    "meter": "بسيط تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_046",
+    "poem_index": 46,
+    "meter": "متقارب تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_046",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (Dahr) is used here, personified as a force inflicting harm, which aligns with the pre-Islamic Arabian cosmological concept of Dahr as an impersonal, often destructive, force of fate or time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_047",
+    "poem_index": 47,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_047",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-Manāyā' (fates/deaths) is used here as a personified cosmological force that brings about death, a common pre-Islamic concept of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_048",
+    "poem_index": 48,
+    "meter": "وافر تام",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_048",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "The verse explicitly mentions 'jinn' as supernatural beings, indicating a belief in their existence and their capacity to experience loss."
+      },
+      {
+        "poem_id": "al-khansāʾ_048",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صروف الدهر",
+        "notes": "The phrase 'صروف الدهر' refers to the forces of time or fate, which were often personified as a powerful, indifferent cosmological agent in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "al-khansāʾ_048",
+        "verse_indices": [
+          9
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "يوم نحس",
+        "notes": "The phrase 'يوم نحس' refers to an inauspicious day, reflecting a belief in days having inherent qualities that can bring misfortune, which is related to omens and divination."
+      },
+      {
+        "poem_id": "al-khansāʾ_048",
+        "verse_indices": [
+          12
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "The phrase 'والله' is an explicit oath formula, common in pre-Islamic Arabian speech, invoking a deity."
+      },
+      {
+        "poem_id": "al-khansāʾ_048",
+        "verse_indices": [
+          12
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رمسي",
+        "notes": "The mention of 'رمسي' (my grave) and its splitting open refers to the physical aspect of burial and the state of the deceased, fitting into mortuary beliefs."
+      },
+      {
+        "poem_id": "al-khansāʾ_048",
+        "verse_indices": [
+          14
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الضريح",
+        "notes": "The mention of 'الضريح' (the tomb) directly refers to the burial place, which is a key element of mortuary practices and beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_049",
+    "poem_index": 49,
+    "meter": "مجزوء الكامل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_049",
+        "verse_indices": [
+          9
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رمس",
+        "notes": "The term 'رمس' (ramasa) explicitly refers to the act of burial, which is a core mortuary practice in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_050",
+    "poem_index": 50,
+    "meter": "بسيط تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_050",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزمان",
+        "notes": "The verse personifies 'الزمان' (time) as an active, destructive force that causes loss, aligning with the pre-Islamic concept of 'dahr' as a cosmological agent of fate and destruction."
+      },
+      {
+        "poem_id": "al-khansāʾ_050",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هام",
+        "notes": "The term 'هام' (hām) refers to the pre-Islamic belief in the bone-bird or owl that emerges from the skull of the deceased, particularly the unavenged, signifying a specific mortuary belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_051",
+    "poem_index": 51,
+    "meter": "كامل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_052",
+    "poem_index": 52,
+    "meter": "وافر تام",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_052",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase \"ريب الدهر\" refers to the destructive and unpredictable nature of time or fate, a central cosmological concept in pre-Islamic Arabian fatalism."
+      },
+      {
+        "poem_id": "al-khansāʾ_052",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase \"براها الدهر\" personifies \"dahr\" (time/fate) as an active agent that causes suffering, reflecting the pre-Islamic cosmological concept of dahr as a powerful, often destructive force."
+      },
+      {
+        "poem_id": "al-khansāʾ_052",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "التبل",
+        "notes": "The mention of \"التبل\" (blood-money or revenge) being sought reflects the pre-Islamic tribal obligation of vengeance (tha'r), which was a quasi-ritual duty to honor the deceased and restore tribal balance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_053",
+    "poem_index": 53,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_054",
+    "poem_index": 54,
+    "meter": "متقارب تام",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_055",
+    "poem_index": 55,
+    "meter": "تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_056",
+    "poem_index": 56,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_056",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "لا تبعدن",
+        "notes": "This phrase is a common formulaic expression in pre-Islamic elegies, functioning as a wish or prayer for the deceased, implying a concern for their fate or memory after death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_057",
+    "poem_index": 57,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_057",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse personifies 'al-Dahr' (Time/Fate) as an irresistible force that brings death, reflecting a pre-Islamic cosmological concept where Dahr is an active agent."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_058",
+    "poem_index": 58,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_059",
+    "poem_index": 59,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_060",
+    "poem_index": 60,
+    "meter": "خفيف تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_060",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The term \"المنون\" (al-manūn) refers to fate or death as an impersonal, irresistible cosmological force, a common concept in pre-Islamic Arabian thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_061",
+    "poem_index": 61,
+    "meter": "بسيط تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_061",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies 'الدهر' (Time/Fate) as an active, destructive force, which is a key concept in pre-Islamic Arabian cosmology."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_062",
+    "poem_index": 62,
+    "meter": "-",
+    "verse_count": 17,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_063",
+    "poem_index": 63,
+    "meter": "وافر تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_063",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وابيك",
+        "notes": "This verse contains an oath by the father ('wa-abīka'), a common pre-Islamic oath formula invoking a sacred entity (the father's honor or spirit)."
+      },
+      {
+        "poem_id": "al-khansāʾ_063",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الرأس الحليق",
+        "notes": "The phrase 'al-raʾs al-ḥalīq' (shaved head) refers to a known pre-Islamic mourning ritual, indicating a specific mortuary practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_064",
+    "poem_index": 64,
+    "meter": "بسيط تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_064",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نادبة",
+        "notes": "The term 'نادبة' refers to a lamenting woman, and lamentation was a significant ritualistic component of pre-Islamic mourning practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_065",
+    "poem_index": 65,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_066",
+    "poem_index": 66,
+    "meter": "وافر تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_066",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "بحر الشمس لا يبغين ظلا",
+        "notes": "This verse describes a pre-Islamic mourning practice where women would expose themselves to the sun as a sign of extreme grief, indicating a specific mortuary ritual."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_067",
+    "poem_index": 67,
+    "meter": "وافر تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_068",
+    "poem_index": 68,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_068",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) is used here to describe an active, relentless force bringing suffering and death, aligning with pre-Islamic cosmological understandings of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_069",
+    "poem_index": 69,
+    "meter": "سريع",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_069",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دعوى الآليل",
+        "notes": "The phrase 'دعوى الآليل' refers to a specific ritualistic cry or lamentation, typically by women in distress or mourning, fitting the category of mourning rites or lamentation."
+      },
+      {
+        "poem_id": "al-khansāʾ_069",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The poet personifies 'الدهر' (time/fate) as an agent that causes grief and curses it ('فبؤسا له'), reflecting the pre-Islamic belief in dahr as a malevolent cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_070",
+    "poem_index": 70,
+    "meter": "سريع",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_071",
+    "poem_index": 71,
+    "meter": "مجزوء الكامل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_072",
+    "poem_index": 72,
+    "meter": "متقارب تام",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_073",
+    "poem_index": 73,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_073",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نساء معولات",
+        "notes": "The phrase 'wailing women' explicitly refers to the pre-Islamic practice of lamentation and mourning rites for the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_074",
+    "poem_index": 74,
+    "meter": "متقارب تام",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_074",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر أبيك",
+        "notes": "This phrase is a common pre-Islamic oath formula, swearing by the life of one's father, which was considered a sacred entity."
+      },
+      {
+        "poem_id": "al-khansāʾ_074",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منايا",
+        "notes": "The term 'منايا' (fates/deaths) refers to the pre-ordained and inescapable nature of death, a significant cosmological concept in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "al-khansāʾ_074",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The term 'المنية' (death/fate) here refers to death as an inevitable and powerful force, aligning with pre-Islamic cosmological views on destiny."
+      },
+      {
+        "poem_id": "al-khansāʾ_074",
+        "verse_indices": [
+          23
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The personification of 'المنية' (death/fate) as dragging its tails in battle reinforces its role as an active, inescapable cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_075",
+    "poem_index": 75,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_076",
+    "poem_index": 76,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_077",
+    "poem_index": 77,
+    "meter": "بسيط تام",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_077",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" (Dahr) is used in a way that suggests its pre-Islamic conceptualization as a powerful, impersonal force of fate to which all humans are subject."
+      },
+      {
+        "poem_id": "al-khansāʾ_077",
+        "verse_indices": [
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رمس, جدث, ضريح",
+        "notes": "The verse explicitly describes the deceased in a \"grave\" (رمس, جدث, ضريح), referring to pre-Islamic burial practices and the physical state after death."
+      },
+      {
+        "poem_id": "al-khansāʾ_077",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "تالله",
+        "notes": "The phrase \"تالله\" is an explicit oath formula invoking \"Allāh,\" a common practice in pre-Islamic Arabian oaths."
+      },
+      {
+        "poem_id": "al-khansāʾ_077",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الأجداث",
+        "notes": "The term \"الأجداث\" (graves) explicitly refers to the place of the deceased, aligning with pre-Islamic mortuary beliefs and practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_078",
+    "poem_index": 78,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_079",
+    "poem_index": 79,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_080",
+    "poem_index": 80,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_081",
+    "poem_index": 81,
+    "meter": "متقارب تام",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_082",
+    "poem_index": 82,
+    "meter": "مجزوء الكامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_083",
+    "poem_index": 83,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_084",
+    "poem_index": 84,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_085",
+    "poem_index": 85,
+    "meter": "بسيط تام",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_085",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The personification of 'dahr' (time/fate) as an entity capable of possessing 'inherited wealth' aligns with pre-Islamic cosmological beliefs where dahr was often seen as a powerful, sometimes destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_086",
+    "poem_index": 86,
+    "meter": "بسيط تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_087",
+    "poem_index": 87,
+    "meter": "وافر تام",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_087",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "حلفت برب صهب معيلات إلى البيت المحرم",
+        "notes": "This verse contains an oath sworn by the Lord of the Sacred House, a pre-Islamic sacred entity, and references camels associated with pilgrimage."
+      },
+      {
+        "poem_id": "al-khansāʾ_087",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صداها",
+        "notes": "The term 'صداها' refers to the pre-Islamic belief of the ṣadā, a bird-like entity believed to emerge from the skull of the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_088",
+    "poem_index": 88,
+    "meter": "-",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_089",
+    "poem_index": 89,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_089",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "النائحات",
+        "notes": "The verse explicitly mentions 'al-nāʾiḥāt' (wailing women), which refers to a specific pre-Islamic mourning rite."
+      },
+      {
+        "poem_id": "al-khansāʾ_089",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'al-dahr' (Time/Fate) is used here as an impersonal cosmological force, a common pre-Islamic concept of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_090",
+    "poem_index": 90,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_090",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse attributes the annihilation of her kin to 'al-dahr' (time/fate), reflecting the pre-Islamic cosmological concept of dahr as an impersonal, destructive force."
+      },
+      {
+        "poem_id": "al-khansāʾ_090",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "The explicit oath 'wa-llāhi' (by Allah) is a common pre-Islamic oath formula invoking a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_091",
+    "poem_index": 91,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-khansāʾ_092",
+    "poem_index": 92,
+    "meter": "سريع",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_092",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" (Dahr) refers to Time or Fate, a significant pre-Islamic cosmological force often seen as destructive or indifferent, fitting the category of cosmological concepts."
+      }
+    ],
+    "error": false
+  }
+]
