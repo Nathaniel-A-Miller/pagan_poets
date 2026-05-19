@@ -77,7 +77,7 @@ export default function ReferenceExplorer({ pooledData }) {
         <input
           type="text"
           className="search-input"
-          placeholder="Search poets, keywords, entities, or verses..."
+          placeholder="Search poets, keywords, entities, or verses"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
         />
