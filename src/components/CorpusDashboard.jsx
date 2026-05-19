@@ -41,12 +41,6 @@ export default function CorpusDashboard({ poetIndex }) {
           <div className="stat-label">Poets</div>
         </div>
 
-        {/* Total lines */}
-        <div className="stat-card stat-card--hero">
-          <div className="stat-value">{stats.totalLines.toLocaleString()}</div>
-          <div className="stat-label">Lines of Verse</div>
-        </div>
-
         {/* By region */}
         <div className="stat-card stat-card--breakdown">
           <div className="stat-card-heading">By Region</div>
@@ -83,6 +77,12 @@ export default function CorpusDashboard({ poetIndex }) {
               </div>
             ))}
           </div>
+        </div>
+
+                {/* Total lines */}
+        <div className="stat-card stat-card--hero">
+          <div className="stat-value">{stats.totalLines.toLocaleString()}</div>
+          <div className="stat-label">Lines of Verse</div>
         </div>
 
       </div>
