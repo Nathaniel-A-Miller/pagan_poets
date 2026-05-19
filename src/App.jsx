@@ -30,13 +30,13 @@ export default function App() {
       .catch(() => setError('Could not load base index configurations.'))
   }, [])
 
-  // 2. Sync Global Search: Update selections automatically on input changes
+  // 2. Sync Global Search: Update selections automatically ONLY when typing a query
   useEffect(() => {
     const query = searchQuery.trim().toLowerCase()
     
-    // Clear selections to restore Dashboard if query is blank
+    // If the search bar is completely empty, do not force a selection reset.
+    // This allows manual sidebar checking and bulk selection to persist.
     if (!query) {
-      setSelectedSlugs([])
       return
     }
 
