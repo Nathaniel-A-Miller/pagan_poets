@@ -27,20 +27,9 @@ export default function ReferenceExplorer({ pooledData, searchQuery }) {
     return refs.sort((a, b) => a.category.localeCompare(b.category))
   }, [pooledData])
 
-  const counts = useMemo(() => {
-    const c = {}
-    allRefs.forEach(r => {
-      c[r.category] = (c[r.category] || 0) + 1
-    })
-    return c
-  }, [allRefs])
-
-  // Enhanced filtering logic to handle search query matches
-  const filtered = useMemo(() => {
+  // 1. First, calculate what matches the search query text across all categories
+  const searchFilteredRefs = useMemo(() => {
     return allRefs.filter(r => {
-      const matchesCategory = activeCategories.has(r.category)
-      if (!matchesCategory) return false
-
       if (!searchQuery.trim()) return true
       const query = searchQuery.toLowerCase().trim()
 
@@ -54,7 +43,21 @@ export default function ReferenceExplorer({ pooledData, searchQuery }) {
 
       return matchPoetEn || matchPoetAr || matchEntity || matchNotes || matchVerses
     })
-  }, [allRefs, activeCategories, searchQuery])
+  }, [allRefs, searchQuery])
+
+  // 2. Dynamic Counts: Base badge numbers strictly on text-matching items
+  const counts = useMemo(() => {
+    const c = {}
+    searchFilteredRefs.forEach(r => {
+      c[r.category] = (c[r.category] || 0) + 1
+    })
+    return c
+  }, [searchFilteredRefs])
+
+  // 3. Final Render List: Apply category button selections to the search matches
+  const filtered = useMemo(() => {
+    return searchFilteredRefs.filter(r => activeCategories.has(r.category))
+  }, [searchFilteredRefs, activeCategories])
 
   const toggleCategory = (id) => {
     setActiveCategories(prev => {
@@ -98,6 +101,12 @@ if (!pooledData || pooledData.length === 0) {
             <span className="filter-count">{counts[cat.id] || 0}</span>
           </button>
         ))}
+      </div>
+
+      {/* Dynamic Summary Bar */}
+      <div className="search-summary" style={{ padding: '0.5rem 0', fontSize: '0.9rem', color: 'var(--stone)', borderBottom: '1px solid var(--ash)', marginBottom: '1rem' }} dir="ltr">
+        Showing {filtered.length} {filtered.length === 1 ? 'reference' : 'references'} 
+        {searchQuery.trim() && ` matching "${searchQuery}"`}
       </div>
 
       <div className="ref-list">
