@@ -309,6 +309,8 @@
   font-size: 1.05rem;
   color: var(--ink);
   line-height: 1.8;
+  white-space: normal;
+  word-break: break-word;
 }
 
 .ref-poem-meta {
