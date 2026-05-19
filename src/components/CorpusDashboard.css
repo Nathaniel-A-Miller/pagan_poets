@@ -29,7 +29,8 @@
 
 .dashboard-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  /* Change from 1fr 1fr to a responsive auto-fit */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1rem;
   width: 100%;
   max-width: 700px;
@@ -90,13 +91,16 @@
   display: flex;
   align-items: center;
   gap: 0.6rem;
+  width: 100%; /* Force row to stay bounded */
 }
 
 .breakdown-name {
   font-size: 0.8rem;
   color: var(--ink-light);
-  width: 9rem;
-  flex-shrink: 0;
+  /* Replace rigid width: 9rem; with a flexible basis */
+  width: 100%;
+  max-width: 8rem; 
+  flex-shrink: 1; /* Allow it to shrink if the screen is tiny */
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
