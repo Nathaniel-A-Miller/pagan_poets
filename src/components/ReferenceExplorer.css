@@ -171,6 +171,7 @@
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  padding: 0 1rem;
 }
 
 .ref-card {
@@ -242,6 +243,24 @@
 .ref-entity {
   font-size: 1rem;
   color: var(--ink);
+  display: flex;
+  flex-direction: row; /* Forces left-to-right element layout */
+  align-items: center;
+  gap: 0.35rem;
+}
+
+/* Ensure the label has its colon and stays on the left */
+.entity-label {
+  direction: ltr;
+}
+
+.entity-label::after {
+  content: ":";
+}
+
+/* Ensure the Arabic text renders correctly inside its span */
+.entity-text {
+  direction: rtl;
 }
 
 .ref-verse-preview {
