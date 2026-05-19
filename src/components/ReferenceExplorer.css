@@ -167,7 +167,7 @@
 }
 
 /* Reference cards */
-.references-list {
+.ref-list {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -243,13 +243,14 @@
 .ref-entity {
   font-size: 1rem;
   color: var(--ink);
-  display: flex;
-  flex-direction: row; /* Forces left-to-right element layout */
+  display: inline-flex;
+  flex-direction: row; 
   align-items: center;
   gap: 0.35rem;
+  direction: ltr; /* Forces the entity block to read left-to-right */
 }
 
-/* Ensure the label has its colon and stays on the left */
+/* Ensure the label text itself reads left-to-right */
 .entity-label {
   direction: ltr;
 }
@@ -258,9 +259,10 @@
   content: ":";
 }
 
-/* Ensure the Arabic text renders correctly inside its span */
+/* Retain right-to-left for the Arabic word inside the entity badge */
 .entity-text {
   direction: rtl;
+  display: inline-block;
 }
 
 .ref-verse-preview {
