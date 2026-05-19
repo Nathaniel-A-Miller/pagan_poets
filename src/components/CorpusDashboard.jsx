@@ -22,7 +22,7 @@ export default function CorpusDashboard({ poetIndex }) {
 
   const PERIOD_LABELS = {
     'pre-Islamic': 'Pre-Islamic',
-    'mukhadramun': 'Mukhadramūn',
+    'mukhadramun': 'Mukhaḍramūn',
     'uncertain': 'Uncertain',
   }
 
