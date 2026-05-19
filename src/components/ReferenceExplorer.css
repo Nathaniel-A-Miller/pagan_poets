@@ -387,6 +387,25 @@
   padding-right: 0.4rem;
 }
 
+.search-summary {
+  padding: 0.5rem 0;
+  font-size: 0.9rem;
+  color: var(--stone);
+  border-bottom: 1px solid var(--ash);
+  margin-bottom: 1rem;
+}
+
+.ref-poet-name {
+  font-size: 0.8rem;
+  color: var(--stone);
+  font-weight: 700;
+  margin-left: 0.5rem;
+}
+
+.ref-note-emph {
+  font-style: normal;
+}
+
 /* Search controls */
 .search-container {
   position: relative;

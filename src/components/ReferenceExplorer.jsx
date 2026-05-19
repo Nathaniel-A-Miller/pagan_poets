@@ -35,11 +35,11 @@ export default function ReferenceExplorer({ pooledData, searchQuery }) {
 
       const matchPoetEn = r.poet.name_en?.toLowerCase().includes(query)
       const matchPoetAr = r.poet.name_ar?.includes(query)
-      const matchEntity = r.entity_or_term?.toLowerCase().includes(query) || r.entity_or_term?.includes(query)
+      const matchEntity = r.entity_or_term?.toLowerCase().includes(query)
       const matchNotes = r.notes?.toLowerCase().includes(query)
 
       const flaggedVerses = r.poem?.verses?.filter(v => r.verse_indices.includes(v.verse_index)) || []
-      const matchVerses = flaggedVerses.some(v => v.text.includes(query))
+      const matchVerses = flaggedVerses.some(v => v.text.toLowerCase().includes(query))
 
       return matchPoetEn || matchPoetAr || matchEntity || matchNotes || matchVerses
     })
@@ -72,17 +72,6 @@ export default function ReferenceExplorer({ pooledData, searchQuery }) {
     return <div className="explorer-empty" dir="ltr">Please select a poet from the menu.</div>
   }
 
-if (!pooledData || pooledData.length === 0) {
-    return (
-      <div 
-        className="explorer-empty" 
-        style={{ direction: 'ltr', unicodeBidi: 'bidi-override', textAlign: 'center', padding: '4rem 2rem' }}
-      >
-        Please select a poet from the menu.
-      </div>
-    )
-  }
-
   return (
     <div className="explorer">
       <div className="filters">
@@ -104,8 +93,8 @@ if (!pooledData || pooledData.length === 0) {
       </div>
 
       {/* Dynamic Summary Bar */}
-      <div className="search-summary" style={{ padding: '0.5rem 0', fontSize: '0.9rem', color: 'var(--stone)', borderBottom: '1px solid var(--ash)', marginBottom: '1rem' }} dir="ltr">
-        Showing {filtered.length} {filtered.length === 1 ? 'reference' : 'references'} 
+      <div className="search-summary" dir="ltr">
+        Showing {filtered.length} {filtered.length === 1 ? 'reference' : 'references'}
         {searchQuery.trim() && ` matching "${searchQuery}"`}
       </div>
 
@@ -124,7 +113,7 @@ if (!pooledData || pooledData.length === 0) {
                     <span className="ref-category" style={{ backgroundColor: categoryColor(ref.category) }}>
                       {categoryLabel(ref.category)}
                     </span>
-                    <span style={{ fontSize: '0.8rem', color: 'var(--stone)', fontWeight: 'bold', marginLeft: '0.5rem' }}>
+                    <span className="ref-poet-name">
                       — {ref.poet.name_en}
                     </span>
                   </div>
@@ -150,7 +139,7 @@ if (!pooledData || pooledData.length === 0) {
                     <div className="ref-notes">
                       {ref.notes.split(/(\*[^*]+\*)/g).map((part, i) => {
                         if (part.startsWith('*') && part.endsWith('*')) {
-                          return <span key={i} style={{ fontStyle: 'normal' }}>{part.slice(1, -1)}</span>;
+                          return <span key={i} className="ref-note-emph">{part.slice(1, -1)}</span>;
                         }
                         return part;
                       })}
