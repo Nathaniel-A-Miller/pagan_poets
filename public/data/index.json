@@ -108,5 +108,16 @@
     "number_of_lines": 57,
     "source": "data/khirniqbadr/source.json",
     "analysis": "data/khirniqbadr/analysis.json"
+  },
+  {
+    "slug": "amr_ibn_qamia",
+    "name_en": "ʿAmr b. Qamīʾah",
+    "name_ar": "عمرو بن قميئة",
+    "tribe": "Qays ibn Thaʿlabah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 232,
+    "source": "data/amrqamia/source.json",
+    "analysis": "data/amrqamia/analysis.json"
   }
 ]
