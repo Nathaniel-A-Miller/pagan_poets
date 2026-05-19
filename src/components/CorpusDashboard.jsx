@@ -43,7 +43,7 @@ export default function CorpusDashboard({ poetIndex }) {
 
         {/* By region */}
         <div className="stat-card stat-card--breakdown">
-          <div className="stat-card-heading">By Region</div>
+          <div className="stat-card-heading">Poets Region</div>
           <div className="breakdown-list">
             {regionEntries.map(([region, count]) => (
               <div key={region} className="breakdown-row">
@@ -62,7 +62,7 @@ export default function CorpusDashboard({ poetIndex }) {
 
         {/* By period */}
         <div className="stat-card stat-card--breakdown">
-          <div className="stat-card-heading">By Period</div>
+          <div className="stat-card-heading">Poets by Period</div>
           <div className="breakdown-list">
             {periodEntries.map(([period, count]) => (
               <div key={period} className="breakdown-row">
