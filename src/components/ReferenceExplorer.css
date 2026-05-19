@@ -445,3 +445,8 @@
   color: var(--stone-light);
   font-style: italic;
 }
+
+.explorer-empty, .no-results {
+  direction: ltr !important;
+  text-align: center !important;
+}
