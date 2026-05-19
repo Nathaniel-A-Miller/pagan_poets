@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import Header from './components/Header.jsx'
 import PoetSelector from './components/PoetSelector.jsx'
 import ReferenceExplorer from './components/ReferenceExplorer.jsx'
@@ -9,19 +9,46 @@ const BASE = import.meta.env.BASE_URL
 
 export default function App() {
   const [poetIndex, setPoetIndex] = useState([])
+  const [searchIndex, setSearchIndex] = useState({}) // Holds our key-to-slug map
+  const [searchQuery, setSearchQuery] = useState('')
   const [selectedSlugs, setSelectedSlugs] = useState([])
   const [pooledData, setPooledData] = useState([])
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
 
+  // 1. Initial Launch Load: Fetch both standard index and search index maps
   useEffect(() => {
-    fetch(`${BASE}data/index.json`)
-      .then(r => r.json())
-      .then(setPoetIndex)
-      .catch(() => setError('Could not load poet index.'))
+    Promise.all([
+      fetch(`${BASE}data/index.json`).then(r => r.json()),
+      fetch(`${BASE}data/search-index.json`).then(r => r.json()).catch(() => ({}))
+    ])
+      .then(([indexData, searchData]) => {
+        setPoetIndex(indexData)
+        setSearchIndex(searchData)
+      })
+      .catch(() => setError('Could not load base index configurations.'))
   }, [])
 
+  // 2. React to Search Input: Check the index and update selected slugs automatically
+  useEffect(() => {
+    const query = searchQuery.trim().toLowerCase()
+    if (!query) return
+
+    // Find all poet slugs that contain this text sequence anywhere in our search index keys
+    const matchedSlugs = new Set()
+    Object.keys(searchIndex).forEach(keyword => {
+      if (keyword.includes(query)) {
+        searchIndex[keyword].forEach(slug => matchedSlugs.add(slug))
+      }
+    })
+
+    if (matchedSlugs.size > 0) {
+      setSelectedSlugs(Array.from(matchedSlugs))
+    }
+  }, [searchQuery, searchIndex])
+
+  // 3. Dynamic Lazy Data Loader: Safely fetches full data files only for active slugs
   useEffect(() => {
     if (selectedSlugs.length === 0) {
       setPooledData([])
@@ -46,7 +73,7 @@ export default function App() {
 
     Promise.all(fetchPromises)
       .then(setPooledData)
-      .catch(() => setError('Could not load poet data.'))
+      .catch(() => setError('Could not load selected poet profiles.'))
       .finally(() => setLoading(false))
   }, [selectedSlugs, poetIndex])
 
@@ -54,6 +81,12 @@ export default function App() {
     setSelectedSlugs(prev =>
       prev.includes(slug) ? prev.filter(s => s !== slug) : [...prev, slug]
     )
+  }
+
+  // Clear search and selections cleanly
+  const handleClearSearch = () => {
+    setSearchQuery('')
+    setSelectedSlugs([])
   }
 
   return (
@@ -75,13 +108,31 @@ export default function App() {
           onClose={() => setIsSidebarOpen(false)}
         />
 
+        {/* Global Search Bar - rendered cleanly directly on the dashboard/landing page container */}
+        <div className="main-search-wrapper" style={{ padding: '1rem 2rem 0 2rem', maxWidth: '800px', margin: '0 auto' }}>
+          <div className="search-container" style={{ position: 'relative' }}>
+            <input
+              type="text"
+              className="search-input"
+              placeholder="Search poets, keywords, entities, or verses across the corpus..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+            {searchQuery && (
+              <button className="search-clear-btn" onClick={handleClearSearch}>×</button>
+            )}
+          </div>
+        </div>
+
         {loading && <div className="status">Loading data...</div>}
         {error && <div className="status error">{error}</div>}
 
-        {pooledData.length > 0 && !loading && (
+        {/* Display Filtered Reference list cards if layout state matches search criteria */}
+        {selectedSlugs.length > 0 && !loading && (
           <ReferenceExplorer pooledData={pooledData} />
         )}
 
+        {/* Default Landing State dashboard view */}
         {selectedSlugs.length === 0 && !loading && poetIndex.length > 0 && (
           <CorpusDashboard poetIndex={poetIndex} />
         )}

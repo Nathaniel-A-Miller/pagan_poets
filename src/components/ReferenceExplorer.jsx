@@ -70,22 +70,19 @@ export default function ReferenceExplorer({ pooledData }) {
     return <div className="explorer-empty" dir="ltr">Please select a poet from the menu.</div>
   }
 
+if (!pooledData || pooledData.length === 0) {
+    return (
+      <div 
+        className="explorer-empty" 
+        style={{ direction: 'ltr', unicodeBidi: 'bidi-override', textAlign: 'center', padding: '4rem 2rem' }}
+      >
+        Please select a poet from the menu.
+      </div>
+    )
+  }
+
   return (
     <div className="explorer">
-      {/* Search Input UI */}
-      <div className="search-container">
-        <input
-          type="text"
-          className="search-input"
-          placeholder="Search all fields in Arabic or English"
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-        />
-        {searchQuery && (
-          <button className="search-clear-btn" onClick={() => setSearchQuery('')}>×</button>
-        )}
-      </div>
-
       <div className="filters">
         {CATEGORIES.map(cat => (
           <button
