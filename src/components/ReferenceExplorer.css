@@ -186,18 +186,26 @@
 
 .ref-card-main {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column; /* Stack vertically on mobile */
+  gap: 1rem;
   padding: 0.75rem 1rem;
   cursor: pointer;
-  gap: 1rem;
+}
+
+/* Switch back to a row layout on wider screens */
+@media (min-width: 600px) {
+  .ref-card-main {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
 
 .ref-left {
   display: flex;
-  align-items: flex-start;
+  flex-direction: column;
   gap: 0.75rem;
-  flex: 1;
+  width: 100%; /* Take up full width on mobile */
   min-width: 0;
 }
 
@@ -239,9 +247,10 @@
 .ref-verse-preview {
   font-size: 0.95rem;
   color: var(--ink-light);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  /* Remove white-space: nowrap; */
+  /* Remove overflow: hidden; */
+  /* Remove text-overflow: ellipsis; */
+  white-space: normal; /* Allows wrapping */
   direction: rtl;
   line-height: 1.6;
 }
