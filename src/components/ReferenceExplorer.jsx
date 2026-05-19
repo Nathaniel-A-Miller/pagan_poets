@@ -2,10 +2,10 @@ import { useState, useMemo } from 'react'
 import { CATEGORIES, categoryColor, categoryLabel } from './categories.js'
 import './ReferenceExplorer.css'
 
-// Now takes pooledData: an array of { poet, poems, analysis } objects
 export default function ReferenceExplorer({ pooledData }) {
   const [activeCategories, setActiveCategories] = useState(new Set(CATEGORIES.map(c => c.id)))
   const [expandedRef, setExpandedRef] = useState(null)
+  const [searchQuery, setSearchQuery] = useState('') // New search state
 
   // Flatten all references from all selected poets into one pooled array
   const allRefs = useMemo(() => {
@@ -20,12 +20,11 @@ export default function ReferenceExplorer({ pooledData }) {
         if (result.error) return
         const poem = poemLookup[result.poem_id]
         result.references.forEach(ref => {
-          refs.push({ ...ref, poem, poet }) // Attach the specific poet to each reference
+          refs.push({ ...ref, poem, poet })
         })
       })
     })
 
-    // Sort by category so same-category items group together naturally
     return refs.sort((a, b) => a.category.localeCompare(b.category))
   }, [pooledData])
 
@@ -37,10 +36,26 @@ export default function ReferenceExplorer({ pooledData }) {
     return c
   }, [allRefs])
 
-  const filtered = useMemo(() =>
-    allRefs.filter(r => activeCategories.has(r.category)),
-    [allRefs, activeCategories]
-  )
+  // Enhanced filtering logic to handle search query matches
+  const filtered = useMemo(() => {
+    return allRefs.filter(r => {
+      const matchesCategory = activeCategories.has(r.category)
+      if (!matchesCategory) return false
+
+      if (!searchQuery.trim()) return true
+      const query = searchQuery.toLowerCase().trim()
+
+      const matchPoetEn = r.poet.name_en?.toLowerCase().includes(query)
+      const matchPoetAr = r.poet.name_ar?.includes(query)
+      const matchEntity = r.entity_or_term?.toLowerCase().includes(query) || r.entity_or_term?.includes(query)
+      const matchNotes = r.notes?.toLowerCase().includes(query)
+
+      const flaggedVerses = r.poem?.verses?.filter(v => r.verse_indices.includes(v.verse_index)) || []
+      const matchVerses = flaggedVerses.some(v => v.text.includes(query))
+
+      return matchPoetEn || matchPoetAr || matchEntity || matchNotes || matchVerses
+    })
+  }, [allRefs, activeCategories, searchQuery])
 
   const toggleCategory = (id) => {
     setActiveCategories(prev => {
@@ -57,6 +72,20 @@ export default function ReferenceExplorer({ pooledData }) {
 
   return (
     <div className="explorer">
+      {/* Search Input UI */}
+      <div className="search-container">
+        <input
+          type="text"
+          className="search-input"
+          placeholder="Search poets, keywords, entities, or verses..."
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+        />
+        {searchQuery && (
+          <button className="search-clear-btn" onClick={() => setSearchQuery('')}>×</button>
+        )}
+      </div>
+
       <div className="filters">
         {CATEGORIES.map(cat => (
           <button
@@ -148,6 +177,9 @@ export default function ReferenceExplorer({ pooledData }) {
             </div>
           )
         })}
+        {filtered.length === 0 && (
+          <div className="no-results">No references match your search term.</div>
+        )}
       </div>
     </div>
   )
