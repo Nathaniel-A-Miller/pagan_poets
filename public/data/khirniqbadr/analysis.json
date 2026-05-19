@@ -1,0 +1,157 @@
+[
+  {
+    "poem_id": "الخرنق_بنت_بدر_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_002",
+    "poem_index": 2,
+    "meter": "وافر تام",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "الخرنق_بنت_بدر_002",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'المنايا' (al-manāyā) refers to fates or deaths as an impersonal, powerful cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_003",
+    "poem_index": 3,
+    "meter": "كامل تام",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "الخرنق_بنت_بدر_003",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "العتير / العتر",
+        "notes": "This verse explicitly mentions 'العتير' (al-ʿatīr), a pre-Islamic sacrifice, and 'للعتر' (li-l-ʿatr), the act of sacrificing, indicating a specific ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_004",
+    "poem_index": 4,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "الخرنق_بنت_بدر_004",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الكتاب",
+        "notes": "The phrase 'بيوم كان حينا في الكتاب' refers to a pre-ordained destiny or fate, a common cosmological concept in pre-Islamic Arabian thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_005",
+    "poem_index": 5,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_007",
+    "poem_index": 7,
+    "meter": "سريع",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_008",
+    "poem_index": 8,
+    "meter": "وافر تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_009",
+    "poem_index": 9,
+    "meter": "-",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "الخرنق_بنت_بدر_009",
+        "verse_indices": [
+          3,
+          4
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القطا",
+        "notes": "The girl points out the unusual, restless behavior of the qatā bird at night to her father, implying it is an omen of the approaching army, which is a form of augury (ṭīra)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_010",
+    "poem_index": 10,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "الخرنق_بنت_بدر_012",
+    "poem_index": 12,
+    "meter": "هزج",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "الخرنق_بنت_بدر_012",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "العزا",
+        "notes": "This verse explicitly names al-ʿUzzā, a major pre-Islamic goddess, indicating a reference to a pre-Islamic deity."
+      }
+    ],
+    "error": false
+  }
+]

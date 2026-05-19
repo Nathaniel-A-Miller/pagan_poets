@@ -65,7 +65,7 @@
     "source": "data/nabighahdhubyani/source.json",
     "analysis": "data/nabighahdhubyani/analysis.json"
   },
-    {
+  {
     "slug": "saida_ibn_juayya",
     "name_en": "Sāʿidah b. Juʾayyah",
     "name_ar": "ساعدة بن جؤية",
@@ -76,7 +76,7 @@
     "source": "data/saidajuayya/source.json",
     "analysis": "data/saidajuayya/analysis.json"
   },
-    {
+  {
     "slug": "abu_dhuayb",
     "name_en": "Abū Dhuʾayb al-Hudhalī",
     "name_ar": "أبو ذؤيب الهذلي",
@@ -87,7 +87,7 @@
     "source": "data/abudhuayb/source.json",
     "analysis": "data/abudhuayb/analysis.json"
   },
-    {
+  {
     "slug": "khansaa",
     "name_en": "Al-Khansāʾ",
     "name_ar": "الخنساء",
@@ -97,5 +97,16 @@
     "number_of_lines": 848,
     "source": "data/khansaa/source.json",
     "analysis": "data/khansaa/analysis.json"
-    }
+  },
+  {
+    "slug": "khirniq_bint_badr",
+    "name_en": "Al-Khirniq bt. Badr",
+    "name_ar": "الخرنق بنت بدر",
+    "tribe": "Qays ibn Thaʿlabah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 57,
+    "source": "data/khirniqbadr/source.json",
+    "analysis": "data/khirniqbadr/analysis.json"
+  }
 ]
