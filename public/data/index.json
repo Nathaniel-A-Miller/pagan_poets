@@ -82,7 +82,7 @@
     "name_ar": "أبو ذؤيب الهذلي",
     "tribe": "Hudhayl",
     "region": "Hijaz",
-    "chronological_layer": "mukhadramun",
+    "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 601,
     "source": "data/abudhuayb/source.json",
     "analysis": "data/abudhuayb/analysis.json"
@@ -93,7 +93,7 @@
     "name_ar": "الخنساء",
     "tribe": "Sulaym",
     "region": "Hijaz",
-    "chronological_layer": "mukhadramun",
+    "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 848,
     "source": "data/khansaa/source.json",
     "analysis": "data/khansaa/analysis.json"

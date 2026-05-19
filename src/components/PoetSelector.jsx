@@ -89,7 +89,7 @@ export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, 
             )
           })}
           {filteredAndSortedPoets.length === 0 && (
-            <div className="sidebar-empty">No poets match selected criteria.</div>
+            <div className="sidebar-empty">No poets match selected criteria</div>
           )}
         </div>
       </div>
