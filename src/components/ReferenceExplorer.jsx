@@ -67,7 +67,7 @@ export default function ReferenceExplorer({ pooledData }) {
   }
 
   if (!pooledData || pooledData.length === 0) {
-    return <div className="explorer-empty">Please select a poet from the menu.</div>
+    return <div className="explorer-empty" dir="ltr">Please select a poet from the menu.</div>
   }
 
   return (
@@ -178,7 +178,7 @@ export default function ReferenceExplorer({ pooledData }) {
           )
         })}
         {filtered.length === 0 && (
-          <div className="no-results">No references match your search term.</div>
+          <div className="no-results" dir="ltr">No references match your search term.</div>
         )}
       </div>
     </div>
