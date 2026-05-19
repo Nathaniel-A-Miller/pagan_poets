@@ -10,7 +10,7 @@ export default function Header({ isMenuOpen, onToggleMenu }) {
       
       <div className="header-center">
         <h1 className="header-title">Paganism in Early Arabic Poetry</h1>
-        <p className="header-subtitle">A Digital Philology Workspace</p>
+        <p className="header-subtitle">Dr. Nathaniel Miller</p>
       </div>
       
       {/* This empty layout box keeps the center title perfectly centered */}
