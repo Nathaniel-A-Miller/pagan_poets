@@ -21,7 +21,7 @@ export default function App() {
   useEffect(() => {
     Promise.all([
       fetch(`${BASE}data/index.json`).then(r => r.json()),
-      fetch(`${BASE}search-index.json`).then(r => r.json()).catch(() => ({}))
+      fetch(`${BASE}data/search-index.json`).then(r => r.json()).catch(() => ({}))
     ])
       .then(([indexData, searchData]) => {
         setPoetIndex(indexData)
