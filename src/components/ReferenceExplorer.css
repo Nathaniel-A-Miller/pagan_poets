@@ -428,3 +428,20 @@
 .search-clear-btn:hover {
   color: var(--rust);
 }
+
+.explorer-empty {
+  direction: ltr;
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--stone-light);
+  font-style: italic;
+}
+
+/* Also ensure the 'No results' state behaves cleanly if it encounters punctuation */
+.no-results {
+  direction: ltr;
+  text-align: center;
+  padding: 3rem;
+  color: var(--stone-light);
+  font-style: italic;
+}
