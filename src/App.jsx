@@ -115,7 +115,7 @@ export default function App() {
             <input
               type="text"
               className="search-input"
-              placeholder="Search poets, keywords, entities, or verses across the corpus..."
+              placeholder="Search in Arabic or English"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
             />
