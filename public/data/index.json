@@ -17,6 +17,7 @@
     "tribe": "Aws",
     "region": "Hijaz",
     "chronological_layer": "pre-Islamic",
+    "number_of_lines": 311,
     "source": "data/qayskhatim/source.json",
     "analysis": "data/qayskhatim/analysis.json"
   },
@@ -27,6 +28,7 @@
     "tribe": "Tamīm",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
+    "number_of_lines": 517,
     "source": "data/awshajar/source.json",
     "analysis": "data/awshajar/analysis.json"
   },
@@ -37,6 +39,7 @@
     "tribe": "Tamīm",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
+    "number_of_lines": 206,
     "source": "data/alqamahfahl/source.json",
     "analysis": "data/alqamahfahl/analysis.json"
   },
@@ -47,6 +50,7 @@
     "tribe": "Taghlib",
     "region": "Iraq / Euphrates Zone",
     "chronological_layer": "pre-Islamic",
+    "number_of_lines": 346,
     "source": "data/muhalhilrabia/source.json",
     "analysis": "data/muhalhilrabia/analysis.json"
   },
@@ -57,6 +61,7 @@
     "tribe": "Dhubyān",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
+    "number_of_lines": 674,
     "source": "data/nabighahdhubyani/source.json",
     "analysis": "data/nabighahdhubyani/analysis.json"
   },
@@ -67,6 +72,7 @@
     "tribe": "Hudhayl",
     "region": "Hijaz",
     "chronological_layer": "pre-Islamic",
+    "number_of_lines": 270,
     "source": "data/saidajuayya/source.json",
     "analysis": "data/saidajuayya/analysis.json"
   },
@@ -77,6 +83,7 @@
     "tribe": "Hudhayl",
     "region": "Hijaz",
     "chronological_layer": "mukhadramun",
+    "number_of_lines": 601,
     "source": "data/abudhuayb/source.json",
     "analysis": "data/abudhuayb/analysis.json"
   },
@@ -87,6 +94,7 @@
     "tribe": "Sulaym",
     "region": "Hijaz",
     "chronological_layer": "mukhadramun",
+    "number_of_lines": 848,
     "source": "data/khansaa/source.json",
     "analysis": "data/khansaa/analysis.json"
     }
