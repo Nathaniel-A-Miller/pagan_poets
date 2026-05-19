@@ -2,10 +2,9 @@ import { useState, useMemo } from 'react'
 import { CATEGORIES, categoryColor, categoryLabel } from './categories.js'
 import './ReferenceExplorer.css'
 
-export default function ReferenceExplorer({ pooledData }) {
+export default function ReferenceExplorer({ pooledData, searchQuery }) {
   const [activeCategories, setActiveCategories] = useState(new Set(CATEGORIES.map(c => c.id)))
   const [expandedRef, setExpandedRef] = useState(null)
-  const [searchQuery, setSearchQuery] = useState('') // New search state
 
   // Flatten all references from all selected poets into one pooled array
   const allRefs = useMemo(() => {
