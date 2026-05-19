@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react'
-import { CATEGORIES, categoryColor, categoryLabel } from './categories.js'
+import { CATEGORIES, categoryColor, categoryLabel } from './components/categories.js'
 import './ReferenceExplorer.css'
 
 // 1. Accept searchQuery as a prop from App.jsx
