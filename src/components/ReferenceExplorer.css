@@ -2,6 +2,9 @@
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  width: 100%;
+  box-sizing: border-box; /* Forces padding to stay within screen boundaries */
+  padding: 0 1rem;       /* Creates the side padding on the tiles across all devices */
 }
 
 /* Poet header */
@@ -171,7 +174,6 @@
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  padding: 0 1rem;
 }
 
 .ref-card {
