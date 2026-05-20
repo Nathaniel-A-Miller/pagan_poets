@@ -47,7 +47,8 @@
     "saida_ibn_juayya",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "abī": [
     "zuhayr_ibn_abi_sulma"
@@ -81,7 +82,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "term": [
     "zuhayr_ibn_abi_sulma",
@@ -95,7 +97,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "maram": [
     "zuhayr_ibn_abi_sulma"
@@ -113,7 +116,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "sacred": [
     "zuhayr_ibn_abi_sulma",
@@ -126,13 +130,15 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "inviolable": [
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "precinct": [
     "zuhayr_ibn_abi_sulma",
@@ -151,7 +157,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "preislamic": [
     "zuhayr_ibn_abi_sulma",
@@ -166,7 +173,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "concept": [
     "zuhayr_ibn_abi_sulma",
@@ -180,7 +188,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "geography": [
     "zuhayr_ibn_abi_sulma",
@@ -190,7 +199,8 @@
     "alnabighah_aldhubyani",
     "abu_dhuayb",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "where": [
     "zuhayr_ibn_abi_sulma",
@@ -221,7 +231,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "forbidden": [
     "zuhayr_ibn_abi_sulma",
@@ -251,14 +262,16 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طاف": [
     "zuhayr_ibn_abi_sulma"
   ],
   "حوله": [
     "zuhayr_ibn_abi_sulma",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "البيت الذي طاف حوله": [
     "zuhayr_ibn_abi_sulma"
@@ -288,7 +301,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "house": [
     "zuhayr_ibn_abi_sulma",
@@ -313,7 +327,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "kaaba": [
     "zuhayr_ibn_abi_sulma",
@@ -336,7 +351,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "explicitly": [
     "zuhayr_ibn_abi_sulma",
@@ -351,7 +367,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "mentions": [
     "zuhayr_ibn_abi_sulma",
@@ -380,7 +397,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "circumambulation": [
     "zuhayr_ibn_abi_sulma"
@@ -389,7 +407,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "anchoring": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "entity": [
     "zuhayr_ibn_abi_sulma",
@@ -401,7 +420,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "practice": [
     "zuhayr_ibn_abi_sulma",
@@ -416,7 +436,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الله": [
     "zuhayr_ibn_abi_sulma",
@@ -427,7 +448,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "verse": [
     "zuhayr_ibn_abi_sulma",
@@ -442,7 +464,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "allah": [
     "zuhayr_ibn_abi_sulma",
@@ -478,7 +501,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "knows": [
     "zuhayr_ibn_abi_sulma"
@@ -509,7 +533,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "early": [
     "zuhayr_ibn_abi_sulma"
@@ -530,7 +555,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "supreme": [
     "zuhayr_ibn_abi_sulma",
@@ -538,7 +564,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "divine": [
     "zuhayr_ibn_abi_sulma",
@@ -546,7 +573,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "being": [
     "zuhayr_ibn_abi_sulma",
@@ -557,7 +585,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يوم": [
     "zuhayr_ibn_abi_sulma",
@@ -569,7 +598,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الحساب": [
     "zuhayr_ibn_abi_sulma"
@@ -590,7 +620,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "day": [
     "zuhayr_ibn_abi_sulma",
@@ -603,7 +634,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "judgment": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "accountability": [
     "zuhayr_ibn_abi_sulma"
@@ -619,7 +651,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "deeds": [
     "zuhayr_ibn_abi_sulma"
@@ -637,7 +670,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "while": [
     "zuhayr_ibn_abi_sulma"
@@ -671,7 +705,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "thought": [
     "zuhayr_ibn_abi_sulma",
@@ -681,7 +716,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "منايا": [
     "zuhayr_ibn_abi_sulma",
@@ -707,7 +743,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "describe": [
     "zuhayr_ibn_abi_sulma",
@@ -726,7 +763,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "inevitable": [
     "zuhayr_ibn_abi_sulma",
@@ -753,7 +791,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "common": [
     "zuhayr_ibn_abi_sulma",
@@ -768,7 +807,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "cosmological": [
     "zuhayr_ibn_abi_sulma",
@@ -783,7 +823,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المنايا": [
     "zuhayr_ibn_abi_sulma",
@@ -812,7 +853,8 @@
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "understanding": [
     "zuhayr_ibn_abi_sulma",
@@ -823,7 +865,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "fate": [
     "zuhayr_ibn_abi_sulma",
@@ -837,7 +880,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "emphasize": [
     "zuhayr_ibn_abi_sulma",
@@ -854,7 +898,8 @@
   ],
   "through": [
     "zuhayr_ibn_abi_sulma",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "extreme": [
     "zuhayr_ibn_abi_sulma",
@@ -879,7 +924,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "describes": [
     "zuhayr_ibn_abi_sulma",
@@ -910,7 +956,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "right": [
     "zuhayr_ibn_abi_sulma",
@@ -955,7 +1002,8 @@
     "abu_dhuayb",
     "khansaa",
     "khirniq_bint_badr",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "augury": [
     "zuhayr_ibn_abi_sulma",
@@ -966,7 +1014,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يمين": [
     "zuhayr_ibn_abi_sulma",
@@ -1008,7 +1057,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "significance": [
     "zuhayr_ibn_abi_sulma",
@@ -1032,7 +1082,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "abu_dhuayb",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "society": [
     "zuhayr_ibn_abi_sulma",
@@ -1067,7 +1118,8 @@
     "alnabighah_aldhubyani",
     "abu_dhuayb",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "emphasizing": [
     "zuhayr_ibn_abi_sulma",
@@ -1080,7 +1132,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "establishing": [
     "zuhayr_ibn_abi_sulma"
@@ -1101,7 +1154,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "law": [
     "zuhayr_ibn_abi_sulma",
@@ -1120,7 +1174,8 @@
     "muhalhil_ibn_rabia",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "often": [
     "zuhayr_ibn_abi_sulma",
@@ -1134,13 +1189,15 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "involving": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ritualistic": [
     "zuhayr_ibn_abi_sulma",
@@ -1149,7 +1206,8 @@
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "elements": [
     "zuhayr_ibn_abi_sulma",
@@ -1161,7 +1219,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "blood": [
     "zuhayr_ibn_abi_sulma",
@@ -1225,7 +1284,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "with": [
     "zuhayr_ibn_abi_sulma",
@@ -1239,11 +1299,13 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "sanctuaries": [
     "zuhayr_ibn_abi_sulma",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تالله": [
     "zuhayr_ibn_abi_sulma",
@@ -1261,7 +1323,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "god": [
     "zuhayr_ibn_abi_sulma",
@@ -1273,7 +1336,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "invoking": [
     "zuhayr_ibn_abi_sulma",
@@ -1299,7 +1363,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "dahr": [
     "zuhayr_ibn_abi_sulma",
@@ -1312,7 +1377,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "here": [
     "zuhayr_ibn_abi_sulma",
@@ -1322,7 +1388,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "denote": [
     "zuhayr_ibn_abi_sulma",
@@ -1336,7 +1403,8 @@
     "alnabighah_aldhubyani",
     "abu_dhuayb",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "powerful": [
     "zuhayr_ibn_abi_sulma",
@@ -1350,7 +1418,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "destructive": [
     "zuhayr_ibn_abi_sulma",
@@ -1360,7 +1429,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "key": [
     "zuhayr_ibn_abi_sulma",
@@ -1372,7 +1442,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "القدر": [
     "zuhayr_ibn_abi_sulma",
@@ -1392,7 +1463,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ملعن": [
     "zuhayr_ibn_abi_sulma",
@@ -1452,7 +1525,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "منى": [
     "zuhayr_ibn_abi_sulma",
@@ -1479,7 +1554,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "site": [
     "zuhayr_ibn_abi_sulma",
@@ -1499,7 +1575,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "rituals": [
     "zuhayr_ibn_abi_sulma",
@@ -1560,7 +1637,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لعمر الله": [
     "zuhayr_ibn_abi_sulma"
@@ -1576,7 +1654,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الفؤولا": [
     "zuhayr_ibn_abi_sulma"
@@ -1596,7 +1675,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "taking": [
     "zuhayr_ibn_abi_sulma",
@@ -1645,11 +1725,13 @@
   "أبيك": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لعمر أبيك": [
     "zuhayr_ibn_abi_sulma",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "contains": [
     "zuhayr_ibn_abi_sulma",
@@ -1663,7 +1745,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "life": [
     "zuhayr_ibn_abi_sulma",
@@ -1673,14 +1756,16 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "father": [
     "zuhayr_ibn_abi_sulma",
     "muhalhil_ibn_rabia",
     "khansaa",
     "khirniq_bint_badr",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "that": [
     "zuhayr_ibn_abi_sulma",
@@ -1692,10 +1777,12 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "period": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نعقر": [
     "zuhayr_ibn_abi_sulma"
@@ -1754,7 +1841,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "meat": [
     "zuhayr_ibn_abi_sulma",
@@ -1802,7 +1890,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "abu_dhuayb",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "supernatural": [
     "zuhayr_ibn_abi_sulma",
@@ -1815,7 +1904,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "folklore": [
     "zuhayr_ibn_abi_sulma",
@@ -1850,7 +1940,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بأسعد": [
     "zuhayr_ibn_abi_sulma"
@@ -1964,7 +2055,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "description": [
     "zuhayr_ibn_abi_sulma",
@@ -1974,7 +2066,8 @@
   "spaces": [
     "zuhayr_ibn_abi_sulma",
     "saida_ibn_juayya",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "practices": [
     "zuhayr_ibn_abi_sulma",
@@ -1985,7 +2078,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "aldahr": [
     "zuhayr_ibn_abi_sulma",
@@ -1996,7 +2090,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "timefate": [
     "zuhayr_ibn_abi_sulma",
@@ -2009,7 +2104,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "enduring": [
     "zuhayr_ibn_abi_sulma",
@@ -2021,7 +2117,8 @@
   "consistent": [
     "zuhayr_ibn_abi_sulma",
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "conceptualization": [
     "zuhayr_ibn_abi_sulma",
@@ -2041,7 +2138,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "agent": [
     "zuhayr_ibn_abi_sulma",
@@ -2052,7 +2150,8 @@
     "saida_ibn_juayya",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "can": [
     "zuhayr_ibn_abi_sulma",
@@ -2078,7 +2177,8 @@
   ],
   "months": [
     "zuhayr_ibn_abi_sulma",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الأشهر": [
     "zuhayr_ibn_abi_sulma"
@@ -2150,7 +2250,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تكلم": [
     "zuhayr_ibn_abi_sulma",
@@ -2181,7 +2282,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالرقمتين": [
     "zuhayr_ibn_abi_sulma"
@@ -2193,7 +2295,9 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مراجع": [
     "zuhayr_ibn_abi_sulma"
@@ -2209,7 +2313,9 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "في": [
     "zuhayr_ibn_abi_sulma",
@@ -2224,7 +2330,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نواشر": [
     "zuhayr_ibn_abi_sulma"
@@ -2243,7 +2351,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العين": [
     "zuhayr_ibn_abi_sulma",
@@ -2253,7 +2362,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والأرآم": [
     "zuhayr_ibn_abi_sulma"
@@ -2285,7 +2395,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مجثم": [
     "zuhayr_ibn_abi_sulma"
@@ -2307,7 +2418,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عشرين": [
     "zuhayr_ibn_abi_sulma"
@@ -2376,7 +2489,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قلت": [
     "zuhayr_ibn_abi_sulma",
@@ -2386,7 +2500,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لربعها": [
     "zuhayr_ibn_abi_sulma"
@@ -2398,7 +2513,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "ألا": [
     "zuhayr_ibn_abi_sulma",
@@ -2411,7 +2527,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "انعم": [
     "zuhayr_ibn_abi_sulma"
@@ -2424,7 +2541,8 @@
   ],
   "أيها": [
     "zuhayr_ibn_abi_sulma",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الربع": [
     "zuhayr_ibn_abi_sulma"
@@ -2452,7 +2570,9 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ترء": [
     "zuhayr_ibn_abi_sulma"
@@ -2599,7 +2719,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وحزنه": [
     "zuhayr_ibn_abi_sulma"
@@ -2635,7 +2757,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جزعنه": [
     "zuhayr_ibn_abi_sulma"
@@ -2652,7 +2775,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قيني": [
     "zuhayr_ibn_abi_sulma"
@@ -2730,14 +2855,17 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حب": [
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "alqamah_alfahl",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "الفنا": [
     "zuhayr_ibn_abi_sulma"
@@ -2758,7 +2886,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "زرقا": [
     "zuhayr_ibn_abi_sulma",
@@ -2862,7 +2991,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بعيدين": [
     "zuhayr_ibn_abi_sulma"
@@ -2880,7 +3010,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عقوق": [
     "zuhayr_ibn_abi_sulma",
@@ -2901,7 +3032,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قلتما": [
     "zuhayr_ibn_abi_sulma"
@@ -2917,7 +3050,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ندرك": [
     "zuhayr_ibn_abi_sulma"
@@ -2950,7 +3085,8 @@
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يجري": [
     "zuhayr_ibn_abi_sulma",
@@ -3005,7 +3141,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يستبح": [
     "zuhayr_ibn_abi_sulma"
@@ -3068,7 +3205,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بمجرم": [
     "zuhayr_ibn_abi_sulma"
@@ -3083,7 +3221,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لقوم": [
     "zuhayr_ibn_abi_sulma",
@@ -3103,7 +3243,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يهريقوا": [
     "zuhayr_ibn_abi_sulma"
@@ -3112,7 +3253,8 @@
     "zuhayr_ibn_abi_sulma",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ملء": [
     "zuhayr_ibn_abi_sulma",
@@ -3128,7 +3270,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مبلغ": [
     "zuhayr_ibn_abi_sulma",
@@ -3201,7 +3344,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نفوسكم": [
     "zuhayr_ibn_abi_sulma"
@@ -3234,7 +3379,8 @@
   ],
   "ليوم": [
     "zuhayr_ibn_abi_sulma",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أو": [
     "zuhayr_ibn_abi_sulma",
@@ -3246,7 +3392,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يعجل": [
     "zuhayr_ibn_abi_sulma",
@@ -3267,7 +3414,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الحرب": [
     "zuhayr_ibn_abi_sulma",
@@ -3288,11 +3436,14 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "علمتم": [
     "zuhayr_ibn_abi_sulma",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وذقتم": [
     "zuhayr_ibn_abi_sulma"
@@ -3355,7 +3506,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ضريتموها": [
     "zuhayr_ibn_abi_sulma"
@@ -3399,7 +3552,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غلمان": [
     "zuhayr_ibn_abi_sulma"
@@ -3410,7 +3564,8 @@
   "كلهم": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كأحمر": [
     "zuhayr_ibn_abi_sulma"
@@ -3444,7 +3599,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تغل": [
     "zuhayr_ibn_abi_sulma"
@@ -3486,13 +3643,15 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جر": [
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عليهم": [
     "zuhayr_ibn_abi_sulma",
@@ -3504,7 +3663,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بما": [
     "zuhayr_ibn_abi_sulma",
@@ -3533,7 +3693,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ضمضم": [
     "zuhayr_ibn_abi_sulma",
@@ -3548,7 +3709,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "طوى": [
     "zuhayr_ibn_abi_sulma",
@@ -3608,7 +3770,9 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يفزع": [
     "zuhayr_ibn_abi_sulma"
@@ -3664,7 +3828,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شاكي": [
     "zuhayr_ibn_abi_sulma"
@@ -3685,7 +3850,9 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لبد": [
     "zuhayr_ibn_abi_sulma",
@@ -3746,7 +3913,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كلأ": [
     "zuhayr_ibn_abi_sulma"
@@ -3812,7 +3981,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نهيك": [
     "zuhayr_ibn_abi_sulma",
@@ -3838,7 +4008,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شاركت": [
     "zuhayr_ibn_abi_sulma"
@@ -3873,7 +4044,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المخزم": [
     "zuhayr_ibn_abi_sulma"
@@ -3902,7 +4074,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طالعات": [
     "zuhayr_ibn_abi_sulma"
@@ -3933,11 +4106,13 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أمرهم": [
     "zuhayr_ibn_abi_sulma",
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طرفت": [
     "zuhayr_ibn_abi_sulma",
@@ -3966,7 +4141,8 @@
   ],
   "الجاني": [
     "zuhayr_ibn_abi_sulma",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "ibn_al-muḍallil"
   ],
   "بمسلم": [
     "zuhayr_ibn_abi_sulma"
@@ -4026,7 +4202,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "خبط": [
     "zuhayr_ibn_abi_sulma"
@@ -4062,7 +4239,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والأمس": [
     "zuhayr_ibn_abi_sulma"
@@ -4081,7 +4259,8 @@
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غد": [
     "zuhayr_ibn_abi_sulma",
@@ -4138,7 +4317,9 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فضل": [
     "zuhayr_ibn_abi_sulma",
@@ -4172,7 +4353,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ويذمم": [
     "zuhayr_ibn_abi_sulma"
@@ -4194,7 +4376,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عرضه": [
     "zuhayr_ibn_abi_sulma"
@@ -4246,7 +4429,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "يرق": [
     "zuhayr_ibn_abi_sulma"
@@ -4257,7 +4441,8 @@
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بسلم": [
     "zuhayr_ibn_abi_sulma"
@@ -4363,7 +4548,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "امرىء": [
     "zuhayr_ibn_abi_sulma",
@@ -4388,7 +4574,8 @@
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الخليط": [
     "zuhayr_ibn_abi_sulma",
@@ -4428,7 +4615,8 @@
   "أسماء": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "علقا": [
     "zuhayr_ibn_abi_sulma"
@@ -4467,7 +4655,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غلقا": [
     "zuhayr_ibn_abi_sulma"
@@ -4520,7 +4710,8 @@
     "alnabighah_aldhubyani",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ضال": [
     "zuhayr_ibn_abi_sulma"
@@ -4545,7 +4736,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يشتاق": [
     "zuhayr_ibn_abi_sulma"
@@ -4570,7 +4762,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تراعي": [
     "zuhayr_ibn_abi_sulma",
@@ -4616,7 +4809,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يعد": [
     "zuhayr_ibn_abi_sulma",
@@ -4654,7 +4848,8 @@
   "الجواد": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فإن": [
     "zuhayr_ibn_abi_sulma",
@@ -4666,7 +4861,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يلحق": [
     "zuhayr_ibn_abi_sulma"
@@ -4682,7 +4878,9 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لينة": [
     "zuhayr_ibn_abi_sulma"
@@ -4711,7 +4909,9 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هبطت": [
     "zuhayr_ibn_abi_sulma",
@@ -4734,7 +4934,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "راكس": [
     "zuhayr_ibn_abi_sulma",
@@ -4764,7 +4965,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الحداة": [
     "zuhayr_ibn_abi_sulma",
@@ -4973,7 +5175,8 @@
   ],
   "ف": [
     "zuhayr_ibn_abi_sulma",
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مثله": [
     "zuhayr_ibn_abi_sulma",
@@ -4989,7 +5192,8 @@
   "الحوادث": [
     "zuhayr_ibn_abi_sulma",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غادى": [
     "zuhayr_ibn_abi_sulma"
@@ -5052,7 +5256,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قيس": [
     "zuhayr_ibn_abi_sulma",
@@ -5061,7 +5267,8 @@
     "muhalhil_ibn_rabia",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كلها": [
     "zuhayr_ibn_abi_sulma",
@@ -5085,7 +5292,8 @@
   "وذاك": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أحزمهم": [
     "zuhayr_ibn_abi_sulma"
@@ -5104,7 +5312,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "البطاء": [
     "zuhayr_ibn_abi_sulma"
@@ -5116,7 +5325,8 @@
   ],
   "بذلك": [
     "zuhayr_ibn_abi_sulma",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ممنونا": [
     "zuhayr_ibn_abi_sulma"
@@ -5137,7 +5347,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "khirniq_bint_badr",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هرم": [
     "zuhayr_ibn_abi_sulma",
@@ -5183,7 +5394,8 @@
   ],
   "فآبت": [
     "zuhayr_ibn_abi_sulma",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ضمرا": [
     "zuhayr_ibn_abi_sulma",
@@ -5275,7 +5487,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مهل": [
     "zuhayr_ibn_abi_sulma"
@@ -5290,7 +5503,8 @@
     "muhalhil_ibn_rabia"
   ],
   "سبقا": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "ibn_al-muḍallil"
   ],
   "أغر": [
     "zuhayr_ibn_abi_sulma",
@@ -5346,7 +5560,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "علاته": [
     "zuhayr_ibn_abi_sulma"
@@ -5374,7 +5589,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والندى": [
     "zuhayr_ibn_abi_sulma",
@@ -5407,7 +5623,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قربى": [
     "zuhayr_ibn_abi_sulma",
@@ -5507,7 +5724,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يعيا": [
     "zuhayr_ibn_abi_sulma",
@@ -5523,7 +5741,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "الندي": [
     "zuhayr_ibn_abi_sulma",
@@ -5543,7 +5762,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نال": [
     "zuhayr_ibn_abi_sulma"
@@ -5556,7 +5776,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الدنيا": [
     "zuhayr_ibn_abi_sulma",
@@ -5589,7 +5810,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فاطمة": [
     "zuhayr_ibn_abi_sulma"
@@ -5646,7 +5868,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "خنس": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "النعاج": [
     "zuhayr_ibn_abi_sulma",
@@ -5682,7 +5905,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "العماء": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أوابد": [
     "zuhayr_ibn_abi_sulma"
@@ -5716,7 +5940,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ليلى": [
     "zuhayr_ibn_abi_sulma",
@@ -5729,7 +5954,8 @@
   ],
   "بيني": [
     "zuhayr_ibn_abi_sulma",
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وبينهم": [
     "zuhayr_ibn_abi_sulma"
@@ -5743,7 +5969,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "أجيزي": [
     "zuhayr_ibn_abi_sulma"
@@ -5767,7 +5994,8 @@
     "alqamah_alfahl",
     "khansaa",
     "khirniq_bint_badr",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أهله": [
     "zuhayr_ibn_abi_sulma",
@@ -5777,7 +6005,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فبانوا": [
     "zuhayr_ibn_abi_sulma"
@@ -5785,7 +6014,8 @@
   "آثار": [
     "zuhayr_ibn_abi_sulma",
     "alqamah_alfahl",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ذهب": [
     "zuhayr_ibn_abi_sulma",
@@ -5795,7 +6025,8 @@
     "antarah_ibn_shaddad"
   ],
   "العفاء": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لقد": [
     "zuhayr_ibn_abi_sulma",
@@ -5819,7 +6050,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طالت": [
     "zuhayr_ibn_abi_sulma",
@@ -5865,7 +6097,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فأما": [
     "zuhayr_ibn_abi_sulma",
@@ -5884,7 +6117,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "الخلاء": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وأما": [
     "zuhayr_ibn_abi_sulma",
@@ -5928,7 +6162,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "صرمته": [
     "zuhayr_ibn_abi_sulma"
@@ -6018,7 +6253,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عقيقته": [
     "zuhayr_ibn_abi_sulma"
@@ -6052,7 +6288,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فج": [
     "zuhayr_ibn_abi_sulma",
@@ -6096,7 +6333,8 @@
   ],
   "الأماعز": [
     "zuhayr_ibn_abi_sulma",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "فهي": [
     "zuhayr_ibn_abi_sulma",
@@ -6111,7 +6349,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "ibn_al-muḍallil"
   ],
   "هوي": [
     "zuhayr_ibn_abi_sulma",
@@ -6153,7 +6392,8 @@
   ],
   "مالا": [
     "zuhayr_ibn_abi_sulma",
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لوعث": [
     "zuhayr_ibn_abi_sulma"
@@ -6202,7 +6442,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "خرم": [
     "zuhayr_ibn_abi_sulma"
@@ -6217,7 +6458,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "الدلاء": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يفضله": [
     "zuhayr_ibn_abi_sulma"
@@ -6253,7 +6495,8 @@
   "دعاء": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فآض": [
     "zuhayr_ibn_abi_sulma"
@@ -6265,7 +6508,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "رجل": [
     "zuhayr_ibn_abi_sulma",
@@ -6334,7 +6578,9 @@
   "كرام": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نشاوى": [
     "zuhayr_ibn_abi_sulma"
@@ -6356,7 +6602,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "راح": [
     "zuhayr_ibn_abi_sulma",
@@ -6399,7 +6646,8 @@
   "دماء": [
     "zuhayr_ibn_abi_sulma",
     "muhalhil_ibn_rabia",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يجرون": [
     "zuhayr_ibn_abi_sulma"
@@ -6471,7 +6719,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "محصنة": [
     "zuhayr_ibn_abi_sulma"
@@ -6496,7 +6745,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مصاد": [
     "zuhayr_ibn_abi_sulma",
@@ -6504,7 +6754,8 @@
   ],
   "إليكم": [
     "zuhayr_ibn_abi_sulma",
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "إننا": [
     "zuhayr_ibn_abi_sulma",
@@ -6517,7 +6768,8 @@
   "وإما": [
     "zuhayr_ibn_abi_sulma",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يقولوا": [
     "zuhayr_ibn_abi_sulma"
@@ -6544,7 +6796,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "وفينا": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بذمتنا": [
     "zuhayr_ibn_abi_sulma"
@@ -6569,7 +6822,8 @@
   "ثلاث": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نفار": [
     "zuhayr_ibn_abi_sulma"
@@ -6589,7 +6843,8 @@
     "khansaa"
   ],
   "كلهن": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شفاء": [
     "zuhayr_ibn_abi_sulma",
@@ -6601,7 +6856,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "منعتم": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تعطون": [
     "zuhayr_ibn_abi_sulma"
@@ -6672,7 +6928,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أجاءته": [
     "zuhayr_ibn_abi_sulma"
@@ -6712,7 +6969,8 @@
     "muhalhil_ibn_rabia",
     "khansaa",
     "khirniq_bint_badr",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نقصه": [
     "zuhayr_ibn_abi_sulma"
@@ -6720,7 +6978,8 @@
   "وله": [
     "zuhayr_ibn_abi_sulma",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "النماء": [
     "zuhayr_ibn_abi_sulma"
@@ -6756,7 +7015,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عليم": [
     "zuhayr_ibn_abi_sulma"
@@ -6784,7 +7044,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ومنكم": [
     "zuhayr_ibn_abi_sulma",
@@ -6801,7 +7062,8 @@
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سيأتي": [
     "zuhayr_ibn_abi_sulma",
@@ -6837,7 +7099,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "معشرا": [
     "zuhayr_ibn_abi_sulma",
@@ -6885,7 +7148,9 @@
   ],
   "سواء": [
     "zuhayr_ibn_abi_sulma",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أبى": [
     "zuhayr_ibn_abi_sulma",
@@ -6915,7 +7180,8 @@
   ],
   "يشفي": [
     "zuhayr_ibn_abi_sulma",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "الجرب": [
     "zuhayr_ibn_abi_sulma"
@@ -6945,7 +7211,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الكشح": [
     "zuhayr_ibn_abi_sulma",
@@ -7010,7 +7277,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عيب": [
     "zuhayr_ibn_abi_sulma",
@@ -7027,7 +7295,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "السواء": [
     "zuhayr_ibn_abi_sulma",
@@ -7041,7 +7310,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "بقاء": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ويبقى": [
     "zuhayr_ibn_abi_sulma",
@@ -7070,14 +7340,16 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الديار": [
     "zuhayr_ibn_abi_sulma",
     "muhalhil_ibn_rabia",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بقنة": [
     "zuhayr_ibn_abi_sulma"
@@ -7183,12 +7455,14 @@
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ذبيان": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عامض": [
     "zuhayr_ibn_abi_sulma"
@@ -7251,7 +7525,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "دعيت": [
     "zuhayr_ibn_abi_sulma",
@@ -7342,7 +7617,8 @@
     "abu_dhuayb",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "اللأواء": [
     "zuhayr_ibn_abi_sulma",
@@ -7374,7 +7650,8 @@
     "aws_ibn_hajar",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "برزت": [
     "zuhayr_ibn_abi_sulma",
@@ -7500,7 +7777,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تتجه": [
     "zuhayr_ibn_abi_sulma"
@@ -7515,7 +7793,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أجر": [
     "zuhayr_ibn_abi_sulma"
@@ -7525,7 +7804,8 @@
     "qays_ibn_al-khatim",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عراض": [
     "zuhayr_ibn_abi_sulma",
@@ -7571,7 +7851,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تنفك": [
     "zuhayr_ibn_abi_sulma",
@@ -7592,7 +7873,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سوى": [
     "zuhayr_ibn_abi_sulma",
@@ -7632,7 +7914,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أسلفت": [
     "zuhayr_ibn_abi_sulma"
@@ -7689,7 +7972,9 @@
     "qays_ibn_al-khatim",
     "muhalhil_ibn_rabia",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يمر": [
     "zuhayr_ibn_abi_sulma",
@@ -7706,7 +7991,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جئت": [
     "zuhayr_ibn_abi_sulma",
@@ -7882,7 +8168,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وداراتها": [
     "zuhayr_ibn_abi_sulma"
@@ -8130,7 +8417,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "إزاءها": [
     "zuhayr_ibn_abi_sulma"
@@ -8204,7 +8492,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وقائعهم": [
     "zuhayr_ibn_abi_sulma"
@@ -8271,7 +8560,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جددوا": [
     "zuhayr_ibn_abi_sulma"
@@ -8305,7 +8595,8 @@
   ],
   "مطيع": [
     "zuhayr_ibn_abi_sulma",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وآمر": [
     "zuhayr_ibn_abi_sulma"
@@ -8363,7 +8654,8 @@
   "معدا": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مشاربها": [
     "zuhayr_ibn_abi_sulma"
@@ -8413,7 +8705,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "يعلو": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "رأى": [
     "zuhayr_ibn_abi_sulma",
@@ -8428,7 +8721,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "فعلا": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بكم": [
     "zuhayr_ibn_abi_sulma",
@@ -8475,7 +8769,8 @@
   ],
   "سهل": [
     "zuhayr_ibn_abi_sulma",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "السنة": [
     "zuhayr_ibn_abi_sulma",
@@ -8516,7 +8811,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "khirniq_bint_badr",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بيوتهم": [
     "zuhayr_ibn_abi_sulma",
@@ -8568,7 +8864,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وجوهها": [
     "zuhayr_ibn_abi_sulma"
@@ -8604,7 +8901,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قام": [
     "zuhayr_ibn_abi_sulma",
@@ -8660,7 +8958,8 @@
     "antarah_ibn_shaddad"
   ],
   "سعى": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "ibn_al-muḍallil"
   ],
   "بعدهم": [
     "zuhayr_ibn_abi_sulma",
@@ -8702,7 +9001,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ينبت": [
     "zuhayr_ibn_abi_sulma",
@@ -8772,7 +9072,9 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قصد": [
     "zuhayr_ibn_abi_sulma",
@@ -8796,7 +9098,8 @@
   "إنما": [
     "zuhayr_ibn_abi_sulma",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عمنا": [
     "zuhayr_ibn_abi_sulma",
@@ -8943,7 +9246,8 @@
   "النجاء": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هواطله": [
     "zuhayr_ibn_abi_sulma"
@@ -9044,7 +9348,8 @@
   "الصيد": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مرة": [
     "zuhayr_ibn_abi_sulma",
@@ -9182,7 +9487,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جوادنا": [
     "zuhayr_ibn_abi_sulma"
@@ -9257,7 +9563,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "سدد": [
     "zuhayr_ibn_abi_sulma"
@@ -9292,7 +9599,8 @@
     "zuhayr_ibn_abi_sulma",
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قاتله": [
     "zuhayr_ibn_abi_sulma",
@@ -9388,7 +9696,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لاحق": [
     "zuhayr_ibn_abi_sulma",
@@ -9445,7 +9754,8 @@
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "muhalhil_ibn_rabia",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عشية": [
     "zuhayr_ibn_abi_sulma",
@@ -9566,7 +9876,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "مصيب": [
     "zuhayr_ibn_abi_sulma"
@@ -9638,7 +9949,8 @@
   "لديه": [
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالصريم": [
     "zuhayr_ibn_abi_sulma"
@@ -9686,7 +9998,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "مرزإ": [
     "zuhayr_ibn_abi_sulma"
@@ -9734,7 +10047,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "جئته": [
     "zuhayr_ibn_abi_sulma",
@@ -9746,7 +10060,8 @@
   "كأنك": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تعطيه": [
     "zuhayr_ibn_abi_sulma"
@@ -9765,7 +10080,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وصلته": [
     "zuhayr_ibn_abi_sulma"
@@ -9883,7 +10199,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "عالج": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالغور": [
     "zuhayr_ibn_abi_sulma"
@@ -9907,7 +10224,8 @@
   "تركوا": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وزودوك": [
     "zuhayr_ibn_abi_sulma"
@@ -10000,7 +10318,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يغشي": [
     "zuhayr_ibn_abi_sulma"
@@ -10072,7 +10392,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هيجتها": [
     "zuhayr_ibn_abi_sulma"
@@ -10208,7 +10529,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ريشها": [
     "zuhayr_ibn_abi_sulma"
@@ -10254,7 +10576,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ينجيها": [
     "zuhayr_ibn_abi_sulma"
@@ -10447,7 +10770,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الصيداء": [
     "zuhayr_ibn_abi_sulma"
@@ -10481,7 +10805,8 @@
   ],
   "قومك": [
     "zuhayr_ibn_abi_sulma",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أسبابه": [
     "zuhayr_ibn_abi_sulma"
@@ -10500,7 +10825,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حار": [
     "zuhayr_ibn_abi_sulma",
@@ -10533,7 +10859,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قبلي": [
     "zuhayr_ibn_abi_sulma",
@@ -10547,7 +10874,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أردد": [
     "zuhayr_ibn_abi_sulma"
@@ -10601,7 +10929,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فارتدوا": [
     "zuhayr_ibn_abi_sulma",
@@ -10612,7 +10941,8 @@
   ],
   "ها": [
     "zuhayr_ibn_abi_sulma",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قسما": [
     "zuhayr_ibn_abi_sulma"
@@ -10655,7 +10985,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "و": [
     "zuhayr_ibn_abi_sulma",
@@ -10665,7 +10996,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "khirniq_bint_badr",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وحالت": [
     "zuhayr_ibn_abi_sulma",
@@ -10725,7 +11057,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يأتيك": [
     "zuhayr_ibn_abi_sulma",
@@ -10740,7 +11073,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بيوتنا": [
     "zuhayr_ibn_abi_sulma",
@@ -10811,7 +11145,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "حصون": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نحل": [
     "zuhayr_ibn_abi_sulma"
@@ -10826,7 +11161,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فزعنا": [
     "zuhayr_ibn_abi_sulma"
@@ -10835,7 +11171,8 @@
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "منهن": [
     "zuhayr_ibn_abi_sulma",
@@ -10866,7 +11203,8 @@
   ],
   "جون": [
     "zuhayr_ibn_abi_sulma",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نعودها": [
     "zuhayr_ibn_abi_sulma"
@@ -10936,7 +11274,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "جعلت": [
     "zuhayr_ibn_abi_sulma",
@@ -10969,7 +11308,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "السياط": [
     "zuhayr_ibn_abi_sulma",
@@ -10982,7 +11322,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "علالتها": [
     "zuhayr_ibn_abi_sulma"
@@ -11004,7 +11345,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "انقلبنا": [
     "zuhayr_ibn_abi_sulma"
@@ -11042,7 +11384,9 @@
     "aws_ibn_hajar",
     "khansaa",
     "khirniq_bint_badr",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فرط": [
     "zuhayr_ibn_abi_sulma"
@@ -11077,7 +11421,8 @@
   "الغداة": [
     "zuhayr_ibn_abi_sulma",
     "muhalhil_ibn_rabia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الرحيل": [
     "zuhayr_ibn_abi_sulma",
@@ -11089,7 +11434,8 @@
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أعصي": [
     "zuhayr_ibn_abi_sulma"
@@ -11113,7 +11459,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وارهبيه": [
     "zuhayr_ibn_abi_sulma"
@@ -11215,7 +11562,9 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جلدا": [
     "zuhayr_ibn_abi_sulma"
@@ -11229,7 +11578,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "ح": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ليلة": [
     "zuhayr_ibn_abi_sulma",
@@ -11328,7 +11678,8 @@
     "zuhayr_ibn_abi_sulma",
     "khansaa",
     "khirniq_bint_badr",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جاواء": [
     "zuhayr_ibn_abi_sulma"
@@ -11407,7 +11758,8 @@
   "عهد": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قديم": [
     "zuhayr_ibn_abi_sulma"
@@ -11576,7 +11928,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أصفقوا": [
     "zuhayr_ibn_abi_sulma"
@@ -11605,7 +11958,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وسعد": [
     "zuhayr_ibn_abi_sulma"
@@ -11616,7 +11970,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والنصور": [
     "zuhayr_ibn_abi_sulma"
@@ -11661,7 +12016,8 @@
     "antarah_ibn_shaddad"
   ],
   "وإياكم": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نسومكم": [
     "zuhayr_ibn_abi_sulma"
@@ -11698,7 +12054,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "صوته": [
     "zuhayr_ibn_abi_sulma",
@@ -11743,7 +12100,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سنعدي": [
     "zuhayr_ibn_abi_sulma"
@@ -11817,7 +12175,8 @@
     "zuhayr_ibn_abi_sulma",
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كالحمام": [
     "zuhayr_ibn_abi_sulma"
@@ -11914,10 +12273,12 @@
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يخرج": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "السوط": [
     "zuhayr_ibn_abi_sulma",
@@ -11935,7 +12296,8 @@
   ],
   "ناجية": [
     "zuhayr_ibn_abi_sulma",
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "ibn_al-muḍallil"
   ],
   "كهمك": [
     "zuhayr_ibn_abi_sulma",
@@ -12278,7 +12640,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وثاروا": [
     "zuhayr_ibn_abi_sulma"
@@ -12414,10 +12777,12 @@
   ],
   "خاظي": [
     "zuhayr_ibn_abi_sulma",
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "ibn_al-muḍallil"
   ],
   "الطريقة": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "ibn_al-muḍallil"
   ],
   "مسند": [
     "zuhayr_ibn_abi_sulma",
@@ -12481,7 +12846,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "أتينه": [
     "zuhayr_ibn_abi_sulma"
@@ -12585,7 +12951,8 @@
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يضعونه": [
     "zuhayr_ibn_abi_sulma"
@@ -12664,7 +13031,8 @@
   "طلق": [
     "zuhayr_ibn_abi_sulma",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مبرز": [
     "zuhayr_ibn_abi_sulma"
@@ -12816,7 +13184,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كرهته": [
     "zuhayr_ibn_abi_sulma"
@@ -12830,7 +13199,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "موعد": [
     "zuhayr_ibn_abi_sulma",
@@ -12868,7 +13238,8 @@
     "qays_ibn_al-khatim",
     "alqamah_alfahl",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المري": [
     "zuhayr_ibn_abi_sulma"
@@ -12931,7 +13302,9 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يبدو": [
     "zuhayr_ibn_abi_sulma"
@@ -12944,7 +13317,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "لي": [
     "zuhayr_ibn_abi_sulma",
@@ -12957,7 +13331,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تفنى": [
     "zuhayr_ibn_abi_sulma",
@@ -13004,7 +13379,8 @@
     "alnabighah_aldhubyani"
   ],
   "بت": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هوى": [
     "zuhayr_ibn_abi_sulma",
@@ -13081,7 +13457,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لست": [
     "zuhayr_ibn_abi_sulma",
@@ -13187,7 +13564,8 @@
   "آية": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تذكرني": [
     "zuhayr_ibn_abi_sulma",
@@ -13212,12 +13590,14 @@
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "تر": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أهلك": [
     "zuhayr_ibn_abi_sulma",
@@ -13262,7 +13642,8 @@
   "الأيام": [
     "zuhayr_ibn_abi_sulma",
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وهي": [
     "zuhayr_ibn_abi_sulma",
@@ -13293,7 +13674,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أمرأ": [
     "zuhayr_ibn_abi_sulma"
@@ -13481,7 +13863,8 @@
     "zuhayr_ibn_abi_sulma",
     "qays_ibn_al-khatim",
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ينادى": [
     "zuhayr_ibn_abi_sulma",
@@ -13505,7 +13888,8 @@
   ],
   "يعدو": [
     "zuhayr_ibn_abi_sulma",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قبقاب": [
     "zuhayr_ibn_abi_sulma"
@@ -13694,7 +14078,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "أتانا": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مغلول": [
     "zuhayr_ibn_abi_sulma"
@@ -13767,7 +14152,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فرسان": [
     "zuhayr_ibn_abi_sulma",
@@ -13789,7 +14175,8 @@
   "ثابت": [
     "zuhayr_ibn_abi_sulma",
     "aws_ibn_hajar",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حلائبهم": [
     "zuhayr_ibn_abi_sulma"
@@ -13827,7 +14214,8 @@
     "zuhayr_ibn_abi_sulma",
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وأيام": [
     "zuhayr_ibn_abi_sulma"
@@ -13902,7 +14290,8 @@
   ],
   "مثلها": [
     "zuhayr_ibn_abi_sulma",
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تبتغي": [
     "zuhayr_ibn_abi_sulma",
@@ -13983,7 +14372,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نهلت": [
     "zuhayr_ibn_abi_sulma"
@@ -14051,7 +14441,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "غبطة": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وأخطأه": [
     "zuhayr_ibn_abi_sulma"
@@ -14061,7 +14452,8 @@
     "muhalhil_ibn_rabia",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العظائم": [
     "zuhayr_ibn_abi_sulma"
@@ -14076,7 +14468,8 @@
     "zuhayr_ibn_abi_sulma"
   ],
   "سلامة": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أعوام": [
     "zuhayr_ibn_abi_sulma",
@@ -14205,7 +14598,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ونلت": [
     "zuhayr_ibn_abi_sulma"
@@ -14249,7 +14643,8 @@
     "alnabighah_aldhubyani",
     "abu_dhuayb",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "category": [
     "qays_ibn_al-khatim",
@@ -14257,12 +14652,14 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "sacral": [
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "roles": [
     "qays_ibn_al-khatim",
@@ -14324,7 +14721,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "valley": [
     "qays_ibn_al-khatim",
@@ -14346,7 +14744,8 @@
   ],
   "plural": [
     "qays_ibn_al-khatim",
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "khinayn": [
     "qays_ibn_al-khatim"
@@ -14354,7 +14753,8 @@
   "diviner": [
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "priest": [
     "qays_ibn_al-khatim",
@@ -14387,7 +14787,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "khirniq_bint_badr",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حرام / أحلت": [
     "qays_ibn_al-khatim"
@@ -14413,17 +14814,20 @@
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "made": [
     "qays_ibn_al-khatim",
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "prohibition": [
     "qays_ibn_al-khatim",
     "abu_dhuayb",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "lifting": [
     "qays_ibn_al-khatim"
@@ -14448,7 +14852,8 @@
   "الحرام": [
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والله ذي المسجد الحرام": [
     "qays_ibn_al-khatim"
@@ -14515,7 +14920,8 @@
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "supernatural_beings": [
     "qays_ibn_al-khatim"
@@ -14525,7 +14931,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "impersonal": [
     "qays_ibn_al-khatim",
@@ -14537,13 +14944,15 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بنات": [
     "qays_ibn_al-khatim",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بنات الدهر": [
     "qays_ibn_al-khatim"
@@ -14559,7 +14968,8 @@
   "personification": [
     "qays_ibn_al-khatim",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "almany": [
     "qays_ibn_al-khatim",
@@ -14583,7 +14993,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "beyond": [
     "qays_ibn_al-khatim"
@@ -14592,7 +15003,8 @@
     "qays_ibn_al-khatim"
   ],
   "دهري": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "دهر": [
     "qays_ibn_al-khatim",
@@ -14610,7 +15022,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "indifferent": [
     "qays_ibn_al-khatim",
@@ -14618,7 +15031,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "governing": [
     "qays_ibn_al-khatim",
@@ -14643,7 +15057,8 @@
     "alnabighah_aldhubyani",
     "abu_dhuayb",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "mortuary": [
     "qays_ibn_al-khatim",
@@ -14697,7 +15112,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الكاهنان": [
     "qays_ibn_al-khatim"
@@ -14748,7 +15164,8 @@
     "qays_ibn_al-khatim"
   ],
   "zone": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "sanctity": [
     "qays_ibn_al-khatim"
@@ -14758,7 +15175,8 @@
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "changes": [
     "qays_ibn_al-khatim",
@@ -14791,7 +15209,8 @@
     "qays_ibn_al-khatim",
     "muhalhil_ibn_rabia",
     "saida_ibn_juayya",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "associates": [
     "qays_ibn_al-khatim"
@@ -14804,7 +15223,8 @@
   "location": [
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "al-ḥārith_b_ḥillizah"
   ],
   "algharf": [
     "qays_ibn_al-khatim"
@@ -14882,7 +15302,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حياءها": [
     "qays_ibn_al-khatim"
@@ -14971,7 +15392,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "khirniq_bint_badr",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "خداش": [
     "qays_ibn_al-khatim"
@@ -15020,7 +15442,8 @@
   ],
   "خلفها": [
     "qays_ibn_al-khatim",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وراءها": [
     "qays_ibn_al-khatim"
@@ -15223,7 +15646,9 @@
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المخزيات": [
     "qays_ibn_al-khatim"
@@ -15233,7 +15658,8 @@
   ],
   "أنى": [
     "qays_ibn_al-khatim",
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سربت": [
     "qays_ibn_al-khatim"
@@ -15252,7 +15678,8 @@
   "قريب": [
     "qays_ibn_al-khatim",
     "alqamah_alfahl",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تمنعي": [
     "qays_ibn_al-khatim"
@@ -15315,7 +15742,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طلوعها": [
     "qays_ibn_al-khatim",
@@ -15372,7 +15800,8 @@
   ],
   "حائر": [
     "qays_ibn_al-khatim",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يعبوب": [
     "qays_ibn_al-khatim"
@@ -15567,7 +15996,9 @@
   "القطا": [
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المصابيح": [
     "qays_ibn_al-khatim",
@@ -15609,7 +16040,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تنفح": [
     "qays_ibn_al-khatim"
@@ -15641,7 +16073,8 @@
   ],
   "ع": [
     "qays_ibn_al-khatim",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كيف": [
     "qays_ibn_al-khatim",
@@ -15678,7 +16111,8 @@
     "qays_ibn_al-khatim"
   ],
   "مرانها": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "ibn_al-muḍallil"
   ],
   "استقل": [
     "qays_ibn_al-khatim",
@@ -15696,7 +16130,8 @@
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أعوانها": [
     "qays_ibn_al-khatim"
@@ -15782,7 +16217,8 @@
   ],
   "ت": [
     "qays_ibn_al-khatim",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "راس": [
     "qays_ibn_al-khatim",
@@ -15831,7 +16267,8 @@
     "qays_ibn_al-khatim"
   ],
   "أثمانها": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "ibn_al-muḍallil"
   ],
   "الأوس": [
     "qays_ibn_al-khatim",
@@ -15873,7 +16310,8 @@
     "qays_ibn_al-khatim"
   ],
   "المذاهب": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لعمرة": [
     "qays_ibn_al-khatim"
@@ -15921,7 +16359,8 @@
     "ʿurwah_b_al-ward"
   ],
   "الركائب": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تبدت": [
     "qays_ibn_al-khatim"
@@ -15958,7 +16397,8 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ذوائب": [
     "qays_ibn_al-khatim",
@@ -15973,7 +16413,8 @@
   ],
   "دعوت": [
     "qays_ibn_al-khatim",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عوف": [
     "qays_ibn_al-khatim",
@@ -16041,7 +16482,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فأهلا": [
     "qays_ibn_al-khatim"
@@ -16148,11 +16590,13 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المصاعب": [
     "qays_ibn_al-khatim",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مدوا": [
     "qays_ibn_al-khatim",
@@ -16182,7 +16626,8 @@
   ],
   "بأيدي": [
     "qays_ibn_al-khatim",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الشواطب": [
     "qays_ibn_al-khatim"
@@ -16215,7 +16660,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حنظلا": [
     "qays_ibn_al-khatim"
@@ -16244,7 +16690,8 @@
     "antarah_ibn_shaddad"
   ],
   "الخدود": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وازورار": [
     "qays_ibn_al-khatim"
@@ -16323,7 +16770,8 @@
     "qays_ibn_al-khatim"
   ],
   "سيوفنا": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جذم": [
     "qays_ibn_al-khatim",
@@ -16334,7 +16782,8 @@
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ثاقب": [
     "qays_ibn_al-khatim"
@@ -16475,7 +16924,8 @@
     "qays_ibn_al-khatim"
   ],
   "ومنا": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "آلى": [
     "qays_ibn_al-khatim"
@@ -16555,7 +17005,8 @@
     "qays_ibn_al-khatim",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العوان": [
     "qays_ibn_al-khatim",
@@ -16596,7 +17047,8 @@
     "qays_ibn_al-khatim"
   ],
   "الحلائب": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هبطنا": [
     "qays_ibn_al-khatim",
@@ -16845,7 +17297,8 @@
     "qays_ibn_al-khatim"
   ],
   "شأنها": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "ibn_al-muḍallil"
   ],
   "رويدا": [
     "qays_ibn_al-khatim",
@@ -16909,7 +17362,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الجرف": [
     "qays_ibn_al-khatim"
@@ -17057,7 +17511,8 @@
   ],
   "هامهم": [
     "qays_ibn_al-khatim",
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وفلينا": [
     "qays_ibn_al-khatim"
@@ -17348,7 +17803,8 @@
   "الشول": [
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لطت": [
     "qays_ibn_al-khatim"
@@ -17367,7 +17823,9 @@
   ],
   "ر": [
     "qays_ibn_al-khatim",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مجتلما": [
     "qays_ibn_al-khatim"
@@ -17407,7 +17865,8 @@
     "ʿurwah_b_al-ward"
   ],
   "قبة": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "دوين": [
     "qays_ibn_al-khatim",
@@ -17539,7 +17998,8 @@
   ],
   "رأينا": [
     "qays_ibn_al-khatim",
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "ibn_al-muḍallil"
   ],
   "غنى": [
     "qays_ibn_al-khatim",
@@ -17577,7 +18037,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نسود": [
     "qays_ibn_al-khatim"
@@ -17723,7 +18184,8 @@
   ],
   "صرمت": [
     "qays_ibn_al-khatim",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حبلك": [
     "qays_ibn_al-khatim"
@@ -17767,7 +18229,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هن": [
     "qays_ibn_al-khatim"
@@ -17810,7 +18273,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "دينارا": [
     "qays_ibn_al-khatim"
@@ -17894,7 +18358,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كأكلكم": [
     "qays_ibn_al-khatim"
@@ -18139,7 +18604,8 @@
     "khansaa"
   ],
   "القضاء": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تناوله": [
     "qays_ibn_al-khatim"
@@ -18203,7 +18669,8 @@
     "khansaa"
   ],
   "العجز": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الثراء": [
     "qays_ibn_al-khatim"
@@ -18220,7 +18687,8 @@
   ],
   "عمرت": [
     "qays_ibn_al-khatim",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شقاء": [
     "qays_ibn_al-khatim"
@@ -18322,7 +18790,8 @@
   ],
   "شمرت": [
     "qays_ibn_al-khatim",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "خصم": [
     "qays_ibn_al-khatim"
@@ -18336,7 +18805,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أكون": [
     "qays_ibn_al-khatim",
@@ -18349,7 +18819,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يحذر": [
     "qays_ibn_al-khatim"
@@ -18523,7 +18994,8 @@
     "qays_ibn_al-khatim"
   ],
   "الذنوب": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عاتبة": [
     "qays_ibn_al-khatim",
@@ -18678,7 +19150,8 @@
   "الحمد": [
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "لله": [
     "qays_ibn_al-khatim",
@@ -18855,7 +19328,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "abu_dhuayb",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وسنوا": [
     "qays_ibn_al-khatim"
@@ -18966,7 +19440,8 @@
   ],
   "جمعت": [
     "qays_ibn_al-khatim",
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "صريم": [
     "qays_ibn_al-khatim",
@@ -19031,7 +19506,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بنانهم": [
     "qays_ibn_al-khatim"
@@ -19276,10 +19752,12 @@
     "qays_ibn_al-khatim"
   ],
   "صقر": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فنحن": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "النازلون": [
     "qays_ibn_al-khatim",
@@ -19332,7 +19810,8 @@
     "khansaa"
   ],
   "المباءة": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والجناب": [
     "qays_ibn_al-khatim"
@@ -19360,7 +19839,8 @@
     "muhalhil_ibn_rabia",
     "khansaa",
     "khirniq_bint_badr",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المتقن": [
     "qays_ibn_al-khatim"
@@ -19377,7 +19857,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العامري": [
     "qays_ibn_al-khatim"
@@ -19470,7 +19951,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ببيشة": [
     "qays_ibn_al-khatim",
@@ -19561,7 +20043,8 @@
     "muhalhil_ibn_rabia"
   ],
   "ذكروا": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المكارم": [
     "qays_ibn_al-khatim",
@@ -19708,7 +20191,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "ألواح": [
     "qays_ibn_al-khatim"
@@ -19748,7 +20232,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فناصح": [
     "qays_ibn_al-khatim"
@@ -19758,7 +20243,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "abu_dhuayb",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والقول": [
     "qays_ibn_al-khatim"
@@ -20225,7 +20711,8 @@
     "qays_ibn_al-khatim"
   ],
   "الداء": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ملتمس": [
     "qays_ibn_al-khatim"
@@ -20237,7 +20724,8 @@
     "qays_ibn_al-khatim"
   ],
   "النوك": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يود": [
     "qays_ibn_al-khatim"
@@ -20347,7 +20835,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عيال": [
     "qays_ibn_al-khatim",
@@ -20622,7 +21111,8 @@
   ],
   "تنفع": [
     "qays_ibn_al-khatim",
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فضر": [
     "qays_ibn_al-khatim"
@@ -20637,7 +21127,8 @@
   "يضر": [
     "qays_ibn_al-khatim",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وينفعا": [
     "qays_ibn_al-khatim"
@@ -20946,7 +21437,8 @@
     "khirniq_bint_badr",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "رب": [
     "aws_ibn_hajar",
@@ -20954,7 +21446,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الداميات": [
     "aws_ibn_hajar"
@@ -20987,7 +21480,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "bleeding": [
     "aws_ibn_hajar"
@@ -21025,7 +21519,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عوذه": [
     "aws_ibn_hajar"
@@ -21106,7 +21601,8 @@
   "stars": [
     "aws_ibn_hajar",
     "abu_dhuayb",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "eclipsing": [
     "aws_ibn_hajar",
@@ -21149,7 +21645,8 @@
   "يحدث": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالغائب": [
     "aws_ibn_hajar"
@@ -21160,7 +21657,8 @@
   "person": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "penetrates": [
     "aws_ibn_hajar"
@@ -21181,21 +21679,24 @@
   ],
   "falls": [
     "aws_ibn_hajar",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "under": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "abu_dhuayb",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المطعم": [
     "aws_ibn_hajar",
     "antarah_ibn_shaddad"
   ],
   "الأموات": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المطعم الأموات": [
     "aws_ibn_hajar"
@@ -21210,7 +21711,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "feeding": [
     "aws_ibn_hajar"
@@ -21284,7 +21786,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "maniyya": [
     "aws_ibn_hajar",
@@ -21316,7 +21819,8 @@
   "الزمان": [
     "aws_ibn_hajar",
     "abu_dhuayb",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بعزة": [
     "aws_ibn_hajar"
@@ -21340,7 +21844,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "protective": [
     "aws_ibn_hajar",
@@ -21365,7 +21870,8 @@
   "believed": [
     "aws_ibn_hajar",
     "abu_dhuayb",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "inhabit": [
     "aws_ibn_hajar",
@@ -21419,7 +21925,8 @@
     "saida_ibn_juayya",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "landscape": [
     "aws_ibn_hajar",
@@ -21445,7 +21952,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "emerge": [
     "aws_ibn_hajar",
@@ -21456,7 +21964,8 @@
     "aws_ibn_hajar",
     "abu_dhuayb",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "soul": [
     "aws_ibn_hajar",
@@ -21592,7 +22101,8 @@
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "entry": [
     "aws_ibn_hajar"
@@ -21642,7 +22152,8 @@
   "العز": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حمى ذي العز": [
     "aws_ibn_hajar"
@@ -21664,7 +22175,8 @@
     "khansaa",
     "khirniq_bint_badr",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "subject": [
     "aws_ibn_hajar",
@@ -21693,7 +22205,8 @@
   "implies": [
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "al-ḥārith_b_ḥillizah"
   ],
   "commitment": [
     "aws_ibn_hajar",
@@ -21736,7 +22249,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "inviolability": [
     "aws_ibn_hajar",
@@ -21752,7 +22266,8 @@
     "abu_dhuayb",
     "khansaa",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "duty": [
     "aws_ibn_hajar",
@@ -21811,7 +22326,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "recognized": [
     "aws_ibn_hajar",
@@ -21862,7 +22378,8 @@
     "aws_ibn_hajar"
   ],
   "بالرهن": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المرامق": [
     "aws_ibn_hajar"
@@ -21906,7 +22423,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "منكب": [
     "aws_ibn_hajar"
@@ -21941,14 +22459,16 @@
     "aws_ibn_hajar",
     "khansaa",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "بناؤه": [
     "aws_ibn_hajar"
   ],
   "الأفق": [
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كوكب": [
     "aws_ibn_hajar",
@@ -21970,7 +22490,8 @@
   ],
   "أصابوا": [
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "البروك": [
     "aws_ibn_hajar"
@@ -22181,7 +22702,8 @@
     "aws_ibn_hajar"
   ],
   "وتغلب": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حلت": [
     "aws_ibn_hajar",
@@ -22288,7 +22810,8 @@
   ],
   "إماء": [
     "aws_ibn_hajar",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سربلت": [
     "aws_ibn_hajar"
@@ -22302,7 +22825,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أروغ": [
     "aws_ibn_hajar"
@@ -22354,13 +22878,16 @@
   ],
   "السير": [
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جد": [
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لينها": [
     "aws_ibn_hajar"
@@ -22375,7 +22902,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أقتادي": [
     "aws_ibn_hajar"
@@ -22454,7 +22982,8 @@
     "antarah_ibn_shaddad"
   ],
   "شهم": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يطر": [
     "aws_ibn_hajar"
@@ -22562,7 +23091,8 @@
   ],
   "نقع": [
     "aws_ibn_hajar",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "ibn_al-muḍallil"
   ],
   "يثور": [
     "aws_ibn_hajar"
@@ -22579,7 +23109,8 @@
   ],
   "يلوح": [
     "aws_ibn_hajar",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المنير": [
     "aws_ibn_hajar",
@@ -22715,7 +23246,8 @@
     "aws_ibn_hajar"
   ],
   "ك": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "السرادق": [
     "aws_ibn_hajar"
@@ -22873,7 +23405,8 @@
   ],
   "بمثل": [
     "aws_ibn_hajar",
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "ibn_al-muḍallil"
   ],
   "الرثم": [
     "aws_ibn_hajar"
@@ -22930,7 +23463,8 @@
   ],
   "تلوم": [
     "aws_ibn_hajar",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "وليست": [
     "aws_ibn_hajar"
@@ -23131,7 +23665,8 @@
   "رماح": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بأعلاه": [
     "aws_ibn_hajar"
@@ -23191,7 +23726,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مصباح": [
     "aws_ibn_hajar"
@@ -23225,7 +23761,8 @@
   "يمشي": [
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بقرواح": [
     "aws_ibn_hajar"
@@ -23524,7 +24061,8 @@
     "amr_ibn_qamia"
   ],
   "بلاء": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فاذمم": [
     "aws_ibn_hajar"
@@ -23569,7 +24107,8 @@
   "أودى": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الصعاليك": [
     "aws_ibn_hajar"
@@ -23723,7 +24262,8 @@
   ],
   "أحجمت": [
     "aws_ibn_hajar",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مبطانا": [
     "aws_ibn_hajar"
@@ -24163,7 +24703,8 @@
   ],
   "السه": [
     "aws_ibn_hajar",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "السفلى": [
     "aws_ibn_hajar",
@@ -24180,7 +24721,8 @@
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
     "khirniq_bint_badr",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وبره": [
     "aws_ibn_hajar"
@@ -24217,7 +24759,8 @@
   ],
   "كليلة": [
     "aws_ibn_hajar",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هلال": [
     "aws_ibn_hajar",
@@ -24237,7 +24780,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عنك": [
     "aws_ibn_hajar",
@@ -24284,7 +24828,8 @@
     "aws_ibn_hajar"
   ],
   "سراتها": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وربا": [
     "aws_ibn_hajar"
@@ -24555,7 +25100,8 @@
   "حرف": [
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أخوها": [
     "aws_ibn_hajar",
@@ -24915,7 +25461,8 @@
   ],
   "ويل": [
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "امهم": [
     "aws_ibn_hajar"
@@ -24990,7 +25537,8 @@
   ],
   "تشقى": [
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العور": [
     "aws_ibn_hajar"
@@ -25079,7 +25627,8 @@
   ],
   "ثهلان": [
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فالنير": [
     "aws_ibn_hajar",
@@ -25227,7 +25776,8 @@
     "aws_ibn_hajar"
   ],
   "المنذر": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فلبئس": [
     "aws_ibn_hajar"
@@ -25567,7 +26117,8 @@
     "aws_ibn_hajar"
   ],
   "مرتع": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تكنفنا": [
     "aws_ibn_hajar"
@@ -25986,7 +26537,8 @@
     "aws_ibn_hajar"
   ],
   "فعاذب": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مطافيل": [
     "aws_ibn_hajar"
@@ -26091,7 +26643,8 @@
   "ممن": [
     "aws_ibn_hajar",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "توجه": [
     "aws_ibn_hajar",
@@ -26142,7 +26695,8 @@
   ],
   "الفحل": [
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "عرضتها": [
     "aws_ibn_hajar"
@@ -26155,7 +26709,8 @@
   ],
   "جرأة": [
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "وتقاذف": [
     "aws_ibn_hajar"
@@ -26199,7 +26754,8 @@
   "كميت": [
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "عصاها": [
     "aws_ibn_hajar"
@@ -26392,7 +26948,8 @@
     "aws_ibn_hajar"
   ],
   "قطن": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ترتميه": [
     "aws_ibn_hajar"
@@ -26665,7 +27222,8 @@
   "عينا": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غمازة": [
     "aws_ibn_hajar"
@@ -26898,7 +27456,8 @@
   ],
   "جمة": [
     "aws_ibn_hajar",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غارف": [
     "aws_ibn_hajar"
@@ -27127,7 +27686,8 @@
   ],
   "وإذ": [
     "aws_ibn_hajar",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عمار": [
     "aws_ibn_hajar",
@@ -27324,7 +27884,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "معلق": [
     "aws_ibn_hajar"
@@ -27669,7 +28230,8 @@
   ],
   "العزيز": [
     "aws_ibn_hajar",
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لفصح": [
     "aws_ibn_hajar"
@@ -27787,7 +28349,8 @@
     "aws_ibn_hajar"
   ],
   "ذر": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فأسهلا": [
     "aws_ibn_hajar"
@@ -28024,7 +28587,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "دعا": [
     "aws_ibn_hajar",
@@ -28154,7 +28718,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يريد": [
     "aws_ibn_hajar",
@@ -28387,7 +28952,8 @@
     "ʿurwah_b_al-ward"
   ],
   "العهود": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يكثرون": [
     "aws_ibn_hajar"
@@ -28504,7 +29070,8 @@
     "antarah_ibn_shaddad"
   ],
   "صماء": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بلالها": [
     "aws_ibn_hajar"
@@ -28662,7 +29229,8 @@
   "تعرض": [
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حليما": [
     "aws_ibn_hajar"
@@ -28797,7 +29365,8 @@
   ],
   "أعني": [
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بسعد": [
     "aws_ibn_hajar",
@@ -28822,7 +29391,8 @@
   "يأوي": [
     "aws_ibn_hajar",
     "alqamah_alfahl",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "إليهم": [
     "aws_ibn_hajar",
@@ -29075,7 +29645,8 @@
   "عل": [
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وأزعجه": [
     "aws_ibn_hajar"
@@ -29174,7 +29745,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "وإنكما": [
     "aws_ibn_hajar"
@@ -29389,7 +29961,8 @@
     "aws_ibn_hajar",
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الرزء": [
     "aws_ibn_hajar",
@@ -29599,7 +30172,8 @@
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ململة": [
     "aws_ibn_hajar"
@@ -29637,7 +30211,8 @@
   ],
   "ولوا": [
     "aws_ibn_hajar",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هموا": [
     "aws_ibn_hajar",
@@ -29856,7 +30431,8 @@
   ],
   "النصيحة": [
     "aws_ibn_hajar",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بهضب": [
     "aws_ibn_hajar"
@@ -30002,7 +30578,8 @@
     "aws_ibn_hajar"
   ],
   "أرسلت": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مخشوبة": [
     "aws_ibn_hajar"
@@ -30421,7 +30998,8 @@
     "aws_ibn_hajar"
   ],
   "رام": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "ibn_al-muḍallil"
   ],
   "بحري": [
     "aws_ibn_hajar"
@@ -30723,7 +31301,8 @@
     "aws_ibn_hajar"
   ],
   "للرجال": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وللنسوان": [
     "aws_ibn_hajar"
@@ -30797,7 +31376,8 @@
   "جميل": [
     "aws_ibn_hajar",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "أرقما": [
     "aws_ibn_hajar"
@@ -30917,7 +31497,8 @@
     "ʿurwah_b_al-ward"
   ],
   "الربيض": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تغمغما": [
     "aws_ibn_hajar"
@@ -31271,7 +31852,8 @@
     "alqamah_alfahl"
   ],
   "brought": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "constellation": [
     "alqamah_alfahl"
@@ -31282,7 +31864,8 @@
   "astral": [
     "alqamah_alfahl",
     "abu_dhuayb",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قداح": [
     "alqamah_alfahl",
@@ -31351,7 +31934,8 @@
   "causing": [
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "madness": [
     "alqamah_alfahl",
@@ -31468,7 +32052,8 @@
   ],
   "deitys": [
     "alqamah_alfahl",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "power": [
     "alqamah_alfahl",
@@ -31502,11 +32087,13 @@
     "alqamah_alfahl"
   ],
   "مناة": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "mant": [
     "alqamah_alfahl",
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "al-ḥārith_b_ḥillizah"
   ],
   "part": [
     "alqamah_alfahl",
@@ -31517,10 +32104,12 @@
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
     "saida_ibn_juayya",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "zayd": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طحا": [
     "alqamah_alfahl"
@@ -31664,7 +32253,8 @@
   "يردن": [
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "ثراء": [
     "alqamah_alfahl"
@@ -31695,7 +32285,8 @@
   ],
   "أفنى": [
     "alqamah_alfahl",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ركيب": [
     "alqamah_alfahl"
@@ -31816,11 +32407,13 @@
   ],
   "الظلال": [
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طرق": [
     "alqamah_alfahl",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سبوب": [
     "alqamah_alfahl"
@@ -31874,7 +32467,8 @@
     "alqamah_alfahl"
   ],
   "الحياض": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تعف": [
     "alqamah_alfahl"
@@ -31924,7 +32518,8 @@
   "الجون": [
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بوا": [
     "alqamah_alfahl"
@@ -32132,7 +32727,8 @@
   ],
   "لذاك": [
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تحرمني": [
     "alqamah_alfahl"
@@ -32444,7 +33040,8 @@
   ],
   "يسمع": [
     "alqamah_alfahl",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الأصوات": [
     "alqamah_alfahl"
@@ -32589,7 +33186,8 @@
     "alqamah_alfahl"
   ],
   "هقلة": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سطعاء": [
     "alqamah_alfahl"
@@ -32620,7 +33218,8 @@
     "alqamah_alfahl"
   ],
   "للمال": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مهلكة": [
     "alqamah_alfahl"
@@ -32657,10 +33256,13 @@
     "alqamah_alfahl"
   ],
   "والحمد": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "ibn_al-muḍallil",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يشترى": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "ibn_al-muḍallil"
   ],
   "ثمن": [
     "alqamah_alfahl"
@@ -32734,7 +33336,8 @@
   ],
   "والقوم": [
     "alqamah_alfahl",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تصرعهم": [
     "alqamah_alfahl"
@@ -32901,7 +33504,8 @@
   ],
   "حام": [
     "alqamah_alfahl",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أوار": [
     "alqamah_alfahl"
@@ -32958,7 +33562,8 @@
     "alqamah_alfahl"
   ],
   "غل": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فيئة": [
     "alqamah_alfahl"
@@ -32970,7 +33575,8 @@
     "alqamah_alfahl"
   ],
   "جونا": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هيجت": [
     "alqamah_alfahl"
@@ -33019,10 +33625,12 @@
   ],
   "المزاد": [
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ولحم": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تنشيم": [
     "alqamah_alfahl"
@@ -33115,7 +33723,8 @@
     "alqamah_alfahl"
   ],
   "الواشون": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "ibn_al-muḍallil"
   ],
   "للشر": [
     "alqamah_alfahl"
@@ -33183,7 +33792,8 @@
   "وقالت": [
     "alqamah_alfahl",
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "يبخل": [
     "alqamah_alfahl"
@@ -33351,7 +33961,8 @@
     "alqamah_alfahl"
   ],
   "البشير": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالرداء": [
     "alqamah_alfahl"
@@ -33648,7 +34259,8 @@
   ],
   "الصحراء": [
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ملهب": [
     "alqamah_alfahl"
@@ -33822,7 +34434,8 @@
     "alqamah_alfahl"
   ],
   "المسيب": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "دافعت": [
     "alqamah_alfahl"
@@ -34027,7 +34640,8 @@
   ],
   "بأبيض": [
     "alqamah_alfahl",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "باتر": [
     "alqamah_alfahl"
@@ -34077,7 +34691,8 @@
     "alqamah_alfahl"
   ],
   "هاج": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "al-ḥārith_b_ḥillizah"
   ],
   "السراب": [
     "alqamah_alfahl"
@@ -34143,7 +34758,8 @@
     "khansaa"
   ],
   "ثاب": [
-    "alqamah_alfahl"
+    "alqamah_alfahl",
+    "ibn_al-muḍallil"
   ],
   "وفر": [
     "alqamah_alfahl"
@@ -34225,7 +34841,8 @@
   "طال": [
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الوجيف": [
     "alqamah_alfahl",
@@ -34234,7 +34851,8 @@
   "واضح": [
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "الأقراب": [
     "alqamah_alfahl",
@@ -34368,7 +34986,8 @@
   ],
   "بضرب": [
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الشؤون": [
     "alqamah_alfahl"
@@ -34396,7 +35015,8 @@
   ],
   "التجارب": [
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ودوية": [
     "alqamah_alfahl"
@@ -34614,7 +35234,8 @@
     "alqamah_alfahl",
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يربوع": [
     "alqamah_alfahl"
@@ -34868,7 +35489,8 @@
   ],
   "قابوس": [
     "alqamah_alfahl",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حمر": [
     "alqamah_alfahl",
@@ -34920,10 +35542,12 @@
     "muhalhil_ibn_rabia"
   ],
   "iraq": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "euphrates": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "personifies": [
     "muhalhil_ibn_rabia",
@@ -35015,7 +35639,8 @@
     "abu_dhuayb",
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "divisions": [
     "muhalhil_ibn_rabia"
@@ -35095,7 +35720,8 @@
     "ʿurwah_b_al-ward"
   ],
   "respected": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "figure": [
     "muhalhil_ibn_rabia",
@@ -35104,7 +35730,8 @@
   "الجن": [
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "affected": [
     "muhalhil_ibn_rabia"
@@ -35256,7 +35883,8 @@
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "و الله": [
     "muhalhil_ibn_rabia"
@@ -35349,11 +35977,13 @@
     "khansaa"
   ],
   "tribe": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "references": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "leading": [
     "muhalhil_ibn_rabia"
@@ -35380,7 +36010,8 @@
     "muhalhil_ibn_rabia"
   ],
   "awareness": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "potential": [
     "muhalhil_ibn_rabia"
@@ -35452,7 +36083,8 @@
     "muhalhil_ibn_rabia"
   ],
   "zones": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "anchored": [
     "muhalhil_ibn_rabia",
@@ -35677,7 +36309,8 @@
   ],
   "عاش": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شقيا": [
     "muhalhil_ibn_rabia"
@@ -35808,7 +36441,8 @@
   ],
   "البكاء": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تفانوا": [
     "muhalhil_ibn_rabia"
@@ -36007,7 +36641,8 @@
   "النجوم": [
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مطلعات": [
     "muhalhil_ibn_rabia"
@@ -36039,7 +36674,8 @@
   "الغبار": [
     "muhalhil_ibn_rabia",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "دعوتك": [
     "muhalhil_ibn_rabia"
@@ -36087,7 +36723,8 @@
   ],
   "إنك": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غيثا": [
     "muhalhil_ibn_rabia"
@@ -36668,7 +37305,8 @@
     "muhalhil_ibn_rabia"
   ],
   "تدري": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ضمير": [
     "muhalhil_ibn_rabia",
@@ -36794,7 +37432,8 @@
   "قومنا": [
     "muhalhil_ibn_rabia",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فبغوا": [
     "muhalhil_ibn_rabia"
@@ -36828,11 +37467,13 @@
     "muhalhil_ibn_rabia"
   ],
   "الدعس": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أوقدت": [
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "استب": [
     "muhalhil_ibn_rabia"
@@ -37001,7 +37642,8 @@
   "وقع": [
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الملبس": [
     "muhalhil_ibn_rabia"
@@ -37277,7 +37919,8 @@
   ],
   "أقبلت": [
     "muhalhil_ibn_rabia",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حمير": [
     "muhalhil_ibn_rabia",
@@ -37339,7 +37982,8 @@
     "alnabighah_aldhubyani",
     "khansaa",
     "khirniq_bint_badr",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بريق": [
     "muhalhil_ibn_rabia"
@@ -37596,7 +38240,8 @@
   "الصديق": [
     "muhalhil_ibn_rabia",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غدا": [
     "muhalhil_ibn_rabia",
@@ -37697,7 +38342,8 @@
   ],
   "وربيع": [
     "muhalhil_ibn_rabia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الصدوف": [
     "muhalhil_ibn_rabia"
@@ -37741,7 +38387,8 @@
     "muhalhil_ibn_rabia"
   ],
   "جدا": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ولينا": [
     "muhalhil_ibn_rabia"
@@ -37793,7 +38440,8 @@
     "muhalhil_ibn_rabia"
   ],
   "الأراقم": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كهلا": [
     "muhalhil_ibn_rabia",
@@ -37821,7 +38469,8 @@
   "يطير": [
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شرارا": [
     "muhalhil_ibn_rabia"
@@ -38033,7 +38682,8 @@
     "muhalhil_ibn_rabia"
   ],
   "نا": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "توعد": [
     "muhalhil_ibn_rabia"
@@ -38400,7 +39050,8 @@
   ],
   "الغليل": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "أل": [
     "muhalhil_ibn_rabia"
@@ -38756,7 +39407,8 @@
   ],
   "س": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مكسال": [
     "muhalhil_ibn_rabia"
@@ -38817,7 +39469,8 @@
     "muhalhil_ibn_rabia"
   ],
   "أردتم": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "استطعتم": [
     "muhalhil_ibn_rabia"
@@ -38974,7 +39627,8 @@
     "muhalhil_ibn_rabia"
   ],
   "همام": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لجيم": [
     "muhalhil_ibn_rabia"
@@ -39061,7 +39715,8 @@
     "muhalhil_ibn_rabia"
   ],
   "يشكر": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "خبطة": [
     "muhalhil_ibn_rabia"
@@ -39084,7 +39739,8 @@
     "ʿurwah_b_al-ward"
   ],
   "شوامخ": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الأعلام": [
     "muhalhil_ibn_rabia"
@@ -39202,7 +39858,8 @@
   ],
   "بلغ": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الصبي": [
     "muhalhil_ibn_rabia"
@@ -39232,7 +39889,8 @@
   "الهام": [
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يقمن": [
     "muhalhil_ibn_rabia"
@@ -39241,7 +39899,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فؤاده": [
     "muhalhil_ibn_rabia"
@@ -39250,7 +39909,8 @@
     "muhalhil_ibn_rabia"
   ],
   "يعطف": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "ibn_al-muḍallil"
   ],
   "لوهن": [
     "muhalhil_ibn_rabia"
@@ -39419,7 +40079,8 @@
   ],
   "فترى": [
     "muhalhil_ibn_rabia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كالظباء": [
     "muhalhil_ibn_rabia",
@@ -39624,7 +40285,8 @@
     "muhalhil_ibn_rabia"
   ],
   "خيلي": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أدركتك": [
     "muhalhil_ibn_rabia"
@@ -39672,7 +40334,8 @@
     "muhalhil_ibn_rabia"
   ],
   "لابن": [
-    "muhalhil_ibn_rabia"
+    "muhalhil_ibn_rabia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "زاجرا": [
     "muhalhil_ibn_rabia"
@@ -39718,7 +40381,8 @@
   ],
   "العجاجة": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والحتوف": [
     "muhalhil_ibn_rabia"
@@ -39903,7 +40567,8 @@
   ],
   "ينفك": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يطعمها": [
     "muhalhil_ibn_rabia"
@@ -40152,7 +40817,8 @@
     "alnabighah_aldhubyani"
   ],
   "deities": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "you": [
     "alnabighah_aldhubyani",
@@ -40278,7 +40944,8 @@
   ],
   "graves": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "commanded": [
     "alnabighah_aldhubyani"
@@ -40331,11 +40998,13 @@
     "alnabighah_aldhubyani"
   ],
   "whose": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "observed": [
     "alnabighah_aldhubyani",
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "al-ḥārith_b_ḥillizah"
   ],
   "touching": [
     "alnabighah_aldhubyani"
@@ -40370,7 +41039,8 @@
   ],
   "raven": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "sources": [
     "alnabighah_aldhubyani"
@@ -40589,26 +41259,30 @@
   ],
   "make": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "between": [
     "alnabighah_aldhubyani"
   ],
   "witness": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "arbiter": [
     "alnabighah_aldhubyani"
   ],
   "agreement": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يمين الله": [
     "alnabighah_aldhubyani"
   ],
   "gods": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "oathright": [
     "alnabighah_aldhubyani"
@@ -40651,14 +41325,16 @@
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "verses": [
     "alnabighah_aldhubyani",
     "saida_ibn_juayya",
     "abu_dhuayb",
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "people": [
     "alnabighah_aldhubyani",
@@ -40776,7 +41452,8 @@
     "antarah_ibn_shaddad"
   ],
   "unavoidable": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "inexorable": [
     "alnabighah_aldhubyani"
@@ -40794,7 +41471,8 @@
   "invokes": [
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "qabbaa": [
     "alnabighah_aldhubyani"
@@ -40850,18 +41528,21 @@
     "alnabighah_aldhubyani"
   ],
   "المجاز": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ذي المجاز": [
     "alnabighah_aldhubyani"
   ],
   "almajz": [
     "alnabighah_aldhubyani",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "market": [
     "alnabighah_aldhubyani",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حرمية": [
     "alnabighah_aldhubyani"
@@ -40873,7 +41554,8 @@
     "antarah_ibn_shaddad"
   ],
   "aram": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "mentioned": [
     "alnabighah_aldhubyani"
@@ -40892,7 +41574,8 @@
   ],
   "verb": [
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "زجر": [
     "alnabighah_aldhubyani",
@@ -40945,7 +41628,8 @@
   ],
   "during": [
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "prohibitions": [
     "alnabighah_aldhubyani"
@@ -41112,7 +41796,8 @@
     "amr_ibn_qamia"
   ],
   "كاذب": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "غزوا": [
     "alnabighah_aldhubyani"
@@ -41264,7 +41949,8 @@
   ],
   "يزيل": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سكناته": [
     "alnabighah_aldhubyani"
@@ -41429,7 +42115,8 @@
   ],
   "قب": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الأياطل": [
     "alnabighah_aldhubyani"
@@ -41983,7 +42670,8 @@
     "alnabighah_aldhubyani"
   ],
   "ببرقة": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هارب": [
     "alnabighah_aldhubyani"
@@ -42250,7 +42938,8 @@
     "alnabighah_aldhubyani"
   ],
   "سبيل": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يحبسه": [
     "alnabighah_aldhubyani"
@@ -42498,7 +43187,8 @@
   ],
   "البرية": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فاحددها": [
     "alnabighah_aldhubyani"
@@ -42644,7 +43334,8 @@
   ],
   "الهواجر": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كالغزلان": [
     "alnabighah_aldhubyani"
@@ -42831,7 +43522,8 @@
   "فداء": [
     "alnabighah_aldhubyani",
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أثمر": [
     "alnabighah_aldhubyani"
@@ -42840,7 +43532,8 @@
     "alnabighah_aldhubyani"
   ],
   "كفاء": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تأثفك": [
     "alnabighah_aldhubyani"
@@ -42916,7 +43609,8 @@
     "alnabighah_aldhubyani"
   ],
   "الثناء": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أعرض": [
     "alnabighah_aldhubyani"
@@ -43226,7 +43920,8 @@
   "حمامة": [
     "alnabighah_aldhubyani",
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أيكة": [
     "alnabighah_aldhubyani",
@@ -43517,7 +44212,8 @@
     "alnabighah_aldhubyani"
   ],
   "عهدت": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سعدي": [
     "alnabighah_aldhubyani"
@@ -43862,7 +44558,8 @@
   ],
   "أيام": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تخبرني": [
     "alnabighah_aldhubyani"
@@ -44203,7 +44900,8 @@
     "alnabighah_aldhubyani"
   ],
   "القوائم": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "الوشم": [
     "alnabighah_aldhubyani",
@@ -44593,13 +45291,15 @@
   ],
   "قضاعة": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حجرته": [
     "alnabighah_aldhubyani"
   ],
   "مدا": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "بسلاف": [
     "alnabighah_aldhubyani"
@@ -44670,7 +45370,8 @@
   ],
   "شعر": [
     "alnabighah_aldhubyani",
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نولكم": [
     "alnabighah_aldhubyani"
@@ -44869,7 +45570,8 @@
   ],
   "سيرا": [
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لدار": [
     "alnabighah_aldhubyani"
@@ -45198,7 +45900,8 @@
     "alnabighah_aldhubyani"
   ],
   "سواك": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فأهلي": [
     "alnabighah_aldhubyani",
@@ -45413,7 +46116,8 @@
   ],
   "ألوت": [
     "alnabighah_aldhubyani",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بليف": [
     "alnabighah_aldhubyani"
@@ -45547,7 +46251,8 @@
   "الصفا": [
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حليفها": [
     "alnabighah_aldhubyani"
@@ -45617,7 +46322,8 @@
     "alnabighah_aldhubyani"
   ],
   "مذكرة": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المعاول": [
     "alnabighah_aldhubyani"
@@ -45758,7 +46464,8 @@
     "alnabighah_aldhubyani"
   ],
   "نبأة": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أصغى": [
     "alnabighah_aldhubyani"
@@ -46419,7 +47126,8 @@
   ],
   "غيره": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "راتع": [
     "alnabighah_aldhubyani",
@@ -46546,7 +47254,8 @@
     "alnabighah_aldhubyani"
   ],
   "شارق": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بألفي": [
     "alnabighah_aldhubyani"
@@ -46793,7 +47502,8 @@
     "alnabighah_aldhubyani"
   ],
   "الأنساء": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مضبورة": [
     "alnabighah_aldhubyani"
@@ -47056,7 +47766,8 @@
     "alnabighah_aldhubyani"
   ],
   "حزم": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ونائل": [
     "alnabighah_aldhubyani"
@@ -47253,7 +47964,8 @@
     "antarah_ibn_shaddad"
   ],
   "حادث": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "همك": [
     "alnabighah_aldhubyani"
@@ -47291,7 +48003,8 @@
   ],
   "خلال": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يتصلن": [
     "alnabighah_aldhubyani"
@@ -47511,7 +48224,8 @@
     "alnabighah_aldhubyani"
   ],
   "ينقض": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "طلوب": [
     "alnabighah_aldhubyani"
@@ -47649,7 +48363,8 @@
     "alnabighah_aldhubyani"
   ],
   "عذافرة": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "لامرئ": [
     "alnabighah_aldhubyani"
@@ -47803,7 +48518,8 @@
   ],
   "الشقيقة": [
     "alnabighah_aldhubyani",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يم": [
     "alnabighah_aldhubyani"
@@ -47834,7 +48550,8 @@
   ],
   "الجبان": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الجهولا": [
     "alnabighah_aldhubyani"
@@ -48275,7 +48992,8 @@
   ],
   "لأقوام": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يأبى": [
     "alnabighah_aldhubyani"
@@ -48300,7 +49018,8 @@
     "ʿurwah_b_al-ward"
   ],
   "أجل": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بغضائهم": [
     "alnabighah_aldhubyani"
@@ -48325,7 +49044,8 @@
     "alnabighah_aldhubyani"
   ],
   "مكفهرا": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يخلط": [
     "alnabighah_aldhubyani"
@@ -48622,7 +49342,8 @@
   ],
   "قطام": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وضنا": [
     "alnabighah_aldhubyani"
@@ -48650,7 +49371,8 @@
     "alnabighah_aldhubyani"
   ],
   "الخيام": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "صفحت": [
     "alnabighah_aldhubyani"
@@ -48950,7 +49672,8 @@
     "alnabighah_aldhubyani",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "يسوين": [
     "alnabighah_aldhubyani"
@@ -48997,7 +49720,8 @@
     "khansaa"
   ],
   "المقادة": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شريس": [
     "alnabighah_aldhubyani"
@@ -49055,7 +49779,8 @@
   "تدارك": [
     "alnabighah_aldhubyani",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالعقيرة": [
     "alnabighah_aldhubyani"
@@ -49361,7 +50086,8 @@
     "alnabighah_aldhubyani"
   ],
   "عفون": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مرن": [
     "alnabighah_aldhubyani"
@@ -49464,7 +50190,8 @@
     "alnabighah_aldhubyani"
   ],
   "رجليه": [
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "ibn_al-muḍallil"
   ],
   "بشن": [
     "alnabighah_aldhubyani"
@@ -49875,7 +50602,8 @@
   ],
   "فعل": [
     "alnabighah_aldhubyani",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ظللنا": [
     "alnabighah_aldhubyani"
@@ -49991,7 +50719,8 @@
   ],
   "حلف": [
     "saida_ibn_juayya",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "امرئ,": [
     "saida_ibn_juayya"
@@ -56838,7 +57567,8 @@
     "khansaa"
   ],
   "overwhelming": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "withstand": [
     "abu_dhuayb"
@@ -56974,7 +57704,8 @@
     "abu_dhuayb"
   ],
   "influences": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عُكوفٌ": [
     "abu_dhuayb"
@@ -57222,7 +57953,8 @@
   ],
   "birdlike": [
     "abu_dhuayb",
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "حواسراً,": [
     "abu_dhuayb"
@@ -68146,7 +68878,8 @@
   ],
   "personify": [
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يندبن": [
     "khansaa"
@@ -68215,7 +68948,8 @@
   "almann": [
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "تبعوا": [
     "khansaa"
@@ -68339,7 +69073,8 @@
     "khansaa"
   ],
   "dominant": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "در": [
     "khansaa",
@@ -68364,7 +69099,8 @@
     "khansaa"
   ],
   "functioning": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "pantheon": [
     "khansaa"
@@ -68484,7 +69220,8 @@
     "khansaa"
   ],
   "misfortune": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الضريح,": [
     "khansaa"
@@ -68573,7 +69310,8 @@
     "amr_ibn_qamia"
   ],
   "aljinn": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "rejoicing": [
     "khansaa"
@@ -68599,7 +69337,8 @@
   "unavenged": [
     "khansaa",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "water": [
     "khansaa"
@@ -68639,7 +69378,8 @@
     "khansaa"
   ],
   "days": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "bring": [
     "khansaa"
@@ -68733,7 +69473,8 @@
     "khansaa"
   ],
   "ظلا": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بحر الشمس لا يبغين ظلا": [
     "khansaa"
@@ -68901,7 +69642,8 @@
   ],
   "يصبح": [
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أقواما": [
     "khansaa",
@@ -68953,7 +69695,8 @@
     "khansaa"
   ],
   "قرنه": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هابا": [
     "khansaa"
@@ -69008,13 +69751,15 @@
     "khansaa"
   ],
   "دوية": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "رداه": [
     "khansaa"
   ],
   "يقيم": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ركب": [
     "khansaa"
@@ -69110,7 +69855,8 @@
     "khansaa"
   ],
   "الركب": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فأغفى": [
     "khansaa"
@@ -69392,7 +70138,8 @@
     "khansaa"
   ],
   "ففي": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "صدع": [
     "khansaa"
@@ -69408,7 +70155,8 @@
     "ʿurwah_b_al-ward"
   ],
   "مناد": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مكتنع": [
     "khansaa"
@@ -70064,7 +70812,8 @@
     "khansaa"
   ],
   "كفى": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لكبش": [
     "khansaa"
@@ -70657,7 +71406,8 @@
     "khansaa"
   ],
   "ه": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ينجزون": [
     "khansaa"
@@ -70678,7 +71428,8 @@
     "khansaa"
   ],
   "شاهدا": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أرصدوا": [
     "khansaa"
@@ -70889,7 +71640,8 @@
     "khansaa"
   ],
   "خذم": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شرائد": [
     "khansaa"
@@ -71116,7 +71868,8 @@
   ],
   "حازم": [
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "اتاه": [
     "khansaa"
@@ -71128,7 +71881,8 @@
     "khansaa"
   ],
   "قسرا": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وحمير": [
     "khansaa"
@@ -71298,7 +72052,8 @@
     "khansaa"
   ],
   "غمرته": [
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "بالمقربات": [
     "khansaa"
@@ -71416,10 +72171,12 @@
     "khansaa",
     "amr_ibn_qamia",
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "الخلي": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "هجودها": [
     "khansaa"
@@ -71519,7 +72276,8 @@
     "khansaa"
   ],
   "تكسع": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بغبر": [
     "khansaa"
@@ -71782,7 +72540,8 @@
     "khansaa"
   ],
   "إعلان": [
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "وإسرار": [
     "khansaa"
@@ -72724,7 +73483,8 @@
     "khansaa"
   ],
   "ثاو": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالضريح": [
     "khansaa"
@@ -72982,7 +73742,8 @@
     "khansaa"
   ],
   "حذر": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يطعن": [
     "khansaa"
@@ -73835,7 +74596,8 @@
     "khansaa"
   ],
   "يطيرها": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العليا": [
     "khansaa",
@@ -74131,7 +74893,8 @@
   ],
   "حديث": [
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مقتبلا": [
     "khansaa"
@@ -74306,13 +75069,15 @@
     "khansaa"
   ],
   "الفرس": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ومهابة": [
     "khansaa"
   ],
   "بينا": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "نؤمله": [
     "khansaa"
@@ -74331,7 +75096,8 @@
   ],
   "خف": [
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لغيله": [
     "khansaa"
@@ -74613,7 +75379,8 @@
     "khansaa"
   ],
   "وأمر": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يرقع": [
     "khansaa"
@@ -74686,7 +75453,8 @@
     "khansaa"
   ],
   "ينفع": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جمانا": [
     "khansaa"
@@ -74910,7 +75678,8 @@
     "khansaa"
   ],
   "صفيح": [
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "وبيداء": [
     "khansaa",
@@ -75277,7 +76046,8 @@
     "khansaa"
   ],
   "واردات": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "صادرات": [
     "khansaa"
@@ -75326,7 +76096,8 @@
     "khansaa"
   ],
   "العقيق": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "واني": [
     "khansaa"
@@ -76322,7 +77093,8 @@
     "khansaa"
   ],
   "قافية": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "السنا": [
     "khansaa"
@@ -76515,7 +77287,8 @@
     "khansaa"
   ],
   "وقلن": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الاهل": [
     "khansaa"
@@ -76611,7 +77384,8 @@
     "khansaa"
   ],
   "زفرة": [
-    "khansaa"
+    "khansaa",
+    "ibn_al-muḍallil"
   ],
   "تزايله": [
     "khansaa"
@@ -76821,7 +77595,8 @@
     "khansaa"
   ],
   "أصيب": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فعز": [
     "khansaa"
@@ -76865,7 +77640,8 @@
   ],
   "عشاء": [
     "khansaa",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بالنهاب": [
     "khansaa"
@@ -77136,7 +77912,8 @@
   ],
   "للدهر": [
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "متلده": [
     "khansaa"
@@ -77375,7 +78152,8 @@
     "ʿurwah_b_al-ward"
   ],
   "نهاها": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "لففت": [
     "khansaa"
@@ -77423,13 +78201,15 @@
   ],
   "بطعن": [
     "khansaa",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "اختلفت": [
     "khansaa"
   ],
   "للضيف": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مزعزعة": [
     "khansaa"
@@ -77478,7 +78258,8 @@
   ],
   "غبراء": [
     "khansaa",
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "منهدم": [
     "khansaa"
@@ -77839,7 +78620,8 @@
     "khansaa"
   ],
   "يلحن": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العزف": [
     "khansaa"
@@ -77979,7 +78761,8 @@
     "khansaa"
   ],
   "جالت": [
-    "khansaa"
+    "khansaa",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وللعاديه": [
     "khansaa"
@@ -78451,7 +79234,8 @@
     "khirniq_bint_badr"
   ],
   "تغلبي": [
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الحدين": [
     "khirniq_bint_badr"
@@ -78607,7 +79391,8 @@
     "ʿurwah_b_al-ward"
   ],
   "تلوي": [
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "محجر": [
     "khirniq_bint_badr"
@@ -78649,13 +79434,15 @@
     "khirniq_bint_badr"
   ],
   "فلاة": [
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ترتعيها": [
     "khirniq_bint_badr"
   ],
   "العي": [
-    "khirniq_bint_badr"
+    "khirniq_bint_badr",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فالظلمان": [
     "khirniq_bint_badr"
@@ -78709,7 +79496,8 @@
     "amr_ibn_qamia"
   ],
   "الحج": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "alhajj": [
     "amr_ibn_qamia"
@@ -78868,7 +79656,8 @@
     "amr_ibn_qamia"
   ],
   "بجد": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "رشيدة": [
     "amr_ibn_qamia"
@@ -79136,7 +79925,8 @@
     "amr_ibn_qamia"
   ],
   "يثوب": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ضيف": [
     "amr_ibn_qamia"
@@ -79207,7 +79997,8 @@
   ],
   "دعوة": [
     "amr_ibn_qamia",
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "إربة": [
     "amr_ibn_qamia"
@@ -79279,7 +80070,8 @@
     "amr_ibn_qamia"
   ],
   "وآبوا": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كلنا": [
     "amr_ibn_qamia"
@@ -79415,7 +80207,8 @@
     "amr_ibn_qamia"
   ],
   "كهام": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وأفنى": [
     "amr_ibn_qamia"
@@ -79495,7 +80288,8 @@
   ],
   "عيشه": [
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سلما": [
     "amr_ibn_qamia"
@@ -79661,7 +80455,8 @@
     "amr_ibn_qamia"
   ],
   "الحساء": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مصيفا": [
     "amr_ibn_qamia"
@@ -79889,7 +80684,8 @@
     "amr_ibn_qamia"
   ],
   "عمان": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "ibn_al-muḍallil"
   ],
   "الغاف": [
     "amr_ibn_qamia"
@@ -79898,7 +80694,8 @@
     "amr_ibn_qamia"
   ],
   "محله": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جشمت": [
     "amr_ibn_qamia"
@@ -80543,7 +81340,8 @@
     "amr_ibn_qamia"
   ],
   "تهم": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أبكاك": [
     "amr_ibn_qamia"
@@ -80938,7 +81736,8 @@
     "amr_ibn_qamia"
   ],
   "ق": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "استقلوا": [
     "amr_ibn_qamia"
@@ -81183,7 +81982,8 @@
   ],
   "يترك": [
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "قدك": [
     "amr_ibn_qamia"
@@ -81204,7 +82004,8 @@
     "amr_ibn_qamia"
   ],
   "أملاك": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "همم": [
     "amr_ibn_qamia"
@@ -81282,7 +82083,8 @@
   ],
   "اللقاح": [
     "amr_ibn_qamia",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الصنبر": [
     "amr_ibn_qamia"
@@ -81328,7 +82130,8 @@
     "amr_ibn_qamia"
   ],
   "وثنى": [
-    "amr_ibn_qamia"
+    "amr_ibn_qamia",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فثنى": [
     "amr_ibn_qamia"
@@ -81462,7 +82265,8 @@
     "antarah_ibn_shaddad"
   ],
   "rising": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "setting": [
     "antarah_ibn_shaddad"
@@ -81660,7 +82464,8 @@
     "antarah_ibn_shaddad"
   ],
   "أصداء": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وهام": [
     "antarah_ibn_shaddad"
@@ -81691,7 +82496,8 @@
   ],
   "knowledge": [
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "falling": [
     "antarah_ibn_shaddad"
@@ -81745,7 +82551,8 @@
     "antarah_ibn_shaddad"
   ],
   "will": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "inevitably": [
     "antarah_ibn_shaddad"
@@ -81784,7 +82591,8 @@
     "antarah_ibn_shaddad"
   ],
   "سفع": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "رواكد": [
     "antarah_ibn_shaddad"
@@ -82088,7 +82896,8 @@
     "antarah_ibn_shaddad"
   ],
   "وكأنه": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "زوج": [
     "antarah_ibn_shaddad"
@@ -82302,7 +83111,8 @@
   ],
   "تعلمي": [
     "antarah_ibn_shaddad",
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "أزال": [
     "antarah_ibn_shaddad"
@@ -82815,7 +83625,8 @@
     "antarah_ibn_shaddad"
   ],
   "نقود": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "رؤوسها": [
     "antarah_ibn_shaddad"
@@ -82830,7 +83641,8 @@
     "antarah_ibn_shaddad"
   ],
   "ينجي": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أتاها": [
     "antarah_ibn_shaddad"
@@ -82845,10 +83657,12 @@
     "antarah_ibn_shaddad"
   ],
   "عمياء": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "جمعوا": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "خل": [
     "antarah_ibn_shaddad"
@@ -83255,7 +84069,8 @@
     "antarah_ibn_shaddad"
   ],
   "الثواء": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "المنزل": [
     "antarah_ibn_shaddad"
@@ -83285,7 +84100,8 @@
     "antarah_ibn_shaddad"
   ],
   "المحمل": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "كالدر": [
     "antarah_ibn_shaddad"
@@ -83786,7 +84602,8 @@
     "antarah_ibn_shaddad"
   ],
   "جندل": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "عسيب": [
     "antarah_ibn_shaddad"
@@ -83801,7 +84618,8 @@
     "antarah_ibn_shaddad"
   ],
   "العنان": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "فعينه": [
     "antarah_ibn_shaddad"
@@ -84258,7 +85076,8 @@
     "antarah_ibn_shaddad"
   ],
   "دنا": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "شفائها": [
     "antarah_ibn_shaddad"
@@ -84534,7 +85353,8 @@
     "antarah_ibn_shaddad"
   ],
   "نارها": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "اصطلاها": [
     "antarah_ibn_shaddad"
@@ -84774,7 +85594,8 @@
     "antarah_ibn_shaddad"
   ],
   "الأهواء": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "بزندين": [
     "antarah_ibn_shaddad"
@@ -84925,7 +85746,8 @@
     "antarah_ibn_shaddad"
   ],
   "حسام": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "والصف": [
     "antarah_ibn_shaddad"
@@ -85020,7 +85842,8 @@
     "antarah_ibn_shaddad"
   ],
   "ظاهرة": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "ibn_al-muḍallil"
   ],
   "الأداة": [
     "antarah_ibn_shaddad"
@@ -85185,7 +86008,8 @@
     "antarah_ibn_shaddad"
   ],
   "غزا": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "أغشاها": [
     "antarah_ibn_shaddad"
@@ -85206,7 +86030,8 @@
     "antarah_ibn_shaddad"
   ],
   "ولئن": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "سواها": [
     "antarah_ibn_shaddad"
@@ -85373,7 +86198,8 @@
     "antarah_ibn_shaddad"
   ],
   "وسمعت": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "العذال": [
     "antarah_ibn_shaddad"
@@ -85684,7 +86510,8 @@
     "antarah_ibn_shaddad"
   ],
   "تنمي": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "مناسبه": [
     "antarah_ibn_shaddad"
@@ -86114,7 +86941,8 @@
     "antarah_ibn_shaddad"
   ],
   "رعاء": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "al-ḥārith_b_ḥillizah"
   ],
   "الحلوب": [
     "antarah_ibn_shaddad"
@@ -86423,7 +87251,8 @@
     "ʿurwah_b_al-ward"
   ],
   "emerging": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "murdered": [
     "ʿurwah_b_al-ward"
@@ -86453,7 +87282,8 @@
     "ʿurwah_b_al-ward"
   ],
   "alaf": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "خيابة": [
     "ʿurwah_b_al-ward"
@@ -86501,7 +87331,8 @@
     "ʿurwah_b_al-ward"
   ],
   "ناشب": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "يتنشب": [
     "ʿurwah_b_al-ward"
@@ -86582,7 +87413,8 @@
     "ʿurwah_b_al-ward"
   ],
   "كرها": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ودمعها": [
     "ʿurwah_b_al-ward"
@@ -86816,7 +87648,8 @@
     "ʿurwah_b_al-ward"
   ],
   "ماوان": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "رزح": [
     "ʿurwah_b_al-ward"
@@ -86882,7 +87715,8 @@
     "ʿurwah_b_al-ward"
   ],
   "وأفضل": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "زادهم": [
     "ʿurwah_b_al-ward"
@@ -87734,7 +88568,8 @@
     "ʿurwah_b_al-ward"
   ],
   "الصغير": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "ويلقى": [
     "ʿurwah_b_al-ward"
@@ -88100,7 +88935,8 @@
     "ʿurwah_b_al-ward"
   ],
   "أحدث": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "بطامح": [
     "ʿurwah_b_al-ward"
@@ -88376,7 +89212,8 @@
     "ʿurwah_b_al-ward"
   ],
   "بالرحل": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "ibn_al-muḍallil"
   ],
   "سيدفعني": [
     "ʿurwah_b_al-ward"
@@ -88430,7 +89267,8 @@
     "ʿurwah_b_al-ward"
   ],
   "ديارها": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "فإلا": [
     "ʿurwah_b_al-ward"
@@ -88625,7 +89463,8 @@
     "ʿurwah_b_al-ward"
   ],
   "الذليل": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "al-ḥārith_b_ḥillizah"
   ],
   "وفاض": [
     "ʿurwah_b_al-ward"
@@ -88752,5 +89591,2039 @@
   ],
   "السخال": [
     "ʿurwah_b_al-ward"
+  ],
+  "ibn": [
+    "ibn_al-muḍallil"
+  ],
+  "al-muḍallil": [
+    "ibn_al-muḍallil"
+  ],
+  "ابن المضلل": [
+    "ibn_al-muḍallil"
+  ],
+  "وباتت": [
+    "ibn_al-muḍallil"
+  ],
+  "ثادق": [
+    "ibn_al-muḍallil"
+  ],
+  "ليشرى": [
+    "ibn_al-muḍallil"
+  ],
+  "عصيانها": [
+    "ibn_al-muḍallil"
+  ],
+  "نجواك": [
+    "ibn_al-muḍallil"
+  ],
+  "وإعلانها": [
+    "ibn_al-muḍallil"
+  ],
+  "أغثني": [
+    "ibn_al-muḍallil"
+  ],
+  "المكبة": [
+    "ibn_al-muḍallil"
+  ],
+  "مبدانها": [
+    "ibn_al-muḍallil"
+  ],
+  "عريانها": [
+    "ibn_al-muḍallil"
+  ],
+  "نقطع": [
+    "ibn_al-muḍallil"
+  ],
+  "أقرانها": [
+    "ibn_al-muḍallil"
+  ],
+  "ورود": [
+    "ibn_al-muḍallil"
+  ],
+  "العثا": [
+    "ibn_al-muḍallil"
+  ],
+  "ريانها": [
+    "ibn_al-muḍallil"
+  ],
+  "الطلالة": [
+    "ibn_al-muḍallil"
+  ],
+  "حسانها": [
+    "ibn_al-muḍallil"
+  ],
+  "أعلنت": [
+    "ibn_al-muḍallil"
+  ],
+  "جمحل": [
+    "ibn_al-muḍallil"
+  ],
+  "كتمان": [
+    "ibn_al-muḍallil"
+  ],
+  "واختلفوا": [
+    "ibn_al-muḍallil"
+  ],
+  "تجنبتها": [
+    "ibn_al-muḍallil"
+  ],
+  "هجران": [
+    "ibn_al-muḍallil"
+  ],
+  "أبلغنها": [
+    "ibn_al-muḍallil"
+  ],
+  "عنس": [
+    "ibn_al-muḍallil"
+  ],
+  "مذعان": [
+    "ibn_al-muḍallil"
+  ],
+  "القراب": [
+    "ibn_al-muḍallil"
+  ],
+  "حلاه": [
+    "ibn_al-muḍallil"
+  ],
+  "إمكان": [
+    "ibn_al-muḍallil"
+  ],
+  "فجال": [
+    "ibn_al-muḍallil"
+  ],
+  "هاف": [
+    "ibn_al-muḍallil"
+  ],
+  "كسفود": [
+    "ibn_al-muḍallil"
+  ],
+  "جنابان": [
+    "ibn_al-muḍallil"
+  ],
+  "سنابك": [
+    "ibn_al-muḍallil"
+  ],
+  "محنبة": [
+    "ibn_al-muḍallil"
+  ],
+  "مكره": [
+    "ibn_al-muḍallil"
+  ],
+  "القف": [
+    "ibn_al-muḍallil"
+  ],
+  "كذان": [
+    "ibn_al-muḍallil"
+  ],
+  "ينتاب": [
+    "ibn_al-muḍallil"
+  ],
+  "قطيات": [
+    "ibn_al-muḍallil"
+  ],
+  "فاخلفه": [
+    "ibn_al-muḍallil"
+  ],
+  "مورده": [
+    "ibn_al-muḍallil"
+  ],
+  "بحوران": [
+    "ibn_al-muḍallil"
+  ],
+  "يهله": [
+    "ibn_al-muḍallil"
+  ],
+  "خاض": [
+    "ibn_al-muḍallil"
+  ],
+  "بعذب": [
+    "ibn_al-muḍallil"
+  ],
+  "أمس": [
+    "ibn_al-muḍallil"
+  ],
+  "سادتهم": [
+    "ibn_al-muḍallil"
+  ],
+  "حادثات": [
+    "ibn_al-muḍallil"
+  ],
+  "ألمت": [
+    "ibn_al-muḍallil"
+  ],
+  "جيران": [
+    "ibn_al-muḍallil"
+  ],
+  "يرعين": [
+    "ibn_al-muḍallil"
+  ],
+  "غبا": [
+    "ibn_al-muḍallil"
+  ],
+  "يقصرن": [
+    "ibn_al-muḍallil"
+  ],
+  "والحارثان": [
+    "ibn_al-muḍallil"
+  ],
+  "غاياتهم": [
+    "ibn_al-muḍallil"
+  ],
+  "غفوا": [
+    "ibn_al-muḍallil"
+  ],
+  "أحرز": [
+    "ibn_al-muḍallil"
+  ],
+  "السبق": [
+    "ibn_al-muḍallil"
+  ],
+  "الجوادان": [
+    "ibn_al-muḍallil"
+  ],
+  "والمعطيان": [
+    "ibn_al-muḍallil"
+  ],
+  "ابتغاء": [
+    "ibn_al-muḍallil"
+  ],
+  "مالهما": [
+    "ibn_al-muḍallil"
+  ],
+  "بأثمان": [
+    "ibn_al-muḍallil"
+  ],
+  "al-ḥārith": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ḥillizah": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحارث بن حلزة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "widely": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أحرم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "enter": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "something": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "forbiddensacred": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أمر الله": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "amr": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "commanddecree": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "notions": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "decree": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alqa": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "علم الله": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ilm": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "oversight": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حلف ذي المجاز": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ilf": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alliance": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "covenant": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "dhu": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "almajaz": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الرب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والشهيد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الرب والشهيد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alrabb": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alshahd": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "guarantor": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "observer": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لعمر أبيك الخير": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحازي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alz": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "mediates": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "geomancy": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الشاحج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alshij": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "croaking": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "crow": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "calls": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "traditionally": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "served": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "anchor": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "truthfulness": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "محارهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "للقبور": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "محارهم للقبور": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "niches": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "casts": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "stricken": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عقيرا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حادث الزمان": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "event": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "occurrences": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "dahrzamn": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كالنحس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "طلق النجوم لديه كالنحس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "perceived": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "النحس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alarm": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "زيد مناة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الصفا,": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحج,": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الموسم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الصفا, الحج, الموسم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "hill": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "alajj": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "season": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "almawsim": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "آذنتنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ببينها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يمل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شماء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فأدنى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الخلصاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالمحياة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالصفاح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فأعنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فتاق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالوفاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فرياض": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فأودية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالشعبتان": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالأبلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فأبكي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "دلها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يحير": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وبعينيك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "النا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أخيرا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العلياء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فتنورت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بخزازى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "هيهات": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الصلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أوقدتها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فشخصي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بعود": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الضياء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أستعين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالثوي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بزفوف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رئال": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "سقفاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "آنست": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وأفزعها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عصرا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الإمساء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الرجع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والوقع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "منينا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "إهباء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وطراقا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "خلفهن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "طراق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ساقطات": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أتلهى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "اب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بلية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وأتانا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والأنبا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "خطب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نعنى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ونساء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "إخواننا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يغلو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قيلهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "إحفاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يخلطون": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "البريء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الذن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "زعموا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أجمعوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لخصمها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأجلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مجيب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تص": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تصهال": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رغاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الناطق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المرقش": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تخلنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "غراتك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وشى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فبقينا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الشناءة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وعزة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قعساء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بيضت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بعيون": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "اس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تغيظ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وإباء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ينجاب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "توه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مؤيد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "إرمي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بمثله": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وتأبى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الإجلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مقسط": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أيما": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "خطة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فأدو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تشفى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأملاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نقشتم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ملحة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالصا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والأحياء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالنقش": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يجشمه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "سكتم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فكنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أغ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مض": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جفنها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأقذاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تسألون": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ثتموه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ينتهب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "غوارا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عواء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العباد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نيط": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ملنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فأحرم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالبلد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يوائل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "طود": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وحرة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رجلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أضرع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كتكاليف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فمطلو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أحل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ميسو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العوصاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فتأوت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قراضبة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ألقاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فهداهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالأسودين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأشقياء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تمنونهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "غرورا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فساقت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أمنية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أشراء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يغروكم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الآل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شخصهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والضحاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المبلغ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نتهاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "موائلا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جذار": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مستلئمين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بكبش": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قرظي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عبلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وصتيت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العواتك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تنها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "هاه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مبيضة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رعلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فرددناهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يخ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "خربة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وحملناهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ثهلا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شلالا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ودمي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وجبهناهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كماتنهز": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الطوي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وفعلنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "للحائنين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حجرا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فارسية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "خضراء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "هموس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وفككنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مريء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حبسه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والعناء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ومع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عنود": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "دفواء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جزعنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "سلالا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تلظى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وأقدناه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالمنذر": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تكال": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وأتيناهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بتسعة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أسلابهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أغلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وولدنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحباء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "للقو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أفلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فاتركوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الطيخ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والتعاشي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تتعاشوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "التعاشي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والكفلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الجور": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والتعدي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المهارق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شترطنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ختلفنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عننا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "باطلا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وظلما": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حجرة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أعلينا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جناح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كندة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يغ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "غازيهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الجزاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "إياد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ط": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بجوز": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأعباء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المضربون": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحذاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وثمانون": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "صدورهن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تركوهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ملحبين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بنهاب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يصم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحداء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حنيفة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "محارب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جنوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أنداء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جاؤوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يسترجعون": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شامة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "زهراء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يحلوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رزاح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ببرقا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نطاع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فاؤوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بقاصمة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الظه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الغلاق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رأفة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "إبقاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحيارين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والبلاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فملكنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأربعاء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "النهي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "طربا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ألابان": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحبائب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "معتوب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وعاتب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أطاعني": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لغدي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالرحيل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يكذبك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تسؤهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "دعوتنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أتيناك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فجئناهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ذببت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "سكناتها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ذيد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الغرائب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المزمع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نثنى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يثنك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قعيد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أعضب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "هائج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أرسلته": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حبا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بأغبارها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الناتج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ترتجي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رسلها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فأطرد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحائل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والدالج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عشار": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يغتالها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مبطىء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عائج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شلا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "البكرة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الفالج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ويسعى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تيح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أمره": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "خالج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رقح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يعيث": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "همج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "هامج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "صبب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لأضيافك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ألبانها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "اللبن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الوالج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "واعلم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لاعج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الخيال": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مدلج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "سدكا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بأرحلنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يتعرج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "اهتديت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رجيلة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قطعوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "متان": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "السجسج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "آنوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مطيهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "موشكة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "النجا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالهودج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ومدامة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قرعتها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بمدامة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وظباء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "محنية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ذعرت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بسمحج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فكأنهن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لآلئ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تدرج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يصيد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بظفره": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وجناجه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وتبينت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رعب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأهوج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "برؤسهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "السحابة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالطراف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المسرج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تروحت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بعشية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رتك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كنيف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العوسج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ألفيتنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عمارة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لبن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فعطف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المدمج": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فندا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رهوة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رؤو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لهددن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "هدا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وفارسها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فقدا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فضعي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قناعك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ري": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مخبل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حاكم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وبي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عمدا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بسادتنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حلقا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وجردا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "معاشرا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وولدا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "زباب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الآذان": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رعدا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فانعم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أعطيت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فالنوك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كدا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أعرفنك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المعاذير": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العذر": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "السعيد": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عظة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تحكيم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ومعتبر": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الضمير": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أرقا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ألذ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "رقادا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تعتريني": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مبرحات": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وضاجرات": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حسر": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المدلهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قذفتك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالحدث": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بر": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وشاب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وتفانى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كالعقير": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مجير": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالحبس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "آياتها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كمهارق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أصورة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بأع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "راض": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وآية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فحبست": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أحدس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "حدس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لتفع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بأط": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "راف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الكنس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ويئست": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يشعفني": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يسليك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كاليأس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أنمي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تهص": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحصا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بمواقع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نقائلها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يطرن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كأق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "طاع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الفراء": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بصحصح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شأس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أفلا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نعديها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فإلى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مارية": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شروى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الإنس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يحبوك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالزغف": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الفيوض": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "هميانها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والدهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كالغرس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وبالسبيك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الصفر": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يعقبها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالآنسات": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "واللعس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ممسك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يهلكه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شبيم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وجمع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "والعامرين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شبابها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وكهولها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لعلع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مقيلهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كسيل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأدرع": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "جفاني": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أخلائي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وأسلمني": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "عظامي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يعترق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "نحوأبي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أمدحه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يتفق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "محضرا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "للمنذرين": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وللمعصوب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لمته": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يجلى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "زاجر": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فينهى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ماإن": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يسافهنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "سنشعب": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ثائرا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كالغدير": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "القذال": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ويدعي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المخايل": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الإعصام": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "يجره": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المفاشغ": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالإرآم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وسما": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فيممها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المفازة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قائظا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المهامه": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أعمرو": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "فراشة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأشيم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحبال": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "تصرم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وأفسدت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الصلاح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالملهم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أباك": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "العقوق": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "المأثم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بمباح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ملتقى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "بالموسم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "سعيت": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "لصلح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "كسعي": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأقصم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وقيس": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شرها": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأعظم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وأصلح": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "أفسدوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الأكرم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "إخوة": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "قرشوا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "دهرنا": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "وقديم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "مساكى": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "زعيم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "ينجيكم": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "شبام": [
+    "al-ḥārith_b_ḥillizah"
+  ],
+  "الحجون": [
+    "al-ḥārith_b_ḥillizah"
   ]
 }

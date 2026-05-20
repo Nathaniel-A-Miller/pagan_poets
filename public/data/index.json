@@ -120,7 +120,7 @@
     "source": "data/amrqamia/source.json",
     "analysis": "data/amrqamia/analysis.json"
   },
-    {
+  {
     "slug": "antarah_ibn_shaddad",
     "name_en": "ʿAntarah b. Shaddād",
     "name_ar": "عنترة بن شدّاد",
@@ -131,7 +131,7 @@
     "source": "data/antarah/source.json",
     "analysis": "data/antarah/analysis.json"
   },
-    {
+  {
     "slug": "ʿurwah_b_al-ward",
     "name_en": "ʿUrwah b. al-Ward",
     "name_ar": "عروة بن الورد",
@@ -141,5 +141,38 @@
     "number_of_lines": 609,
     "source": "data/urwahward/source.json",
     "analysis": "data/urwahward/analysis.json"
+  },
+  {
+    "slug": "ibn_al-muḍallil",
+    "name_en": "Ibn al-Muḍallil",
+    "name_ar": "ابن المضلل",
+    "tribe": "Asad",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 21,
+    "source": "data/hajibmudallil/source.json",
+    "analysis": "data/hajibmudallil/analysis.json"
+  },
+  {
+    "slug": "ibn_al-muḍallil",
+    "name_en": "Ibn al-Muḍallil",
+    "name_ar": "ابن المضلل",
+    "tribe": "Asad",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 21,
+    "source": "data/hajibmudallil/source.json",
+    "analysis": "data/hajibmudallil/analysis.json"
+  },
+    {
+    "slug": "al-ḥārith_b_ḥillizah",
+    "name_en": "Al-Ḥārith b. Ḥillizah",
+    "name_ar": "الحارث بن حلزة",
+    "tribe": "Bakr",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 165,
+    "source": "data/harithhillizah/source.json",
+    "analysis": "data/harithhillizah/analysis.json"
   }
 ]
