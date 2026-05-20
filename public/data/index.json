@@ -154,17 +154,6 @@
     "analysis": "data/hajibmudallil/analysis.json"
   },
   {
-    "slug": "ibn_al-muḍallil",
-    "name_en": "Ibn al-Muḍallil",
-    "name_ar": "ابن المضلل",
-    "tribe": "Asad",
-    "region": "Najd",
-    "chronological_layer": "pre-Islamic",
-    "number_of_lines": 21,
-    "source": "data/hajibmudallil/source.json",
-    "analysis": "data/hajibmudallil/analysis.json"
-  },
-    {
     "slug": "al-ḥārith_b_ḥillizah",
     "name_en": "Al-Ḥārith b. Ḥillizah",
     "name_ar": "الحارث بن حلزة",
