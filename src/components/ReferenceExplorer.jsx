@@ -168,12 +168,18 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                   {ref.poem && (
                     <div className="ref-expanded-row">
                       <span className="expanded-label">Poem</span>
-                      <div className="ref-poem-meta" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', width: '100%' }}>
-                        <div>
+                      <div className="ref-poem-meta-container" style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
+                        
+                        {/* Meta Text Group */}
+                        <div className="poem-meta-text-group" style={{ flex: '1', minWidth: '280px' }}>
                           <span className="poem-meter arabic">{meter}</span>
                           <span className="poem-meta-divider"> · </span>
-                          <span className="poem-opening arabic" style={{ opacity: 0.7 }}>{openingVerse.slice(0, 30)}...</span>
+                          <span className="poem-opening arabic" style={{ opacity: 0.7 }}>
+                            {openingVerse}
+                          </span>
                         </div>
+
+                        {/* Action Button */}
                         <button 
                           className="open-poem-drawer-btn"
                           onClick={(e) => {
@@ -188,11 +194,14 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                             cursor: 'pointer',
                             fontSize: '0.8rem',
                             color: '#007a87',
-                            fontWeight: '500'
+                            fontWeight: '500',
+                            whiteSpace: 'nowrap',
+                            alignSelf: 'center'
                           }}
                         >
                           Read Full Poem ↗
                         </button>
+                        
                       </div>
                     </div>
                   )}
