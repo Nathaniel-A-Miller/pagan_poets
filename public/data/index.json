@@ -303,8 +303,85 @@
     "tribe": "Qays b. Thaʿlabah",
     "region": "Najd",
     "chronological_layer": "mukhaḍramūn",
-    "number_of_lines": 0,
+    "number_of_lines": 2113,
     "source": "data/al-asha/source.json",
     "analysis": "data/al-asha/analysis.json"
+  },
+  {
+    "slug": "amir_tufayl",
+    "name_en": "ʿĀmir b. al-Ṭufayl",
+    "name_ar": "عامر بن الطفيل",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 343,
+    "source": "data/amir_tufayl/source.json",
+    "analysis": "data/amir_tufayl/analysis.json"
+  },
+  {
+    "slug": "amr_madikarib",
+    "name_en": "ʿAmr b. Maʿdīkarib",
+    "name_ar": "عمرو بن معديكرب",
+    "tribe": "Zubayd",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 92,
+    "source": "data/amr_madikarib/source.json",
+    "analysis": "data/amr_madikarib/analysis.json"
+  },
+  {
+    "slug": "shammakh",
+    "name_en": "al-Shammākh ibn Ḍirār",
+    "name_ar": "الشماخ بن ضرار",
+    "tribe": "Dhubyān",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 546,
+    "source": "data/shammakh/source.json",
+    "analysis": "data/shammakh/analysis.json"
+  },
+  {
+    "slug": "kab_b_zuhayr",
+    "name_en": "Kaʿb b. Zuhayr",
+    "name_ar": "كعب بن زهير",
+    "tribe": "Muzaynah",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 624,
+    "source": "data/kab_b_zuhayr/source.json",
+    "analysis": "data/kab_b_zuhayr/analysis.json"
+  },
+  {
+    "slug": "urwah_hizam",
+    "name_en": "ʿUrwah b. Ḥizām",
+    "name_ar": "عروة بن حزام",
+    "tribe": "ʿUdhrah",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 174,
+    "source": "data/urwah_hizam/source.json",
+    "analysis": "data/urwah_hizam/analysis.json"
+  },
+  {
+    "slug": "labid",
+    "name_en": "Labīd b. Rabīʿah",
+    "name_ar": "لبيد بن ربيعة",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 1080,
+    "source": "data/labid/source.json",
+    "analysis": "data/labid/analysis.json"
+  },
+  {
+    "slug": "hutayah",
+    "name_en": "Al-Ḥuṭayʾah",
+    "name_ar": "الحطيئة",
+    "tribe": "ʿAbs",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 878,
+    "source": "data/hutayah/source.json",
+    "analysis": "data/hutayah/analysis.json"
   }
 ]
