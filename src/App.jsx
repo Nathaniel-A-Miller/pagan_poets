@@ -16,6 +16,9 @@ export default function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
+  
+  // State to manage the full poem view drawer
+  const [activePoem, setActivePoem] = useState(null)
 
   // 1. Initial Launch: Fetch base configurations and search map keys
   useEffect(() => {
@@ -27,15 +30,13 @@ export default function App() {
         setPoetIndex(indexData)
         setSearchIndex(searchData)
       })
-      .catch(() => setError('Could not load base index configurations'))
+      .catch(() => setError('Could not load base index configurations.'))
   }, [])
 
   // 2. Sync Global Search: Update selections automatically ONLY when typing a query
   useEffect(() => {
     const query = searchQuery.trim().toLowerCase()
     
-    // If the search bar is completely empty, do not force a selection reset.
-    // This allows manual sidebar checking and bulk selection to persist.
     if (!query) {
       return
     }
@@ -75,7 +76,7 @@ export default function App() {
 
     Promise.all(fetchPromises)
       .then(setPooledData)
-      .catch(() => setError('Could not load selected poet profiles'))
+      .catch(() => setError('Could not load selected poet profiles.'))
       .finally(() => setLoading(false))
   }, [selectedSlugs, poetIndex])
 
@@ -130,7 +131,11 @@ export default function App() {
 
         {/* Filtered Reference list cards */}
         {selectedSlugs.length > 0 && !loading && (
-          <ReferenceExplorer pooledData={pooledData} searchQuery={searchQuery} />
+          <ReferenceExplorer 
+            pooledData={pooledData} 
+            searchQuery={searchQuery} 
+            onViewPoem={(poem, poet, highlightedIndices) => setActivePoem({ poem, poet, highlightedIndices })}
+          />
         )}
 
         {/* Default Landing State View */}
@@ -138,6 +143,38 @@ export default function App() {
           <CorpusDashboard poetIndex={poetIndex} />
         )}
       </main>
+
+      {/* Slide-out Poem Panel Overlay */}
+      {activePoem && (
+        <>
+          <div className="poem-drawer-overlay" onClick={() => setActivePoem(null)}></div>
+          <div className="poem-drawer open">
+            <div className="poem-drawer-header">
+              <button className="poem-drawer-close" onClick={() => setActivePoem(null)}>&times;</button>
+              <div className="poem-drawer-title-block">
+                <h3>{activePoem.poet.name_en}</h3>
+                {activePoem.poem.meter && (
+                  <span className="drawer-meter arabic">بحر {activePoem.poem.meter}</span>
+                )}
+              </div>
+            </div>
+            <div className="poem-drawer-content arabic">
+              {activePoem.poem.verses?.map((v, i) => {
+                const isHighlighted = activePoem.highlightedIndices.includes(v.verse_index)
+                return (
+                  <div 
+                    key={i} 
+                    className={`drawer-line ${isHighlighted ? 'drawer-line-highlight' : ''}`}
+                  >
+                    <span className="drawer-line-num">{v.verse_index + 1}</span>
+                    <span className="drawer-line-text">{v.text}</span>
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        </>
+      )}
     </div>
   )
 }

@@ -2,7 +2,7 @@ import { useState, useMemo } from 'react'
 import { CATEGORIES, categoryColor, categoryLabel } from './categories.js'
 import './ReferenceExplorer.css'
 
-export default function ReferenceExplorer({ pooledData, searchQuery }) {
+export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem }) {
   const [activeCategories, setActiveCategories] = useState(new Set(CATEGORIES.map(c => c.id)))
   const [expandedRef, setExpandedRef] = useState(null)
 
@@ -168,38 +168,34 @@ export default function ReferenceExplorer({ pooledData, searchQuery }) {
                   {ref.poem && (
                     <div className="ref-expanded-row">
                       <span className="expanded-label">Poem</span>
-                      <div className="ref-poem-meta">
-                        <span className="poem-meter arabic">{meter}</span>
-                        <span className="poem-meta-divider"> · </span>
-                        <span className="poem-opening arabic">{openingVerse}</span>
+                      <div className="ref-poem-meta" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', width: '100%' }}>
+                        <div>
+                          <span className="poem-meter arabic">{meter}</span>
+                          <span className="poem-meta-divider"> · </span>
+                          <span className="poem-opening arabic" style={{ opacity: 0.7 }}>{openingVerse.slice(0, 30)}...</span>
+                        </div>
+                        <button 
+                          className="open-poem-drawer-btn"
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            onViewPoem(ref.poem, ref.poet, ref.verse_indices);
+                          }}
+                          style={{
+                            backgroundColor: 'transparent',
+                            border: '1px solid var(--ash)',
+                            padding: '0.3rem 0.6rem',
+                            borderRadius: '4px',
+                            cursor: 'pointer',
+                            fontSize: '0.8rem',
+                            color: '#007a87',
+                            fontWeight: '500'
+                          }}
+                        >
+                          Read Full Poem ↗
+                        </button>
                       </div>
                     </div>
                   )}
-
-                  {/* Full Poem Display Section */}
-                  {ref.poem?.verses && (
-                    <div className="ref-expanded-row full-poem-section" style={{ marginTop: '1.5rem', borderTop: '1px dashed var(--ash)', paddingTop: '1rem' }}>
-                      <span className="expanded-label">Full Poem</span>
-                      <div className="full-poem-layout arabic" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', fontSize: '1.15rem', lineHeight: '2', textAlign: 'right', marginTop: '0.5rem' }}>
-                        {ref.poem.verses.map((v, i) => {
-                          const isFlagged = ref.verse_indices.includes(v.verse_index);
-                          return (
-                            <div 
-                              key={i} 
-                              className={`poem-verse-line ${isFlagged ? 'highlighted-verse' : ''}`}
-                              style={isFlagged ? { backgroundColor: 'rgba(217, 119, 6, 0.15)', padding: '0.25rem 0.5rem', borderRadius: '4px', borderRight: '3px solid #d97706' } : {}}
-                            >
-                              <span className="verse-line-num" style={{ fontSize: '0.8rem', color: 'var(--stone)', marginLeft: '1rem', float: 'left', fontFamily: 'sans-serif' }}>
-                                {v.verse_index + 1}
-                              </span>
-                              {v.text}
-                            </div>
-                          );
-                        })}
-                      </div>
-                    </div>
-                  )}
-
                 </div>
               )}
             </div>
