@@ -174,5 +174,137 @@
     "number_of_lines": 357,
     "source": "data/hatimtai/source.json",
     "analysis": "data/hatimtai/analysis.json"
+  },
+  {
+    "slug": "imrualqays",
+    "name_en": "Imruʾ al-Qays b. Ḥujr",
+    "name_ar": "امرؤ القيس بن حجر",
+    "tribe": "Kindah",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 563,
+    "source": "data/imrualqays/source.json",
+    "analysis": "data/imrualqays/analysis.json"
+  },
+  {
+    "slug": "laqit_b_yamur",
+    "name_en": "Laqīṭ b. Yaʿmur",
+    "name_ar": "لقيط بن يعمر",
+    "tribe": "Iyād",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 58,
+    "source": "data/laqit_b_yamur/source.json",
+    "analysis": "data/laqit_b_yamur/analysis.json"
+  },
+  {
+    "slug": "al-muthaqqib_al-abdi",
+    "name_en": "Al-Muthaqqib al-ʿAbdī",
+    "name_ar": "المثقب العبدي",
+    "tribe": "ʿAbd al-Qays",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 157,
+    "source": "data/al-muthaqqib_al-abdi/source.json",
+    "analysis": "data/al-muthaqqib_al-abdi/analysis.json"
+  },
+  {
+    "slug": "salmah_b_jandal",
+    "name_en": "Salāmah b. Jandal",
+    "name_ar": "سلامة بن جندل",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 205,
+    "source": "data/salmah_b_jandal/source.json",
+    "analysis": "data/salmah_b_jandal/analysis.json"
+  },
+  {
+    "slug": "al-samawal",
+    "name_en": "Al-Samawʾal",
+    "name_ar": "السموأل",
+    "tribe": "Azd",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 96,
+    "source": "data/al-samawal/source.json",
+    "analysis": "data/al-samawal/analysis.json"
+  },
+  {
+    "slug": "shanfara",
+    "name_en": "Al-Shanfarā",
+    "name_ar": "الشنفرى",
+    "tribe": "Azd",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 73,
+    "source": "data/shanfara/source.json",
+    "analysis": "data/shanfara/analysis.json"
+  },
+  {
+    "slug": "al-sulayk_b_al-salakah",
+    "name_en": "al-Sulayk b. al-Salakah",
+    "name_ar": "السليك بن السلكة",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 12,
+    "source": "data/al-sulayk_b_al-salakah/source.json",
+    "analysis": "data/al-sulayk_b_al-salakah/analysis.json"
+  },
+  {
+    "slug": "taabbaa_sharran",
+    "name_en": "Taʾabbaṭa Sharran",
+    "name_ar": "تأبط شرا",
+    "tribe": "Fahm",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 294,
+    "source": "data/taabbaa_sharran/source.json",
+    "analysis": "data/taabbaa_sharran/analysis.json"
+  },
+  {
+    "slug": "tarafah",
+    "name_en": "Ṭarafah b. al-ʿAbd",
+    "name_ar": "طرفة بن العبد",
+    "tribe": "Qays b. Thaʿlabah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 428,
+    "source": "data/tarafah/source.json",
+    "analysis": "data/tarafah/analysis.json"
+  },
+  {
+    "slug": "tufayl_ghanawi",
+    "name_en": "Al-Ṭufayl al-Ghanawī",
+    "name_ar": "الطفيل الغنوي",
+    "tribe": "Ghanī",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 375,
+    "source": "data/tufayl_ghanawi/source.json",
+    "analysis": "data/tufayl_ghanawi/analysis.json"
+  },
+  {
+    "slug": "hadirah",
+    "name_en": "Al-Ḥādirah",
+    "name_ar": "الحادرة",
+    "tribe": "Dhubyān",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 88,
+    "source": "data/hadirah/source.json",
+    "analysis": "data/hadirah/analysis.json"
+  },
+  {
+    "slug": "al-asha",
+    "name_en": "al-Aʿshā",
+    "name_ar": "الأعشى",
+    "tribe": "Qays b. Thaʿlabah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 0,
+    "source": "data/al-asha/source.json",
+    "analysis": "data/al-asha/analysis.json"
   }
 ]

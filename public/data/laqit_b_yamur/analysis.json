@@ -1,0 +1,54 @@
+[
+  {
+    "poem_id": "laqīṭ_b_yaʿmur_000",
+    "poem_index": 0,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_yaʿmur_001",
+    "poem_index": 1,
+    "meter": "بسيط تام",
+    "verse_count": 54,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_yaʿmur_001",
+        "verse_indices": [
+          33
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "The phrase 'والله' (By God) is an explicit oath, a common pre-Islamic practice invoking a deity or sacred entity."
+      },
+      {
+        "poem_id": "laqīṭ_b_yaʿmur_001",
+        "verse_indices": [
+          37
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الأزلم",
+        "notes": "The term 'الأزلم' refers to someone who uses 'azlām' (divining arrows), a well-documented pre-Islamic method of divination."
+      },
+      {
+        "poem_id": "laqīṭ_b_yaʿmur_001",
+        "verse_indices": [
+          44
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The mention of 'الدهر' (Time/Fate) as an active agent ('يحلب در الدهر') reflects the pre-Islamic belief in dahr as an impersonal, often malevolent, cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_yaʿmur_002",
+    "poem_index": 2,
+    "meter": "رجز تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

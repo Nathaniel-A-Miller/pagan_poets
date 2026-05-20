@@ -1,0 +1,762 @@
+[
+  {
+    "poem_id": "taʾabbaṭa_sharran_000",
+    "poem_index": 0,
+    "meter": "رجز تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_003",
+    "poem_index": 3,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_004",
+    "poem_index": 4,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_004",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وحرمت",
+        "notes": "The poet's declaration 'I have forbidden' (وحرمت) implies a solemn vow or oath of abstinence, a binding commitment with a sacred dimension in pre-Islamic society."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_004",
+        "verse_indices": [
+          1
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "كاهلها",
+        "notes": "The term 'كاهلها' (kāhilahā), likely a variant or scribal error for 'كاهنها' (kāhinahā), refers to a kāhin (diviner-priest), a significant sacral figure in pre-Islamic Arabian religion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_005",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to \"الدهر\" (time/fate) as a powerful, changing force, which aligns with pre-Islamic cosmological beliefs about dahr as an indifferent, governing power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_007",
+    "poem_index": 7,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وبيت الله",
+        "notes": "The verse contains an oath 'وبيت الله' (by the House of God), referring to the Kaaba, a central pre-Islamic sanctuary, making it an oath anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_009",
+    "poem_index": 9,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_010",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "النفاثيين",
+        "notes": "This verse refers to 'al-Naffāthiyyīn,' practitioners of blowing with incantations, which is a form of pre-Islamic magic or sorcery, fitting under the category of practices involving supernatural influence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" (dahr) is used here as a personified cosmological force, representing fate or time, which the subject is described as contending with."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_013",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" (dahr) is used here as a cosmological force that can diminish or affect a person, reflecting a pre-Islamic concept of fate or time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_015",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فوالله",
+        "notes": "This verse contains an explicit oath 'فوالله' (By God), which is a common pre-Islamic oath formula invoking the high god."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_016",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دم الثأر",
+        "notes": "The verse explicitly states that the hero's greatest concern is 'blood vengeance' (دم الثأر), which was a central quasi-ritualistic obligation in pre-Islamic Arabian society tied to honor and the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_018",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "شهور الحرم",
+        "notes": "This verse explicitly mentions 'sacred months' (shuhūr al-ḥurum), a pre-Islamic institution where fighting was forbidden, indicating a ritual truce."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_019",
+    "poem_index": 19,
+    "meter": "-",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_019",
+        "verse_indices": [
+          4
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "الكواهن, السواحر",
+        "notes": "This verse explicitly mentions 'al-kawāhin' (female diviners/priestesses) and 'al-sawāḥir' (sorceresses), both of whom held significant roles in pre-Islamic Arabian belief systems."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_020",
+    "poem_index": 20,
+    "meter": "بسيط تام",
+    "verse_count": 26,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_021",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "This verse personifies 'al-manāyā' (fates/deaths) as laughing entities, reflecting the pre-Islamic concept of fate as an active, cosmological force."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_021",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أم النجوم الشوابك",
+        "notes": "The verse refers to guiding oneself by 'the mother of intertwined stars,' indicating a belief in astral guidance, a form of pre-Islamic astral cosmology."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_022",
+    "poem_index": 22,
+    "meter": "مجزوء الكامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_023",
+    "poem_index": 23,
+    "meter": "وافر تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_023",
+        "verse_indices": [
+          1
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "الكاهن",
+        "notes": "The verse explicitly mentions 'al-kāhin,' a pre-Islamic diviner-priest, indicating a specific sacred role in Arabian society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_024",
+    "poem_index": 24,
+    "meter": "رجز تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_025",
+    "poem_index": 25,
+    "meter": "متقارب تام",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_025",
+        "verse_indices": [
+          7,
+          8,
+          9
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغول",
+        "notes": "These verses describe an encounter with a 'غول' (ghoul), a supernatural entity in pre-Islamic Arabian belief, and the poet's interaction with it."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_025",
+        "verse_indices": [
+          10
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "ابنة الجن",
+        "notes": "This verse explicitly names 'ابنة الجن' (daughter of the Jinn), referring to a supernatural being from pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_026",
+        "verse_indices": [
+          9
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الولاول",
+        "notes": "The verse explicitly mentions 'الولاول' (lamentations/wailings), which were a significant ritualistic component of pre-Islamic mourning practices, typically performed by women."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_027",
+    "poem_index": 27,
+    "meter": "مديد تام",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_027",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دمه ما يطل",
+        "notes": "This verse refers to the pre-Islamic concept of blood vengeance (tha'r), where the blood of a slain person must not go unavenged."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_027",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الثأر",
+        "notes": "This verse explicitly mentions 'al-tha'r' (blood vengeance) as a duty, reinforcing a key pre-Islamic mortuary belief and social obligation."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_027",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse personifies 'al-dahr' (Time/Fate) as an oppressive force, a central pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_027",
+        "verse_indices": [
+          22
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حراما / تحل",
+        "notes": "This verse uses the terms 'haram' (forbidden) and 'tahill' (becomes permissible) in a context that reflects pre-Islamic notions of sacred boundaries and their transgression."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_031",
+    "poem_index": 31,
+    "meter": "كامل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_035",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر أبينا",
+        "notes": "This verse contains the oath formula 'لعمر أبينا' (By the life of our father), which is a common pre-Islamic oath anchored to a revered entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_038",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "حوقل",
+        "notes": "The mention of a 'ḥawqal' bird flying 'around his house' refers to the pre-Islamic practice of bird augury (ṭīra) for divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_042",
+    "poem_index": 42,
+    "meter": "كامل تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_042",
+        "verse_indices": [
+          4
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "غبر حيضة",
+        "notes": "This verse describes the subject as being free from the 'impurity of menstruation' (غبر حيضة), which refers to a concept of ritual impurity prevalent in pre-Islamic Arabian beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_048",
+    "poem_index": 48,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_049",
+    "poem_index": 49,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_049",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly names 'al-Jinn' as supernatural entities interacting with the poet, fitting the category for non-divine supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_050",
+    "poem_index": 50,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_051",
+    "poem_index": 51,
+    "meter": "وافر تام",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_051",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الثأر",
+        "notes": "This verse explicitly mentions taking revenge (tha'r), which was a quasi-ritualistic duty in pre-Islamic society tied to the honor of the deceased and the tribe."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_051",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an active agent that causes misfortune, reflecting the pre-Islamic cosmological concept of Dahr as a powerful, often destructive, force."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_051",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse again attributes misfortune to 'al-Dahr' (Time/Fate), reinforcing its role as a significant cosmological force in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_052",
+    "poem_index": 52,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_053",
+    "poem_index": 53,
+    "meter": "طويل",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_053",
+        "verse_indices": [
+          12
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الدفائنا",
+        "notes": "The phrase 'تغدو الدفائنا' (carrying the buried ones) explicitly refers to burial practices, which falls under mortuary beliefs."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_053",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الموت",
+        "notes": "The personification of 'الموت' (Death) as a powerful entity with fangs and claws reflects a conceptual understanding of death as a cosmological force."
+      },
+      {
+        "poem_id": "taʾabbaṭa_sharran_053",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حتوف",
+        "notes": "The mention of 'حتوف' (dooms/deaths) as active agents that 'cleanse the marrow' indicates a belief in fate or death as a cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_054",
+    "poem_index": 54,
+    "meter": "وافر تام",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "taʾabbaṭa_sharran_054",
+        "verse_indices": [
+          1,
+          7
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغول",
+        "notes": "Verse 1 explicitly names 'الغول' (the Ghoul), a prominent supernatural entity in pre-Islamic Arabian folklore, and verse 7 describes its appearance, thus both verses refer to this supernatural being."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "taʾabbaṭa_sharran_055",
+    "poem_index": 55,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

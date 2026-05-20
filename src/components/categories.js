@@ -4,7 +4,7 @@ export const CATEGORIES = [
   { id: 'Divination_and_Omens',   label: 'Divination & Omens',    color: '#4a5c7a' },
   { id: 'Cosmological_Concepts',  label: 'Cosmological Concepts', color: '#6a3a7a' },
   { id: 'Supernatural_Beings',    label: 'Supernatural Beings',   color: '#2a6a6a' },
-  { id: 'Death_and_Mortuary_Belief', label: 'Death & Mortuary Belief', color: '#3a3a3a' },
+  { id: 'Death_and_Mortuary_Belief', label: 'Death & Mortuary Belief', color: '#887373' },
   { id: 'Tribal_Sacral_Roles',    label: 'Tribal Sacral Roles',   color: '#7a5a1a' },
   { id: 'Sacred_Lexicon',         label: 'Sacred Lexicon',        color: '#8a4a5a' },
 ]

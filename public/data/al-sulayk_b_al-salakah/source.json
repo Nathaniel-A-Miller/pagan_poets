@@ -1,0 +1,96 @@
+{
+  "poet": {
+    "name_ar": "السليك بن السلكة",
+    "name_en": "al-Sulayk b. al-Salakah",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 12,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-sulayk_b_al-salakah_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لحى الله صعلوكا ، إذا جن ليله مصافي المشاش ، آلفا كل مجزر"
+        },
+        {
+          "verse_index": 1,
+          "text": "يعد الغنى من نفسه ، كل ليلة أصاب قراها من صديق ميسر"
+        },
+        {
+          "verse_index": 2,
+          "text": "ينام عشاء ثم يصبح ناعسا تحث الحصى عن جنبه المتعفر"
+        },
+        {
+          "verse_index": 3,
+          "text": "يعين نساء الحي ، ما يستعنه ويمسي طليحا كالبعير المحسر"
+        }
+      ]
+    },
+    {
+      "poem_index": 1,
+      "poem_id": "al-sulayk_b_al-salakah_001",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "ولكن صعلوكا ، صفيحة وجهه كضوء شهاب القابس المتنور"
+        },
+        {
+          "verse_index": 1,
+          "text": "مطلا على أعدائه يزجرونه بساحتهم ، زجر المنيح المشهر"
+        },
+        {
+          "verse_index": 2,
+          "text": "فذلك إن يلق المنية يلقها حميدا ، وإن يستغن يوما ، فأجدر"
+        }
+      ]
+    },
+    {
+      "poem_index": 2,
+      "poem_id": "al-sulayk_b_al-salakah_002",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "إذا بعدوا لا يأمنون اقترابه"
+        }
+      ]
+    },
+    {
+      "poem_index": 3,
+      "poem_id": "al-sulayk_b_al-salakah_003",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "ترود الأراوي الصحم حولي كأنها"
+        },
+        {
+          "verse_index": 1,
+          "text": "جزوعا ، وهل ، عن ذاك ، من متأخر ؟"
+        }
+      ]
+    },
+    {
+      "poem_index": 4,
+      "poem_id": "al-sulayk_b_al-salakah_004",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "إذا هو أمسى كالعريش المجور"
+        },
+        {
+          "verse_index": 1,
+          "text": "إذا الليل أدجى واكفهرت نجومه وصاح ، من الأفراط هام جوائم"
+        }
+      ]
+    }
+  ]
+}

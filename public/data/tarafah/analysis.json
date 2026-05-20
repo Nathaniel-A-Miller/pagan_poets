@@ -1,0 +1,603 @@
+[
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 104,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          22
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أقسم ربها",
+        "notes": "The phrase \"أقسم ربها\" (her lord swore) refers to an oath made by a powerful figure, implicitly invoking a sacred entity or principle, common in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          57
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وجدك",
+        "notes": "\"وجدك\" is an oath formula, swearing by one's ancestor or fortune, a common practice in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          62
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الصدي",
+        "notes": "\"الصدي\" refers to the pre-Islamic belief of a bird-like entity emerging from the skull of the deceased, crying for drink."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          66
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "\"الدهر\" (Time/Fate) is invoked as a cosmological force responsible for decay and destruction, a significant concept in pre-Islamic Arabian thought."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          67
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "\"لعمرك\" (By your life) is a common pre-Islamic oath, invoking the sacredness of life."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          72
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وجدك",
+        "notes": "\"وجدك\" is an oath formula, swearing by one's ancestor or fortune, a common practice in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          80
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ربي",
+        "notes": "The phrase \"لو شاء ربي\" (if my Lord willed) invokes the will of a divine entity, a common expression of divine agency in pre-Islamic poetry."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          83
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "آليت",
+        "notes": "\"آليت\" (I swore/vowed) refers to the act of making an oath, a ritualistic practice in pre-Islamic society."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          93
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "فانعنيني",
+        "notes": "\"فانعنيني\" (lament me) refers to the practice of lamentation and mourning rites for the deceased, a key aspect of pre-Islamic mortuary customs."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_000",
+        "verse_indices": [
+          98
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "\"لعمرك\" (By your life) is a common pre-Islamic oath, invoking the sacredness of life."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_001",
+    "poem_index": 1,
+    "meter": "كامل تام",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "This verse refers to 'al-manāyā' (fates/deaths) as an active, personified force, which is a key cosmological concept in pre-Islamic Arabian belief regarding destiny and the inevitability of death."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_001",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ما غال ' عادا ' والقرون",
+        "notes": "This verse alludes to the destruction of ancient peoples like 'Ad and past generations, a common pre-Islamic motif reflecting the inexorable power of fate or time, aligning with cosmological concepts of destiny and the ephemeral nature of human existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_002",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "غابت كواكبه",
+        "notes": "The phrase 'his stars disappeared' refers to the pre-Islamic belief that stars were linked to an individual's fate or destiny, signifying the end of life or fortune."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_002",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نوادبه",
+        "notes": "The term 'nawādib' (lamenters) explicitly refers to women who performed ritual lamentation for the deceased, a significant pre-Islamic mortuary practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_003",
+    "poem_index": 3,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_004",
+    "poem_index": 4,
+    "meter": "سريع",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_004",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The verse contains an imprecation invoking 'Allah,' a common practice in pre-Islamic Arabian religion where the supreme deity was called upon in oaths and curses."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_005",
+    "poem_index": 5,
+    "meter": "سريع",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_005",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "عبقري",
+        "notes": "The term 'abqarī refers to something of extraordinary quality, often implying a supernatural origin or connection to the jinn, who were believed to inhabit the legendary land of 'Abqar."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_005",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "المعلى والسفيح",
+        "notes": "Al-Muʿallā and al-Safīḥ are names of specific arrows used in the pre-Islamic game of maysir, a form of ritualized gambling and sortilege often associated with divination and the distribution of sacrificial meat."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_006",
+    "poem_index": 6,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "The phrase 'والله' (by God) is an explicit oath formula, common in pre-Islamic Arabian speech and poetry, invoking a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_008",
+    "poem_index": 8,
+    "meter": "رمل تام",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "This verse explicitly mentions 'al-Jinn' (the jinn), which were widely believed to be supernatural entities in pre-Islamic Arabian culture."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_009",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حبل المنية",
+        "notes": "The phrase \"حبل المنية\" (rope of fate/death) refers to an inescapable, pre-ordained end, aligning with pre-Islamic concepts of fate (manāyā) as a cosmological force."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_009",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "\"لعمرك!\" is a common pre-Islamic oath formula, swearing by the life of the addressed person, which functions as a sacred entity in the oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_010",
+    "poem_index": 10,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_011",
+    "poem_index": 11,
+    "meter": "رجز تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_011",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "لا بد يوما أن تصادي",
+        "notes": "This verse expresses the pre-Islamic cosmological concept of inescapable fate or destiny, where an ultimate end (like death or capture) is unavoidable, even if temporarily delayed."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_013",
+    "poem_index": 13,
+    "meter": "وافر تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_013",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "This verse contains the oath formula 'لعمرك' (by your life), which is a common pre-Islamic oath anchored to a sacred entity (life itself)."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_013",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (Time/Fate) is invoked here as a cosmological force that apportions events, reflecting a key pre-Islamic belief about fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_014",
+    "poem_index": 14,
+    "meter": "رمل تام",
+    "verse_count": 75,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_014",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نصب",
+        "notes": "The term 'نصب' (nuṣub) explicitly refers to a standing stone or idol, a common feature of pre-Islamic Arabian sanctuaries and ritual spaces."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_014",
+        "verse_indices": [
+          71,
+          72
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "أيسار لقمان / الأيسار",
+        "notes": "The term 'أيسار' refers to individuals who performed divination by casting lots, thus representing a specific sacral role in pre-Islamic Arabian society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_015",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نذرا",
+        "notes": "This verse explicitly mentions 'fulfilling a vow' (توفي... نذرا), which refers to the pre-Islamic practice of making and fulfilling votive offerings or promises to deities or sacred entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_016",
+    "poem_index": 16,
+    "meter": "كامل تام",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_016",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "المنيح",
+        "notes": "The verse explicitly mentions 'رفعوا المنيح' (they raised the manīḥ), referring to the pre-Islamic practice of casting lots with arrows (maysir) to determine fortune or division of goods, which falls under divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_017",
+    "poem_index": 17,
+    "meter": "رمل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_018",
+    "poem_index": 18,
+    "meter": "متقارب تام",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_018",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) is used, referring to time or fate as a significant, often impersonal, cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_018",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) is personified as an agent that affects human life, aligning with its role as a cosmological force in pre-Islamic thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_019",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "النصب",
+        "notes": "This verse describes swearing an oath at a 'naṣb,' a pre-Islamic standing stone or altar, which served as a sacred entity for such ritualistic oaths."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_020",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "النحيب",
+        "notes": "This verse describes a woman's wailing (النحيب) over a slain hero, which is an explicit reference to pre-Islamic mourning rites and lamentation practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_021",
+    "poem_index": 21,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_022",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قدرن",
+        "notes": "The verb \"قدرن\" (they were decreed/destined) implies a pre-ordained fate for the journeys, aligning with pre-Islamic cosmological concepts of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 23,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_027",
+    "poem_index": 27,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_028",
+    "poem_index": 28,
+    "meter": "مديد تام",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_028",
+        "verse_indices": [
+          13
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الأزلام",
+        "notes": "The verse explicitly mentions 'الأزلام' (divinatory arrows), a well-known pre-Islamic practice for casting lots and seeking guidance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_029",
+    "poem_index": 29,
+    "meter": "تام",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_030",
+    "poem_index": 30,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_030",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأنصاب",
+        "notes": "This verse explicitly mentions 'al-anṣāb' (sacred standing stones) and the ritual act of 'shedding blood' (sacrifices) between them, indicating pre-Islamic cultic practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṭarafah_b_al-ʿabd_031",
+    "poem_index": 31,
+    "meter": "رمل تام",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "ṭarafah_b_al-ʿabd_031",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحرم",
+        "notes": "The verse compares the assembly to a 'ḥaram', which was a sacred, inviolable precinct in pre-Islamic Arabia, indicating a reference to sacred geography and ritual space."
+      }
+    ],
+    "error": false
+  }
+]
