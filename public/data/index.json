@@ -119,5 +119,16 @@
     "number_of_lines": 232,
     "source": "data/amrqamia/source.json",
     "analysis": "data/amrqamia/analysis.json"
+  },
+    {
+    "slug": "antarah_ibn_shaddad",
+    "name_en": "ʿAntarah b. Shaddād",
+    "name_ar": "عنترة بن شدّاد",
+    "tribe": "ʿAbs",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 609,
+    "source": "data/antarah/source.json",
+    "analysis": "data/antarah/analysis.json"
   }
 ]

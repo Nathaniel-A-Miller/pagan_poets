@@ -1,6 +1,13 @@
 import fs from 'fs';
 import path from 'path';
 
+
+//
+Usage 
+node generate-index.js
+//
+
+
 // Since the script runs from inside public/data/, everything is local (.)
 const INDEX_PATH = './index.json'; 
 const OUTPUT_PATH = './search-index.json';
