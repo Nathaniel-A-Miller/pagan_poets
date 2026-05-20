@@ -170,8 +170,8 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                       <span className="expanded-label">Poem</span>
                       <div className="ref-poem-meta-container" style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
                         
-                        {/* Meta Text Group */}
-                        <div className="poem-meta-text-group" style={{ flex: '1', minWidth: '280px' }}>
+                        {/* Meta Text Group — Responsive Clip */}
+                        <div className="poem-meta-text-group" style={{ flex: '1', minWidth: '0', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                           <span className="poem-meter arabic">{meter}</span>
                           <span className="poem-meta-divider"> · </span>
                           <span className="poem-opening arabic" style={{ opacity: 0.7 }}>
