@@ -163,5 +163,16 @@
     "number_of_lines": 165,
     "source": "data/harithhillizah/source.json",
     "analysis": "data/harithhillizah/analysis.json"
+  },
+  {
+    "slug": "hatimtai",
+    "name_en": "Ḥātim al-Ṭāʾī",
+    "name_ar": "حاتم الطائي",
+    "tribe": "Ṭayʾ",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 357,
+    "source": "data/hatimtai/source.json",
+    "analysis": "data/hatimtai/analysis.json"
   }
 ]
