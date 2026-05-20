@@ -114,8 +114,10 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
 
           return (
             <div key={idx} className={`ref-card ${isExpanded ? 'expanded' : ''}`} style={{ borderLeftColor: categoryColor(ref.category) }}>
+              
+              {/* Card Summary Header (Protected against layout overflow) */}
               <div className="ref-summary" onClick={() => setExpandedRef(isExpanded ? null : idx)}>
-                <div className="ref-left">
+                <div className="ref-left" style={{ flex: '1', minWidth: '0', overflow: 'hidden' }}>
                   <div className="ref-card-header">
                     <span className="ref-category" style={{ backgroundColor: categoryColor(ref.category) }}>
                       {categoryLabel(ref.category)}
@@ -124,17 +126,17 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                       — {ref.poet.name_en}
                     </span>
                   </div>
-                  <div className="ref-preview">
-                    <div className="ref-entity">
+                  <div className="ref-preview" style={{ display: 'flex', width: '100%', minWidth: '0', gap: '1rem', alignItems: 'center', justifyContent: 'space-between', marginTop: '0.5rem' }}>
+                    <div className="ref-entity" style={{ flexShrink: 0 }}>
                       <span className="entity-label">Entity</span>
                       <span className="entity-text arabic">{ref.entity_or_term}</span>
                     </div>
-                    <div className="ref-verse-preview arabic">
+                    <div className="ref-verse-preview arabic" style={{ flex: '1', minWidth: '0', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', textAlign: 'right', direction: 'rtl' }}>
                       {flaggedVerses[0]?.text ?? ''}
                     </div>
                   </div>
                 </div>
-                <div className="ref-right">
+                <div className="ref-right" style={{ flexShrink: 0, paddingLeft: '0.5rem' }}>
                   <span className="ref-expand">{isExpanded ? '▲' : '▼'}</span>
                 </div>
               </div>
@@ -168,13 +170,13 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                   {ref.poem && (
                     <div className="ref-expanded-row">
                       <span className="expanded-label">Poem</span>
-                      <div className="ref-poem-meta-container" style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
+                      <div className="ref-poem-meta-container" style={{ display: 'flex', gap: '1rem', justifyContent: 'space-between', alignItems: 'center', width: '100%', minWidth: '0' }}>
                         
-                        {/* Meta Text Group — Responsive Clip */}
-                        <div className="poem-meta-text-group" style={{ flex: '1', minWidth: '0', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                          <span className="poem-meter arabic">{meter}</span>
-                          <span className="poem-meta-divider"> · </span>
-                          <span className="poem-opening arabic" style={{ opacity: 0.7 }}>
+                        {/* Meta Text Group */}
+                        <div className="poem-meta-text-group" style={{ flex: '1', minWidth: '0', display: 'flex', alignItems: 'center', gap: '0.5rem', overflow: 'hidden' }}>
+                          <span className="poem-meter arabic" style={{ whiteSpace: 'nowrap' }}>{meter}</span>
+                          <span className="poem-meta-divider" style={{ color: 'var(--stone)' }}> · </span>
+                          <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', direction: 'rtl' }}>
                             {openingVerse}
                           </span>
                         </div>
@@ -196,7 +198,7 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                             color: '#007a87',
                             fontWeight: '500',
                             whiteSpace: 'nowrap',
-                            alignSelf: 'center'
+                            flexShrink: 0
                           }}
                         >
                           Read Full Poem ↗
