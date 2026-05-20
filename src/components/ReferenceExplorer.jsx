@@ -168,20 +168,22 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                   </div>
 
                   {ref.poem && (
-                    <div className="ref-expanded-row">
-                      <span className="expanded-label">Poem</span>
-                      <div className="ref-poem-meta-container" style={{ display: 'flex', gap: '1rem', justifyContent: 'space-between', alignItems: 'center', width: '100%', minWidth: '0' }}>
+                    <div className="ref-expanded-row" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                      <div style={{ display: 'flex', width: '100%' }}>
+                        <span className="expanded-label">Poem</span>
                         
-                        {/* Meta Text Group */}
+                        {/* Meta Text Group — Full line width, clean truncation */}
                         <div className="poem-meta-text-group" style={{ flex: '1', minWidth: '0', display: 'flex', alignItems: 'center', gap: '0.5rem', overflow: 'hidden' }}>
                           <span className="poem-meter arabic" style={{ whiteSpace: 'nowrap' }}>{meter}</span>
                           <span className="poem-meta-divider" style={{ color: 'var(--stone)' }}> · </span>
-                          <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', direction: 'rtl' }}>
+                          <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', direction: 'rtl', flex: '1', textAlign: 'right' }}>
                             {openingVerse}
                           </span>
                         </div>
+                      </div>
 
-                        {/* Action Button */}
+                      {/* Action Button — Moved to its own row below the text */}
+                      <div style={{ display: 'flex', justifyContent: 'flex-end', width: '100%', marginTop: '0.25rem' }}>
                         <button 
                           className="open-poem-drawer-btn"
                           onClick={(e) => {
@@ -191,19 +193,17 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                           style={{
                             backgroundColor: 'transparent',
                             border: '1px solid var(--ash)',
-                            padding: '0.3rem 0.6rem',
+                            padding: '0.4rem 0.8rem',
                             borderRadius: '4px',
                             cursor: 'pointer',
                             fontSize: '0.8rem',
                             color: '#007a87',
                             fontWeight: '500',
-                            whiteSpace: 'nowrap',
-                            flexShrink: 0
+                            whiteSpace: 'nowrap'
                           }}
                         >
                           Read Full Poem ↗
                         </button>
-                        
                       </div>
                     </div>
                   )}
