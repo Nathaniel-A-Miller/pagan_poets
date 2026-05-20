@@ -2,10 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 
-//
-Usage 
-node generate-index.js
-//
+// Usage: node generate-index.js//
 
 
 // Since the script runs from inside public/data/, everything is local (.)

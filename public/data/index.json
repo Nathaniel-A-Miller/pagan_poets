@@ -130,5 +130,16 @@
     "number_of_lines": 609,
     "source": "data/antarah/source.json",
     "analysis": "data/antarah/analysis.json"
+  },
+    {
+    "slug": "ʿurwah_b_al-ward",
+    "name_en": "ʿUrwah b. al-Ward",
+    "name_ar": "عروة بن الورد",
+    "tribe": "ʿAbs",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 609,
+    "source": "data/urwahward/source.json",
+    "analysis": "data/urwahward/analysis.json"
   }
 ]
