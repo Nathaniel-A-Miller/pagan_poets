@@ -1,0 +1,41 @@
+{
+  "poet": {
+    "name_ar": "وهيبة بنت عبد العزى",
+    "name_en": "Wahība bt. ʿAbd al-ʿUzā",
+    "tribe": "ʿAbd al-Qays (?)",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 6,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "wahība_bt_ʿabd_al-ʿuzā_000",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "مَتى تَردوا عكاظَ تُوافِقوها  بِأَسماعٍ مَجادعها قصارُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "أَجيرانَ ابن ميّةَ خبّروني  أَعينٌ لاِبن ميّة أو ضمارُ"
+        },
+        {
+          "verse_index": 2,
+          "text": "تجلّل خزيَها عوفُ بن كعبٍ  فَليسَ لِحلعها منه اِعتذارُ"
+        },
+        {
+          "verse_index": 3,
+          "text": "فَإنّكم وَما تخفونَ منه  كَذاتِ الشيبِ ليس لها خمارُ"
+        },
+        {
+          "verse_index": 4,
+          "text": "بِرأسِ العينِ قاتل من أَجَرتم  مِنَ الخابورِ مرتعه السرارُ"
+        }
+      ]
+    }
+  ]
+}

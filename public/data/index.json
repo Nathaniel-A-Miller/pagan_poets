@@ -442,5 +442,16 @@
     "source": "data/saad_b_malik/source.json",
     "analysis": "data/saad_b_malik/analysis.json",
     "gender": "male"
+  },
+  {
+    "slug": "wahiba_bt_abd_aluza",
+    "name_en": "Wahība bt. ʿAbd al-ʿUzā",
+    "name_ar": "وهيبة بنت عبد العزى",
+    "tribe": "ʿAbd al-Qays (?)",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "number_of_lines": 6,
+    "source": "data/wahiba_bt_abd_aluza/source.json",
+    "analysis": "data/wahiba_bt_abd_aluza/analysis.json"
   }
 ]
