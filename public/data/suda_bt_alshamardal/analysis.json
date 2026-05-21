@@ -1,0 +1,56 @@
+[
+  {
+    "poem_id": "suʿdā_bt_al-shamardal_al-juhaniyyah_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "suʿdā_bt_al-shamardal_al-juhaniyyah_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنُونَ",
+        "notes": "The verse refers to 'al-Manūn' (fate/death) as an uncontrollable cosmological force, a common pre-Islamic concept."
+      },
+      {
+        "poem_id": "suʿdā_bt_al-shamardal_al-juhaniyyah_000",
+        "verse_indices": [
+          15
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الْقِدْحَ الْعَنُودَ",
+        "notes": "The phrase 'يكبر القدح العنود' refers to the practice of casting lots or divination arrows, a common pre-Islamic divinatory ritual."
+      },
+      {
+        "poem_id": "suʿdā_bt_al-shamardal_al-juhaniyyah_000",
+        "verse_indices": [
+          22
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنايا",
+        "notes": "The verse refers to 'al-Manāyā' (fates/deaths) as an inescapable cosmological force, a common pre-Islamic concept."
+      },
+      {
+        "poem_id": "suʿdā_bt_al-shamardal_al-juhaniyyah_000",
+        "verse_indices": [
+          23
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهْرٌ",
+        "notes": "The verse mentions 'dahr' (time/fate) as a cosmological force that can betray or cause misfortune, reflecting a pre-Islamic belief."
+      },
+      {
+        "poem_id": "suʿdā_bt_al-shamardal_al-juhaniyyah_000",
+        "verse_indices": [
+          29
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمْرُكَ",
+        "notes": "The phrase 'laʿamruka' is a common pre-Islamic oath formula, swearing by the life of the addressee."
+      }
+    ],
+    "error": false
+  }
+]

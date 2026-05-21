@@ -454,5 +454,17 @@
     "source": "data/wahiba_bt_abd_aluza/source.json",
     "analysis": "data/wahiba_bt_abd_aluza/analysis.json",
     "gender": "female"
+  },
+  {
+    "slug": "suda_bt_alshamardal",
+    "name_en": "Suʿdā bt. al-Shamardal al-Juhaniyyah",
+    "name_ar": "سعدى بنت الشمردل الجهنية",
+    "tribe": "Juhaynah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 31,
+    "source": "data/suda_bt_alshamardal/source.json",
+    "analysis": "data/suda_bt_alshamardal/analysis.json"
   }
 ]

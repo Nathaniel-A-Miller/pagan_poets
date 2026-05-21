@@ -31,6 +31,7 @@ function generateSearchIndex() {
     if (poetMeta.name_ar) tokens.add(poetMeta.name_ar);
     if (poetMeta.region) poetMeta.region.toLowerCase().split(/\s+/).forEach(t => tokens.add(t));
     if (poetMeta.period) poetMeta.period.toLowerCase().split(/\s+/).forEach(t => tokens.add(t));
+    if (poetMeta.gender) tokens.add(poetMeta.gender.toLowerCase());
 
     // 2. Index analysis keywords and notes
     try {
