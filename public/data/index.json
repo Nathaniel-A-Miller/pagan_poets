@@ -452,6 +452,7 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 6,
     "source": "data/wahiba_bt_abd_aluza/source.json",
-    "analysis": "data/wahiba_bt_abd_aluza/analysis.json"
+    "analysis": "data/wahiba_bt_abd_aluza/analysis.json",
+    "gender": "female"
   }
 ]
