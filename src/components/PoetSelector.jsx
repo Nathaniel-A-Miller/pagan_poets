@@ -4,17 +4,20 @@ import './PoetSelector.css'
 export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, onSelectAll, onDeselectAll, isOpen, onClose }) {
   const [regionFilter, setRegionFilter] = useState('')
   const [periodFilter, setPeriodFilter] = useState('')
+  const [genderFilter, setGenderFilter] = useState('')
 
-  // Compile unique regions and periods directly from index.json
+  // Compile unique regions, periods, and genders directly from index.json
   const uniqueRegions = useMemo(() => [...new Set(poets.map(p => p.region).filter(Boolean))], [poets])
   const uniquePeriods = useMemo(() => [...new Set(poets.map(p => p.chronological_layer).filter(Boolean))], [poets])
+  const uniqueGenders = useMemo(() => [...new Set(poets.map(p => p.gender).filter(Boolean))], [poets])
 
   // Filter the poets based on dropdown selects, AND sort them alphabetically by English name
   const filteredAndSortedPoets = useMemo(() => {
     const filtered = poets.filter(poet => {
       const matchesRegion = !regionFilter || poet.region === regionFilter
       const matchesPeriod = !periodFilter || poet.chronological_layer === periodFilter
-      return matchesRegion && matchesPeriod
+      const matchesGender = !genderFilter || poet.gender === genderFilter
+      return matchesRegion && matchesPeriod && matchesGender
     })
 
     // Alphabetize by English name ignoring half-rings, macrons, and underdots
@@ -26,7 +29,7 @@ export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, 
 
       return cleanString(a.name_en).localeCompare(cleanString(b.name_en), 'en', { sensitivity: 'base' })
     })
-  }, [poets, regionFilter, periodFilter]) 
+  }, [poets, regionFilter, periodFilter, genderFilter]) 
 
   return (
     <>
@@ -47,6 +50,15 @@ export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, 
           <select value={periodFilter} onChange={e => setPeriodFilter(e.target.value)}>
             <option value="">All Layers</option>
             {uniquePeriods.map(p => <option key={p} value={p}>{p}</option>)}
+          </select>
+
+          <select value={genderFilter} onChange={e => setGenderFilter(e.target.value)}>
+            <option value="">All Genders</option>
+            {uniqueGenders.map(g => (
+              <option key={g} value={g}>
+                {g.charAt(0).toUpperCase() + g.slice(1)}
+              </option>
+            ))}
           </select>
         </div>
 
@@ -83,6 +95,7 @@ export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, 
                   </div>
                   <span className="poet-meta-tags">
                     {poet.tribe && `${poet.tribe} · `}{poet.region} · {poet.chronological_layer}
+                    {poet.gender && ` · ${poet.gender.charAt(0).toUpperCase() + poet.gender.slice(1)}`}
                   </span>
                 </div>
               </label>

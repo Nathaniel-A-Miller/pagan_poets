@@ -8,7 +8,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 458,
     "source": "data/zuhayr/source.json",
-    "analysis": "data/zuhayr/analysis.json"
+    "analysis": "data/zuhayr/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "qays_ibn_al-khatim",
@@ -19,7 +20,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 311,
     "source": "data/qayskhatim/source.json",
-    "analysis": "data/qayskhatim/analysis.json"
+    "analysis": "data/qayskhatim/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "aws_ibn_hajar",
@@ -30,7 +32,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 517,
     "source": "data/awshajar/source.json",
-    "analysis": "data/awshajar/analysis.json"
+    "analysis": "data/awshajar/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "alqamah_alfahl",
@@ -41,7 +44,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 206,
     "source": "data/alqamahfahl/source.json",
-    "analysis": "data/alqamahfahl/analysis.json"
+    "analysis": "data/alqamahfahl/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "muhalhil_ibn_rabia",
@@ -52,7 +56,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 346,
     "source": "data/muhalhilrabia/source.json",
-    "analysis": "data/muhalhilrabia/analysis.json"
+    "analysis": "data/muhalhilrabia/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "alnabighah_aldhubyani",
@@ -63,7 +68,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 674,
     "source": "data/nabighahdhubyani/source.json",
-    "analysis": "data/nabighahdhubyani/analysis.json"
+    "analysis": "data/nabighahdhubyani/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "saida_ibn_juayya",
@@ -74,7 +80,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 270,
     "source": "data/saidajuayya/source.json",
-    "analysis": "data/saidajuayya/analysis.json"
+    "analysis": "data/saidajuayya/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "abu_dhuayb",
@@ -85,7 +92,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 601,
     "source": "data/abudhuayb/source.json",
-    "analysis": "data/abudhuayb/analysis.json"
+    "analysis": "data/abudhuayb/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "khansaa",
@@ -96,7 +104,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 848,
     "source": "data/khansaa/source.json",
-    "analysis": "data/khansaa/analysis.json"
+    "analysis": "data/khansaa/analysis.json",
+    "gender": "female"
   },
   {
     "slug": "khirniq_bint_badr",
@@ -107,7 +116,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 57,
     "source": "data/khirniqbadr/source.json",
-    "analysis": "data/khirniqbadr/analysis.json"
+    "analysis": "data/khirniqbadr/analysis.json",
+    "gender": "female"
   },
   {
     "slug": "amr_ibn_qamia",
@@ -118,7 +128,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 232,
     "source": "data/amrqamia/source.json",
-    "analysis": "data/amrqamia/analysis.json"
+    "analysis": "data/amrqamia/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "antarah_ibn_shaddad",
@@ -129,7 +140,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 609,
     "source": "data/antarah/source.json",
-    "analysis": "data/antarah/analysis.json"
+    "analysis": "data/antarah/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "ʿurwah_b_al-ward",
@@ -140,7 +152,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 609,
     "source": "data/urwahward/source.json",
-    "analysis": "data/urwahward/analysis.json"
+    "analysis": "data/urwahward/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "ibn_al-muḍallil",
@@ -151,7 +164,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 21,
     "source": "data/hajibmudallil/source.json",
-    "analysis": "data/hajibmudallil/analysis.json"
+    "analysis": "data/hajibmudallil/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "al-ḥārith_b_ḥillizah",
@@ -162,7 +176,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 165,
     "source": "data/harithhillizah/source.json",
-    "analysis": "data/harithhillizah/analysis.json"
+    "analysis": "data/harithhillizah/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "hatimtai",
@@ -173,7 +188,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 357,
     "source": "data/hatimtai/source.json",
-    "analysis": "data/hatimtai/analysis.json"
+    "analysis": "data/hatimtai/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "imrualqays",
@@ -184,7 +200,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 563,
     "source": "data/imrualqays/source.json",
-    "analysis": "data/imrualqays/analysis.json"
+    "analysis": "data/imrualqays/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "laqit_b_yamur",
@@ -195,7 +212,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 58,
     "source": "data/laqit_b_yamur/source.json",
-    "analysis": "data/laqit_b_yamur/analysis.json"
+    "analysis": "data/laqit_b_yamur/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "al-muthaqqib_al-abdi",
@@ -206,7 +224,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 157,
     "source": "data/al-muthaqqib_al-abdi/source.json",
-    "analysis": "data/al-muthaqqib_al-abdi/analysis.json"
+    "analysis": "data/al-muthaqqib_al-abdi/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "salmah_b_jandal",
@@ -217,7 +236,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 205,
     "source": "data/salmah_b_jandal/source.json",
-    "analysis": "data/salmah_b_jandal/analysis.json"
+    "analysis": "data/salmah_b_jandal/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "al-samawal",
@@ -228,7 +248,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 96,
     "source": "data/al-samawal/source.json",
-    "analysis": "data/al-samawal/analysis.json"
+    "analysis": "data/al-samawal/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "shanfara",
@@ -239,7 +260,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 73,
     "source": "data/shanfara/source.json",
-    "analysis": "data/shanfara/analysis.json"
+    "analysis": "data/shanfara/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "al-sulayk_b_al-salakah",
@@ -250,7 +272,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 12,
     "source": "data/al-sulayk_b_al-salakah/source.json",
-    "analysis": "data/al-sulayk_b_al-salakah/analysis.json"
+    "analysis": "data/al-sulayk_b_al-salakah/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "taabbaa_sharran",
@@ -261,7 +284,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 294,
     "source": "data/taabbaa_sharran/source.json",
-    "analysis": "data/taabbaa_sharran/analysis.json"
+    "analysis": "data/taabbaa_sharran/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "tarafah",
@@ -272,7 +296,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 428,
     "source": "data/tarafah/source.json",
-    "analysis": "data/tarafah/analysis.json"
+    "analysis": "data/tarafah/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "tufayl_ghanawi",
@@ -283,7 +308,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 375,
     "source": "data/tufayl_ghanawi/source.json",
-    "analysis": "data/tufayl_ghanawi/analysis.json"
+    "analysis": "data/tufayl_ghanawi/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "hadirah",
@@ -294,7 +320,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 88,
     "source": "data/hadirah/source.json",
-    "analysis": "data/hadirah/analysis.json"
+    "analysis": "data/hadirah/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "al-asha",
@@ -305,7 +332,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 2113,
     "source": "data/al-asha/source.json",
-    "analysis": "data/al-asha/analysis.json"
+    "analysis": "data/al-asha/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "amir_tufayl",
@@ -316,7 +344,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 343,
     "source": "data/amir_tufayl/source.json",
-    "analysis": "data/amir_tufayl/analysis.json"
+    "analysis": "data/amir_tufayl/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "amr_madikarib",
@@ -327,7 +356,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 92,
     "source": "data/amr_madikarib/source.json",
-    "analysis": "data/amr_madikarib/analysis.json"
+    "analysis": "data/amr_madikarib/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "shammakh",
@@ -338,7 +368,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 546,
     "source": "data/shammakh/source.json",
-    "analysis": "data/shammakh/analysis.json"
+    "analysis": "data/shammakh/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "kab_b_zuhayr",
@@ -349,7 +380,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 624,
     "source": "data/kab_b_zuhayr/source.json",
-    "analysis": "data/kab_b_zuhayr/analysis.json"
+    "analysis": "data/kab_b_zuhayr/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "urwah_hizam",
@@ -360,7 +392,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 174,
     "source": "data/urwah_hizam/source.json",
-    "analysis": "data/urwah_hizam/analysis.json"
+    "analysis": "data/urwah_hizam/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "labid",
@@ -371,7 +404,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 1080,
     "source": "data/labid/source.json",
-    "analysis": "data/labid/analysis.json"
+    "analysis": "data/labid/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "hutayah",
@@ -382,7 +416,8 @@
     "chronological_layer": "mukhaḍramūn",
     "number_of_lines": 878,
     "source": "data/hutayah/source.json",
-    "analysis": "data/hutayah/analysis.json"
+    "analysis": "data/hutayah/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "alfind_alzimmani",
@@ -393,7 +428,8 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 193,
     "source": "data/alfind_alzimmani/source.json",
-    "analysis": "data/alfind_alzimmani/analysis.json"
+    "analysis": "data/alfind_alzimmani/analysis.json",
+    "gender": "male"
   },
   {
     "slug": "saad_b_malik",
@@ -404,6 +440,7 @@
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 61,
     "source": "data/saad_b_malik/source.json",
-    "analysis": "data/saad_b_malik/analysis.json"
+    "analysis": "data/saad_b_malik/analysis.json",
+    "gender": "male"
   }
 ]
