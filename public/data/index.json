@@ -383,5 +383,16 @@
     "number_of_lines": 878,
     "source": "data/hutayah/source.json",
     "analysis": "data/hutayah/analysis.json"
+  },
+  {
+    "slug": "alfind_alzimmani",
+    "name_en": "Al-Find al-Zimmānī",
+    "name_ar": "الفند الزماني",
+    "tribe": "Bakr b. Wāʾil",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 193,
+    "source": "data/alfind_alzimmani/source.json",
+    "analysis": "data/alfind_alzimmani/analysis.json"
   }
 ]
