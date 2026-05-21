@@ -394,5 +394,16 @@
     "number_of_lines": 193,
     "source": "data/alfind_alzimmani/source.json",
     "analysis": "data/alfind_alzimmani/analysis.json"
+  },
+  {
+    "slug": "saad_b_malik",
+    "name_en": "Saʿd b. Mālik al-Bakrī",
+    "name_ar": "سعد بن مالك البكري",
+    "tribe": "Qays b. Thaʿlabah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "number_of_lines": 61,
+    "source": "data/saad_b_malik/source.json",
+    "analysis": "data/saad_b_malik/analysis.json"
   }
 ]
