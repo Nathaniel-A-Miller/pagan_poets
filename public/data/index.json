@@ -90,7 +90,7 @@
     "tribe": "Hudhayl",
     "region": "Hijaz",
     "chronological_layer": "mukhaḍramūn",
-    "number_of_lines": 601,
+    "number_of_lines": 559,
     "source": "data/abudhuayb/source.json",
     "analysis": "data/abudhuayb/analysis.json",
     "gender": "male"
@@ -138,7 +138,7 @@
     "tribe": "ʿAbs",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
-    "number_of_lines": 609,
+    "number_of_lines": 477,
     "source": "data/antarah/source.json",
     "analysis": "data/antarah/analysis.json",
     "gender": "male"
@@ -150,7 +150,7 @@
     "tribe": "ʿAbs",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
-    "number_of_lines": 609,
+    "number_of_lines": 231,
     "source": "data/urwahward/source.json",
     "analysis": "data/urwahward/analysis.json",
     "gender": "male"
@@ -426,7 +426,7 @@
     "tribe": "Bakr b. Wāʾil",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
-    "number_of_lines": 193,
+    "number_of_lines": 191,
     "source": "data/alfind_alzimmani/source.json",
     "analysis": "data/alfind_alzimmani/analysis.json",
     "gender": "male"
@@ -450,7 +450,7 @@
     "tribe": "ʿAbd al-Qays (?)",
     "region": "Najd",
     "chronological_layer": "mukhaḍramūn",
-    "number_of_lines": 6,
+    "number_of_lines": 5,
     "source": "data/wahiba_bt_abd_aluza/source.json",
     "analysis": "data/wahiba_bt_abd_aluza/analysis.json",
     "gender": "female"
@@ -463,7 +463,7 @@
     "region": "Hijaz",
     "chronological_layer": "pre-Islamic",
     "gender": "female",
-    "number_of_lines": 31,
+    "number_of_lines": 30,
     "source": "data/suda_bt_alshamardal/source.json",
     "analysis": "data/suda_bt_alshamardal/analysis.json"
   },
