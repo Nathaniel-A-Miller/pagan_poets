@@ -27,6 +27,22 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
     return refs.sort((a, b) => a.category.localeCompare(b.category))
   }, [pooledData])
 
+  // Calculate total lines across all selected poets
+  const totalLinesCount = useMemo(() => {
+    if (!pooledData || pooledData.length === 0) return 0
+    
+    let total = 0
+    pooledData.forEach(({ poems }) => {
+      if (!poems) return
+      poems.forEach(poem => {
+        if (poem.verses) {
+          total += poem.verses.length
+        }
+      })
+    })
+    return total
+  }, [pooledData])
+
   // Enhanced filtering logic to handle search query matches
   const searchFilteredRefs = useMemo(() => {
     return allRefs.filter(r => {
@@ -101,7 +117,7 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
 
       {/* Dynamic Summary Bar */}
       <div className="search-summary" style={{ padding: '0.5rem 0', fontSize: '0.9rem', color: 'var(--stone)', borderBottom: '1px solid var(--ash)', marginBottom: '1rem' }} dir="ltr">
-        Showing {filtered.length} {filtered.length === 1 ? 'reference' : 'references'} 
+        Showing {filtered.length} {filtered.length === 1 ? 'reference' : 'references'} from {totalLinesCount.toLocaleString()} {totalLinesCount === 1 ? 'line' : 'lines'} of poetry
         {searchQuery.trim() && ` matching "${searchQuery}"`}
       </div>
 
