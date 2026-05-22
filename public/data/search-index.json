@@ -76,10 +76,12 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "saad_b_malik"
+    "saad_b_malik",
+    "zawjat_qurad_b_ajda"
   ],
   "abī": [
-    "zuhayr_ibn_abi_sulma"
+    "zuhayr_ibn_abi_sulma",
+    "zawjat_abi_alaaj_alkalbi"
   ],
   "sulmā": [
     "zuhayr_ibn_abi_sulma"
@@ -98,7 +100,11 @@
     "taabbaa_sharran",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "janub_alkahiliyyah",
+    "umm_sayyar"
   ],
   "male": [
     "zuhayr_ibn_abi_sulma",
@@ -179,7 +185,22 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "term": [
     "zuhayr_ibn_abi_sulma",
@@ -214,7 +235,10 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "zawjat_qurad_b_ajda"
   ],
   "maram": [
     "zuhayr_ibn_abi_sulma"
@@ -256,7 +280,14 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zaynab_bt_farwah"
   ],
   "sacred": [
     "zuhayr_ibn_abi_sulma",
@@ -289,7 +320,11 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "dhibyah_al-fahmiyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "zaynab_um_hassanah"
   ],
   "inviolable": [
     "zuhayr_ibn_abi_sulma",
@@ -378,7 +413,22 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "concept": [
     "zuhayr_ibn_abi_sulma",
@@ -412,7 +462,14 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_bt_farwah"
   ],
   "geography": [
     "zuhayr_ibn_abi_sulma",
@@ -627,7 +684,14 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "hazilah_aljadisiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "zaynab_um_hassanah"
   ],
   "house": [
     "zuhayr_ibn_abi_sulma",
@@ -673,7 +737,8 @@
     "amr_madikarib",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "labid"
+    "labid",
+    "janub_alkahiliyyah"
   ],
   "kaaba": [
     "zuhayr_ibn_abi_sulma",
@@ -724,7 +789,11 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "hind_bt_mabad",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah"
   ],
   "explicitly": [
     "zuhayr_ibn_abi_sulma",
@@ -760,7 +829,12 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah"
   ],
   "mentions": [
     "zuhayr_ibn_abi_sulma",
@@ -795,7 +869,10 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "hind_bt_mabad",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah"
   ],
   "ritual": [
     "zuhayr_ibn_abi_sulma",
@@ -825,7 +902,8 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "umm_sari_alkindiyyah"
   ],
   "circumambulation": [
     "zuhayr_ibn_abi_sulma",
@@ -839,7 +917,8 @@
   ],
   "anchoring": [
     "zuhayr_ibn_abi_sulma",
-    "al-ḥārith_b_ḥillizah"
+    "al-ḥārith_b_ḥillizah",
+    "janub_alkahiliyyah"
   ],
   "entity": [
     "zuhayr_ibn_abi_sulma",
@@ -867,7 +946,10 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "dhibyah_al-fahmiyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss"
   ],
   "practice": [
     "zuhayr_ibn_abi_sulma",
@@ -904,7 +986,10 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "hind_aldababiyyah",
+    "hind_bt_al-khuss",
+    "umm_sari_alkindiyyah"
   ],
   "الله": [
     "zuhayr_ibn_abi_sulma",
@@ -971,7 +1056,18 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "halimah_alhadariyyah",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "allah": [
     "zuhayr_ibn_abi_sulma",
@@ -1040,7 +1136,8 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "knows": [
     "zuhayr_ibn_abi_sulma"
@@ -1138,7 +1235,11 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
   ],
   "supreme": [
     "zuhayr_ibn_abi_sulma",
@@ -1233,7 +1334,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "الحساب": [
     "zuhayr_ibn_abi_sulma",
@@ -1280,7 +1382,11 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "hind_bt_ibn_amir_alaslami",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah"
   ],
   "day": [
     "zuhayr_ibn_abi_sulma",
@@ -1372,7 +1478,15 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dhibyah_al-fahmiyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "umm_sari_alkindiyyah",
+    "zaynab_um_hassanah"
   ],
   "while": [
     "zuhayr_ibn_abi_sulma"
@@ -1387,7 +1501,8 @@
     "taabbaa_sharran",
     "al-asha",
     "urwah_hizam",
-    "hutayah"
+    "hutayah",
+    "halimah_alhadariyyah"
   ],
   "islam": [
     "zuhayr_ibn_abi_sulma"
@@ -1433,7 +1548,12 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hind al-fazariyyah",
+    "hind_bt_al-khuss",
+    "zaynab_bt_farwah"
   ],
   "thought": [
     "zuhayr_ibn_abi_sulma",
@@ -1456,7 +1576,8 @@
     "ʿurwah_b_al-ward",
     "al-asha",
     "amir_tufayl",
-    "shammakh"
+    "shammakh",
+    "janub_alkahiliyyah"
   ],
   "fatesdeaths": [
     "zuhayr_ibn_abi_sulma",
@@ -1473,7 +1594,10 @@
     "shammakh",
     "labid",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "janub_alkahiliyyah",
+    "zawjat_qurad_b_ajda"
   ],
   "used": [
     "zuhayr_ibn_abi_sulma",
@@ -1501,7 +1625,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "describe": [
     "zuhayr_ibn_abi_sulma",
@@ -1543,7 +1668,9 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah"
   ],
   "inevitable": [
     "zuhayr_ibn_abi_sulma",
@@ -1595,7 +1722,12 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_bt_farwah"
   ],
   "common": [
     "zuhayr_ibn_abi_sulma",
@@ -1631,7 +1763,16 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "hazilah_aljadisiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_bt_farwah"
   ],
   "cosmological": [
     "zuhayr_ibn_abi_sulma",
@@ -1668,7 +1809,13 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_bt_farwah"
   ],
   "المنايا": [
     "zuhayr_ibn_abi_sulma",
@@ -1687,7 +1834,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "zawjat_qurad_b_ajda"
   ],
   "indiscriminate": [
     "zuhayr_ibn_abi_sulma"
@@ -1707,7 +1855,8 @@
     "al-asha",
     "labid",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "janub_alkahiliyyah"
   ],
   "reinforcing": [
     "zuhayr_ibn_abi_sulma",
@@ -1770,7 +1919,10 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah",
+    "zawjat_qurad_b_ajda"
   ],
   "emphasize": [
     "zuhayr_ibn_abi_sulma",
@@ -1840,7 +1992,14 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dhibyah_al-fahmiyyah",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "zaynab_um_hassanah"
   ],
   "describes": [
     "zuhayr_ibn_abi_sulma",
@@ -1866,7 +2025,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "labid"
+    "labid",
+    "hind_aldababiyyah"
   ],
   "gazelle": [
     "zuhayr_ibn_abi_sulma"
@@ -1944,7 +2104,8 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind al-fazariyyah"
   ],
   "considered": [
     "zuhayr_ibn_abi_sulma",
@@ -2056,7 +2217,8 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "dukhtanus_bt_laqit"
   ],
   "significance": [
     "zuhayr_ibn_abi_sulma",
@@ -2093,7 +2255,8 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_al-khuss"
   ],
   "society": [
     "zuhayr_ibn_abi_sulma",
@@ -2136,7 +2299,11 @@
     "al-asha",
     "amir_tufayl",
     "shammakh",
-    "labid"
+    "labid",
+    "hind_aldababiyyah",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "umm_sari_alkindiyyah"
   ],
   "swearing": [
     "zuhayr_ibn_abi_sulma",
@@ -2261,7 +2428,9 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah"
   ],
   "involving": [
     "zuhayr_ibn_abi_sulma",
@@ -2365,7 +2534,8 @@
     "antarah_ibn_shaddad",
     "hatimtai",
     "al-asha",
-    "shammakh"
+    "shammakh",
+    "umm_sari_alkindiyyah"
   ],
   "sacrifice": [
     "zuhayr_ibn_abi_sulma",
@@ -2395,7 +2565,9 @@
     "al-asha",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "hutayah"
+    "hutayah",
+    "hind al-fazariyyah",
+    "hind_bt_al-khuss"
   ],
   "associated": [
     "zuhayr_ibn_abi_sulma",
@@ -2454,7 +2626,11 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_aldababiyyah",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah"
   ],
   "sanctuaries": [
     "zuhayr_ibn_abi_sulma",
@@ -2494,7 +2670,8 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_al-khuss"
   ],
   "god": [
     "zuhayr_ibn_abi_sulma",
@@ -2520,7 +2697,9 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah",
+    "hind_bt_al-khuss"
   ],
   "invoking": [
     "zuhayr_ibn_abi_sulma",
@@ -2548,7 +2727,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_al-khuss"
   ],
   "الدهر": [
     "zuhayr_ibn_abi_sulma",
@@ -2577,7 +2757,9 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah"
   ],
   "dahr": [
     "zuhayr_ibn_abi_sulma",
@@ -2608,7 +2790,9 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah"
   ],
   "here": [
     "zuhayr_ibn_abi_sulma",
@@ -2687,7 +2871,9 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
   ],
   "destructive": [
     "zuhayr_ibn_abi_sulma",
@@ -2707,7 +2893,8 @@
     "amr_madikarib",
     "kab_b_zuhayr",
     "labid",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "janub_alkahiliyyah"
   ],
   "key": [
     "zuhayr_ibn_abi_sulma",
@@ -2731,7 +2918,8 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "dukhtanus_bt_laqit"
   ],
   "القدر": [
     "zuhayr_ibn_abi_sulma",
@@ -2834,7 +3022,9 @@
     "shammakh",
     "labid",
     "hutayah",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah"
   ],
   "أقسمت": [
     "zuhayr_ibn_abi_sulma",
@@ -2882,7 +3072,10 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "wahiba_bt_abd_aluza"
+    "wahiba_bt_abd_aluza",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "منى": [
     "zuhayr_ibn_abi_sulma",
@@ -3101,7 +3294,14 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "hazilah_aljadisiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "zaynab_um_hassanah"
   ],
   "الفؤولا": [
     "zuhayr_ibn_abi_sulma"
@@ -3250,7 +3450,12 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "dhibyah_al-fahmiyyah",
+    "hazilah_aljadisiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_al-khuss",
+    "zaynab_um_hassanah"
   ],
   "life": [
     "zuhayr_ibn_abi_sulma",
@@ -3272,7 +3477,13 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "hazilah_aljadisiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "janub_alkahiliyyah",
+    "zaynab_um_hassanah"
   ],
   "father": [
     "zuhayr_ibn_abi_sulma",
@@ -3317,7 +3528,8 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "ibnat_hudhaq_alhanfi"
   ],
   "period": [
     "zuhayr_ibn_abi_sulma",
@@ -3350,7 +3562,8 @@
     "saida_ibn_juayya",
     "khansaa",
     "shammakh",
-    "hutayah"
+    "hutayah",
+    "umm_sari_alkindiyyah"
   ],
   "aqr": [
     "zuhayr_ibn_abi_sulma"
@@ -3767,7 +3980,9 @@
     "amr_madikarib",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "dhibyah_al-fahmiyyah",
+    "hind al-fazariyyah"
   ],
   "description": [
     "zuhayr_ibn_abi_sulma",
@@ -3806,7 +4021,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "aldahr": [
     "zuhayr_ibn_abi_sulma",
@@ -3857,7 +4073,8 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "ibnat_hudhaq_alhanfi"
   ],
   "enduring": [
     "zuhayr_ibn_abi_sulma",
@@ -3890,7 +4107,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "kab_b_zuhayr",
-    "labid"
+    "labid",
+    "janub_alkahiliyyah"
   ],
   "active": [
     "zuhayr_ibn_abi_sulma",
@@ -4029,7 +4247,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "umm_sari_alkindiyyah"
   ],
   "performative": [
     "zuhayr_ibn_abi_sulma",
@@ -4110,7 +4329,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "تكلم": [
     "zuhayr_ibn_abi_sulma",
@@ -4265,7 +4485,9 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hazilah_aljadisiyyah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "نواشر": [
     "zuhayr_ibn_abi_sulma"
@@ -4436,7 +4658,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "عشرين": [
     "zuhayr_ibn_abi_sulma",
@@ -4932,7 +5155,6 @@
     "alqamah_alfahl",
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
-    "abu_dhuayb",
     "khansaa",
     "khirniq_bint_badr",
     "amr_ibn_qamia",
@@ -4961,7 +5183,8 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "hind_bt_ibn_amir_alaslami",
+    "janub_alkahiliyyah"
   ],
   "وحزنه": [
     "zuhayr_ibn_abi_sulma"
@@ -5070,7 +5293,8 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hazilah_aljadisiyyah"
   ],
   "قيني": [
     "zuhayr_ibn_abi_sulma"
@@ -5210,7 +5434,8 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_mabad"
   ],
   "حب": [
     "zuhayr_ibn_abi_sulma",
@@ -5325,7 +5550,8 @@
     "al-asha",
     "shammakh",
     "kab_b_zuhayr",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "بنوه": [
     "zuhayr_ibn_abi_sulma"
@@ -5805,7 +6031,8 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "wahiba_bt_abd_aluza"
+    "wahiba_bt_abd_aluza",
+    "hazilah_aljadisiyyah"
   ],
   "بمجرم": [
     "zuhayr_ibn_abi_sulma"
@@ -5881,7 +6108,8 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hazilah_aljadisiyyah"
   ],
   "يهريقوا": [
     "zuhayr_ibn_abi_sulma"
@@ -5930,7 +6158,8 @@
     "amir_tufayl",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "مبلغ": [
     "zuhayr_ibn_abi_sulma",
@@ -6090,7 +6319,17 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "amrah_bt_alhubab",
+    "halimah_alhadariyyah",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_mabad",
+    "janub_alkahiliyyah",
+    "zarqa_alyamamah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "نفوسكم": [
     "zuhayr_ibn_abi_sulma",
@@ -6166,7 +6405,8 @@
     "labid",
     "hutayah",
     "alfind_alzimmani",
-    "wahiba_bt_abd_aluza"
+    "wahiba_bt_abd_aluza",
+    "hazilah_aljadisiyyah"
   ],
   "يعجل": [
     "zuhayr_ibn_abi_sulma",
@@ -6205,7 +6445,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "الحرب": [
     "zuhayr_ibn_abi_sulma",
@@ -6224,7 +6465,8 @@
     "amir_tufayl",
     "amr_madikarib",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "إلا": [
     "zuhayr_ibn_abi_sulma",
@@ -6533,7 +6775,21 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "dukhtanus_bt_laqit",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "umm_sari_alkindiyyah",
+    "zahra_alkilaabiyyah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "تغل": [
     "zuhayr_ibn_abi_sulma"
@@ -6580,7 +6836,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "الحي": [
     "zuhayr_ibn_abi_sulma",
@@ -6710,7 +6967,8 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "wahiba_bt_abd_aluza"
+    "wahiba_bt_abd_aluza",
+    "hind_bt_mabad"
   ],
   "ضمضم": [
     "zuhayr_ibn_abi_sulma",
@@ -6833,7 +7091,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "يفزع": [
     "zuhayr_ibn_abi_sulma",
@@ -6941,7 +7200,8 @@
     "al-asha",
     "amir_tufayl",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "شاكي": [
     "zuhayr_ibn_abi_sulma"
@@ -7036,7 +7296,8 @@
     "tarafah",
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "يبد": [
     "zuhayr_ibn_abi_sulma",
@@ -7085,7 +7346,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "كلأ": [
     "zuhayr_ibn_abi_sulma"
@@ -7135,7 +7397,8 @@
     "amr_madikarib",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "جرت": [
     "zuhayr_ibn_abi_sulma",
@@ -7249,7 +7512,10 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hazilah_aljadisiyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_mabad"
   ],
   "شاركت": [
     "zuhayr_ibn_abi_sulma"
@@ -7471,7 +7737,8 @@
     "muhalhil_ibn_rabia",
     "ibn_al-muḍallil",
     "shanfara",
-    "al-asha"
+    "al-asha",
+    "hind_aldababiyyah"
   ],
   "بمسلم": [
     "zuhayr_ibn_abi_sulma",
@@ -7855,7 +8122,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "ويذمم": [
     "zuhayr_ibn_abi_sulma"
@@ -7981,7 +8249,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "يرق": [
     "zuhayr_ibn_abi_sulma",
@@ -8395,7 +8664,8 @@
     "amir_tufayl",
     "shammakh",
     "urwah_hizam",
-    "labid"
+    "labid",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "البكري": [
     "zuhayr_ibn_abi_sulma",
@@ -8515,7 +8785,8 @@
     "urwah_hizam",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_mabad"
   ],
   "يشتاق": [
     "zuhayr_ibn_abi_sulma",
@@ -8604,7 +8875,8 @@
     "al-asha",
     "shammakh",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "الراح": [
     "zuhayr_ibn_abi_sulma",
@@ -9080,7 +9352,8 @@
   "قدرت": [
     "zuhayr_ibn_abi_sulma",
     "tarafah",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "العراقي": [
     "zuhayr_ibn_abi_sulma",
@@ -9346,7 +9619,8 @@
     "amir_tufayl",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "قيس": [
     "zuhayr_ibn_abi_sulma",
@@ -9476,7 +9750,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "ممنونا": [
     "zuhayr_ibn_abi_sulma"
@@ -9682,7 +9957,7 @@
     "abu_dhuayb",
     "taabbaa_sharran",
     "al-asha",
-    "alfind_alzimmani"
+    "hazilah_aljadisiyyah"
   ],
   "السوقا": [
     "zuhayr_ibn_abi_sulma"
@@ -9719,7 +9994,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_aldababiyyah"
   ],
   "مهل": [
     "zuhayr_ibn_abi_sulma",
@@ -10397,7 +10673,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "hutayah"
+    "hutayah",
+    "janub_alkahiliyyah"
   ],
   "حواجبها": [
     "zuhayr_ibn_abi_sulma"
@@ -10479,7 +10756,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "بيني": [
     "zuhayr_ibn_abi_sulma",
@@ -10605,7 +10883,8 @@
     "amir_tufayl",
     "shammakh",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "العفاء": [
     "zuhayr_ibn_abi_sulma",
@@ -10636,7 +10915,9 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "طالبتها": [
     "zuhayr_ibn_abi_sulma"
@@ -10952,7 +11233,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_aldababiyyah"
   ],
   "عقيقته": [
     "zuhayr_ibn_abi_sulma",
@@ -11645,7 +11927,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "مخبآت": [
     "zuhayr_ibn_abi_sulma"
@@ -12211,7 +12494,8 @@
     "al-ḥārith_b_ḥillizah",
     "salmah_b_jandal",
     "taabbaa_sharran",
-    "tarafah"
+    "tarafah",
+    "hazilah_aljadisiyyah"
   ],
   "سيأتي": [
     "zuhayr_ibn_abi_sulma",
@@ -12243,7 +12527,8 @@
     "amir_tufayl",
     "kab_b_zuhayr",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_mabad"
   ],
   "المثلات": [
     "zuhayr_ibn_abi_sulma"
@@ -12586,7 +12871,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "السواء": [
     "zuhayr_ibn_abi_sulma",
@@ -13506,7 +13792,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "سوى": [
     "zuhayr_ibn_abi_sulma",
@@ -14003,7 +14290,8 @@
     "aws_ibn_hajar",
     "antarah_ibn_shaddad",
     "al-asha",
-    "labid"
+    "labid",
+    "hazilah_aljadisiyyah"
   ],
   "وجزع": [
     "zuhayr_ibn_abi_sulma"
@@ -14329,7 +14617,8 @@
   ],
   "الجزل": [
     "zuhayr_ibn_abi_sulma",
-    "shammakh"
+    "shammakh",
+    "hazilah_aljadisiyyah"
   ],
   "تجدهم": [
     "zuhayr_ibn_abi_sulma",
@@ -15286,7 +15575,8 @@
     "shammakh",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "ورواحله": [
     "zuhayr_ibn_abi_sulma",
@@ -17777,7 +18067,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "خريق": [
     "zuhayr_ibn_abi_sulma",
@@ -18002,7 +18293,12 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "zarqa_alyamamah",
+    "zaynab_bt_farwah"
   ],
   "حار": [
     "zuhayr_ibn_abi_sulma",
@@ -19834,7 +20130,8 @@
     "al-asha",
     "amir_tufayl",
     "kab_b_zuhayr",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "الصلح": [
     "zuhayr_ibn_abi_sulma",
@@ -20782,7 +21079,8 @@
     "antarah_ibn_shaddad",
     "taabbaa_sharran",
     "tufayl_ghanawi",
-    "amir_tufayl"
+    "amir_tufayl",
+    "hind_bt_mabad"
   ],
   "يأتينها": [
     "zuhayr_ibn_abi_sulma"
@@ -21528,7 +21826,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "كرهته": [
     "zuhayr_ibn_abi_sulma"
@@ -23698,7 +23997,8 @@
     "al-asha"
   ],
   "qays": [
-    "qays_ibn_al-khatim"
+    "qays_ibn_al-khatim",
+    "umm_qays_aldabbiyyah"
   ],
   "al-khaṭīm": [
     "qays_ibn_al-khatim"
@@ -23760,7 +24060,9 @@
     "amr_madikarib",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "dhibyah_al-fahmiyyah",
+    "hind al-fazariyyah"
   ],
   "sacral": [
     "qays_ibn_al-khatim",
@@ -23977,7 +24279,11 @@
     "amr_madikarib",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "amrah_bt_alhubab",
+    "hind_bt_al-khuss",
+    "umm_sari_alkindiyyah",
+    "zawjat_abi_alaaj_alkalbi"
   ],
   "حرام / أحلت": [
     "qays_ibn_al-khatim"
@@ -24188,7 +24494,8 @@
     "al-asha",
     "labid",
     "hutayah",
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "impersonal": [
     "qays_ibn_al-khatim",
@@ -24265,7 +24572,9 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "zawjat_qurad_b_ajda"
   ],
   "poetry": [
     "qays_ibn_al-khatim",
@@ -24295,7 +24604,9 @@
     "kab_b_zuhayr",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "halimah_alhadariyyah",
+    "zawjat_qurad_b_ajda"
   ],
   "beyond": [
     "qays_ibn_al-khatim"
@@ -24340,7 +24651,8 @@
     "tarafah",
     "amir_tufayl",
     "labid",
-    "hutayah"
+    "hutayah",
+    "zaynab_bt_farwah"
   ],
   "indifferent": [
     "qays_ibn_al-khatim",
@@ -24416,7 +24728,9 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_aldababiyyah",
+    "hind_bt_mabad"
   ],
   "customs": [
     "qays_ibn_al-khatim",
@@ -24472,7 +24786,8 @@
     "al-asha",
     "amir_tufayl",
     "labid",
-    "hutayah"
+    "hutayah",
+    "janub_alkahiliyyah"
   ],
   "concepts": [
     "qays_ibn_al-khatim",
@@ -24681,7 +24996,8 @@
     "al-asha",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "janub_alkahiliyyah"
   ],
   "akin": [
     "qays_ibn_al-khatim",
@@ -24702,7 +25018,8 @@
     "amir_tufayl",
     "labid",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "umm_sari_alkindiyyah"
   ],
   "حسنها": [
     "qays_ibn_al-khatim",
@@ -26374,7 +26691,8 @@
     "qays_ibn_al-khatim",
     "aws_ibn_hajar",
     "alnabighah_aldhubyani",
-    "labid"
+    "labid",
+    "hazilah_aljadisiyyah"
   ],
   "أشعلتها": [
     "qays_ibn_al-khatim"
@@ -27610,7 +27928,8 @@
     "taabbaa_sharran",
     "al-asha",
     "kab_b_zuhayr",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "كمشي": [
     "qays_ibn_al-khatim",
@@ -28606,7 +28925,8 @@
     "tarafah",
     "al-asha",
     "amir_tufayl",
-    "urwah_hizam"
+    "urwah_hizam",
+    "hazilah_aljadisiyyah"
   ],
   "نسود": [
     "qays_ibn_al-khatim"
@@ -28872,7 +29192,8 @@
     "hadirah",
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "هن": [
     "qays_ibn_al-khatim",
@@ -29794,7 +30115,8 @@
     "al-asha",
     "labid",
     "hutayah",
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "الخطوب": [
     "qays_ibn_al-khatim",
@@ -31689,7 +32011,8 @@
     "amir_tufayl",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "والقول": [
     "qays_ibn_al-khatim"
@@ -33347,7 +33670,22 @@
     "hutayah",
     "alfind_alzimmani",
     "saad_b_malik",
-    "wahiba_bt_abd_aluza"
+    "wahiba_bt_abd_aluza",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_mabad",
+    "ibnat_hudhaq_alhanfi",
+    "umm_qays_aldabbiyyah",
+    "umm_thawab_alhazzaniyyah",
+    "zahra_alkilaabiyyah",
+    "zarqa_alyamamah",
+    "zawjat_qurad_b_ajda",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "رب": [
     "aws_ibn_hajar",
@@ -33715,7 +34053,9 @@
     "amir_tufayl",
     "shammakh",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_mabad"
   ],
   "under": [
     "aws_ibn_hajar",
@@ -33732,7 +34072,9 @@
     "shammakh",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_mabad"
   ],
   "المطعم": [
     "aws_ibn_hajar",
@@ -33768,7 +34110,8 @@
     "amir_tufayl",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_aldababiyyah"
   ],
   "feeding": [
     "aws_ibn_hajar"
@@ -33778,7 +34121,8 @@
     "alqamah_alfahl",
     "antarah_ibn_shaddad",
     "tarafah",
-    "al-asha"
+    "al-asha",
+    "umm_sari_alkindiyyah"
   ],
   "feasts": [
     "aws_ibn_hajar"
@@ -33827,7 +34171,9 @@
     "al-asha",
     "amir_tufayl",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami",
+    "janub_alkahiliyyah"
   ],
   "الإله": [
     "aws_ibn_hajar",
@@ -33876,7 +34222,9 @@
     "al-asha",
     "hutayah",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
   ],
   "reflects": [
     "aws_ibn_hajar",
@@ -33983,7 +34331,8 @@
     "kab_b_zuhayr",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "zawjat_qurad_b_ajda"
   ],
   "protective": [
     "aws_ibn_hajar",
@@ -34213,7 +34562,8 @@
     "al-sulayk_b_al-salakah",
     "shammakh",
     "kab_b_zuhayr",
-    "labid"
+    "labid",
+    "hind_bt_mabad"
   ],
   "wellprovided": [
     "aws_ibn_hajar"
@@ -34423,7 +34773,8 @@
     "salmah_b_jandal",
     "tarafah",
     "tufayl_ghanawi",
-    "hutayah"
+    "hutayah",
+    "umm_sari_alkindiyyah"
   ],
   "العز": [
     "aws_ibn_hajar",
@@ -34684,7 +35035,8 @@
     "al-asha",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind al-fazariyyah"
   ],
   "recognized": [
     "aws_ibn_hajar",
@@ -34697,7 +35049,8 @@
     "al-asha",
     "urwah_hizam",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind al-fazariyyah"
   ],
   "frequently": [
     "aws_ibn_hajar"
@@ -36131,7 +36484,8 @@
     "salmah_b_jandal",
     "tufayl_ghanawi",
     "kab_b_zuhayr",
-    "labid"
+    "labid",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "لاحب": [
     "aws_ibn_hajar",
@@ -36743,7 +37097,8 @@
     "amr_madikarib",
     "kab_b_zuhayr",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "بقرواح": [
     "aws_ibn_hajar"
@@ -40038,7 +40393,8 @@
     "al-asha",
     "amir_tufayl",
     "shammakh",
-    "labid"
+    "labid",
+    "hind_bt_mabad"
   ],
   "طفيل": [
     "aws_ibn_hajar",
@@ -40254,7 +40610,8 @@
     "aws_ibn_hajar"
   ],
   "وكنتم": [
-    "aws_ibn_hajar"
+    "aws_ibn_hajar",
+    "hazilah_aljadisiyyah"
   ],
   "كعظم": [
     "aws_ibn_hajar"
@@ -40703,7 +41060,8 @@
     "ibn_al-muḍallil",
     "shammakh",
     "kab_b_zuhayr",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "عرضتها": [
     "aws_ibn_hajar",
@@ -42891,7 +43249,8 @@
   "النمل": [
     "aws_ibn_hajar",
     "imrualqays",
-    "hadirah"
+    "hadirah",
+    "hazilah_aljadisiyyah"
   ],
   "الربى": [
     "aws_ibn_hajar",
@@ -45181,7 +45540,8 @@
   "أذى": [
     "aws_ibn_hajar",
     "muhalhil_ibn_rabia",
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "بأثقال": [
     "aws_ibn_hajar"
@@ -45767,7 +46127,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "amr_madikarib",
-    "labid"
+    "labid",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "مخشوبة": [
     "aws_ibn_hajar"
@@ -46386,8 +46747,7 @@
     "salmah_b_jandal",
     "tufayl_ghanawi",
     "al-asha",
-    "shammakh",
-    "alfind_alzimmani"
+    "shammakh"
   ],
   "الذكاء": [
     "aws_ibn_hajar"
@@ -46936,7 +47296,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "amir_tufayl",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "متقسما": [
     "aws_ibn_hajar"
@@ -47641,7 +48002,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind al-fazariyyah"
   ],
   "acknowledgment": [
     "alqamah_alfahl",
@@ -47709,7 +48071,8 @@
     "antarah_ibn_shaddad",
     "salmah_b_jandal",
     "al-asha",
-    "hutayah"
+    "hutayah",
+    "hind_aldababiyyah"
   ],
   "votive": [
     "alqamah_alfahl",
@@ -47719,7 +48082,8 @@
     "tarafah",
     "al-asha",
     "shammakh",
-    "kab_b_zuhayr"
+    "kab_b_zuhayr",
+    "umm_sari_alkindiyyah"
   ],
   "imprecation": [
     "alqamah_alfahl",
@@ -48013,7 +48377,8 @@
   ],
   "نصيب": [
     "alqamah_alfahl",
-    "urwah_hizam"
+    "urwah_hizam",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "يردن": [
     "alqamah_alfahl",
@@ -48087,7 +48452,8 @@
   "وتصبح": [
     "alqamah_alfahl",
     "antarah_ibn_shaddad",
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "مولعة": [
     "alqamah_alfahl",
@@ -50546,7 +50912,8 @@
     "al-asha",
     "amir_tufayl",
     "urwah_hizam",
-    "labid"
+    "labid",
+    "hazilah_aljadisiyyah"
   ],
   "يلعن": [
     "alqamah_alfahl"
@@ -52438,12 +52805,16 @@
   "iraq": [
     "muhalhil_ibn_rabia",
     "al-ḥārith_b_ḥillizah",
-    "laqit_b_yamur"
+    "laqit_b_yamur",
+    "amrah_bt_alhubab",
+    "hind_bt_al-khuss"
   ],
   "euphrates": [
     "muhalhil_ibn_rabia",
     "al-ḥārith_b_ḥillizah",
-    "laqit_b_yamur"
+    "laqit_b_yamur",
+    "amrah_bt_alhubab",
+    "hind_bt_al-khuss"
   ],
   "personifies": [
     "muhalhil_ibn_rabia",
@@ -52569,7 +52940,8 @@
     "hatimtai",
     "al-asha",
     "kab_b_zuhayr",
-    "labid"
+    "labid",
+    "ibnat_hudhaq_alhanfi"
   ],
   "about": [
     "muhalhil_ibn_rabia",
@@ -52914,7 +53286,8 @@
   ],
   "earth": [
     "muhalhil_ibn_rabia",
-    "alnabighah_aldhubyani"
+    "alnabighah_aldhubyani",
+    "hind_aldababiyyah"
   ],
   "burial": [
     "muhalhil_ibn_rabia",
@@ -52930,7 +53303,9 @@
     "shammakh",
     "kab_b_zuhayr",
     "urwah_hizam",
-    "labid"
+    "labid",
+    "hind_aldababiyyah",
+    "hind_bt_mabad"
   ],
   "و الله": [
     "muhalhil_ibn_rabia"
@@ -53020,7 +53395,8 @@
   "has": [
     "muhalhil_ibn_rabia",
     "amir_tufayl",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "dukhtanus_bt_laqit"
   ],
   "consumedworn": [
     "muhalhil_ibn_rabia"
@@ -53199,7 +53575,9 @@
     "hadirah",
     "amr_madikarib",
     "labid",
-    "hutayah"
+    "hutayah",
+    "dhibyah_al-fahmiyyah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "تمائم": [
     "muhalhil_ibn_rabia",
@@ -53224,7 +53602,8 @@
     "khansaa",
     "imrualqays",
     "al-asha",
-    "labid"
+    "labid",
+    "hind_aldababiyyah"
   ],
   "objects": [
     "muhalhil_ibn_rabia",
@@ -54199,7 +54578,8 @@
   ],
   "الناعي": [
     "muhalhil_ibn_rabia",
-    "khansaa"
+    "khansaa",
+    "hind_bt_mabad"
   ],
   "تطاير": [
     "muhalhil_ibn_rabia",
@@ -54811,7 +55191,8 @@
   ],
   "لكنا": [
     "muhalhil_ibn_rabia",
-    "tufayl_ghanawi"
+    "tufayl_ghanawi",
+    "hazilah_aljadisiyyah"
   ],
   "طعنا": [
     "muhalhil_ibn_rabia",
@@ -56349,7 +56730,8 @@
     "muhalhil_ibn_rabia",
     "alnabighah_aldhubyani",
     "al-asha",
-    "amir_tufayl"
+    "amir_tufayl",
+    "hazilah_aljadisiyyah"
   ],
   "حلا": [
     "muhalhil_ibn_rabia",
@@ -56948,7 +57330,8 @@
   "الفعل": [
     "muhalhil_ibn_rabia",
     "kab_b_zuhayr",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "أطلال": [
     "muhalhil_ibn_rabia",
@@ -57448,7 +57831,8 @@
   ],
   "فكونوا": [
     "muhalhil_ibn_rabia",
-    "kab_b_zuhayr"
+    "kab_b_zuhayr",
+    "hazilah_aljadisiyyah"
   ],
   "مالكم": [
     "muhalhil_ibn_rabia",
@@ -57566,7 +57950,8 @@
   "بعل": [
     "muhalhil_ibn_rabia",
     "shanfara",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "أخرى": [
     "muhalhil_ibn_rabia",
@@ -58360,7 +58745,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "shammakh",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "نغار": [
     "muhalhil_ibn_rabia"
@@ -59383,7 +59769,8 @@
   ],
   "every": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "dukhtanus_bt_laqit"
   ],
   "appointed": [
     "alnabighah_aldhubyani",
@@ -59405,7 +59792,8 @@
     "al-asha",
     "shammakh",
     "labid",
-    "hutayah"
+    "hutayah",
+    "dukhtanus_bt_laqit"
   ],
   "nature": [
     "alnabighah_aldhubyani",
@@ -59415,7 +59803,9 @@
     "tarafah",
     "al-asha",
     "amir_tufayl",
-    "labid"
+    "labid",
+    "dukhtanus_bt_laqit",
+    "hind_bt_al-khuss"
   ],
   "تلفظ": [
     "alnabighah_aldhubyani"
@@ -59550,7 +59940,8 @@
     "antarah_ibn_shaddad",
     "tarafah",
     "al-asha",
-    "labid"
+    "labid",
+    "umm_sari_alkindiyyah"
   ],
   "blessing": [
     "alnabighah_aldhubyani",
@@ -60094,7 +60485,8 @@
     "al-asha",
     "amir_tufayl",
     "urwah_hizam",
-    "labid"
+    "labid",
+    "hind al-fazariyyah"
   ],
   "العتاق": [
     "alnabighah_aldhubyani",
@@ -60108,7 +60500,8 @@
   ],
   "includes": [
     "alnabighah_aldhubyani",
-    "al-asha"
+    "al-asha",
+    "hind al-fazariyyah"
   ],
   "noble": [
     "alnabighah_aldhubyani",
@@ -60402,7 +60795,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "urwah_hizam",
-    "hutayah"
+    "hutayah",
+    "hind_bt_mabad"
   ],
   "صرف الدهر": [
     "alnabighah_aldhubyani"
@@ -60418,7 +60812,8 @@
   ],
   "قبره": [
     "alnabighah_aldhubyani",
-    "khansaa"
+    "khansaa",
+    "hind_bt_mabad"
   ],
   "حباء فوق أحجار قبره": [
     "alnabighah_aldhubyani"
@@ -61745,8 +62140,7 @@
     "alnabighah_aldhubyani"
   ],
   "بنت": [
-    "alnabighah_aldhubyani",
-    "suda_bt_alshamardal"
+    "alnabighah_aldhubyani"
   ],
   "قريبة": [
     "alnabighah_aldhubyani"
@@ -62390,8 +62784,7 @@
   ],
   "الفند": [
     "alnabighah_aldhubyani",
-    "tarafah",
-    "alfind_alzimmani"
+    "tarafah"
   ],
   "وخيس": [
     "alnabighah_aldhubyani"
@@ -65683,7 +66076,8 @@
     "alnabighah_aldhubyani",
     "antarah_ibn_shaddad",
     "ʿurwah_b_al-ward",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "يريبها": [
     "alnabighah_aldhubyani"
@@ -67856,8 +68250,7 @@
     "alnabighah_aldhubyani",
     "taabbaa_sharran",
     "al-asha",
-    "kab_b_zuhayr",
-    "suda_bt_alshamardal"
+    "kab_b_zuhayr"
   ],
   "عرصات": [
     "alnabighah_aldhubyani"
@@ -71987,7 +72380,8 @@
   ],
   "swear": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_bt_al-khuss"
   ],
   "behind": [
     "saida_ibn_juayya"
@@ -72196,7 +72590,8 @@
     "al-samawal",
     "tarafah",
     "amir_tufayl",
-    "kab_b_zuhayr"
+    "kab_b_zuhayr",
+    "zaynab_um_hassanah"
   ],
   "نَحَروا": [
     "saida_ibn_juayya"
@@ -72286,7 +72681,9 @@
     "hadirah",
     "amr_madikarib",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "دَهـر": [
     "saida_ibn_juayya"
@@ -72342,7 +72739,8 @@
   "مَن": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "يَتَحَبَّبُ": [
     "saida_ibn_juayya"
@@ -72405,7 +72803,20 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dhibyah_al-fahmiyyah",
+    "dukhtanus_bt_laqit",
+    "hind al-fazariyyah",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "umm_sayyar",
+    "zarqa_alyamamah",
+    "zawjat_abi_alaaj_alkalbi",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "فُؤادُكَ": [
     "saida_ibn_juayya"
@@ -72434,7 +72845,8 @@
   "يَومَ": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "لَقيتَها": [
     "saida_ibn_juayya"
@@ -72442,7 +72854,8 @@
   "مِن": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_aldababiyyah"
   ],
   "وَحشِ": [
     "saida_ibn_juayya",
@@ -72506,14 +72919,30 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "zahra_alkilaabiyyah"
   ],
   "إِذا": [
     "saida_ibn_juayya",
     "abu_dhuayb",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "umm_sari_alkindiyyah",
+    "umm_thawab_alhazzaniyyah",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "يُرطَبُ": [
     "saida_ibn_juayya"
@@ -72590,7 +73019,11 @@
     "abu_dhuayb",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "amrah_bt_alhubab",
+    "halimah_alhadariyyah",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah"
   ],
   "تَرائِبُ": [
     "saida_ibn_juayya"
@@ -72759,7 +73192,8 @@
     "alfind_alzimmani"
   ],
   "رَأى": [
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "hind al-fazariyyah"
   ],
   "عَمقاً": [
     "saida_ibn_juayya"
@@ -72776,7 +73210,8 @@
   ],
   "كَما": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_aldababiyyah"
   ],
   "هَدَرَ": [
     "saida_ibn_juayya"
@@ -72858,7 +73293,8 @@
     "saida_ibn_juayya"
   ],
   "جاءَ": [
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "umm_qays_aldabbiyyah"
   ],
   "الشُجونُ": [
     "saida_ibn_juayya"
@@ -73008,7 +73444,8 @@
   "بَعدَ": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "الهُدوءِ": [
     "saida_ibn_juayya"
@@ -73089,7 +73526,8 @@
   "عَن": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_mabad"
   ],
   "مُتونٍ": [
     "saida_ibn_juayya"
@@ -73107,7 +73545,8 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "hind_bt_al-khuss"
   ],
   "مُخرَبُ": [
     "saida_ibn_juayya"
@@ -73140,7 +73579,9 @@
     "saida_ibn_juayya",
     "abu_dhuayb",
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "umm_qays_aldabbiyyah"
   ],
   "الشَرائِعُ": [
     "saida_ibn_juayya"
@@ -73318,7 +73759,16 @@
     "alfind_alzimmani",
     "saad_b_malik",
     "wahiba_bt_abd_aluza",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "amrah_bt_alhubab",
+    "hind_aldababiyyah",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "zahra_alkilaabiyyah",
+    "zarqa_alyamamah",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah"
   ],
   "الخُرسِ": [
     "saida_ibn_juayya"
@@ -73386,7 +73836,8 @@
   "لَيسَ": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "مَأرَبُ": [
     "saida_ibn_juayya"
@@ -73485,7 +73936,8 @@
   "لَم": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "يَهرُبوا": [
     "saida_ibn_juayya"
@@ -73610,7 +74062,9 @@
   "لَهُ": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "janub_alkahiliyyah",
+    "umm_thawab_alhazzaniyyah"
   ],
   "زَوافِرُ": [
     "saida_ibn_juayya"
@@ -73718,7 +74172,8 @@
     "saida_ibn_juayya"
   ],
   "غارَةٍ": [
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "janub_alkahiliyyah"
   ],
   "فَيَقولُ": [
     "saida_ibn_juayya"
@@ -73953,7 +74408,10 @@
   "أَلا": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dhibyah_al-fahmiyyah",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad"
   ],
   "مَنجى": [
     "saida_ibn_juayya"
@@ -73997,7 +74455,12 @@
   "كانَ": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "dhibyah_al-fahmiyyah",
+    "halimah_alhadariyyah",
+    "hind_bt_mabad",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah"
   ],
   "صَحيحاً": [
     "saida_ibn_juayya"
@@ -74019,7 +74482,8 @@
   ],
   "أَبَداً": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "umm_qays_aldabbiyyah"
   ],
   "لَولا": [
     "saida_ibn_juayya",
@@ -74113,11 +74577,14 @@
   ],
   "أَبا": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "لَكَ": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "halimah_alhadariyyah",
+    "janub_alkahiliyyah"
   ],
   "سارَ": [
     "saida_ibn_juayya",
@@ -74410,7 +74877,8 @@
     "saida_ibn_juayya"
   ],
   "ماءٍ": [
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "zarqa_alyamamah"
   ],
   "فَهِيَ": [
     "saida_ibn_juayya",
@@ -75059,7 +75527,12 @@
   "وَما": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "wahiba_bt_abd_aluza"
+    "wahiba_bt_abd_aluza",
+    "halimah_alhadariyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "janub_alkahiliyyah",
+    "zaynab_um_hassanah"
   ],
   "ضَرَبٌ": [
     "saida_ibn_juayya",
@@ -75141,7 +75614,8 @@
   ],
   "عَنها": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "كُلُّ": [
     "saida_ibn_juayya"
@@ -75156,7 +75630,8 @@
   "فَما": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "zaynab_al-yashkuriyyah"
   ],
   "بَرِحَ": [
     "saida_ibn_juayya"
@@ -75445,7 +75920,8 @@
   ],
   "وَلَو": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_bt_mabad"
   ],
   "أَمسَت": [
     "saida_ibn_juayya"
@@ -76642,7 +77118,8 @@
   "القَومَ": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "حَصَروا": [
     "saida_ibn_juayya"
@@ -76650,7 +77127,8 @@
   "فَلا": [
     "saida_ibn_juayya",
     "abu_dhuayb",
-    "saad_b_malik"
+    "saad_b_malik",
+    "zawjat_abi_alaaj_alkalbi"
   ],
   "رَيــبَ": [
     "saida_ibn_juayya"
@@ -77098,7 +77576,8 @@
     "saad_b_malik"
   ],
   "لَيلي": [
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "hind al-fazariyyah"
   ],
   "طالَ": [
     "saida_ibn_juayya",
@@ -78306,7 +78785,9 @@
   ],
   "لَقَد": [
     "saida_ibn_juayya",
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah"
   ],
   "ثَوى": [
     "saida_ibn_juayya"
@@ -78487,7 +78968,8 @@
     "saida_ibn_juayya"
   ],
   "يَومُ": [
-    "saida_ibn_juayya"
+    "saida_ibn_juayya",
+    "hind al-fazariyyah"
   ],
   "الليثِ": [
     "saida_ibn_juayya",
@@ -79046,7 +79528,8 @@
     "abu_dhuayb",
     "antarah_ibn_shaddad",
     "tarafah",
-    "al-asha"
+    "al-asha",
+    "janub_alkahiliyyah"
   ],
   "quasisacred": [
     "abu_dhuayb"
@@ -79097,7 +79580,8 @@
     "abu_dhuayb"
   ],
   "مَنايا": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "المَجازِ": [
     "abu_dhuayb"
@@ -79130,7 +79614,8 @@
     "abu_dhuayb"
   ],
   "عَمري": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "ones": [
     "abu_dhuayb",
@@ -79455,7 +79940,8 @@
     "labid"
   ],
   "كاهِلٍ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "أَصداءُ": [
     "abu_dhuayb"
@@ -79574,7 +80060,8 @@
     "abu_dhuayb"
   ],
   "لَعَمري": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "رَجَبِيَّة": [
     "abu_dhuayb"
@@ -79706,7 +80193,8 @@
     "abu_dhuayb",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "zaynab_bt_farwah"
   ],
   "المَضجَعُ": [
     "abu_dhuayb"
@@ -79718,7 +80206,8 @@
     "abu_dhuayb"
   ],
   "أَنَّهُ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_bt_al-khuss"
   ],
   "أَودىبَنِيَّ": [
     "abu_dhuayb"
@@ -79852,7 +80341,8 @@
   ],
   "كُلَّ": [
     "abu_dhuayb",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "zarqa_alyamamah"
   ],
   "يَومٍ": [
     "abu_dhuayb"
@@ -79886,7 +80376,8 @@
   ],
   "أَنَّ": [
     "abu_dhuayb",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "umm_sari_alkindiyyah"
   ],
   "البُكاءَ": [
     "abu_dhuayb"
@@ -80011,7 +80502,8 @@
     "abu_dhuayb"
   ],
   "أَعَزُّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "مُمَنَّعُ": [
     "abu_dhuayb"
@@ -80039,7 +80531,10 @@
   ],
   "كَأَنَّهُ": [
     "abu_dhuayb",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "hind al-fazariyyah",
+    "janub_alkahiliyyah"
   ],
   "عَبدٌ": [
     "abu_dhuayb"
@@ -80298,7 +80793,9 @@
     "abu_dhuayb"
   ],
   "ثُمَّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_bt_al-khuss",
+    "umm_thawab_alhazzaniyyah"
   ],
   "سَمِعنَ": [
     "abu_dhuayb"
@@ -80465,7 +80962,8 @@
   ],
   "بَني": [
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_bt_mabad"
   ],
   "يَزيدَ": [
     "abu_dhuayb"
@@ -80689,7 +81187,8 @@
     "abu_dhuayb"
   ],
   "بِكَفِّهِ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "dukhtanus_bt_laqit"
   ],
   "بيضٌ": [
     "abu_dhuayb"
@@ -80762,7 +81261,8 @@
     "alfind_alzimmani"
   ],
   "حَرِّها": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "amrah_bt_alhubab"
   ],
   "الكَريهَةِ": [
     "abu_dhuayb"
@@ -81117,7 +81617,8 @@
   ],
   "فَإِن": [
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "أَعتَذِر": [
     "abu_dhuayb"
@@ -81138,7 +81639,8 @@
     "abu_dhuayb"
   ],
   "أُمُّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "umm_thawab_alhazzaniyyah"
   ],
   "خِشفٍ": [
     "abu_dhuayb"
@@ -81157,7 +81659,9 @@
   ],
   "نالَ": [
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah",
+    "ibnat_hudhaq_alhanfi"
   ],
   "اِهتِصارُها": [
     "abu_dhuayb"
@@ -81166,7 +81670,8 @@
     "abu_dhuayb"
   ],
   "جَنى": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_aldababiyyah"
   ],
   "أَيكَةٍ": [
     "abu_dhuayb"
@@ -81252,7 +81757,10 @@
     "abu_dhuayb"
   ],
   "كَأَنَّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "umm_sari_alkindiyyah",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah"
   ],
   "عُقاراً": [
     "abu_dhuayb"
@@ -81454,7 +81962,10 @@
   ],
   "لَنا": [
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "umm_sari_alkindiyyah",
+    "umm_thawab_alhazzaniyyah",
+    "zaynab_bt_farwah"
   ],
   "صِرَمٌ": [
     "abu_dhuayb"
@@ -81463,7 +81974,8 @@
     "abu_dhuayb"
   ],
   "كُلِّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "amrah_bt_alhubab"
   ],
   "شَتوَةٍ": [
     "abu_dhuayb"
@@ -82070,7 +82582,8 @@
   ],
   "هِيَ": [
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "zaynab_al-yashkuriyyah"
   ],
   "تَقشَعِرُّ": [
     "abu_dhuayb"
@@ -82161,7 +82674,8 @@
     "abu_dhuayb"
   ],
   "وَقالَ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "صِحابي": [
     "abu_dhuayb"
@@ -82186,7 +82700,8 @@
   ],
   "تَكُ": [
     "abu_dhuayb",
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss"
   ],
   "أُنثى": [
     "abu_dhuayb",
@@ -82533,7 +83048,8 @@
     "abu_dhuayb"
   ],
   "تَمَّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zarqa_alyamamah"
   ],
   "فَأَصبَحَ": [
     "abu_dhuayb"
@@ -83098,7 +83614,8 @@
     "abu_dhuayb"
   ],
   "كَأَنَّهُمُ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "يُشَبُّ": [
     "abu_dhuayb"
@@ -83135,7 +83652,8 @@
     "abu_dhuayb"
   ],
   "صَبا": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_um_hassanah"
   ],
   "صَبوَةً": [
     "abu_dhuayb"
@@ -83159,7 +83677,8 @@
     "abu_dhuayb"
   ],
   "زالَ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_um_hassanah"
   ],
   "نَخلٌ": [
     "abu_dhuayb"
@@ -83301,7 +83820,8 @@
     "abu_dhuayb"
   ],
   "بَعدَها": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "وَخُروجُ": [
     "abu_dhuayb"
@@ -84021,7 +84541,12 @@
   ],
   "عَلَى": [
     "abu_dhuayb",
-    "saad_b_malik"
+    "saad_b_malik",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah"
   ],
   "أَطرِقا": [
     "abu_dhuayb"
@@ -84431,7 +84956,8 @@
     "abu_dhuayb"
   ],
   "شَبابُها": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_bt_farwah"
   ],
   "عَصاني": [
     "abu_dhuayb"
@@ -84689,7 +85215,8 @@
     "abu_dhuayb"
   ],
   "تَظَلُّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_bt_al-khuss"
   ],
   "الثَمراءِ": [
     "abu_dhuayb"
@@ -84843,7 +85370,8 @@
     "abu_dhuayb"
   ],
   "هُما": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "صَحيفَةٍ": [
     "abu_dhuayb"
@@ -84880,7 +85408,8 @@
   ],
   "إِنَّ": [
     "abu_dhuayb",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dhibyah_al-fahmiyyah"
   ],
   "الخَمرَ": [
     "abu_dhuayb"
@@ -84925,16 +85454,13 @@
     "abu_dhuayb"
   ],
   "اضافة": [
-    "abu_dhuayb",
-    "alfind_alzimmani"
+    "abu_dhuayb"
   ],
   "المساهمة": [
-    "abu_dhuayb",
-    "alfind_alzimmani"
+    "abu_dhuayb"
   ],
   "العضو": [
-    "abu_dhuayb",
-    "alfind_alzimmani"
+    "abu_dhuayb"
   ],
   "ميرنا": [
     "abu_dhuayb"
@@ -84943,7 +85469,8 @@
     "abu_dhuayb"
   ],
   "وَقائِلَةٍ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_bt_farwah"
   ],
   "حِذوَةُ": [
     "abu_dhuayb"
@@ -85037,7 +85564,8 @@
     "abu_dhuayb"
   ],
   "تَأَبَّطَ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "نَعلَيهِ": [
     "abu_dhuayb"
@@ -85092,7 +85620,8 @@
     "abu_dhuayb"
   ],
   "غَداةَ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "المُلَيحِ": [
     "abu_dhuayb"
@@ -85379,7 +85908,9 @@
   ],
   "كُلُّ": [
     "abu_dhuayb",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "janub_alkahiliyyah"
   ],
   "خَوّارٍ": [
     "abu_dhuayb"
@@ -86070,7 +86601,8 @@
     "abu_dhuayb"
   ],
   "أُخرى": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "مُشَلشِلَةً": [
     "abu_dhuayb"
@@ -86585,7 +87117,8 @@
   ],
   "حَيٍّ": [
     "abu_dhuayb",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "janub_alkahiliyyah"
   ],
   "أَنشَرَت": [
     "abu_dhuayb"
@@ -86618,7 +87151,8 @@
     "abu_dhuayb"
   ],
   "وَإِنَّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_bt_farwah"
   ],
   "دُموعي": [
     "abu_dhuayb"
@@ -86642,7 +87176,8 @@
     "abu_dhuayb"
   ],
   "دامَ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_um_hassanah"
   ],
   "الحَمامُ": [
     "abu_dhuayb"
@@ -87107,7 +87642,8 @@
     "abu_dhuayb"
   ],
   "كَالإِماءِ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "القَواعِدِ": [
     "abu_dhuayb"
@@ -87128,7 +87664,8 @@
     "abu_dhuayb"
   ],
   "واحِدِ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "halimah_alhadariyyah"
   ],
   "قَضَوا": [
     "abu_dhuayb"
@@ -87487,7 +88024,8 @@
   ],
   "مَعَ": [
     "abu_dhuayb",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "zaynab_bt_farwah"
   ],
   "الإِصباحِ": [
     "abu_dhuayb"
@@ -87643,7 +88181,8 @@
     "abu_dhuayb"
   ],
   "ـعِ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "dukhtanus_bt_laqit"
   ],
   "أَرضِ": [
     "abu_dhuayb"
@@ -87844,7 +88383,11 @@
     "abu_dhuayb"
   ],
   "فَإِنَّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_thawab_alhazzaniyyah",
+    "zarqa_alyamamah"
   ],
   "تُرنى": [
     "abu_dhuayb"
@@ -87950,7 +88493,8 @@
     "abu_dhuayb"
   ],
   "لَكِ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "dhibyah_al-fahmiyyah"
   ],
   "الأَينُ": [
     "abu_dhuayb"
@@ -88307,7 +88851,8 @@
     "abu_dhuayb"
   ],
   "عَنِ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_bt_al-khuss"
   ],
   "السَكنِ": [
     "abu_dhuayb"
@@ -88792,7 +89337,8 @@
     "abu_dhuayb"
   ],
   "بِآيَةِ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "وَقَفَت": [
     "abu_dhuayb"
@@ -89026,7 +89572,8 @@
     "abu_dhuayb"
   ],
   "أَحَبُّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_um_hassanah"
   ],
   "الجُزُر": [
     "abu_dhuayb"
@@ -89083,7 +89630,9 @@
     "abu_dhuayb"
   ],
   "فَيا": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "ibnat_hudhaq_alhanfi",
+    "zaynab_um_hassanah"
   ],
   "لَيتَهُم": [
     "abu_dhuayb"
@@ -89185,7 +89734,8 @@
     "abu_dhuayb",
     "alfind_alzimmani",
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah"
   ],
   "سِكّينُ": [
     "abu_dhuayb"
@@ -89269,13 +89819,16 @@
     "abu_dhuayb"
   ],
   "لَدَيَّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "zaynab_um_hassanah"
   ],
   "البَوارِقُ": [
     "abu_dhuayb"
   ],
   "فَتىً": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah",
+    "umm_qays_aldabbiyyah"
   ],
   "تُخشَ": [
     "abu_dhuayb"
@@ -89968,7 +90521,8 @@
     "abu_dhuayb"
   ],
   "سَحابَةٌ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "umm_sari_alkindiyyah"
   ],
   "يُنَفِّرُ": [
     "abu_dhuayb"
@@ -90119,10 +90673,12 @@
     "abu_dhuayb"
   ],
   "غَيِّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind_bt_al-khuss"
   ],
   "ذُبيانَ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "داحِسُ": [
     "abu_dhuayb"
@@ -90194,7 +90750,8 @@
     "abu_dhuayb"
   ],
   "عَلِمَ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "janub_alkahiliyyah"
   ],
   "الأَقوامُ": [
     "abu_dhuayb"
@@ -90319,17 +90876,6 @@
   "أَناتُها": [
     "abu_dhuayb"
   ],
-  "الضحاك": [
-    "abu_dhuayb"
-  ],
-  "المزيد": [
-    "abu_dhuayb",
-    "alfind_alzimmani",
-    "suda_bt_alshamardal"
-  ],
-  "ذؤيب": [
-    "abu_dhuayb"
-  ],
   "أَمِنكَ": [
     "abu_dhuayb"
   ],
@@ -90385,15 +90931,13 @@
     "abu_dhuayb"
   ],
   "بِكُلِّ": [
-    "abu_dhuayb"
+    "abu_dhuayb",
+    "hind al-fazariyyah"
   ],
   "مَحلوبٍ": [
     "abu_dhuayb"
   ],
   "أَشَم": [
-    "abu_dhuayb"
-  ],
-  "مُذَلَّقٍ": [
     "abu_dhuayb"
   ],
   "al-khansāʾ": [
@@ -90412,7 +90956,30 @@
     "al-asha",
     "labid",
     "wahiba_bt_abd_aluza",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "amrah_bt_alhubab",
+    "dhibyah_al-fahmiyyah",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hazilah_aljadisiyyah",
+    "hind_aldababiyyah",
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "umm_sari_alkindiyyah",
+    "umm_sayyar",
+    "umm_thawab_alhazzaniyyah",
+    "zahra_alkilaabiyyah",
+    "zarqa_alyamamah",
+    "zawjat_abi_alaaj_alkalbi",
+    "zawjat_qurad_b_ajda",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "presenting": [
     "khansaa",
@@ -90499,13 +91066,15 @@
   ],
   "fulfilling": [
     "khansaa",
-    "tarafah"
+    "tarafah",
+    "umm_sari_alkindiyyah"
   ],
   "implicitly": [
     "khansaa",
     "tarafah",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_al-khuss"
   ],
   "sanction": [
     "khansaa",
@@ -90646,7 +91215,8 @@
     "al-asha",
     "labid",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "zaynab_bt_farwah"
   ],
   "تبعوا": [
     "khansaa"
@@ -90664,7 +91234,8 @@
     "khansaa"
   ],
   "meaning": [
-    "khansaa"
+    "khansaa",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "they": [
     "khansaa",
@@ -90686,7 +91257,8 @@
     "ʿurwah_b_al-ward",
     "amir_tufayl",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "القصاص": [
     "khansaa"
@@ -90745,7 +91317,8 @@
   "inevitability": [
     "khansaa",
     "antarah_ibn_shaddad",
-    "tarafah"
+    "tarafah",
+    "janub_alkahiliyyah"
   ],
   "all": [
     "khansaa",
@@ -90770,7 +91343,9 @@
     "khansaa",
     "amir_tufayl",
     "shammakh",
-    "hutayah"
+    "hutayah",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah"
   ],
   "صروف": [
     "khansaa",
@@ -90814,7 +91389,8 @@
     "khansaa"
   ],
   "lillhi": [
-    "khansaa"
+    "khansaa",
+    "hind al-fazariyyah"
   ],
   "darru": [
     "khansaa"
@@ -90826,7 +91402,8 @@
     "labid"
   ],
   "exclamation": [
-    "khansaa"
+    "khansaa",
+    "hind al-fazariyyah"
   ],
   "praise": [
     "khansaa",
@@ -91209,7 +91786,8 @@
     "khansaa"
   ],
   "core": [
-    "khansaa"
+    "khansaa",
+    "hind_bt_al-khuss"
   ],
   "owl": [
     "khansaa",
@@ -91352,7 +91930,8 @@
   "views": [
     "khansaa",
     "al-asha",
-    "labid"
+    "labid",
+    "janub_alkahiliyyah"
   ],
   "dragging": [
     "khansaa"
@@ -92220,7 +92799,8 @@
     "hatimtai",
     "tarafah",
     "al-asha",
-    "amir_tufayl"
+    "amir_tufayl",
+    "hind_bt_mabad"
   ],
   "متسرع": [
     "khansaa"
@@ -93590,8 +94170,7 @@
   ],
   "او": [
     "khansaa",
-    "alfind_alzimmani",
-    "suda_bt_alshamardal"
+    "janub_alkahiliyyah"
   ],
   "معاوية": [
     "khansaa",
@@ -94362,7 +94941,8 @@
     "al-asha"
   ],
   "بفاحشة": [
-    "khansaa"
+    "khansaa",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "توفاك": [
     "khansaa"
@@ -96655,7 +97235,8 @@
     "khansaa",
     "tarafah",
     "shammakh",
-    "labid"
+    "labid",
+    "ibnat_hudhaq_alhanfi"
   ],
   "الايام": [
     "khansaa"
@@ -96957,7 +97538,8 @@
   "للذي": [
     "khansaa",
     "hatimtai",
-    "labid"
+    "labid",
+    "hazilah_aljadisiyyah"
   ],
   "غودرت": [
     "khansaa",
@@ -99536,7 +100118,8 @@
     "khansaa",
     "imrualqays",
     "tufayl_ghanawi",
-    "labid"
+    "labid",
+    "hind_aldababiyyah"
   ],
   "الوابل": [
     "khansaa",
@@ -102517,7 +103100,13 @@
   "bt.": [
     "khirniq_bint_badr",
     "wahiba_bt_abd_aluza",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "amrah_bt_alhubab",
+    "dukhtanus_bt_laqit",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad",
+    "zaynab_bt_farwah"
   ],
   "badr": [
     "khirniq_bint_badr"
@@ -104385,7 +104974,8 @@
     "tarafah",
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "محورة": [
     "amr_ibn_qamia",
@@ -106681,7 +107271,8 @@
   "vows": [
     "antarah_ibn_shaddad",
     "kab_b_zuhayr",
-    "labid"
+    "labid",
+    "umm_sari_alkindiyyah"
   ],
   "consuming": [
     "antarah_ibn_shaddad"
@@ -106711,7 +107302,8 @@
     "hutayah"
   ],
   "associating": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "hind_bt_al-khuss"
   ],
   "rising": [
     "antarah_ibn_shaddad",
@@ -109681,7 +110273,8 @@
   "مشية": [
     "antarah_ibn_shaddad",
     "taabbaa_sharran",
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "شارب": [
     "antarah_ibn_shaddad",
@@ -111062,7 +111655,8 @@
     "kab_b_zuhayr"
   ],
   "فخلوا": [
-    "antarah_ibn_shaddad"
+    "antarah_ibn_shaddad",
+    "hazilah_aljadisiyyah"
   ],
   "وجببوا": [
     "antarah_ibn_shaddad"
@@ -112814,7 +113408,8 @@
   ],
   "almost": [
     "ʿurwah_b_al-ward",
-    "saad_b_malik"
+    "saad_b_malik",
+    "zaynab_bt_farwah"
   ],
   "هامة": [
     "ʿurwah_b_al-ward",
@@ -112906,7 +113501,8 @@
     "ʿurwah_b_al-ward",
     "amir_tufayl",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "ريب المنون": [
     "ʿurwah_b_al-ward",
@@ -115197,7 +115793,8 @@
     "hutayah"
   ],
   "الهزل": [
-    "ʿurwah_b_al-ward"
+    "ʿurwah_b_al-ward",
+    "hazilah_aljadisiyyah"
   ],
   "فإنكم": [
     "ʿurwah_b_al-ward"
@@ -115715,7 +116312,8 @@
   ],
   "ibn": [
     "ibn_al-muḍallil",
-    "shammakh"
+    "shammakh",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "al-muḍallil": [
     "ibn_al-muḍallil"
@@ -115993,7 +116591,8 @@
   "decree": [
     "al-ḥārith_b_ḥillizah",
     "tufayl_ghanawi",
-    "amir_tufayl"
+    "amir_tufayl",
+    "dukhtanus_bt_laqit"
   ],
   "alqa": [
     "al-ḥārith_b_ḥillizah"
@@ -118181,7 +118780,8 @@
   ],
   "speakers": [
     "hatimtai",
-    "amir_tufayl"
+    "amir_tufayl",
+    "zaynab_um_hassanah"
   ],
   "ودا": [
     "hatimtai"
@@ -118189,7 +118789,8 @@
   "south": [
     "hatimtai",
     "imrualqays",
-    "amr_madikarib"
+    "amr_madikarib",
+    "umm_sari_alkindiyyah"
   ],
   "صداي": [
     "hatimtai",
@@ -118241,7 +118842,8 @@
     "hatimtai"
   ],
   "describing": [
-    "hatimtai"
+    "hatimtai",
+    "hind_bt_al-khuss"
   ],
   "ease": [
     "hatimtai"
@@ -120580,8 +121182,7 @@
   ],
   "أوس": [
     "hatimtai",
-    "kab_b_zuhayr",
-    "alfind_alzimmani"
+    "kab_b_zuhayr"
   ],
   "أشياعه": [
     "hatimtai"
@@ -120958,7 +121559,8 @@
   "عالما": [
     "hatimtai",
     "al-asha",
-    "kab_b_zuhayr"
+    "kab_b_zuhayr",
+    "hazilah_aljadisiyyah"
   ],
   "يلمس": [
     "hatimtai",
@@ -122450,7 +123052,8 @@
   ],
   "yemen": [
     "imrualqays",
-    "amr_madikarib"
+    "amr_madikarib",
+    "umm_sari_alkindiyyah"
   ],
   "حلفة": [
     "imrualqays",
@@ -127709,7 +128312,8 @@
     "imrualqays"
   ],
   "العروس": [
-    "imrualqays"
+    "imrualqays",
+    "hazilah_aljadisiyyah"
   ],
   "تسد": [
     "imrualqays",
@@ -128283,7 +128887,8 @@
     "al-asha",
     "amir_tufayl",
     "kab_b_zuhayr",
-    "labid"
+    "labid",
+    "hazilah_aljadisiyyah"
   ],
   "زهلولا": [
     "imrualqays"
@@ -129140,7 +129745,8 @@
     "labid"
   ],
   "laqīṭ": [
-    "laqit_b_yamur"
+    "laqit_b_yamur",
+    "dukhtanus_bt_laqit"
   ],
   "yaʿmur": [
     "laqit_b_yamur"
@@ -129505,7 +130111,8 @@
     "tufayl_ghanawi",
     "al-asha",
     "hutayah",
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hazilah_aljadisiyyah"
   ],
   "تحرثون": [
     "laqit_b_yamur"
@@ -131619,7 +132226,8 @@
   ],
   "وللموت": [
     "al-muthaqqib_al-abdi",
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "يثب": [
     "al-muthaqqib_al-abdi"
@@ -132222,7 +132830,8 @@
     "salmah_b_jandal"
   ],
   "دواهي": [
-    "salmah_b_jandal"
+    "salmah_b_jandal",
+    "janub_alkahiliyyah"
   ],
   "وقبض": [
     "salmah_b_jandal"
@@ -134220,7 +134829,8 @@
   "polytheistic": [
     "al-samawal",
     "shammakh",
-    "labid"
+    "labid",
+    "hind_bt_al-khuss"
   ],
   "alirm": [
     "al-samawal"
@@ -136920,7 +137530,8 @@
     "taabbaa_sharran"
   ],
   "الذل": [
-    "taabbaa_sharran"
+    "taabbaa_sharran",
+    "hazilah_aljadisiyyah"
   ],
   "يعرا": [
     "taabbaa_sharran"
@@ -141294,7 +141905,8 @@
   ],
   "عدد": [
     "tarafah",
-    "hadirah"
+    "hadirah",
+    "hazilah_aljadisiyyah"
   ],
   "تبطنت": [
     "tarafah",
@@ -141553,7 +142165,8 @@
   ],
   "الحكم": [
     "tarafah",
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "يقصد": [
     "tarafah",
@@ -143114,7 +143727,8 @@
     "al-asha",
     "amir_tufayl",
     "urwah_hizam",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "اهتدت": [
     "tarafah",
@@ -147930,10 +148544,12 @@
     "hadirah",
     "al-asha",
     "hutayah",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "truth": [
-    "hadirah"
+    "hadirah",
+    "hazilah_aljadisiyyah"
   ],
   "دم الذبيح": [
     "hadirah",
@@ -149853,7 +150469,8 @@
     "al-asha"
   ],
   "عدوكم": [
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "أعطيه": [
     "al-asha"
@@ -150632,7 +151249,8 @@
   ],
   "يؤتى": [
     "al-asha",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "عذابها": [
     "al-asha"
@@ -151285,7 +151903,8 @@
   "كذوب": [
     "al-asha",
     "shammakh",
-    "urwah_hizam"
+    "urwah_hizam",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "خساف": [
     "al-asha"
@@ -153028,7 +153647,8 @@
   ],
   "ندمت": [
     "al-asha",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "كمثله": [
     "al-asha"
@@ -153554,7 +154174,8 @@
   "تحدث": [
     "al-asha",
     "urwah_hizam",
-    "labid"
+    "labid",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "لوصلك": [
     "al-asha"
@@ -157762,7 +158383,8 @@
     "al-asha"
   ],
   "عفيرة": [
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "خائصا": [
     "al-asha"
@@ -157994,7 +158616,8 @@
     "al-asha"
   ],
   "بطنها": [
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "نخيلا": [
     "al-asha"
@@ -159992,7 +160615,8 @@
   "أتينا": [
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "أنيهم": [
     "al-asha"
@@ -166772,7 +167396,8 @@
     "al-asha"
   ],
   "فموتوا": [
-    "al-asha"
+    "al-asha",
+    "hazilah_aljadisiyyah"
   ],
   "بأسيافكم": [
     "al-asha"
@@ -168212,7 +168837,8 @@
     "al-asha"
   ],
   "ʿāmir": [
-    "amir_tufayl"
+    "amir_tufayl",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "عامر بن الطفيل": [
     "amir_tufayl"
@@ -168654,7 +169280,8 @@
   ],
   "أدرك": [
     "amir_tufayl",
-    "labid"
+    "labid",
+    "hind_bt_ibn_amir_alaslami"
   ],
   "محقق": [
     "amir_tufayl"
@@ -176165,7 +176792,8 @@
     "shammakh"
   ],
   "فأنفذ": [
-    "shammakh"
+    "shammakh",
+    "hazilah_aljadisiyyah"
   ],
   "حضنيها": [
     "shammakh"
@@ -176866,7 +177494,8 @@
     "kab_b_zuhayr"
   ],
   "covering": [
-    "kab_b_zuhayr"
+    "kab_b_zuhayr",
+    "hind_aldababiyyah"
   ],
   "سقي": [
     "kab_b_zuhayr",
@@ -176948,7 +177577,8 @@
     "kab_b_zuhayr"
   ],
   "تغضبوا": [
-    "kab_b_zuhayr"
+    "kab_b_zuhayr",
+    "hazilah_aljadisiyyah"
   ],
   "تدركوا": [
     "kab_b_zuhayr"
@@ -182672,7 +183302,8 @@
     "urwah_hizam"
   ],
   "غرابي": [
-    "urwah_hizam"
+    "urwah_hizam",
+    "hind_bt_mabad"
   ],
   "تنتحبان": [
     "urwah_hizam"
@@ -192426,7 +193057,10 @@
     "hutayah"
   ],
   "laamr": [
-    "hutayah"
+    "hutayah",
+    "dhibyah_al-fahmiyyah",
+    "hind al-fazariyyah",
+    "zaynab_um_hassanah"
   ],
   "alrqit": [
     "hutayah"
@@ -193638,7 +194272,8 @@
     "hutayah"
   ],
   "بذا": [
-    "hutayah"
+    "hutayah",
+    "hazilah_aljadisiyyah"
   ],
   "وهان": [
     "hutayah"
@@ -198098,21 +198733,6 @@
   "هالِكا": [
     "alfind_alzimmani"
   ],
-  "الزماني": [
-    "alfind_alzimmani"
-  ],
-  "أضف": [
-    "alfind_alzimmani",
-    "suda_bt_alshamardal"
-  ],
-  "معلومة": [
-    "alfind_alzimmani",
-    "suda_bt_alshamardal"
-  ],
-  "شرح": [
-    "alfind_alzimmani",
-    "suda_bt_alshamardal"
-  ],
   "دارَتِ": [
     "alfind_alzimmani"
   ],
@@ -198666,7 +199286,8 @@
     "alfind_alzimmani"
   ],
   "ماتَ": [
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind_aldababiyyah"
   ],
   "قَبلَها": [
     "alfind_alzimmani"
@@ -198730,7 +199351,8 @@
   ],
   "رِ": [
     "alfind_alzimmani",
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit"
   ],
   "رُمحي": [
     "alfind_alzimmani"
@@ -199151,7 +199773,8 @@
     "alfind_alzimmani"
   ],
   "لَكُمُ": [
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "janub_alkahiliyyah"
   ],
   "الأَوَّلُ": [
     "alfind_alzimmani"
@@ -199169,7 +199792,8 @@
     "alfind_alzimmani"
   ],
   "وَقعَةً": [
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "hind al-fazariyyah"
   ],
   "نارٌ": [
     "alfind_alzimmani"
@@ -200343,14 +200967,9 @@
   "فِتيانُ": [
     "alfind_alzimmani"
   ],
-  "قاسم": [
-    "alfind_alzimmani"
-  ],
-  "الأصبحي": [
-    "alfind_alzimmani"
-  ],
   "أَيا": [
-    "alfind_alzimmani"
+    "alfind_alzimmani",
+    "zawjat_qurad_b_ajda"
   ],
   "تَملِكُ": [
     "alfind_alzimmani"
@@ -201128,7 +201747,19 @@
     "saad_b_malik"
   ],
   "فِي": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "umm_sari_alkindiyyah",
+    "umm_thawab_alhazzaniyyah",
+    "zarqa_alyamamah",
+    "zawjat_abi_alaaj_alkalbi",
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah"
   ],
   "حُسْنِ": [
     "saad_b_malik"
@@ -201143,7 +201774,8 @@
     "saad_b_malik"
   ],
   "ذَوِي": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss"
   ],
   "الْأَلْبابِ": [
     "saad_b_malik"
@@ -201164,13 +201796,16 @@
     "saad_b_malik"
   ],
   "وَلَيْسَ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss"
   ],
   "أَخُوكَ": [
     "saad_b_malik"
   ],
   "غَيْرَ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah"
   ],
   "أَخٍ": [
     "saad_b_malik"
@@ -201204,17 +201839,25 @@
   ],
   "مَنْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "halimah_alhadariyyah",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah"
   ],
   "بَعْدَ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "umm_qays_aldabbiyyah",
+    "zaynab_al-yashkuriyyah"
   ],
   "بَكْرِ": [
     "saad_b_malik"
   ],
   "بْنِ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sayyar",
+    "zaynab_al-yashkuriyyah"
   ],
   "وائِلٍ": [
     "saad_b_malik"
@@ -201223,20 +201866,35 @@
     "saad_b_malik"
   ],
   "وَمَنْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_qays_aldabbiyyah"
   ],
   "سَعْدِ": [
     "saad_b_malik"
   ],
   "مالِكِ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sayyar",
+    "zaynab_al-yashkuriyyah"
   ],
   "حُجِبَتْ": [
     "saad_b_malik"
   ],
   "مِنْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "amrah_bt_alhubab",
+    "dukhtanus_bt_laqit",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "umm_sari_alkindiyyah",
+    "umm_sayyar",
+    "zahra_alkilaabiyyah",
+    "zarqa_alyamamah",
+    "zawjat_abi_alaaj_alkalbi",
+    "zaynab_um_hassanah"
   ],
   "بَعْدِنا": [
     "saad_b_malik"
@@ -201282,13 +201940,15 @@
     "saad_b_malik"
   ],
   "سَوْفَ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss"
   ],
   "تَلْتَقِي": [
     "saad_b_malik"
   ],
   "عَلَيْهِ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "ذُيُولُ": [
     "saad_b_malik"
@@ -201300,14 +201960,21 @@
     "saad_b_malik"
   ],
   "فَإِنْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "ibnat_hudhaq_alhanfi"
   ],
   "ذُهْلٌ": [
     "saad_b_malik"
   ],
   "قَدْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "zarqa_alyamamah"
   ],
   "أَتَتْ": [
     "saad_b_malik"
@@ -201334,7 +202001,11 @@
     "saad_b_malik"
   ],
   "حَتَّى": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "amrah_bt_alhubab",
+    "umm_sari_alkindiyyah",
+    "umm_thawab_alhazzaniyyah",
+    "zaynab_um_hassanah"
   ],
   "تَبَيَّنَ": [
     "saad_b_malik"
@@ -201343,10 +202014,17 @@
     "saad_b_malik"
   ],
   "وَلَمْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zahra_alkilaabiyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "لَوْلا": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "amrah_bt_alhubab"
   ],
   "لِلْقَوْمِ": [
     "saad_b_malik"
@@ -201370,7 +202048,9 @@
     "saad_b_malik"
   ],
   "مِنْها": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sari_alkindiyyah",
+    "zaynab_bt_farwah"
   ],
   "الرَّعْيِ": [
     "saad_b_malik"
@@ -201416,7 +202096,10 @@
   ],
   "وَقَدْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
   ],
   "فِيهِمْ": [
     "saad_b_malik"
@@ -201428,7 +202111,8 @@
     "saad_b_malik"
   ],
   "لِمَنْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "تَزْدَرِيهِ": [
     "saad_b_malik"
@@ -201464,7 +202148,8 @@
     "saad_b_malik"
   ],
   "إِنَّا": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sayyar"
   ],
   "سَنَكْفِيكَ": [
     "saad_b_malik"
@@ -201473,14 +202158,19 @@
     "saad_b_malik"
   ],
   "الْمَنُونِ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
   ],
   "الْحَرْبِ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sari_alkindiyyah"
   ],
   "يَوْماً": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "janub_alkahiliyyah",
+    "umm_thawab_alhazzaniyyah"
   ],
   "وَأَوْطارَها": [
     "saad_b_malik"
@@ -201525,7 +202215,9 @@
     "saad_b_malik"
   ],
   "بِهِمْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_qays_aldabbiyyah",
+    "umm_sari_alkindiyyah"
   ],
   "مُخْطَفاتُ": [
     "saad_b_malik"
@@ -201550,7 +202242,11 @@
   ],
   "يَوْمَ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zaynab_bt_farwah"
   ],
   "الْوَغى": [
     "saad_b_malik"
@@ -201569,7 +202265,13 @@
   ],
   "أَنْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah",
+    "zahra_alkilaabiyyah",
+    "zaynab_bt_farwah"
   ],
   "يَرْفِدُونا": [
     "saad_b_malik"
@@ -201591,7 +202293,11 @@
     "saad_b_malik"
   ],
   "لَمْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "ibnat_hudhaq_alhanfi",
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
   ],
   "تَسْمَعِ": [
     "saad_b_malik"
@@ -201603,7 +202309,9 @@
     "saad_b_malik"
   ],
   "بَنُو": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "umm_sayyar"
   ],
   "ذُهْلٍ": [
     "saad_b_malik"
@@ -201675,10 +202383,13 @@
     "saad_b_malik"
   ],
   "إِلَّا": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "zaynab_bt_farwah"
   ],
   "الْفَتَى": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah"
   ],
   "الصَّبَّارُ": [
     "saad_b_malik"
@@ -201721,7 +202432,9 @@
   ],
   "إِذْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "umm_sari_alkindiyyah",
+    "zarqa_alyamamah"
   ],
   "كُرِهَ": [
     "saad_b_malik"
@@ -201754,10 +202467,13 @@
     "saad_b_malik"
   ],
   "لَهُمْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "zarqa_alyamamah"
   ],
   "عَنْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "dukhtanus_bt_laqit",
+    "umm_thawab_alhazzaniyyah"
   ],
   "ساقِها": [
     "saad_b_malik"
@@ -201766,7 +202482,8 @@
     "saad_b_malik"
   ],
   "الشَّرِّ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "dhibyah_al-fahmiyyah"
   ],
   "الصُّراحُ": [
     "saad_b_malik"
@@ -201818,7 +202535,9 @@
   ],
   "ابْنُ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "umm_qays_aldabbiyyah"
   ],
   "قَيْسٍ": [
     "saad_b_malik"
@@ -201827,17 +202546,24 @@
     "saad_b_malik"
   ],
   "صَبْراً": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sari_alkindiyyah"
   ],
   "بَنِي": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah"
   ],
   "تُرِيحُوا": [
     "saad_b_malik"
   ],
   "أَوْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
   ],
   "تُراحُوا": [
     "saad_b_malik"
@@ -201906,11 +202632,18 @@
     "saad_b_malik"
   ],
   "عِنْدَ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "amrah_bt_alhubab",
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah",
+    "umm_qays_aldabbiyyah",
+    "zarqa_alyamamah",
+    "zaynab_bt_farwah"
   ],
   "ذَلِكَ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "zarqa_alyamamah"
   ],
   "وَالْقَطْعُ": [
     "saad_b_malik"
@@ -201922,7 +202655,8 @@
     "saad_b_malik"
   ],
   "جَدَّ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_qays_aldabbiyyah"
   ],
   "الْمِزاحُ": [
     "saad_b_malik"
@@ -201931,7 +202665,8 @@
     "saad_b_malik"
   ],
   "الْكُماةُ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sari_alkindiyyah"
   ],
   "الْكُما": [
     "saad_b_malik"
@@ -201958,13 +202693,16 @@
     "saad_b_malik"
   ],
   "مِنْهُ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah",
+    "umm_sari_alkindiyyah"
   ],
   "الْأَراقِمُ": [
     "saad_b_malik"
   ],
   "حِينَ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "يُدْ": [
     "saad_b_malik"
@@ -201973,7 +202711,9 @@
     "saad_b_malik"
   ],
   "الْمَوْتِ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss",
+    "umm_sari_alkindiyyah"
   ],
   "وَالْخَيْلُ": [
     "saad_b_malik"
@@ -202006,7 +202746,8 @@
     "saad_b_malik"
   ],
   "طالَتْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "عَلَيْـ": [
     "saad_b_malik"
@@ -202054,7 +202795,8 @@
     "saad_b_malik"
   ],
   "ثَعْلَبَةَ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sayyar"
   ],
   "الْأَغَرْ": [
     "saad_b_malik"
@@ -202081,7 +202823,8 @@
     "saad_b_malik"
   ],
   "أَبْلِغْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "نَأَتْ": [
     "saad_b_malik"
@@ -202090,14 +202833,18 @@
     "saad_b_malik"
   ],
   "الْحَرْبَ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss"
   ],
   "الْمَطاحُ": [
     "saad_b_malik"
   ],
   "لَوْ": [
     "saad_b_malik",
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dhibyah_al-fahmiyyah",
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss"
   ],
   "أَنْتُمُ": [
     "saad_b_malik"
@@ -202179,7 +202926,8 @@
     "saad_b_malik"
   ],
   "عَنْهُ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "zaynab_al-yashkuriyyah"
   ],
   "جِماحُ": [
     "saad_b_malik"
@@ -202224,7 +202972,8 @@
     "saad_b_malik"
   ],
   "فَلَمْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "janub_alkahiliyyah"
   ],
   "نُهْدَدْ": [
     "saad_b_malik"
@@ -202233,13 +202982,16 @@
     "saad_b_malik"
   ],
   "وَلَكِنْ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "umm_sari_alkindiyyah",
+    "zaynab_bt_farwah"
   ],
   "رَكِبْنا": [
     "saad_b_malik"
   ],
   "حَدَّ": [
-    "saad_b_malik"
+    "saad_b_malik",
+    "hind_bt_al-khuss"
   ],
   "كَوْكَبِهِمْ": [
     "saad_b_malik"
@@ -202407,7 +203159,9 @@
     "suda_bt_alshamardal"
   ],
   "الْمَنايا": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "zawjat_qurad_b_ajda"
   ],
   "دَهْرٌ": [
     "suda_bt_alshamardal"
@@ -202416,7 +203170,8 @@
     "suda_bt_alshamardal"
   ],
   "لَعَمْرُكَ": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "janub_alkahiliyyah"
   ],
   "الْحَوادِثِ": [
     "suda_bt_alshamardal"
@@ -202479,10 +203234,14 @@
     "suda_bt_alshamardal"
   ],
   "وَلَقَدْ": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit"
   ],
   "لِي": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "ibnat_hudhaq_alhanfi",
+    "zawjat_qurad_b_ajda",
+    "zaynab_al-yashkuriyyah"
   ],
   "قَبْلُ": [
     "suda_bt_alshamardal"
@@ -202530,7 +203289,8 @@
     "suda_bt_alshamardal"
   ],
   "بِأَنَّ": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "janub_alkahiliyyah"
   ],
   "مُؤَخَّرٍ": [
     "suda_bt_alshamardal"
@@ -202566,7 +203326,8 @@
     "suda_bt_alshamardal"
   ],
   "هَلَكُوا": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "dukhtanus_bt_laqit"
   ],
   "أَيْقَنْتُ": [
     "suda_bt_alshamardal"
@@ -202617,7 +203378,8 @@
     "suda_bt_alshamardal"
   ],
   "كانُوا": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "janub_alkahiliyyah"
   ],
   "كَذَلِكَ": [
     "suda_bt_alshamardal"
@@ -202884,7 +203646,8 @@
     "suda_bt_alshamardal"
   ],
   "الظَّلامِ": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "zaynab_um_hassanah"
   ],
   "مُشَيَّعُ": [
     "suda_bt_alshamardal"
@@ -202896,7 +203659,9 @@
     "suda_bt_alshamardal"
   ],
   "الَّذِي": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "halimah_alhadariyyah",
+    "ibnat_hudhaq_alhanfi"
   ],
   "قَبْلَهُ": [
     "suda_bt_alshamardal"
@@ -202920,7 +203685,12 @@
     "suda_bt_alshamardal"
   ],
   "إِنْ": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "amrah_bt_alhubab",
+    "dukhtanus_bt_laqit",
+    "halimah_alhadariyyah",
+    "janub_alkahiliyyah",
+    "zaynab_al-yashkuriyyah"
   ],
   "رابَ": [
     "suda_bt_alshamardal"
@@ -203004,7 +203774,8 @@
     "suda_bt_alshamardal"
   ],
   "مِمَّا": [
-    "suda_bt_alshamardal"
+    "suda_bt_alshamardal",
+    "hind_bt_al-khuss"
   ],
   "يَرِيبُ": [
     "suda_bt_alshamardal"
@@ -203048,10 +203819,4340 @@
   "أَشْنَعُ": [
     "suda_bt_alshamardal"
   ],
-  "الشمردل": [
-    "suda_bt_alshamardal"
+  "ʿamrah": [
+    "amrah_bt_alhubab"
   ],
-  "الجهنية": [
-    "suda_bt_alshamardal"
+  "al-ḥubāb": [
+    "amrah_bt_alhubab"
+  ],
+  "عمرة بنت الحباب": [
+    "amrah_bt_alhubab"
+  ],
+  "كُنْتُ": [
+    "amrah_bt_alhubab",
+    "halimah_alhadariyyah"
+  ],
+  "أَحْسَبُ": [
+    "amrah_bt_alhubab"
+  ],
+  "وَالْحَوادِثُ": [
+    "amrah_bt_alhubab"
+  ],
+  "جَمَّةٌ": [
+    "amrah_bt_alhubab"
+  ],
+  "أَنَّا": [
+    "amrah_bt_alhubab"
+  ],
+  "عَبِيدُ": [
+    "amrah_bt_alhubab"
+  ],
+  "الْحَيِّ": [
+    "amrah_bt_alhubab"
+  ],
+  "غَسَّانِ": [
+    "amrah_bt_alhubab"
+  ],
+  "عَلَتْنِي": [
+    "amrah_bt_alhubab"
+  ],
+  "لَبِيدٍ": [
+    "amrah_bt_alhubab"
+  ],
+  "لَطْمَةٌ": [
+    "amrah_bt_alhubab"
+  ],
+  "سُجِرَتْ": [
+    "amrah_bt_alhubab"
+  ],
+  "الْعَيْنانِ": [
+    "amrah_bt_alhubab"
+  ],
+  "تَرْضَ": [
+    "amrah_bt_alhubab"
+  ],
+  "تَغْلِبُ": [
+    "amrah_bt_alhubab"
+  ],
+  "وَائِلٍ": [
+    "amrah_bt_alhubab"
+  ],
+  "بِفِعالِهِمْ": [
+    "amrah_bt_alhubab"
+  ],
+  "تَكُنِ": [
+    "amrah_bt_alhubab"
+  ],
+  "الْأَذِلَّةَ": [
+    "amrah_bt_alhubab"
+  ],
+  "رِهانِ": [
+    "amrah_bt_alhubab"
+  ],
+  "الْوَجِيهةُ": [
+    "amrah_bt_alhubab"
+  ],
+  "قَطَّعَتْنِي": [
+    "amrah_bt_alhubab"
+  ],
+  "بَكْرَةٌ": [
+    "amrah_bt_alhubab"
+  ],
+  "جَرْباءُ": [
+    "amrah_bt_alhubab"
+  ],
+  "مُشْعَلَةٌ": [
+    "amrah_bt_alhubab"
+  ],
+  "الْقُطْرانِ": [
+    "amrah_bt_alhubab"
+  ],
+  "dhibyah": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "al-fahmiyyah": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "ذبية الفهمية": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "لَعَمْرِي": [
+    "dhibyah_al-fahmiyyah",
+    "zaynab_um_hassanah"
+  ],
+  "deities_and_oaths": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "يَوْمٌ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "بِصُورَةٍ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "وَيَوْمُ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "فِناءِ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "الدَّمْعِ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "فانِيا": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "لَقَدْ": [
+    "dhibyah_al-fahmiyyah",
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "umm_sari_alkindiyyah"
+  ],
+  "أَبْكَتْ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "قُرَيْمٌ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "وَأَوْجَعُوا": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "بِجَرْعَةِ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "بَطْنِ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "الْفِيلِ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "باكِيا": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "قَتَلْتُمْ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "نُجُوماً": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "يُحَوَّلُ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "صَفُّهُمْ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "يَذْخَرُونَ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "اللَّحْمَ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "أَخْضَرَ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "ذاوِيا": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "عِمادُ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "سَمائِي": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "أَصْبَحَتْ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "تَهَدَّمَتْ": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "فَخِرِّي": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "أَرَى": [
+    "dhibyah_al-fahmiyyah",
+    "halimah_alhadariyyah",
+    "ibnat_hudhaq_alhanfi",
+    "zarqa_alyamamah"
+  ],
+  "بانِيا": [
+    "dhibyah_al-fahmiyyah"
+  ],
+  "dukhtanūs": [
+    "dukhtanus_bt_laqit"
+  ],
+  "دخنتوس بنت لقيط": [
+    "dukhtanus_bt_laqit"
+  ],
+  "مَنِيَّةٍ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "لِكِتابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "مَنِيَّةٍ لِكِتابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَكُلُّ": [
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
+  ],
+  "فَرَّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "قَهْوَسٍ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الشُّجا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "عُ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "رُمْحٌ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "مِتَلُّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "يَعْدُو": [
+    "dukhtanus_bt_laqit"
+  ],
+  "خاظِي": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْبَضِيـ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "سَمِعٌ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "أَذَلُّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَلَأَنْتَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "تَيْمٍ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "فَدَعْ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "غَطَفانَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "سارُوا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَحَلُّوا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "مِنْكَ": [
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah"
+  ],
+  "عَدُّهُمُ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "آباكَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَذَلُّوا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "فَخْرَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْبَغِيِّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "بِحِدْجِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "رَبْ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "بَتِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "النَّاسُ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "اسْتَقَلُّوا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "حِدْجَها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "رَكِبَتْ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "لِرِعاكَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "فِيها": [
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah",
+    "zaynab_al-yashkuriyyah"
+  ],
+  "مُسْتَظَلُّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "رَأَيْتَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "أَباكَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَسْـ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "ـطَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْقَوْمِ": [
+    "dukhtanus_bt_laqit",
+    "hind_bt_al-khuss",
+    "umm_qays_aldabbiyyah"
+  ],
+  "يَبْزُو": [
+    "dukhtanus_bt_laqit"
+  ],
+  "يَجِلُّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "مُتَقَلِّداً": [
+    "dukhtanus_bt_laqit"
+  ],
+  "رَبِقَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْفِرا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْجِيدِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "غُلُّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "بَكَرَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "النَّعِيُّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "بِخَيْرِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "خِنـ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "ـدِفَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "كَهْلِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَشَبابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَأَضَرِّها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "لِعَدُوِّها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَأَفَكِّها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "لِرِقابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَقَرِيعِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَنَجِيبِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْوَغَى": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَشِهابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَرَئِيسِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْمُلُو": [
+    "dukhtanus_bt_laqit"
+  ],
+  "كِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَزَيْنِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "يَوْمِ": [
+    "dukhtanus_bt_laqit",
+    "zaynab_al-yashkuriyyah"
+  ],
+  "خِطابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَأَتَمِّها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "نَسَباً": [
+    "dukhtanus_bt_laqit",
+    "janub_alkahiliyyah"
+  ],
+  "رَجَعَتْ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "إِلَى": [
+    "dukhtanus_bt_laqit",
+    "zarqa_alyamamah",
+    "zaynab_bt_farwah"
+  ],
+  "أَنْسابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "فَرْعٌ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "عَمُودٌ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "لِلْعَشِيـ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "ـرَةِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "رافِعٌ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "لِنِصابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "كَالْكَوْكَبِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الدُّرِّيِّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "ظَلْماءَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "يَخْفَى": [
+    "dukhtanus_bt_laqit"
+  ],
+  "عَبِثَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الْأَغَرُّ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَكُلْـ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "ـلُ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "فَرَّتْ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "أَسَدٍ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "فِرا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "رَ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "الطَّيْرِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "أَرْبابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "يَحْفَظُوا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "حَسَباً": [
+    "dukhtanus_bt_laqit"
+  ],
+  "يَأْوُوا": [
+    "dukhtanus_bt_laqit"
+  ],
+  "لِفَيْءِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "عُقابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "خَيْرِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "نُصَّتْ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "وَهَوازِنٌ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "أَصْحابُهُمْ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "كَالْفَأْرِ": [
+    "dukhtanus_bt_laqit"
+  ],
+  "أَذْنابِها": [
+    "dukhtanus_bt_laqit"
+  ],
+  "ḥalīmah": [
+    "halimah_alhadariyyah"
+  ],
+  "al-ḥaḍariyyah": [
+    "halimah_alhadariyyah"
+  ],
+  "حليمة الحضرية": [
+    "halimah_alhadariyyah"
+  ],
+  "أَخْشَى": [
+    "halimah_alhadariyyah"
+  ],
+  "تَمَلَّيْتُ": [
+    "halimah_alhadariyyah"
+  ],
+  "خَشْيَتِي": [
+    "halimah_alhadariyyah"
+  ],
+  "عَلَيْكَ": [
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "zaynab_bt_farwah"
+  ],
+  "اللَّيالِي": [
+    "halimah_alhadariyyah"
+  ],
+  "مُرَّها": [
+    "halimah_alhadariyyah"
+  ],
+  "وَانْفِتالَها": [
+    "halimah_alhadariyyah"
+  ],
+  "فَأَمَّا": [
+    "halimah_alhadariyyah"
+  ],
+  "أَصْبَحْتَ": [
+    "halimah_alhadariyyah"
+  ],
+  "قَبْضَةِ": [
+    "halimah_alhadariyyah"
+  ],
+  "الرَّدَى": [
+    "halimah_alhadariyyah"
+  ],
+  "فَشَأْنُ": [
+    "halimah_alhadariyyah"
+  ],
+  "فَلْتُصِبْ": [
+    "halimah_alhadariyyah"
+  ],
+  "يَوْمُ": [
+    "halimah_alhadariyyah"
+  ],
+  "حَزْوى": [
+    "halimah_alhadariyyah"
+  ],
+  "بَكَيْتُ": [
+    "halimah_alhadariyyah"
+  ],
+  "صَبابَةً": [
+    "halimah_alhadariyyah"
+  ],
+  "لِعِرْفانِ": [
+    "halimah_alhadariyyah"
+  ],
+  "رَبْعٍ": [
+    "halimah_alhadariyyah"
+  ],
+  "مَنْزِلِ": [
+    "halimah_alhadariyyah"
+  ],
+  "يُؤَوِّلُ": [
+    "halimah_alhadariyyah"
+  ],
+  "هاجَتْ": [
+    "halimah_alhadariyyah"
+  ],
+  "الشَّوْقَ": [
+    "halimah_alhadariyyah"
+  ],
+  "دِمْنَةٌ": [
+    "halimah_alhadariyyah"
+  ],
+  "بِأَجْرَعَ": [
+    "halimah_alhadariyyah"
+  ],
+  "مِقْفارٍ": [
+    "halimah_alhadariyyah"
+  ],
+  "مُرِبٍّ": [
+    "halimah_alhadariyyah"
+  ],
+  "مُحَلَّلِ": [
+    "halimah_alhadariyyah"
+  ],
+  "يَقِرُّ": [
+    "halimah_alhadariyyah"
+  ],
+  "لِعَيْنِي": [
+    "halimah_alhadariyyah"
+  ],
+  "لِمَكانِهِ": [
+    "halimah_alhadariyyah"
+  ],
+  "ذُرَى": [
+    "halimah_alhadariyyah"
+  ],
+  "عَقَداتِ": [
+    "halimah_alhadariyyah"
+  ],
+  "الْأَجْرَعِ": [
+    "halimah_alhadariyyah"
+  ],
+  "الْمُتَفاوِدِ": [
+    "halimah_alhadariyyah"
+  ],
+  "وَأَنْ": [
+    "halimah_alhadariyyah"
+  ],
+  "أَرِدَ": [
+    "halimah_alhadariyyah"
+  ],
+  "الْماءَ": [
+    "halimah_alhadariyyah",
+    "zaynab_um_hassanah"
+  ],
+  "شَرِبَتْ": [
+    "halimah_alhadariyyah"
+  ],
+  "سُلَيْمَى": [
+    "halimah_alhadariyyah"
+  ],
+  "وَإِنْ": [
+    "halimah_alhadariyyah",
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah",
+    "zarqa_alyamamah"
+  ],
+  "مَلَّ": [
+    "halimah_alhadariyyah"
+  ],
+  "السُّرَى": [
+    "halimah_alhadariyyah"
+  ],
+  "وَأُلْصِقُ": [
+    "halimah_alhadariyyah"
+  ],
+  "أَحْشائِي": [
+    "halimah_alhadariyyah"
+  ],
+  "بِبَرْدِ": [
+    "halimah_alhadariyyah"
+  ],
+  "تُرابِهِ": [
+    "halimah_alhadariyyah",
+    "zaynab_um_hassanah"
+  ],
+  "مَخْلُوطاً": [
+    "halimah_alhadariyyah"
+  ],
+  "بِسُمِّ": [
+    "halimah_alhadariyyah"
+  ],
+  "الْأَساوِدِ": [
+    "halimah_alhadariyyah"
+  ],
+  "hazīlah": [
+    "hazilah_aljadisiyyah"
+  ],
+  "al-jadīsiyyah": [
+    "hazilah_aljadisiyyah"
+  ],
+  "هزيلة الجديسية": [
+    "hazilah_aljadisiyyah"
+  ],
+  "gravity": [
+    "hazilah_aljadisiyyah"
+  ],
+  "أيجمل": [
+    "hazilah_aljadisiyyah"
+  ],
+  "فتيانكم": [
+    "hazilah_aljadisiyyah"
+  ],
+  "جهاراً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "وزفت": [
+    "hazilah_aljadisiyyah"
+  ],
+  "رجالاً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "نساءً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "نقر": [
+    "hazilah_aljadisiyyah"
+  ],
+  "كراماً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "أميتوا": [
+    "hazilah_aljadisiyyah"
+  ],
+  "ودبوا": [
+    "hazilah_aljadisiyyah"
+  ],
+  "لنار": [
+    "hazilah_aljadisiyyah"
+  ],
+  "بالحطب": [
+    "hazilah_aljadisiyyah"
+  ],
+  "وتحملوا": [
+    "hazilah_aljadisiyyah"
+  ],
+  "بلدٍ": [
+    "hazilah_aljadisiyyah"
+  ],
+  "قفرٍ": [
+    "hazilah_aljadisiyyah"
+  ],
+  "وموتوا": [
+    "hazilah_aljadisiyyah"
+  ],
+  "فللبين": [
+    "hazilah_aljadisiyyah"
+  ],
+  "مقامٍ": [
+    "hazilah_aljadisiyyah"
+  ],
+  "تعاب": [
+    "hazilah_aljadisiyyah"
+  ],
+  "الكحل": [
+    "hazilah_aljadisiyyah"
+  ],
+  "ودونكم": [
+    "hazilah_aljadisiyyah"
+  ],
+  "خلقتم": [
+    "hazilah_aljadisiyyah"
+  ],
+  "لأثواب": [
+    "hazilah_aljadisiyyah"
+  ],
+  "وللغسل": [
+    "hazilah_aljadisiyyah"
+  ],
+  "فبعداً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "وسحقاً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "دافعاً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "ويختال": [
+    "hazilah_aljadisiyyah"
+  ],
+  "طسم": [
+    "hazilah_aljadisiyyah"
+  ],
+  "ليحكم": [
+    "hazilah_aljadisiyyah"
+  ],
+  "حكماً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "هزيلة": [
+    "hazilah_aljadisiyyah"
+  ],
+  "حكمت": [
+    "hazilah_aljadisiyyah"
+  ],
+  "متورعاً": [
+    "hazilah_aljadisiyyah"
+  ],
+  "تبرم": [
+    "hazilah_aljadisiyyah"
+  ],
+  "أندم": [
+    "hazilah_aljadisiyyah"
+  ],
+  "بعثرتي": [
+    "hazilah_aljadisiyyah"
+  ],
+  "بعلي": [
+    "hazilah_aljadisiyyah"
+  ],
+  "نادما": [
+    "hazilah_aljadisiyyah"
+  ],
+  "ḥind": [
+    "hind_aldababiyyah"
+  ],
+  "al-ḍabābiyyah": [
+    "hind_aldababiyyah"
+  ],
+  "هند الضبابية": [
+    "hind_aldababiyyah"
+  ],
+  "يُهلنَ": [
+    "hind_aldababiyyah"
+  ],
+  "عَليه": [
+    "hind_aldababiyyah"
+  ],
+  "بِالأكفّ": [
+    "hind_aldababiyyah"
+  ],
+  "يُهلنَ عَليه بِالأكفّ مِنَ الثرى": [
+    "hind_aldababiyyah"
+  ],
+  "بالبيضاء": [
+    "hind_aldababiyyah"
+  ],
+  "جانِب": [
+    "hind_aldababiyyah"
+  ],
+  "الحِمى": [
+    "hind_aldababiyyah"
+  ],
+  "فَتىّ": [
+    "hind_aldababiyyah"
+  ],
+  "زيناً": [
+    "hind_aldababiyyah"
+  ],
+  "للمواكب": [
+    "hind_aldababiyyah"
+  ],
+  "والشربِ": [
+    "hind_aldababiyyah"
+  ],
+  "يَلوذُ": [
+    "hind_aldababiyyah"
+  ],
+  "بهِ": [
+    "hind_aldababiyyah"
+  ],
+  "مَخافةَ": [
+    "hind_aldababiyyah"
+  ],
+  "لاذتِ": [
+    "hind_aldababiyyah"
+  ],
+  "العَصماءُ": [
+    "hind_aldababiyyah"
+  ],
+  "بالشاهقِ": [
+    "hind_aldababiyyah"
+  ],
+  "الصعبِ": [
+    "hind_aldababiyyah"
+  ],
+  "تَظلّ": [
+    "hind_aldababiyyah"
+  ],
+  "بَنات": [
+    "hind_aldababiyyah"
+  ],
+  "العمّ": [
+    "hind_aldababiyyah"
+  ],
+  "والخال": [
+    "hind_aldababiyyah"
+  ],
+  "حولهً": [
+    "hind_aldababiyyah"
+  ],
+  "صَوادي": [
+    "hind_aldababiyyah"
+  ],
+  "يَروين": [
+    "hind_aldababiyyah"
+  ],
+  "بالبارد": [
+    "hind_aldababiyyah"
+  ],
+  "العذبِ": [
+    "hind_aldababiyyah"
+  ],
+  "قلىً": [
+    "hind_aldababiyyah"
+  ],
+  "يُحثى": [
+    "hind_aldababiyyah"
+  ],
+  "التربِ": [
+    "hind_aldababiyyah"
+  ],
+  "hind": [
+    "hind al-fazariyyah",
+    "hind_bt_ibn_amir_alaslami",
+    "hind_bt_al-khuss",
+    "hind_bt_mabad"
+  ],
+  "al-fazāriyyah": [
+    "hind al-fazariyyah"
+  ],
+  "هند الفزارية": [
+    "hind al-fazariyyah"
+  ],
+  "فَللَهِ": [
+    "hind al-fazariyyah"
+  ],
+  "عَينا": [
+    "hind al-fazariyyah"
+  ],
+  "فَللَهِ عَينا": [
+    "hind al-fazariyyah"
+  ],
+  "ayn": [
+    "hind al-fazariyyah"
+  ],
+  "تَطاوَلَ": [
+    "hind al-fazariyyah"
+  ],
+  "لِلهُمومِ": [
+    "hind al-fazariyyah"
+  ],
+  "الحَواضِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "وَشَيَّبَ": [
+    "hind al-fazariyyah"
+  ],
+  "رَأسي": [
+    "hind al-fazariyyah"
+  ],
+  "وَقعَةِ": [
+    "hind al-fazariyyah"
+  ],
+  "حاجِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "عَلّيَّ": [
+    "hind al-fazariyyah"
+  ],
+  "بِهَيِّنٍ": [
+    "hind al-fazariyyah"
+  ],
+  "حالِفٌ": [
+    "hind al-fazariyyah"
+  ],
+  "بَرٌّ": [
+    "hind al-fazariyyah"
+  ],
+  "كَآخَرَ": [
+    "hind al-fazariyyah"
+  ],
+  "فاجِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "كُرزٌ": [
+    "hind al-fazariyyah"
+  ],
+  "حاجَر": [
+    "hind al-fazariyyah"
+  ],
+  "كَفَت": [
+    "hind al-fazariyyah"
+  ],
+  "قَومَهُ": [
+    "hind al-fazariyyah"
+  ],
+  "اللَيالي": [
+    "hind al-fazariyyah"
+  ],
+  "الغَوابِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "مِثلهُ": [
+    "hind al-fazariyyah"
+  ],
+  "تَناوَلَهُ": [
+    "hind al-fazariyyah"
+  ],
+  "بِالرُمحِ": [
+    "hind al-fazariyyah"
+  ],
+  "كُرزُ": [
+    "hind al-fazariyyah"
+  ],
+  "بنُ": [
+    "hind al-fazariyyah"
+  ],
+  "عامِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "فَيالَبَني": [
+    "hind al-fazariyyah"
+  ],
+  "بَكّوا": [
+    "hind al-fazariyyah"
+  ],
+  "عَميدَكُم": [
+    "hind al-fazariyyah"
+  ],
+  "رَقيقِ": [
+    "hind al-fazariyyah"
+  ],
+  "الحَدِّ": [
+    "hind al-fazariyyah"
+  ],
+  "أَبيَضَ": [
+    "hind al-fazariyyah"
+  ],
+  "باتِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "وَكُلِّ": [
+    "hind al-fazariyyah"
+  ],
+  "رَدينِيٍّ": [
+    "hind al-fazariyyah"
+  ],
+  "أَصَم": [
+    "hind al-fazariyyah"
+  ],
+  "كُعوبُهُ": [
+    "hind al-fazariyyah"
+  ],
+  "يَنوءُ": [
+    "hind al-fazariyyah"
+  ],
+  "بِنَصلٍ": [
+    "hind al-fazariyyah"
+  ],
+  "كَالعَقيقَةِ": [
+    "hind al-fazariyyah"
+  ],
+  "زاهِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "أَسيلِ": [
+    "hind al-fazariyyah"
+  ],
+  "الخَدِّ": [
+    "hind al-fazariyyah"
+  ],
+  "طاوٍ": [
+    "hind al-fazariyyah"
+  ],
+  "ظَليمٌ": [
+    "hind al-fazariyyah"
+  ],
+  "وَجَرداءُ": [
+    "hind al-fazariyyah"
+  ],
+  "النَسالَةَ": [
+    "hind al-fazariyyah"
+  ],
+  "ضامِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "أَنتُم": [
+    "hind al-fazariyyah"
+  ],
+  "تُصبِحوا": [
+    "hind al-fazariyyah"
+  ],
+  "غارَةً": [
+    "hind al-fazariyyah"
+  ],
+  "يُحَدِّثُ": [
+    "hind al-fazariyyah"
+  ],
+  "وارِدٌ": [
+    "hind al-fazariyyah"
+  ],
+  "صادِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "وَتَرموا": [
+    "hind al-fazariyyah"
+  ],
+  "عُقَيلاً": [
+    "hind al-fazariyyah"
+  ],
+  "بِالَّتي": [
+    "hind al-fazariyyah"
+  ],
+  "بَقاءَ": [
+    "hind al-fazariyyah"
+  ],
+  "فَكونوا": [
+    "hind al-fazariyyah"
+  ],
+  "العَوائِرِ": [
+    "hind al-fazariyyah"
+  ],
+  "al-aslamī": [
+    "hind_bt_ibn_amir_alaslami"
+  ],
+  "هند بنت ابن عامر الأسلمي": [
+    "hind_bt_ibn_amir_alaslami"
+  ],
+  "السلمى": [
+    "hind_bt_ibn_amir_alaslami"
+  ],
+  "مشأة": [
+    "hind_bt_ibn_amir_alaslami"
+  ],
+  "المعيب": [
+    "hind_bt_ibn_amir_alaslami"
+  ],
+  "al-khuss": [
+    "hind_bt_al-khuss"
+  ],
+  "هند بنت تاخس": [
+    "hind_bt_al-khuss"
+  ],
+  "أُقْسِمُ": [
+    "hind_bt_al-khuss"
+  ],
+  "تُشْرِكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "tushrik": [
+    "hind_bt_al-khuss"
+  ],
+  "commit": [
+    "hind_bt_al-khuss"
+  ],
+  "shirk": [
+    "hind_bt_al-khuss"
+  ],
+  "partners": [
+    "hind_bt_al-khuss"
+  ],
+  "أَشَمّ": [
+    "hind_bt_al-khuss"
+  ],
+  "كَنَصْلِ": [
+    "hind_bt_al-khuss"
+  ],
+  "السَّيْفِ": [
+    "hind_bt_al-khuss"
+  ],
+  "جَعْدٌ": [
+    "hind_bt_al-khuss"
+  ],
+  "مُرَجَّلٌ": [
+    "hind_bt_al-khuss"
+  ],
+  "شُغِفْتُ": [
+    "hind_bt_al-khuss"
+  ],
+  "كَانَ": [
+    "hind_bt_al-khuss"
+  ],
+  "شَيْءٌ": [
+    "hind_bt_al-khuss"
+  ],
+  "مُدَانِيَا": [
+    "hind_bt_al-khuss"
+  ],
+  "وَأُقْسِمُ": [
+    "hind_bt_al-khuss",
+    "zaynab_um_hassanah"
+  ],
+  "خُيِّرْتُ": [
+    "hind_bt_al-khuss"
+  ],
+  "بَيْنَ": [
+    "hind_bt_al-khuss"
+  ],
+  "لِقَائِهِ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَبَيْنَ": [
+    "hind_bt_al-khuss"
+  ],
+  "أَبِي": [
+    "hind_bt_al-khuss"
+  ],
+  "لاخْتَرْتُ": [
+    "hind_bt_al-khuss"
+  ],
+  "أَبَا": [
+    "hind_bt_al-khuss"
+  ],
+  "لِيَا": [
+    "hind_bt_al-khuss"
+  ],
+  "اللَّه": [
+    "hind_bt_al-khuss"
+  ],
+  "جازى": [
+    "hind_bt_al-khuss"
+  ],
+  "مُنعماً": [
+    "hind_bt_al-khuss"
+  ],
+  "بِوفائه": [
+    "hind_bt_al-khuss"
+  ],
+  "فَجازاك": [
+    "hind_bt_al-khuss"
+  ],
+  "عنّي": [
+    "hind_bt_al-khuss",
+    "hind_bt_mabad"
+  ],
+  "قلمّس": [
+    "hind_bt_al-khuss"
+  ],
+  "بالكَرَم": [
+    "hind_bt_al-khuss"
+  ],
+  "أَيْقَنَتْ": [
+    "hind_bt_al-khuss"
+  ],
+  "نَفْسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "بَاطِلٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "عَاشَ": [
+    "hind_bt_al-khuss"
+  ],
+  "حِينًا": [
+    "hind_bt_al-khuss"
+  ],
+  "يَهْلِكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَيَشْرَبُ": [
+    "hind_bt_al-khuss"
+  ],
+  "بِالْكَأْسِ": [
+    "hind_bt_al-khuss"
+  ],
+  "الذُّعَافِ": [
+    "hind_bt_al-khuss"
+  ],
+  "شَرَابُهَا": [
+    "hind_bt_al-khuss"
+  ],
+  "وَيَرْكَبُ": [
+    "hind_bt_al-khuss"
+  ],
+  "كَرْهًا": [
+    "hind_bt_al-khuss"
+  ],
+  "وَيُسْلَكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَكَمْ": [
+    "hind_bt_al-khuss"
+  ],
+  "أَخِي": [
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah"
+  ],
+  "دُنْيَا": [
+    "hind_bt_al-khuss"
+  ],
+  "يُثَمِّرُ": [
+    "hind_bt_al-khuss"
+  ],
+  "مَالَهُ": [
+    "hind_bt_al-khuss"
+  ],
+  "سَيُرَثُ": [
+    "hind_bt_al-khuss"
+  ],
+  "ذَاكَ": [
+    "hind_bt_al-khuss"
+  ],
+  "الْمَالُ": [
+    "hind_bt_al-khuss"
+  ],
+  "رَغْمًا": [
+    "hind_bt_al-khuss"
+  ],
+  "وَيُتْرَكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "بِأَفْعَالِ": [
+    "hind_bt_al-khuss"
+  ],
+  "الْكِرَامِ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَلِينِهِمْ": [
+    "hind_bt_al-khuss"
+  ],
+  "مِشْكَاسًا": [
+    "hind_bt_al-khuss"
+  ],
+  "تَلِجُّ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَتَمْحَكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "مَزَّاحًا": [
+    "hind_bt_al-khuss"
+  ],
+  "لَدَى": [
+    "hind_bt_al-khuss"
+  ],
+  "لُعْبَةً": [
+    "hind_bt_al-khuss"
+  ],
+  "أَخَا": [
+    "hind_bt_al-khuss"
+  ],
+  "هُزْءٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "بِنَفْسِكَ": [
+    "hind_bt_al-khuss"
+  ],
+  "يَضْحَكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "تَخُوضُ": [
+    "hind_bt_al-khuss"
+  ],
+  "بِجَهْلٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "سَادِرًا": [
+    "hind_bt_al-khuss"
+  ],
+  "فُكَاهَةٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَتَدْخُلُ": [
+    "hind_bt_al-khuss"
+  ],
+  "الْغُوَاةِ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَتُشْرِكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "رُبَّ": [
+    "hind_bt_al-khuss"
+  ],
+  "ذِي": [
+    "hind_bt_al-khuss"
+  ],
+  "حَظٍّ": [
+    "hind_bt_al-khuss"
+  ],
+  "يُبَصَّرُ": [
+    "hind_bt_al-khuss"
+  ],
+  "فِعْلُهُ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَآخَرَ": [
+    "hind_bt_al-khuss"
+  ],
+  "مَصْرُوفٌ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَفِي": [
+    "hind_bt_al-khuss",
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْحَظِّ": [
+    "hind_bt_al-khuss"
+  ],
+  "يُؤْفَكُ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَجَدْتُ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَخَيْرُ": [
+    "hind_bt_al-khuss"
+  ],
+  "الْقَوْلِ": [
+    "hind_bt_al-khuss",
+    "janub_alkahiliyyah"
+  ],
+  "الْحُكْمِ": [
+    "hind_bt_al-khuss"
+  ],
+  "نَافِعٌ": [
+    "hind_bt_al-khuss"
+  ],
+  "الطُّولِ": [
+    "hind_bt_al-khuss"
+  ],
+  "يُعَمُّ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَيُلْبَسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "عِنْدِي": [
+    "hind_bt_al-khuss",
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "بِشَيْءٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "أَعُدُّهُ": [
+    "hind_bt_al-khuss"
+  ],
+  "إِذَا": [
+    "hind_bt_al-khuss"
+  ],
+  "ذَا": [
+    "hind_bt_al-khuss"
+  ],
+  "مَالٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "الْعَقْلِ": [
+    "hind_bt_al-khuss"
+  ],
+  "مُفْلِسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَذُو": [
+    "hind_bt_al-khuss"
+  ],
+  "الْجُبْنِ": [
+    "hind_bt_al-khuss"
+  ],
+  "يُسَعِّرُ": [
+    "hind_bt_al-khuss"
+  ],
+  "نَفْخُهُ": [
+    "hind_bt_al-khuss"
+  ],
+  "يُهَيِّجُ": [
+    "hind_bt_al-khuss"
+  ],
+  "مِنْهَا": [
+    "hind_bt_al-khuss"
+  ],
+  "نَارَهَا": [
+    "hind_bt_al-khuss"
+  ],
+  "يُخْنِسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "كَثِيرِ": [
+    "hind_bt_al-khuss",
+    "zaynab_bt_farwah"
+  ],
+  "الْمَالِ": [
+    "hind_bt_al-khuss"
+  ],
+  "يَقْبِضُ": [
+    "hind_bt_al-khuss"
+  ],
+  "كَفَّهُ": [
+    "hind_bt_al-khuss"
+  ],
+  "قَلِيلِ": [
+    "hind_bt_al-khuss"
+  ],
+  "يُعْطِي": [
+    "hind_bt_al-khuss"
+  ],
+  "وَيُسْلِسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "صَغِيرٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "نَزْدَرِيهِ": [
+    "hind_bt_al-khuss"
+  ],
+  "لَعَلَّهُ": [
+    "hind_bt_al-khuss"
+  ],
+  "كَبِيراً": [
+    "hind_bt_al-khuss"
+  ],
+  "شَرُّهُ": [
+    "hind_bt_al-khuss"
+  ],
+  "مُتَبَجِّسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "مُرَاءٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "صَلاحٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَعِفَّةٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "يُخَاتِلُ": [
+    "hind_bt_al-khuss"
+  ],
+  "بِالتَّقْوَى": [
+    "hind_bt_al-khuss"
+  ],
+  "الذِّئْبُ": [
+    "hind_bt_al-khuss"
+  ],
+  "الَامْلَسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "طِمْرَيْنِ": [
+    "hind_bt_al-khuss"
+  ],
+  "صَاحِبِ": [
+    "hind_bt_al-khuss"
+  ],
+  "نِيَّةٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "يَجُودُ": [
+    "hind_bt_al-khuss"
+  ],
+  "بِأَعْمَالِ": [
+    "hind_bt_al-khuss"
+  ],
+  "التُّقَى": [
+    "hind_bt_al-khuss"
+  ],
+  "يُنْفِسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "سَفِيهٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "لِلْجَمَاعَةِ": [
+    "hind_bt_al-khuss"
+  ],
+  "مُفْسِدٍ": [
+    "hind_bt_al-khuss"
+  ],
+  "يَدِبُّ": [
+    "hind_bt_al-khuss"
+  ],
+  "لِشَّرٍّ": [
+    "hind_bt_al-khuss"
+  ],
+  "بَيْنَهُمْ": [
+    "hind_bt_al-khuss"
+  ],
+  "وَيُوَسْوِسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "الظُّلْمِ": [
+    "hind_bt_al-khuss"
+  ],
+  "مَذْمُومٌ": [
+    "hind_bt_al-khuss"
+  ],
+  "الثَّنَا": [
+    "hind_bt_al-khuss"
+  ],
+  "ظَاهِرُ": [
+    "hind_bt_al-khuss"
+  ],
+  "الْخَنَا": [
+    "hind_bt_al-khuss"
+  ],
+  "غَنِيٌّ": [
+    "hind_bt_al-khuss"
+  ],
+  "الْحُسْنَى": [
+    "hind_bt_al-khuss"
+  ],
+  "وَبِالشَّرِّ": [
+    "hind_bt_al-khuss"
+  ],
+  "يَعْرِسُ": [
+    "hind_bt_al-khuss"
+  ],
+  "maʿbad": [
+    "hind_bt_mabad"
+  ],
+  "هند بنت معبد": [
+    "hind_bt_mabad"
+  ],
+  "أَأُميم": [
+    "hind_bt_mabad"
+  ],
+  "هَيهات": [
+    "hind_bt_mabad"
+  ],
+  "وَأَطارَ": [
+    "hind_bt_mabad"
+  ],
+  "جهلُ": [
+    "hind_bt_mabad"
+  ],
+  "أَين": [
+    "hind_bt_mabad"
+  ],
+  "بالأمسِ": [
+    "hind_bt_mabad"
+  ],
+  "جيرةً": [
+    "hind_bt_mabad"
+  ],
+  "أَمسَوا": [
+    "hind_bt_mabad"
+  ],
+  "دفينَ": [
+    "hind_bt_mabad"
+  ],
+  "جنادلٍ": [
+    "hind_bt_mabad"
+  ],
+  "وترابِ": [
+    "hind_bt_mabad"
+  ],
+  "ماتوا": [
+    "hind_bt_mabad"
+  ],
+  "أنّي": [
+    "hind_bt_mabad"
+  ],
+  "بِحيلةٍ": [
+    "hind_bt_mabad"
+  ],
+  "لأحدتُ": [
+    "hind_bt_mabad"
+  ],
+  "الموتِ": [
+    "hind_bt_mabad"
+  ],
+  "أحبابي": [
+    "hind_bt_mabad"
+  ],
+  "حيلَتي": [
+    "hind_bt_mabad"
+  ],
+  "إلّا": [
+    "hind_bt_mabad"
+  ],
+  "البكاءُ": [
+    "hind_bt_mabad"
+  ],
+  "عليهمُ": [
+    "hind_bt_mabad"
+  ],
+  "إنّ": [
+    "hind_bt_mabad"
+  ],
+  "البكاءَ": [
+    "hind_bt_mabad"
+  ],
+  "سلاحُ": [
+    "hind_bt_mabad"
+  ],
+  "كلّ": [
+    "hind_bt_mabad"
+  ],
+  "مصابِ": [
+    "hind_bt_mabad"
+  ],
+  "بكّر": [
+    "hind_bt_mabad"
+  ],
+  "بِخيرِ": [
+    "hind_bt_mabad"
+  ],
+  "بعمرو": [
+    "hind_bt_mabad"
+  ],
+  "مسعودٍ": [
+    "hind_bt_mabad"
+  ],
+  "وَبالسيّدِ": [
+    "hind_bt_mabad"
+  ],
+  "الصّمَد": [
+    "hind_bt_mabad"
+  ],
+  "يَعْيَا": [
+    "hind_bt_mabad"
+  ],
+  "بالجوابِ": [
+    "hind_bt_mabad"
+  ],
+  "فإنّه": [
+    "hind_bt_mabad"
+  ],
+  "مَعقلٍ": [
+    "hind_bt_mabad"
+  ],
+  "حَجْرَ": [
+    "hind_bt_mabad"
+  ],
+  "صدَدْ": [
+    "hind_bt_mabad"
+  ],
+  "أثارُوا": [
+    "hind_bt_mabad"
+  ],
+  "بصَحراء": [
+    "hind_bt_mabad"
+  ],
+  "الثَّويّة": [
+    "hind_bt_mabad"
+  ],
+  "قَبرَه": [
+    "hind_bt_mabad"
+  ],
+  "كنتُ": [
+    "hind_bt_mabad"
+  ],
+  "أخْشَى": [
+    "hind_bt_mabad"
+  ],
+  "تَنَاءَى": [
+    "hind_bt_mabad"
+  ],
+  "البَلدْ": [
+    "hind_bt_mabad"
+  ],
+  "ibnat": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "ḥudhāq": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "al-ḥanafī": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "ابنة حذاق الحنفي": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "أَعَيْنَيَّ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "جُودا": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "بِالدُّمُوعِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الصَّدْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْفارِسِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْمَقْتُولِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْجَبَلِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْوَعْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "يَقْتُلُوا": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "حَذَّاقَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَابْنَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "مُطَرِّفٍ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فَإِنّ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "لَدَيْنا": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "حَوْشباً": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَأَبا": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْجِسْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "تَبَصَّرْتُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فِتْيانَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْيَمامَةِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "هَلْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "حَذَاقاً": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَعَيْنِي": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "كالْحِجاةِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْقَطْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فَمَنْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "لِعَمِّ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْعا": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَالضَّجِيجِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَمُصْمِتاً": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَقَبْلَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "حَذاقٍ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "تَزَلْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "عالِيَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الذِّكْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "تَعاوَرُهُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "أَسْيافُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "قَوْمٍ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "تَعَوَّدُوا": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "قِراعَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْكُماةِ": [
+    "ibnat_hudhaq_alhanfi",
+    "zaynab_bt_farwah"
+  ],
+  "خُنُوسٍ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "ضُجْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "لَهَفِي": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "ألَّا": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "تَكُونَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "لَقِيتَهُمْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "بِصَحْراءَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "ضِيقِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْمَكَرِّ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَعْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فَلَوْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "مُلْكُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "سَوَّمَتْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فَوارِسُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "يَسْبُونَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْعَذارِيَّ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "شُكْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "وَلَوْ": [
+    "ibnat_hudhaq_alhanfi",
+    "umm_sari_alkindiyyah",
+    "umm_thawab_alhazzaniyyah",
+    "zaynab_bt_farwah"
+  ],
+  "غَزَتْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "قَبائِلُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "دَوْسٍ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "كُلِّهِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فسله": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "شقر": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "أَنَلْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "دَوْسَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "ثارِي": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "بِفِتْيَةٍ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "مَصالِيتَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "يَكْسِرْهُمُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "حَدَثُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الدَّهْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "قُرَيْشاً": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "مَقْتَلُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "حاذِقٍ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "بِأَيْدِيهِمُ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فَاطْلُبْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "قاتِلَ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْحِجْرِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "فَفِي": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "قَتْلِهِمْ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "مِثْلُ": [
+    "ibnat_hudhaq_alhanfi",
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "حَظِي": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "بِقَتْلِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "الْعَلاءِ": [
+    "ibnat_hudhaq_alhanfi"
+  ],
+  "janūb": [
+    "janub_alkahiliyyah"
+  ],
+  "al-kāhiliyyah": [
+    "janub_alkahiliyyah"
+  ],
+  "جنوب الكاهلية": [
+    "janub_alkahiliyyah"
+  ],
+  "رَيْبِ": [
+    "janub_alkahiliyyah"
+  ],
+  "رَيْبِ الْمَنُونِ": [
+    "janub_alkahiliyyah"
+  ],
+  "لعمروك": [
+    "janub_alkahiliyyah"
+  ],
+  "الدَّهْر": [
+    "janub_alkahiliyyah"
+  ],
+  "سَأَلْتُ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِعَمْرٍو": [
+    "janub_alkahiliyyah"
+  ],
+  "صَحْبَهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "فَأَفْظَعَنِي": [
+    "janub_alkahiliyyah"
+  ],
+  "رَدُّوا": [
+    "janub_alkahiliyyah"
+  ],
+  "السُّؤالا": [
+    "janub_alkahiliyyah"
+  ],
+  "فَقالُوا": [
+    "janub_alkahiliyyah"
+  ],
+  "قَتَلْناهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَرِثْنا": [
+    "janub_alkahiliyyah"
+  ],
+  "النِّبالا": [
+    "janub_alkahiliyyah"
+  ],
+  "فَهَلَّا": [
+    "janub_alkahiliyyah"
+  ],
+  "إِذَنْ": [
+    "janub_alkahiliyyah"
+  ],
+  "قَبْلَ": [
+    "janub_alkahiliyyah",
+    "zarqa_alyamamah"
+  ],
+  "فَقَدْ": [
+    "janub_alkahiliyyah"
+  ],
+  "رَجْلاً": [
+    "janub_alkahiliyyah"
+  ],
+  "وَكُنْتُمْ": [
+    "janub_alkahiliyyah"
+  ],
+  "رِجالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَقالُوا": [
+    "janub_alkahiliyyah"
+  ],
+  "أُتِيحَ": [
+    "janub_alkahiliyyah"
+  ],
+  "نائِماً": [
+    "janub_alkahiliyyah"
+  ],
+  "السِّباعَ": [
+    "janub_alkahiliyyah"
+  ],
+  "أَحالا": [
+    "janub_alkahiliyyah"
+  ],
+  "نَمِرا": [
+    "janub_alkahiliyyah"
+  ],
+  "أَجْبُلٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "فَنالا": [
+    "janub_alkahiliyyah"
+  ],
+  "مَنالا": [
+    "janub_alkahiliyyah"
+  ],
+  "فَأُقْسِمُ": [
+    "janub_alkahiliyyah"
+  ],
+  "عَمْرُو": [
+    "janub_alkahiliyyah"
+  ],
+  "لوْ": [
+    "janub_alkahiliyyah"
+  ],
+  "نَبَّهاكَ": [
+    "janub_alkahiliyyah"
+  ],
+  "نَبَّها": [
+    "janub_alkahiliyyah"
+  ],
+  "داءً": [
+    "janub_alkahiliyyah"
+  ],
+  "عُضالا": [
+    "janub_alkahiliyyah"
+  ],
+  "رِعْدِيدَةٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "طائِشٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "رَعِشٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "صالا": [
+    "janub_alkahiliyyah"
+  ],
+  "لَيْثَ": [
+    "janub_alkahiliyyah"
+  ],
+  "عِرّيسَةٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "مُفِيداً": [
+    "janub_alkahiliyyah"
+  ],
+  "مُفِيتاً": [
+    "janub_alkahiliyyah"
+  ],
+  "نُفُوساً": [
+    "janub_alkahiliyyah"
+  ],
+  "وَمَالا": [
+    "janub_alkahiliyyah"
+  ],
+  "واسِعاً": [
+    "janub_alkahiliyyah"
+  ],
+  "ذَرْعُهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "جَمِيعَ": [
+    "janub_alkahiliyyah"
+  ],
+  "السِّلاحِ": [
+    "janub_alkahiliyyah"
+  ],
+  "جَلِيداً": [
+    "janub_alkahiliyyah"
+  ],
+  "بُسالا": [
+    "janub_alkahiliyyah"
+  ],
+  "هِزَبْراً": [
+    "janub_alkahiliyyah"
+  ],
+  "فَرُوساً": [
+    "janub_alkahiliyyah"
+  ],
+  "لِأَقْرانِهِ": [
+    "janub_alkahiliyyah"
+  ],
+  "أَبِيّاً": [
+    "janub_alkahiliyyah"
+  ],
+  "صاوَلَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْقِرْنَ": [
+    "janub_alkahiliyyah"
+  ],
+  "مَعْ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَصَرُّفِ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْأَرْضِ": [
+    "janub_alkahiliyyah"
+  ],
+  "رُكْناً": [
+    "janub_alkahiliyyah"
+  ],
+  "عَزِيزاً": [
+    "janub_alkahiliyyah"
+  ],
+  "أَمالا": [
+    "janub_alkahiliyyah"
+  ],
+  "حُمَّ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَوْمُهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "أَخُو": [
+    "janub_alkahiliyyah"
+  ],
+  "فَهْمَ": [
+    "janub_alkahiliyyah"
+  ],
+  "بُطْلاً": [
+    "janub_alkahiliyyah"
+  ],
+  "وَفالا": [
+    "janub_alkahiliyyah"
+  ],
+  "عَلِمَتْ": [
+    "janub_alkahiliyyah"
+  ],
+  "فَهْمُ": [
+    "janub_alkahiliyyah"
+  ],
+  "اللِّقاءِ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِأَنَّهُمُ": [
+    "janub_alkahiliyyah"
+  ],
+  "نِفالا": [
+    "janub_alkahiliyyah"
+  ],
+  "يُحِسُّوا": [
+    "janub_alkahiliyyah"
+  ],
+  "فَيُخْلُو": [
+    "janub_alkahiliyyah"
+  ],
+  "النِّساءَ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَالْحِجالا": [
+    "janub_alkahiliyyah"
+  ],
+  "يُنْزِلُوا": [
+    "janub_alkahiliyyah"
+  ],
+  "لَزَباتِ": [
+    "janub_alkahiliyyah"
+  ],
+  "السِّنِينَ": [
+    "janub_alkahiliyyah"
+  ],
+  "فَيَكُونُوا": [
+    "janub_alkahiliyyah"
+  ],
+  "عِيالا": [
+    "janub_alkahiliyyah"
+  ],
+  "الضَّيْفُ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَالْمُرْمِلُونَ": [
+    "janub_alkahiliyyah"
+  ],
+  "اغْبَرَّ": [
+    "janub_alkahiliyyah"
+  ],
+  "أُفْقٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَهَبَّتْ": [
+    "janub_alkahiliyyah"
+  ],
+  "شَمالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَخَلَّتْ": [
+    "janub_alkahiliyyah"
+  ],
+  "عَنَ": [
+    "janub_alkahiliyyah"
+  ],
+  "اوْلادِها": [
+    "janub_alkahiliyyah"
+  ],
+  "الْمُرْضِعاتُ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَرَ": [
+    "janub_alkahiliyyah"
+  ],
+  "عَيْنٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "لِمُزْنٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِلالا": [
+    "janub_alkahiliyyah"
+  ],
+  "بِأَنَّكَ": [
+    "janub_alkahiliyyah"
+  ],
+  "كُنْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الرَّبِيعَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْمَرِيعَ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَكُنْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَعْتَفِيكَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الثِّمالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَخَرْقٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَجاوَزْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "مَجْهُولَهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِوَجْناءَ": [
+    "janub_alkahiliyyah"
+  ],
+  "حَرْفٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَشَكَّى": [
+    "janub_alkahiliyyah"
+  ],
+  "الْكَلالا": [
+    "janub_alkahiliyyah"
+  ],
+  "النَّهارَ": [
+    "janub_alkahiliyyah"
+  ],
+  "شَمْسَهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "دُجَى": [
+    "janub_alkahiliyyah"
+  ],
+  "اللَّيْلِ": [
+    "janub_alkahiliyyah"
+  ],
+  "فِيهِ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْهِلالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَخَيْلٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "سَرَتْ": [
+    "janub_alkahiliyyah",
+    "zaynab_um_hassanah"
+  ],
+  "فُرْسانُها": [
+    "janub_alkahiliyyah"
+  ],
+  "فَوَلَّوْا": [
+    "janub_alkahiliyyah"
+  ],
+  "يَسْتَقِلُّوا": [
+    "janub_alkahiliyyah"
+  ],
+  "قِبالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَحَيٍّ": [
+    "janub_alkahiliyyah"
+  ],
+  "أَبَحْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "صَبَحْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْهِياجِ": [
+    "janub_alkahiliyyah"
+  ],
+  "عِجالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَحَرْبٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَرَدْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَثَغْرٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "سَدَدْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَعِلْجٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "شَدَدْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْحِبالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَمالٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "حَوَيْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "حَمَيْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَضَيْفٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "قَرَيْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَخافُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْوَكالا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَكُلَّ": [
+    "janub_alkahiliyyah"
+  ],
+  "قَبِيلٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَكُنْ": [
+    "janub_alkahiliyyah"
+  ],
+  "أَرَدْتَهُمُ": [
+    "janub_alkahiliyyah"
+  ],
+  "باتُوا": [
+    "janub_alkahiliyyah"
+  ],
+  "وِجالا": [
+    "janub_alkahiliyyah"
+  ],
+  "المزيد": [
+    "janub_alkahiliyyah"
+  ],
+  "الكاهلية": [
+    "janub_alkahiliyyah"
+  ],
+  "أضف": [
+    "janub_alkahiliyyah"
+  ],
+  "معلومة": [
+    "janub_alkahiliyyah"
+  ],
+  "شرح": [
+    "janub_alkahiliyyah"
+  ],
+  "لَيْتَ": [
+    "janub_alkahiliyyah",
+    "zarqa_alyamamah",
+    "zaynab_bt_farwah"
+  ],
+  "عَمْراً": [
+    "janub_alkahiliyyah"
+  ],
+  "\"لَيْتٌ\"": [
+    "janub_alkahiliyyah"
+  ],
+  "بِنافِعَةٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَغْزُ": [
+    "janub_alkahiliyyah"
+  ],
+  "فَهْماً": [
+    "janub_alkahiliyyah"
+  ],
+  "يَهْبِطْ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِوادِيها": [
+    "janub_alkahiliyyah"
+  ],
+  "شَبَّتْ": [
+    "janub_alkahiliyyah"
+  ],
+  "هُذَيْلٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَفَهْمٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "بَيْنَنا": [
+    "janub_alkahiliyyah"
+  ],
+  "إِرَةً": [
+    "janub_alkahiliyyah"
+  ],
+  "تَبُوخُ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَرْتَدُّ": [
+    "janub_alkahiliyyah"
+  ],
+  "صالِيها": [
+    "janub_alkahiliyyah"
+  ],
+  "وَلَيْلَةٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَصْطَلِي": [
+    "janub_alkahiliyyah"
+  ],
+  "بِالْفَرْثِ": [
+    "janub_alkahiliyyah"
+  ],
+  "جازِرُها": [
+    "janub_alkahiliyyah"
+  ],
+  "يَخْتَصُّ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِالنَّقَرى": [
+    "janub_alkahiliyyah"
+  ],
+  "الْمُثْرِينَ": [
+    "janub_alkahiliyyah"
+  ],
+  "داعِيها": [
+    "janub_alkahiliyyah"
+  ],
+  "يَنْبَحُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْكَلْبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "واحِدَةٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْعِشاءِ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَسْرِي": [
+    "janub_alkahiliyyah"
+  ],
+  "أَفاعِيها": [
+    "janub_alkahiliyyah"
+  ],
+  "أَطْعَمْتَ": [
+    "janub_alkahiliyyah"
+  ],
+  "جُوعٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَمَسْغَبَةٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "شَحْمَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْعِشارِ": [
+    "janub_alkahiliyyah"
+  ],
+  "قامَ": [
+    "janub_alkahiliyyah"
+  ],
+  "باغِيها": [
+    "janub_alkahiliyyah"
+  ],
+  "امْرِىءٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِطِوالِ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْعَيْشِ": [
+    "janub_alkahiliyyah"
+  ],
+  "مَكْذُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "غالَبَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْأَيَّامَ": [
+    "janub_alkahiliyyah"
+  ],
+  "مَغْلُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "سَلامَتُهُمْ": [
+    "janub_alkahiliyyah"
+  ],
+  "طَرِيقُهُمُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الشَّرِّ": [
+    "janub_alkahiliyyah"
+  ],
+  "دُعْبُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "رَجُلٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "مُودٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَتابِعُهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الشُّبَّانُ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَالشِّيبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "بَيْنَا": [
+    "janub_alkahiliyyah"
+  ],
+  "ناعِمٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "راضٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِعِيشَتِهِ": [
+    "janub_alkahiliyyah"
+  ],
+  "سِيقَ": [
+    "janub_alkahiliyyah"
+  ],
+  "دَواهِي": [
+    "janub_alkahiliyyah"
+  ],
+  "الدَّهْرِ": [
+    "janub_alkahiliyyah"
+  ],
+  "شُؤْبُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "عَنِّي": [
+    "janub_alkahiliyyah"
+  ],
+  "مُغَلْغَلَةً": [
+    "janub_alkahiliyyah"
+  ],
+  "وَالْقَوْمُ": [
+    "janub_alkahiliyyah"
+  ],
+  "دُونِهِمْ": [
+    "janub_alkahiliyyah"
+  ],
+  "سَعْيا": [
+    "janub_alkahiliyyah"
+  ],
+  "وَمَرْكُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "هُذَيْلاً": [
+    "janub_alkahiliyyah"
+  ],
+  "وَأَبْلِغْ": [
+    "janub_alkahiliyyah"
+  ],
+  "يُبَلِّغُها": [
+    "janub_alkahiliyyah"
+  ],
+  "رَسُولاً": [
+    "janub_alkahiliyyah"
+  ],
+  "وَبَعْضُ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَكْذِيبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "ذاَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْكَلْبِ": [
+    "janub_alkahiliyyah"
+  ],
+  "خَيْرَهُمْ": [
+    "janub_alkahiliyyah"
+  ],
+  "بِبَطْنِ": [
+    "janub_alkahiliyyah"
+  ],
+  "شَرْيانَ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَعْوِي": [
+    "janub_alkahiliyyah"
+  ],
+  "عِنْدَهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الذِّيبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الطَّاعِنُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الطَّعْنَةَ": [
+    "janub_alkahiliyyah"
+  ],
+  "النَّجْلاءَ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَتْبَعُها": [
+    "janub_alkahiliyyah"
+  ],
+  "مُثْعَنْجِرٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "دِماءِ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْجَوْفِ": [
+    "janub_alkahiliyyah"
+  ],
+  "أُثْعُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَالتَّارِكُ": [
+    "janub_alkahiliyyah"
+  ],
+  "مُصْفَرّاً": [
+    "janub_alkahiliyyah"
+  ],
+  "أَنامِلُهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "رَجِيعِ": [
+    "janub_alkahiliyyah"
+  ],
+  "مَخْضُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "تَمْشِي": [
+    "janub_alkahiliyyah"
+  ],
+  "النُّسُورُ": [
+    "janub_alkahiliyyah"
+  ],
+  "إِلَيْهِ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَهْيَ": [
+    "janub_alkahiliyyah"
+  ],
+  "لاهِيَةٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "مَشْيَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْعَذارَى": [
+    "janub_alkahiliyyah"
+  ],
+  "عَلَيْهِنَّ": [
+    "janub_alkahiliyyah",
+    "zaynab_bt_farwah"
+  ],
+  "الْجَلابِيبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْمُخْرِجُ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْكاعِبَ": [
+    "janub_alkahiliyyah"
+  ],
+  "الْحَسْناءَ": [
+    "janub_alkahiliyyah"
+  ],
+  "مُذْعِنَةً": [
+    "janub_alkahiliyyah"
+  ],
+  "السَّبْيِ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَنْفَحُ": [
+    "janub_alkahiliyyah"
+  ],
+  "أَرْدانِها": [
+    "janub_alkahiliyyah"
+  ],
+  "الطِّيبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "يَرَوْا": [
+    "janub_alkahiliyyah"
+  ],
+  "مِثْلَ": [
+    "janub_alkahiliyyah"
+  ],
+  "عَمْرٍو": [
+    "janub_alkahiliyyah"
+  ],
+  "خَطَتْ": [
+    "janub_alkahiliyyah"
+  ],
+  "قَدَمٌ": [
+    "janub_alkahiliyyah"
+  ],
+  "وَلَنْ": [
+    "janub_alkahiliyyah"
+  ],
+  "مِثْلَهُ": [
+    "janub_alkahiliyyah"
+  ],
+  "حَنَّتِ": [
+    "janub_alkahiliyyah"
+  ],
+  "النِّيبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "فَاجْزُوا": [
+    "janub_alkahiliyyah"
+  ],
+  "شَرّاً": [
+    "janub_alkahiliyyah"
+  ],
+  "صاعاً": [
+    "janub_alkahiliyyah"
+  ],
+  "بِصاعٍ": [
+    "janub_alkahiliyyah"
+  ],
+  "الذُّلَّ": [
+    "janub_alkahiliyyah"
+  ],
+  "مَعْتُوبُ": [
+    "janub_alkahiliyyah"
+  ],
+  "umm": [
+    "umm_qays_aldabbiyyah",
+    "umm_sari_alkindiyyah",
+    "umm_sayyar",
+    "umm_thawab_alhazzaniyyah",
+    "zaynab_um_hassanah"
+  ],
+  "al-ḍabbiyyah": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "أم قيس الضبية": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "سَيْفَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "ضَبَّةَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "يُعِضُّكَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "بَعْدَهُ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "بِجَماجِمِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الْأَقْرانِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الْفَوارِسُ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "جانِبِينَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "جَوادَهُ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "وَأَقامَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "فارِسُهُ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "فَتَى": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الْفِتْيانِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "لِلْخُصُومِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الضِّجاجُ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "ابْنِ": [
+    "umm_qays_aldabbiyyah",
+    "zahra_alkilaabiyyah"
+  ],
+  "سَعْدٍ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "للضُّمَّرِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الْقُودِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "وَمَشْهَدٍ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "كَفَيْتَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الْغائِبِينَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "مَجْمَعٍ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "نَواصِي": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "مَشْهُودِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "فَرَّجْتَهُ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "بِلِسانٍ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "غَيْرِ": [
+    "umm_qays_aldabbiyyah",
+    "zaynab_bt_farwah"
+  ],
+  "مُلْتَبِسٍ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الْحِفاظِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "وَقَلْبٍ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "مَزْؤُودِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "قَناةُ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "امْرِئٍ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "أَوْرَى": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "خَوَرٌ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "هَزّ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "قَناةً": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "صَلْبَةَ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "الْعُودِ": [
+    "umm_qays_aldabbiyyah"
+  ],
+  "ṣarīʿ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "al-kindiyyah": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أم صريع الكندية": [
+    "umm_sari_alkindiyyah"
+  ],
+  "النُّذُور": [
+    "umm_sari_alkindiyyah"
+  ],
+  "alnudhr": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَهْدَيْتُها": [
+    "umm_sari_alkindiyyah"
+  ],
+  "الدَّارَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "تَكُونُ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "عَلَيْنا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "حُفْرَةٌ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "مُلِئَتْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "دُخانا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "فَلَيْتَكَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "سَفِينِ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "عِبادٍ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "طَرِيداً": [
+    "umm_sari_alkindiyyah"
+  ],
+  "نَراكَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "تَرانا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "ولَيْتَكَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "غائِبٌ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "بِالْهِنْدِ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "عَنَّا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "وَلَيْتَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "صَدِيقاً": [
+    "umm_sari_alkindiyyah"
+  ],
+  "فَاقْتَنانا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "النُّذُورَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "تُكَفُّ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "مِئَةً": [
+    "umm_sari_alkindiyyah"
+  ],
+  "هِجانا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "سَقَى": [
+    "umm_sari_alkindiyyah"
+  ],
+  "مُسْتَهِلُّ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "الْغَيْثِ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَجْداثَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "فِتْيَةٍ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "بِجَيْشانَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "وَلَّيْنا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "نُحُورَهُمُ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "الدَّما": [
+    "umm_sari_alkindiyyah"
+  ],
+  "صَلُوا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "مَعْمَعانَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "تَخَرَّمُوا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "مَقاحِيمَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "هابَ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "التَّقَحُّما": [
+    "umm_sari_alkindiyyah"
+  ],
+  "هَوَتْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أُمُّهُمْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "ماذَا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "صُرِّعُوا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَسْبابِ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "مَجْدٍ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "تَصَرَّما": [
+    "umm_sari_alkindiyyah"
+  ],
+  "وَلَمَّا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "اكْفَهَرَّتْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "عَلَيْهِمْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "بَرِقَتْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "بِالْمَوْتِ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَمْطَرَتِ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَبَوْا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "يَفِرُّوا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "وَالْقَنا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "نُحُورِهِمْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "يَبْتَغُوا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "رَهْبَةِ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "سُلَّما": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَنَّهُمْ": [
+    "umm_sari_alkindiyyah"
+  ],
+  "فَرُّوا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "لَكانُوا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَعِزَّةً": [
+    "umm_sari_alkindiyyah"
+  ],
+  "رَأَوْا": [
+    "umm_sari_alkindiyyah"
+  ],
+  "أَكْرَما": [
+    "umm_sari_alkindiyyah"
+  ],
+  "sayyār": [
+    "umm_sayyar"
+  ],
+  "أم سيار": [
+    "umm_sayyar"
+  ],
+  "مُرَزَّأٌ": [
+    "umm_sayyar"
+  ],
+  "أَخْيارُنا": [
+    "umm_sayyar"
+  ],
+  "كَذَلِكِ": [
+    "umm_sayyar"
+  ],
+  "بَيْنِ": [
+    "umm_sayyar"
+  ],
+  "مَقْتُولٍ": [
+    "umm_sayyar"
+  ],
+  "وَبَيْنِ": [
+    "umm_sayyar"
+  ],
+  "هالِكِ": [
+    "umm_sayyar"
+  ],
+  "يَكُونُ": [
+    "umm_sayyar"
+  ],
+  "الرُّزْءُ": [
+    "umm_sayyar"
+  ],
+  "إلَّا": [
+    "umm_sayyar"
+  ],
+  "ذَلِكِ": [
+    "umm_sayyar"
+  ],
+  "thawāb": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "al-hazzāniyyah": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أم ثواب الهزانية": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "رَبَّيْتُهُ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "وَهْوَ": [
+    "umm_thawab_alhazzaniyyah",
+    "zahra_alkilaabiyyah"
+  ],
+  "الْفَرْخِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أَعْظُمُهُ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "الطَّعامِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "تَرَى": [
+    "umm_thawab_alhazzaniyyah",
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "جِلْدِهِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "زَغَبا": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "آضَ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "كَالْفُحَّالِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "شَذَّبَهُ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أَبَّارُهُ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "وَنَفَى": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "مَتْنِهِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "الْكَرَبا": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أَمْسَى": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "يُمَزِّقُ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أَثْوابِي": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "يُؤَدِّبُنِي": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أَبَعْدَ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "شَيْبِيَ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "يُبْتَغَى": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "الْأَدَبا": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "إِنِّي": [
+    "umm_thawab_alhazzaniyyah",
+    "zarqa_alyamamah"
+  ],
+  "لَأُبْصِرُ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "تَرْجِيلِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "لِمَّتِهِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "وَخَطِّ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "لِحْيَتِهِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "خَدِّهِ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "عَجَبا": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "قالَتْ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "عِرْسُهُ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "لِتُسْمِعَنِي:": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "مَهْلاً": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أُمِّنا": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "أَرَبا": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "رَأَتْنِيَ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "نارٍ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "مُسَعَّرَةٍ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "اسْتَطاعَتْ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "لَزادَتْ": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "فَوْقَها": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "حَطَبا": [
+    "umm_thawab_alhazzaniyyah"
+  ],
+  "zahrāʾ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "al-kilābiyyah": [
+    "zahra_alkilaabiyyah"
+  ],
+  "زهراء الكلابية": [
+    "zahra_alkilaabiyyah"
+  ],
+  "تَأَوَّهْتُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "ذِكْرَى": [
+    "zahra_alkilaabiyyah"
+  ],
+  "عَمِّي": [
+    "zahra_alkilaabiyyah"
+  ],
+  "وَدُونَهُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "نَقاً": [
+    "zahra_alkilaabiyyah"
+  ],
+  "هائِلٌ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "جَعْدُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "الثَّرَى": [
+    "zahra_alkilaabiyyah"
+  ],
+  "وَصَفِيحُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "وَكُنْتُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "أَنامُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "اللَّيْلَ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "ثِقَتِي": [
+    "zahra_alkilaabiyyah"
+  ],
+  "وَأَعْلَمُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "ضَيْمَ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "صَحِيحُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "فَأَصْبَحْتُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "سالَمْتُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "الْعَدُوَّ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "أَجِدْ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "السِّلْمِ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "بُدّاً": [
+    "zahra_alkilaabiyyah"
+  ],
+  "وَالْفُؤادُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "جَرِيحُ": [
+    "zahra_alkilaabiyyah"
+  ],
+  "zarqāʾ": [
+    "zarqa_alyamamah"
+  ],
+  "al-yamāmah": [
+    "zarqa_alyamamah"
+  ],
+  "زرقاء اليمامة": [
+    "zarqa_alyamamah"
+  ],
+  "الْحَمامَ": [
+    "zarqa_alyamamah"
+  ],
+  "لِيَهْ": [
+    "zarqa_alyamamah"
+  ],
+  "وَنِصْفَهُ": [
+    "zarqa_alyamamah"
+  ],
+  "قَدِيَهْ": [
+    "zarqa_alyamamah"
+  ],
+  "حَمامَتِيَهْ": [
+    "zarqa_alyamamah"
+  ],
+  "الْحَمامُ": [
+    "zarqa_alyamamah"
+  ],
+  "مِيَةْ": [
+    "zarqa_alyamamah"
+  ],
+  "خُذُوا": [
+    "zarqa_alyamamah"
+  ],
+  "حِذارَكُمُ": [
+    "zarqa_alyamamah"
+  ],
+  "قَوْمُ": [
+    "zarqa_alyamamah"
+  ],
+  "يَنْفَعُكُمْ": [
+    "zarqa_alyamamah"
+  ],
+  "فَلَيْسَ": [
+    "zarqa_alyamamah"
+  ],
+  "بِالْأَمْرِ": [
+    "zarqa_alyamamah"
+  ],
+  "يُحْتَقَرُ": [
+    "zarqa_alyamamah"
+  ],
+  "شَجَراً": [
+    "zarqa_alyamamah"
+  ],
+  "خَلْفِها": [
+    "zarqa_alyamamah"
+  ],
+  "بَشَرٌ": [
+    "zarqa_alyamamah"
+  ],
+  "وَكَيْفَ": [
+    "zarqa_alyamamah"
+  ],
+  "تَجْتَمِعُ": [
+    "zarqa_alyamamah"
+  ],
+  "الْأَشْجارُ": [
+    "zarqa_alyamamah"
+  ],
+  "وَالْبَشَرُ": [
+    "zarqa_alyamamah"
+  ],
+  "ثُورُوا": [
+    "zarqa_alyamamah"
+  ],
+  "بِأَجْمَعِكُمْ": [
+    "zarqa_alyamamah"
+  ],
+  "وَجْهِ": [
+    "zarqa_alyamamah"
+  ],
+  "أَوَّلِهِمْ": [
+    "zarqa_alyamamah"
+  ],
+  "مِنْكُمْ": [
+    "zarqa_alyamamah"
+  ],
+  "فَاعْلَمُوا": [
+    "zarqa_alyamamah"
+  ],
+  "ظَفَرُ": [
+    "zarqa_alyamamah"
+  ],
+  "ضُمُّوا": [
+    "zarqa_alyamamah"
+  ],
+  "طَوائِفَكُمْ": [
+    "zarqa_alyamamah"
+  ],
+  "قَبْلِ": [
+    "zarqa_alyamamah"
+  ],
+  "داهِيَةٍ": [
+    "zarqa_alyamamah"
+  ],
+  "الْأُمُورِ": [
+    "zarqa_alyamamah"
+  ],
+  "الَّتِي": [
+    "zarqa_alyamamah"
+  ],
+  "تُخْشَى": [
+    "zarqa_alyamamah"
+  ],
+  "وَتُنْتَظَرُ": [
+    "zarqa_alyamamah"
+  ],
+  "فَغَوِّرُوا": [
+    "zarqa_alyamamah"
+  ],
+  "ثالِثَةٍ": [
+    "zarqa_alyamamah"
+  ],
+  "بَعْدِهِ": [
+    "zarqa_alyamamah"
+  ],
+  "وِرْدٌ": [
+    "zarqa_alyamamah"
+  ],
+  "صَدَرُ": [
+    "zarqa_alyamamah"
+  ],
+  "وَعاجِلُوا": [
+    "zarqa_alyamamah"
+  ],
+  "الْقَوْمَ": [
+    "zarqa_alyamamah"
+  ],
+  "اللَّيْلِ": [
+    "zarqa_alyamamah"
+  ],
+  "رَقَدُوا": [
+    "zarqa_alyamamah"
+  ],
+  "تَخافُوا": [
+    "zarqa_alyamamah"
+  ],
+  "حَرباً": [
+    "zarqa_alyamamah"
+  ],
+  "كَثُرُوا": [
+    "zarqa_alyamamah"
+  ],
+  "zawjat": [
+    "zawjat_abi_alaaj_alkalbi",
+    "zawjat_qurad_b_ajda"
+  ],
+  "al-ʿāj": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "al-kalbī": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "زوجة أبي العاج الكلبي": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "syria": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "steppe": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "شَنِئْتُ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "الشُّيُوخَ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "وَأَبْغَضْتُهُمْ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "وَذَلِكَ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "بَعْضِ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "أَفْعالِيَةْ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "زَوْجَةَ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "الشَّيْخِ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "مُغْبَرَّةً": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "وَتُمْسِي": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "لِصُحْبَتِهِ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "قالِيَةْ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "بارَكَ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "اللهُ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "عَرْدِهِ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "عِظامِ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "اسْتِهِ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "الْبالِيَةْ": [
+    "zawjat_abi_alaaj_alkalbi"
+  ],
+  "qurād": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "ajdaʿ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "زوجة قراد بن أجدع": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "عَيْنُ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "بَكِّي": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "قُرادَ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "بْنَ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "أَجْدَعا": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "رَهِيناً": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "لِقَتْلٍ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "مُوَدَّعا": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "أَتَتْهُ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "بَغْتَةً": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "دُونَ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "قَوْمِهِ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "فَأَمْسَى": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "أَسِيراً": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "حاضِرَ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "الْبَيْتِ": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "أَضْرَعا": [
+    "zawjat_qurad_b_ajda"
+  ],
+  "zaynab": [
+    "zaynab_al-yashkuriyyah",
+    "zaynab_bt_farwah",
+    "zaynab_um_hassanah"
+  ],
+  "al-yashkuriyyah": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "زينب اليشكرية": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "أَتاحَتْكُمُ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "الدُّنْيا": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "لِمُنْتَهَشِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "الْقَنا": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "دَيْناً": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "بِذَلِكَ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "آلَتِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "أَناخَتْ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "عَلَيْكُمْ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "خَيْلَ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "كَرِيهَةٍ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "تَمَلُّوها": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "مَلَّتِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "تُحَمْحِمُ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "خَيْلٌ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "خَيْلٍ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "تَقَدَّمَتْ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "مَصارِعُكُمْ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "الذُّلِّ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "حَلَّتِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "الْفِنْدِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "أُرْزاهُ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "حَسْرَةً": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "تُجَدِّدُ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "حُزْناً": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "قُلْتُ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "وَلَّتِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "أَرانِي": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "كَسَرْبٍ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "حِيلَ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "أَلِيفُهُ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "قَوافِزُهُ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "مَهْمَهِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "الْخَبْتِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "ضَلَّتِ": [
+    "zaynab_al-yashkuriyyah"
+  ],
+  "farwah": [
+    "zaynab_bt_farwah"
+  ],
+  "زينب بنت فروة": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمَنُون": [
+    "zaynab_bt_farwah"
+  ],
+  "أَنِّي": [
+    "zaynab_bt_farwah"
+  ],
+  "شَهِدْتُهُمْ": [
+    "zaynab_bt_farwah"
+  ],
+  "أَجَلْ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْعَدِيدِ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمُؤَخَّرِ": [
+    "zaynab_bt_farwah"
+  ],
+  "شَهِدَتْ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْكَنِيسَةِ": [
+    "zaynab_bt_farwah"
+  ],
+  "بَذَّهُمْ": [
+    "zaynab_bt_farwah"
+  ],
+  "جِمالُ": [
+    "zaynab_bt_farwah"
+  ],
+  "رِجالٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "حُضَّرِ": [
+    "zaynab_bt_farwah"
+  ],
+  "جَلابِيباً": [
+    "zaynab_bt_farwah"
+  ],
+  "قُنِّعَتْ": [
+    "zaynab_bt_farwah"
+  ],
+  "شَمارِيخَ": [
+    "zaynab_bt_farwah"
+  ],
+  "عُرٍّ": [
+    "zaynab_bt_farwah"
+  ],
+  "سَحابٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "كَنَهْوَرِ": [
+    "zaynab_bt_farwah"
+  ],
+  "قَطُوفِ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمَشْيِ": [
+    "zaynab_bt_farwah"
+  ],
+  "رَوْدٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "مَشَتْ": [
+    "zaynab_bt_farwah"
+  ],
+  "مُرْتَجَّةَ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمُتَأَزَّرِ": [
+    "zaynab_bt_farwah"
+  ],
+  "خَراعِيبُ": [
+    "zaynab_bt_farwah"
+  ],
+  "يَمْؤُودٌ": [
+    "zaynab_bt_farwah"
+  ],
+  "شَبابَها": [
+    "zaynab_bt_farwah"
+  ],
+  "سَدائِفُ": [
+    "zaynab_bt_farwah"
+  ],
+  "شَحْمٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "أَنابِيبُ": [
+    "zaynab_bt_farwah"
+  ],
+  "عَنْقَرِ": [
+    "zaynab_bt_farwah"
+  ],
+  "ابْنَةَ": [
+    "zaynab_bt_farwah"
+  ],
+  "الدِّهْقانِ": [
+    "zaynab_bt_farwah"
+  ],
+  "كِسْرَى": [
+    "zaynab_bt_farwah"
+  ],
+  "تَنَوَّلَتْ": [
+    "zaynab_bt_farwah"
+  ],
+  "بِطَعْنِ": [
+    "zaynab_bt_farwah"
+  ],
+  "وَاخْتِلاسِ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمَعابِلِ": [
+    "zaynab_bt_farwah"
+  ],
+  "يَحْتَطِبْ": [
+    "zaynab_bt_farwah"
+  ],
+  "أُمِّي": [
+    "zaynab_bt_farwah"
+  ],
+  "ثُلَّةٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمُقاتِلِ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمُورِداتِ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمَوْتَ": [
+    "zaynab_bt_farwah"
+  ],
+  "وَالْمُصْدِراتِهِ": [
+    "zaynab_bt_farwah"
+  ],
+  "أُولاتِ": [
+    "zaynab_bt_farwah"
+  ],
+  "كَالْقُنِيِّ": [
+    "zaynab_bt_farwah"
+  ],
+  "الذَّوابِلِ": [
+    "zaynab_bt_farwah"
+  ],
+  "فَطارَتْ": [
+    "zaynab_bt_farwah"
+  ],
+  "لِوادِي": [
+    "zaynab_bt_farwah"
+  ],
+  "الزِّنْدِ": [
+    "zaynab_bt_farwah"
+  ],
+  "واهِيِ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْقُوَى": [
+    "zaynab_bt_farwah"
+  ],
+  "بَرِمٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "نِكْسٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْغَوائِلِ": [
+    "zaynab_bt_farwah"
+  ],
+  "اللَّابِساتِ": [
+    "zaynab_bt_farwah"
+  ],
+  "الرَّيْطَ": [
+    "zaynab_bt_farwah"
+  ],
+  "زَهْراءَ": [
+    "zaynab_bt_farwah"
+  ],
+  "تَبِتْ": [
+    "zaynab_bt_farwah"
+  ],
+  "تَحُشُّ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْآماءَ": [
+    "zaynab_bt_farwah"
+  ],
+  "وَقْدَ": [
+    "zaynab_bt_farwah"
+  ],
+  "الْمَراجِلِ": [
+    "zaynab_bt_farwah"
+  ],
+  "يُرَ": [
+    "zaynab_bt_farwah"
+  ],
+  "أَفْناءِ": [
+    "zaynab_bt_farwah"
+  ],
+  "مُرَّةَ": [
+    "zaynab_bt_farwah"
+  ],
+  "مِثْلُها": [
+    "zaynab_bt_farwah"
+  ],
+  "قَيْسِيٍّ": [
+    "zaynab_bt_farwah"
+  ],
+  "غَنيمِةُ": [
+    "zaynab_bt_farwah"
+  ],
+  "قافِلِ": [
+    "zaynab_bt_farwah"
+  ],
+  "وَذِي": [
+    "zaynab_bt_farwah"
+  ],
+  "حاجَةٍ": [
+    "zaynab_bt_farwah"
+  ],
+  "باحَ": [
+    "zaynab_bt_farwah"
+  ],
+  "قَلْباً": [
+    "zaynab_bt_farwah"
+  ],
+  "بَدَتْ": [
+    "zaynab_bt_farwah"
+  ],
+  "شَواكِلُ": [
+    "zaynab_bt_farwah"
+  ],
+  "إِلَيْكَ": [
+    "zaynab_bt_farwah"
+  ],
+  "سَبِيلُ": [
+    "zaynab_bt_farwah"
+  ],
+  "صاحِبٌ": [
+    "zaynab_bt_farwah"
+  ],
+  "يَنْبَغِي": [
+    "zaynab_bt_farwah"
+  ],
+  "نَخُونَهُ": [
+    "zaynab_bt_farwah"
+  ],
+  "وَأَنْتَ": [
+    "zaynab_bt_farwah"
+  ],
+  "لِأُخْرى": [
+    "zaynab_bt_farwah"
+  ],
+  "فَارْعَ": [
+    "zaynab_bt_farwah"
+  ],
+  "خَلِيلُ": [
+    "zaynab_bt_farwah"
+  ],
+  "تَخالُكَ": [
+    "zaynab_bt_farwah"
+  ],
+  "تَهْوَى": [
+    "zaynab_bt_farwah"
+  ],
+  "غَيْرَها": [
+    "zaynab_bt_farwah"
+  ],
+  "فَكَأَنَّما": [
+    "zaynab_bt_farwah"
+  ],
+  "تَظَنِّيها": [
+    "zaynab_bt_farwah"
+  ],
+  "دَلِيلُ": [
+    "zaynab_bt_farwah"
+  ],
+  "ḥassānah": [
+    "zaynab_um_hassanah"
+  ],
+  "زينب أم حسانة": [
+    "zaynab_um_hassanah"
+  ],
+  "anchors": [
+    "zaynab_um_hassanah"
+  ],
+  "أَقُولُ": [
+    "zaynab_um_hassanah"
+  ],
+  "لِأَدْنَى": [
+    "zaynab_um_hassanah"
+  ],
+  "صاحِبِيَّ": [
+    "zaynab_um_hassanah"
+  ],
+  "أُسِرُّه": [
+    "zaynab_um_hassanah"
+  ],
+  "وَلِلْعَيْنِ": [
+    "zaynab_um_hassanah"
+  ],
+  "دَمْعٌ": [
+    "zaynab_um_hassanah"
+  ],
+  "يَحْدُرُ": [
+    "zaynab_um_hassanah"
+  ],
+  "الْكُحْلَ": [
+    "zaynab_um_hassanah"
+  ],
+  "ساكِبُهْ": [
+    "zaynab_um_hassanah"
+  ],
+  "لَنَهْرٌ": [
+    "zaynab_um_hassanah"
+  ],
+  "بِاللِّوى": [
+    "zaynab_um_hassanah"
+  ],
+  "نازِحُ": [
+    "zaynab_um_hassanah"
+  ],
+  "الْقَذَى": [
+    "zaynab_um_hassanah"
+  ],
+  "بَعِيدُ": [
+    "zaynab_um_hassanah"
+  ],
+  "النَّواحِي": [
+    "zaynab_um_hassanah"
+  ],
+  "غَيْرُ": [
+    "zaynab_um_hassanah"
+  ],
+  "طَرْقٍ": [
+    "zaynab_um_hassanah"
+  ],
+  "مَشارِبُهْ": [
+    "zaynab_um_hassanah"
+  ],
+  "إِلَيْنا": [
+    "zaynab_um_hassanah"
+  ],
+  "صَهارِيجَ": [
+    "zaynab_um_hassanah"
+  ],
+  "مُلِّئَتْ": [
+    "zaynab_um_hassanah"
+  ],
+  "لِلِعْبٍ": [
+    "zaynab_um_hassanah"
+  ],
+  "تَمْلُحْ": [
+    "zaynab_um_hassanah"
+  ],
+  "مَلاعِبُهْ": [
+    "zaynab_um_hassanah"
+  ],
+  "حَبَّذا": [
+    "zaynab_um_hassanah"
+  ],
+  "نَجْدٌ": [
+    "zaynab_um_hassanah"
+  ],
+  "وَطِيبُ": [
+    "zaynab_um_hassanah"
+  ],
+  "هَضَبَتْهُ": [
+    "zaynab_um_hassanah"
+  ],
+  "بِالْعِشِيِّ": [
+    "zaynab_um_hassanah"
+  ],
+  "هَواضِبُهْ": [
+    "zaynab_um_hassanah"
+  ],
+  "وَرِيحُ": [
+    "zaynab_um_hassanah"
+  ],
+  "نَجْدٍ": [
+    "zaynab_um_hassanah"
+  ],
+  "تَنَسَّمَتْ": [
+    "zaynab_um_hassanah"
+  ],
+  "ضُحىً": [
+    "zaynab_um_hassanah"
+  ],
+  "جُنْحَ": [
+    "zaynab_um_hassanah"
+  ],
+  "جَنائِبُهْ": [
+    "zaynab_um_hassanah"
+  ],
+  "أَنْساهُ": [
+    "zaynab_um_hassanah"
+  ],
+  "دُمْتُ": [
+    "zaynab_um_hassanah"
+  ],
+  "حَيَّةً": [
+    "zaynab_um_hassanah"
+  ],
+  "لَيْلٌ": [
+    "zaynab_um_hassanah"
+  ],
+  "نَهارٍ": [
+    "zaynab_um_hassanah"
+  ],
+  "يُعاقِبُهْ": [
+    "zaynab_um_hassanah"
+  ],
+  "هَذا": [
+    "zaynab_um_hassanah"
+  ],
+  "الْقَطْرُ": [
+    "zaynab_um_hassanah"
+  ],
+  "يُسْفِرُ": [
+    "zaynab_um_hassanah"
+  ],
+  "لَوْعَةً": [
+    "zaynab_um_hassanah"
+  ],
+  "بِذِكْراهُ": [
+    "zaynab_um_hassanah"
+  ],
+  "يَتْرُكَ": [
+    "zaynab_um_hassanah"
+  ],
+  "شارِبُهْ": [
+    "zaynab_um_hassanah"
   ]
 }

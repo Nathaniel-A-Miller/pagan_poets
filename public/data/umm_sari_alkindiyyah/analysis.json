@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "umm_ṣarīʿ_al-kindiyyah_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "umm_ṣarīʿ_al_kindiyyah_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "النُّذُور",
+        "notes": "The verse explicitly mentions \"al-nudhūr\" (vows or votive offerings) and the act of \"offering\" (أَهْدَيْتُها) camels, which refers to a pre-Islamic ritual practice of making vows and fulfilling them with sacrifices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umm_ṣarīʿ_al-kindiyyah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  }
+]

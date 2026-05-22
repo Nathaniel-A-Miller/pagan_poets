@@ -1,0 +1,73 @@
+[
+  {
+    "poem_id": "janūb_al-kāhiliyyah_000",
+    "poem_index": 0,
+    "meter": "متقارب",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "janūb_al-kāhiliyyah_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَيْبِ الْمَنُونِ",
+        "notes": "The phrase 'ريب المنون' (the vicissitudes of fate/death) refers to fate as a cosmological force, a common pre-Islamic concept."
+      },
+      {
+        "poem_id": "janūb_al-kāhiliyyah_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمْرُكَ",
+        "notes": "The phrase 'لعمروك' (by your life) is a common pre-Islamic oath formula, anchoring the oath to the sacredness of life."
+      },
+      {
+        "poem_id": "janūb_al-kāhiliyyah_000",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَيْبِ الْمَنُونِ",
+        "notes": "The phrase 'ريب المنون' (the vicissitudes of fate/death) again refers to fate as an inescapable cosmological force."
+      },
+      {
+        "poem_id": "janūb_al-kāhiliyyah_000",
+        "verse_indices": [
+          21
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنايا",
+        "notes": "The term 'منايا' (fates/deaths) refers to destiny and the inevitability of death, aligning with pre-Islamic cosmological views on fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "janūb_al-kāhiliyyah_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "janūb_al-kāhiliyyah_002",
+    "poem_index": 2,
+    "meter": "بسيط",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "janūb_al-kāhiliyyah_002",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْر",
+        "notes": "The verse explicitly mentions \"دواهي الدهر\" (calamities of Dahr), referring to Dahr as a powerful, often destructive, cosmological force in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  }
+]

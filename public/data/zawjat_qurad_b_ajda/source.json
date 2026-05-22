@@ -1,0 +1,29 @@
+{
+  "poet": {
+    "name_ar": "زوجة قراد بن أجدع",
+    "name_en": "Zawjat Qurād b. Ajdaʿ",
+    "tribe": "Ṭayyiʾ",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 2,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "zawjat_qurād_b_ajdaʿ_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَيا عَيْنُ بَكِّي لِي قُرادَ بْنَ أَجْدَعا  رَهِيناً لِقَتْلٍ لا رَهِيناً مُوَدَّعا"
+        },
+        {
+          "verse_index": 1,
+          "text": "أَتَتْهُ الْمَنايا بَغْتَةً دُونَ قَوْمِهِ  فَأَمْسَى أَسِيراً حاضِرَ الْبَيْتِ أَضْرَعا"
+        }
+      ]
+    }
+  ]
+}

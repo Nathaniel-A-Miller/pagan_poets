@@ -1,0 +1,37 @@
+{
+  "poet": {
+    "name_ar": "عمرة بنت الحباب",
+    "name_en": "ʿAmrah bt. al-Ḥubāb",
+    "tribe": "Taghlib",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ʿamrah_bt_al-ḥubāb_000",
+      "meter": "كامل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "ما كُنْتُ أَحْسَبُ وَالْحَوادِثُ جَمَّةٌ  أَنَّا عَبِيدُ الْحَيِّ مِنْ غَسَّانِ"
+        },
+        {
+          "verse_index": 1,
+          "text": "حَتَّى عَلَتْنِي مِنْ لَبِيدٍ لَطْمَةٌ  سُجِرَتْ لَها مِنْ حَرِّها الْعَيْنانِ"
+        },
+        {
+          "verse_index": 2,
+          "text": "إِنْ تَرْضَ تَغْلِبُ وَائِلٍ بِفِعالِهِمْ  تَكُنِ الْأَذِلَّةَ عِنْدَ كُلِّ رِهانِ"
+        },
+        {
+          "verse_index": 3,
+          "text": "لَوْلا الْوَجِيهةُ قَطَّعَتْنِي بَكْرَةٌ  جَرْباءُ مُشْعَلَةٌ مِنَ الْقُطْرانِ"
+        }
+      ]
+    }
+  ]
+}

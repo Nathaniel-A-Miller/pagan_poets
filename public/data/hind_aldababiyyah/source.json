@@ -1,0 +1,37 @@
+{
+  "poet": {
+    "name_ar": "هند الضبابية",
+    "name_en": "Ḥind al-Ḍabābiyyah",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ḥind_al-ḍabābiyyah_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لَقَد ماتَ بالبيضاء مِن جانِب الحِمى  فَتىّ كان زيناً للمواكب والشربِ"
+        },
+        {
+          "verse_index": 1,
+          "text": "يَلوذُ بهِ الجاني مَخافةَ ما جَنى  كَما لاذتِ العَصماءُ بالشاهقِ الصعبِ"
+        },
+        {
+          "verse_index": 2,
+          "text": "تَظلّ بَنات العمّ والخال حولهً  صَوادي لا يَروين بالبارد العذبِ"
+        },
+        {
+          "verse_index": 3,
+          "text": "يُهلنَ عَليه بِالأكفّ مِنَ الثرى  وَما مِن قلىً يُحثى عليه من التربِ"
+        }
+      ]
+    }
+  ]
+}

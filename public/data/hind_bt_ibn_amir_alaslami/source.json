@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "هند بنت ابن عامر الأسلمي",
+    "name_en": "Hind bt. Ibn ʿĀmir al-Aslamī",
+    "tribe": "Aslam",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "hind_bt_ibn_ʿāmir_al-aslamī_000",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لقد أرسلت ليلى أثر هند  فلم أدرك بذلك من نصيب"
+        },
+        {
+          "verse_index": 1,
+          "text": "لعمرك ما ابنة السلمى ليلى  بفاحشة المحل ولا كذوب"
+        },
+        {
+          "verse_index": 2,
+          "text": "ولا مشأة في يوم ريح  تحدث عن أحاديث المعيب"
+        }
+      ]
+    }
+  ]
+}

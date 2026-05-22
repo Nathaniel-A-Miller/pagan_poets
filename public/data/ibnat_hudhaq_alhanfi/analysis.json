@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "ibnat_ḥudhāq_al-ḥanafī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ibnat_ḥudhāq_al-ḥanafī_000",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'حدث الدهر' refers to Dahr (Time/Fate) as a cosmological force that brings calamities, a common pre-Islamic concept."
+      }
+    ],
+    "error": false
+  }
+]
