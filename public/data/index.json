@@ -843,24 +843,12 @@
     "slug": "fatimah_bt_murr",
     "name_en": "Fāṭimah bt. Murr",
     "name_ar": "فاطمة بنت مر",
-    "tribe": "Kathʿam",
+    "tribe": "Khathʿam",
     "region": "Hijaz",
     "chronological_layer": "pre-Islamic",
     "gender": "female",
     "number_of_lines": 12,
     "source": "data/fatimah_bt_murr/source.json",
     "analysis": "data/fatimah_bt_murr/analysis.json"
-  },
-  {
-    "slug": "hafsah_bt_almughirah",
-    "name_en": "Ḥafṣah bt. al-Mughīrah",
-    "name_ar": "حفصة بنت المغيرة",
-    "tribe": "Quraysh",
-    "region": "Hijaz",
-    "chronological_layer": "pre-Islamic",
-    "gender": "female",
-    "number_of_lines": 3,
-    "source": "data/hafsah_bt_almughirah/source.json",
-    "analysis": "data/hafsah_bt_almughirah/analysis.json"
   }
 ]
