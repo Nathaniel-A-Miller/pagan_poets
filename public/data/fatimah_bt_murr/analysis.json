@@ -1,0 +1,38 @@
+[
+  {
+    "poem_id": "fāṭimah_bt_murr_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "fāṭimah_bt_murr_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "جَدَّانِ يَصْطَرِعانِ",
+        "notes": "This phrase refers to 'two contending fortunes or fates,' reflecting a pre-Islamic understanding of destiny or luck as a powerful, often conflicting, cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "fāṭimah_bt_murr_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "fāṭimah_bt_murr_001",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لِلَّهِ",
+        "notes": "This verse contains the exclamation \"لِلَّهِ\", which functions as an invocation or oath-like expression directed towards a divine entity, common in pre-Islamic and early Islamic Arabic."
+      }
+    ],
+    "error": false
+  }
+]

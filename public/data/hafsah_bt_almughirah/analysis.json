@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "ḥafṣah_bt_al-mughīrah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ḥafṣah_bt_al-mughīrah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرَ",
+        "notes": "The term 'الدَّهْرَ' (Time/Fate) is invoked as an active, untrustworthy force, reflecting a pre-Islamic cosmological understanding of dahr as an agent of destiny."
+      }
+    ],
+    "error": false
+  }
+]

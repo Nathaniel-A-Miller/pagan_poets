@@ -1,0 +1,18 @@
+[
+  {
+    "poem_id": "ʿafīrah_bt_ʿaffān_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿafīrah_bt_ʿaffān_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

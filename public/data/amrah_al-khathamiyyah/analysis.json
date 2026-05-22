@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "ʿamrah_al-khathʿamiyyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ʿamrah_al-khathʿamiyyah_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرُ",
+        "notes": "The verse explicitly mentions 'al-Dahr' (Time/Fate) as an active agent that 'forbade her family,' which is a key pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  }
+]
