@@ -607,7 +607,7 @@
     "region": "Hijaz",
     "chronological_layer": "pre-Islamic",
     "gender": "female",
-    "number_of_lines": 46,
+    "number_of_lines": 43,
     "source": "data/janub_alkahiliyyah/source.json",
     "analysis": "data/janub_alkahiliyyah/analysis.json"
   },
