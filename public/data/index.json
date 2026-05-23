@@ -1162,5 +1162,17 @@
     "number_of_lines": 151,
     "source": "data/zuhayr_b_janab_alkalbi/source.json",
     "analysis": "data/zuhayr_b_janab_alkalbi/analysis.json"
+  },
+  {
+    "slug": "hafsah_bt_almughirah",
+    "name_en": "Ḥafṣah bt. al-Mughīrah",
+    "name_ar": "حفصة بنت المغيرة",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "source": "data/hafsah_bt_almughirah/source.json",
+    "analysis": "data/hafsah_bt_almughirah/analysis.json"
   }
 ]

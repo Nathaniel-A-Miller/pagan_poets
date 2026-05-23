@@ -71,7 +71,13 @@ function generateSearchIndex() {
 
   const indexRaw = fs.readFileSync(INDEX_PATH, 'utf-8');
   const poetIndex = JSON.parse(indexRaw);
-  const allPoets = poetIndex.concat(discoverUnlistedPoets(poetIndex));
+  const discovered = discoverUnlistedPoets(poetIndex);
+  if (discovered.length > 0) {
+    poetIndex.push(...discovered);
+    fs.writeFileSync(INDEX_PATH, JSON.stringify(poetIndex, null, 2) + '\n');
+    console.log(`Wrote ${discovered.length} newly discovered poet(s) to index.json`);
+  }
+  const allPoets = poetIndex;
   const searchIndex = {};
 
   allPoets.forEach(poetMeta => {
