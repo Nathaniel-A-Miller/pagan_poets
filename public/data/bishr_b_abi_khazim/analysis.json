@@ -1,0 +1,890 @@
+[
+  {
+    "poem_id": "bishr_b_abī_khāzim_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_001",
+    "poem_index": 1,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 25,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_003",
+    "poem_index": 3,
+    "meter": "كامل",
+    "verse_count": 28,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_003",
+        "verse_indices": [
+          7,
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رَبِّ الدامِياتِ نُحورُها",
+        "notes": "The poet swears an oath by 'the Lord of those whose throats are bleeding,' which refers to a deity associated with pre-Islamic animal sacrifices, and continues the oath by other entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_004",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَلَّهِ",
+        "notes": "The phrase 'وَلَلَّهِ مَولى دَعوَةٍ لا يُجيبُها' constitutes an oath by Allah, a common practice in pre-Islamic Arabia where Allah was recognized as a supreme deity."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_004",
+        "verse_indices": [
+          20
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجَنانِ",
+        "notes": "The phrase 'خَوفِ الجَنانِ' explicitly refers to the fear of jinn, which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_006",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ملحد, الموت",
+        "notes": "The verse describes the finality of death and burial in a grave (ملحد), which falls under pre-Islamic mortuary beliefs."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_006",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "بلى",
+        "notes": "This verse speaks of the inevitable decay (بلى) of the body after death, reinforcing the theme of mortuary belief."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_006",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ميتته",
+        "notes": "The verse describes death (ميتته) as an inescapable call that every living being must answer, reflecting a pre-Islamic cosmological understanding of fate and mortality."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_006",
+        "verse_indices": [
+          15
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The phrase \"عجل المنايا\" explicitly refers to the hastening of fates or deaths (المنايا), which is a core pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_008",
+    "poem_index": 8,
+    "meter": "كامل",
+    "verse_count": 23,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_011",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القِداح",
+        "notes": "This verse explicitly mentions 'al-qidāḥ,' referring to the divinatory arrows or lots used in pre-Islamic Arabian divination practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَدىً",
+        "notes": "The verse mentions 'ṣadā yaṣīḥ' (a ṣadā crying out), referring to the pre-Islamic belief that a bird-like entity, the ṣadā, emerges from the skull of the deceased, often crying for vengeance or water."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_012",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "غُدافِيٌّ",
+        "notes": "The 'ghudāfī' (raven or crow) bringing news of the tribe's departure is a clear reference to augury or omens, as birds like ravens were commonly used for divination in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_013",
+    "poem_index": 13,
+    "meter": "بسيط",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_013",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "العَقرَبُ الأولى, الجَبهَةِ الأَسَدُ",
+        "notes": "This verse describes the passage of time and associated weather phenomena (rain) by referencing the rising and setting of specific constellations, which is characteristic of the pre-Islamic anwāʾ system, a form of astral belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_014",
+    "poem_index": 14,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_015",
+    "poem_index": 15,
+    "meter": "وافر",
+    "verse_count": 55,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_015",
+        "verse_indices": [
+          39
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أَيسار, القُتار",
+        "notes": "This verse refers to 'أيسار' (practitioners of maysir) and 'القُتار' (the smoke of cooking meat), which together allude to the pre-Islamic ritual of maysir involving the ritual slaughter of a camel and communal feasting."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_016",
+        "verse_indices": [
+          26
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مَقاليتُ النِساءِ يَطَأنَهُ",
+        "notes": "This verse describes barren women performing a ritualistic act of stepping on someone, which was a known pre-Islamic folk practice for seeking fertility."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_017",
+    "poem_index": 17,
+    "meter": "وافر",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_017",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "قَبرَ حارِثَةَ بنِ لَأمٍ إِلَهاً تَحلِفونَ بِهِ",
+        "notes": "This verse explicitly describes the veneration of Ḥāritha's tomb as a 'god' (إِلَهاً) by which oaths are sworn, reflecting pre-Islamic practices of ancestor veneration and oath-taking."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_017",
+        "verse_indices": [
+          7,
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "آلى يَميناً, نَذَرتَ النُذورا, نَذرُكَ",
+        "notes": "These verses explicitly mention the act of swearing oaths (آلى يَميناً) and making vows (نَذَرتَ النُذورا, نَذرُكَ), which were significant religious commitments in pre-Islamic Arabian society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_018",
+    "poem_index": 18,
+    "meter": "وافر",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_018",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نَقَضَ التِراتِ",
+        "notes": "This verse refers to the fulfillment of blood vengeance (نقض الترات), which was a central pre-Islamic tribal duty and a quasi-ritualistic obligation related to death and honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_020",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "هَدِيّاً",
+        "notes": "The term 'hadiyyan' refers to an offering or sacrifice, indicating a ritual obligation or vow associated with a place or its inhabitants."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_020",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'laʿamruka' is a common pre-Islamic oath formula, meaning 'by your life'."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_020",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الجُدودِ",
+        "notes": "The term 'al-judūd' (fortunes/destinies) in the context of 'their fortunes were cut short' refers to a concept of fate or destiny, a pre-Islamic cosmological idea."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_021",
+        "verse_indices": [
+          16
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "المُقَدِّسِ",
+        "notes": "The term 'المقدس' (al-muqaddas) refers to a sanctified person, likely a priest or someone dedicated to sacred service, whose garment is considered inviolable, thus indicating a recognized sacred role in pre-Islamic society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_022",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تِمامَةً",
+        "notes": "The term 'tamāma' refers to an amulet or charm, which was a common pre-Islamic ritualistic object used for protection or good fortune."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_023",
+    "poem_index": 23,
+    "meter": "وافر",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_023",
+        "verse_indices": [
+          10
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "العِقبانُ طارَت لِلوِقاعِ",
+        "notes": "The phrase 'when the eagles fly for battle' implies that the flight of these birds is a recognized sign or precursor to conflict, aligning with pre-Islamic practices of augury (ṭīra)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_024",
+    "poem_index": 24,
+    "meter": "كامل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_024",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تَبالَة",
+        "notes": "The verse mentions Tabāla, a known pre-Islamic sanctuary and cultic site associated with the idol Dhū al-Khalaṣa, thus referencing sacred geography."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_024",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' (By your life) is a common pre-Islamic oath formula, indicating a solemn affirmation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_025",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غول",
+        "notes": "The mention of a 'ghoul' (غول) refers to a type of supernatural entity believed to inhabit deserts and graveyards in pre-Islamic Arabian folklore."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_025",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "جدّك",
+        "notes": "The phrase 'wa-jaddika' (وجَدِّكَ) is an oath by 'your ancestor/fortune,' a common pre-Islamic oath formula anchored to a sacred entity."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_025",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "اختلاج العين",
+        "notes": "The reference to 'if my eye twitches' (إذا اختلجت عيني) indicates a belief in bodily omens, a form of divination in pre-Islamic Arabian culture."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_025",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القداح",
+        "notes": "The term 'al-qidāḥ' (القداح) refers to arrows used for divination (azlām) or ritualistic gambling (maysir), practices with strong pre-Islamic religious connotations."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_025",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كوكب",
+        "notes": "The phrase 'the appearance of a star' (تعرّض كوكب) suggests an astral belief where stars were observed for omens or as agents influencing events, a common pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_026",
+    "poem_index": 26,
+    "meter": "منسرح",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_026",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مَأتَمٍ, نوحا",
+        "notes": "The verse explicitly calls for lamentation (نوحا) in a mourning gathering (مأتم), which are clear references to pre-Islamic mourning rites."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_026",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزَمانُ",
+        "notes": "The personification of 'الزمان' (Time) as an agent that brings down the mighty reflects the pre-Islamic concept of Dahr as a powerful, often destructive, cosmological force."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_026",
+        "verse_indices": [
+          15
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أَمرٍ",
+        "notes": "The phrase 'فَلا تَنفَعُ الإِشاحَةُ مِن أَمرٍ' refers to the inevitability of fate or divine decree, a common pre-Islamic cosmological concept regarding destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_027",
+    "poem_index": 27,
+    "meter": "وافر",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_027",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' (By your life) is a common pre-Islamic oath formula, invoking the life of the addressee as a sacred entity to swear by."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_028",
+    "poem_index": 28,
+    "meter": "بسيط",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_028",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies 'al-Dahr' (Time/Fate) as an active, deceptive force, which is a central pre-Islamic cosmological belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_029",
+    "poem_index": 29,
+    "meter": "وافر",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_029",
+        "verse_indices": [
+          22
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لِرَبِّكِ",
+        "notes": "This verse contains an oath formula 'لِرَبِّكِ' (by your lord), which invokes a sacred entity or deity, common in pre-Islamic Arabian speech."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_030",
+    "poem_index": 30,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_031",
+    "poem_index": 31,
+    "meter": "كامل",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_031",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "القرينة",
+        "notes": "The verse mentions 'al-qarīna,' referring to a jinn companion or familiar spirit, a common concept in pre-Islamic Arabian belief, thus fitting the category of supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_032",
+    "poem_index": 32,
+    "meter": "بسيط",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_032",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَلوُ وَالشِعرى وَنَوءُهُما",
+        "notes": "This verse refers to the *nawʾ* of stars (al-Dalw and al-Shi'ra), which is a pre-Islamic astral belief connecting celestial phenomena to weather patterns, fitting cosmological concepts."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_032",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The phrase \"لا يُضامُ الدَهرَ جارُهُمُ\" personifies *dahr* as a force that can wrong someone, reflecting the pre-Islamic cosmological concept of *dahr* as fate or time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_033",
+    "poem_index": 33,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_034",
+    "poem_index": 34,
+    "meter": "وافر",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_035",
+    "poem_index": 35,
+    "meter": "وافر",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_035",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "لقاء ربك",
+        "notes": "This verse refers to the conceptual idea of 'meeting your Lord,' which in pre-Islamic contexts often served as a euphemism for death or a post-mortem reckoning, reflecting beliefs about fate and the afterlife."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_036",
+    "poem_index": 36,
+    "meter": "متدارك",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_036",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The term 'الدَهر' (Dahr) refers to the pre-Islamic cosmological concept of time or fate as an impersonal, irresistible force, which aligns with pre-Islamic Arabian fatalism."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_038",
+    "poem_index": 38,
+    "meter": "وافر",
+    "verse_count": 38,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_038",
+        "verse_indices": [
+          8
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجِنّانُ",
+        "notes": "This verse explicitly mentions 'al-Jinnān' (Jinn), which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_038",
+        "verse_indices": [
+          17
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَرامُ",
+        "notes": "The term 'ḥarām' applied to specific geographical locations ('Jizʿ ʿUraytināt' and 'Burqat ʿAyham') indicates a sacred or inviolable zone, a concept central to pre-Islamic sacred geography."
+      },
+      {
+        "poem_id": "bishr_b_abī_khāzim_038",
+        "verse_indices": [
+          37
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذي المَجازِ",
+        "notes": "The mention of 'Dhū al-Majāz,' a known pre-Islamic pilgrimage and market site, combined with the act of 'nadʿū' (invoking/praying/cursing) against enemies there, points to a ritualistic use of a sacred space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_039",
+    "poem_index": 39,
+    "meter": "متقارب",
+    "verse_count": 19,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 34,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_040",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أُلوَة",
+        "notes": "The verse explicitly mentions swearing an oath (أُلوَة), which was a significant ritualistic act in pre-Islamic Arabian society, often invoking deities or sacred entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_041",
+    "poem_index": 41,
+    "meter": "كامل",
+    "verse_count": 22,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_042",
+    "poem_index": 42,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_042",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "رقى",
+        "notes": "The verse explicitly mentions 'أرقيهما كرقى السليم' (I recited incantations over them like the incantations for the bitten/stung), referring to the pre-Islamic ritual practice of using incantations (ruqā) for protection or healing."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_043",
+    "poem_index": 43,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_043",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لِلَّهِ أُمُّكُمُ",
+        "notes": "This verse contains the idiomatic oath 'li-llāhi ummukumu' (by God, your mother!), which invokes a sacred entity and was a common pre-Islamic exclamation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_044",
+    "poem_index": 44,
+    "meter": "وافر",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_044",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَداها",
+        "notes": "This verse refers to the pre-Islamic belief of the ṣadā (صَدَى), a bird believed to be the soul of the deceased, which is heard echoing in a desolate place alongside an owl."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_045",
+    "poem_index": 45,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_046",
+    "poem_index": 46,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_047",
+    "poem_index": 47,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_048",
+    "poem_index": 48,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_049",
+    "poem_index": 49,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_051",
+    "poem_index": 51,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "bishr_b_abī_khāzim_052",
+    "poem_index": 52,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "bishr_b_abī_khāzim_052",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "إساف",
+        "notes": "This verse explicitly names Isāf (إساف), a well-known pre-Islamic idol, indicating a direct reference to a pre-Islamic deity."
+      }
+    ],
+    "error": false
+  }
+]

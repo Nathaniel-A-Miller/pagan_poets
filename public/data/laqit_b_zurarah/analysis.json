@@ -1,0 +1,289 @@
+[
+  {
+    "poem_id": "laqīṭ_b_zurārah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_zurārah_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحمس",
+        "notes": "The term 'الحمس' (al-Ḥums) refers to a group, primarily the Quraysh and their allies, who observed specific ritual practices during the pre-Islamic pilgrimage, indicating a pre-Islamic ritual dimension."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_zurārah_008",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللهِ",
+        "notes": "The phrase 'وَاللهِ' (by God) constitutes an oath, a common pre-Islamic practice invoking a deity or sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_009",
+    "poem_index": 9,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_zurārah_011",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الذَّبْحِ",
+        "notes": "The phrase \"كَرَحْلِ الذَّبْحِ\" (like the saddle of slaughter) explicitly references the act of ritual slaughter or sacrifice, a common pre-Islamic practice, used here as a simile for utter helplessness."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_013",
+    "poem_index": 13,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_zurārah_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "قُرْبانا",
+        "notes": "The term 'qurbānā' (offering/sacrifice) explicitly refers to a ritual act of offering, which is a core component of pre-Islamic religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_zurārah_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "المدان",
+        "notes": "The name 'Abd al-Madan' is a theophoric name, explicitly referencing 'al-Madan' as a pre-Islamic deity, particularly known in South Arabian contexts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_017",
+    "poem_index": 17,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_020",
+    "poem_index": 20,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_021",
+    "poem_index": 21,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_022",
+    "poem_index": 22,
+    "meter": "سريع",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_023",
+    "poem_index": 23,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_024",
+    "poem_index": 24,
+    "meter": "متقارب",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_zurārah_024",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نَعْبُ الْغُرابِ",
+        "notes": "The croaking of the raven (نعب الغراب) was widely regarded as an omen or a sign in pre-Islamic Arabian belief, often portending significant events or misfortune."
+      },
+      {
+        "poem_id": "laqīṭ_b_zurārah_024",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمْرُ أَبِيكَ",
+        "notes": "This phrase constitutes a pre-Islamic oath formula, swearing by the life of one's father, which was a common and binding form of oath in ancient Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laqīṭ_b_zurārah_025",
+    "poem_index": 25,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "laqīṭ_b_zurārah_025",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "تحلق القرون",
+        "notes": "The verse refers to the practice of women shaving their hair (ḥalq al-qurūn) as a sign of extreme grief and mourning, which was a known pre-Islamic mortuary custom."
+      }
+    ],
+    "error": false
+  }
+]

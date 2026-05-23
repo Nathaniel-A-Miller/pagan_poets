@@ -1,0 +1,144 @@
+[
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "إِلافَ اللهِ",
+        "notes": "The phrase 'ilāf Allāh' refers to a divinely sanctioned covenant or protection, explicitly naming 'Allāh' as a pre-Islamic high god."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_001",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يا رَبَّةَ الْعَيْرِ",
+        "notes": "The verse contains an invocation to 'Rabbat al-ʿAyr,' a female entity, possibly a local deity or spirit, for assistance, which is characteristic of pre-Islamic appeals to divine powers."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_002",
+    "poem_index": 2,
+    "meter": "متقارب",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_002",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الرَّدَى يُرِيدُ صُروفاً لِيَقْضِي حِماما",
+        "notes": "This verse personifies death (al-radā) as an agent that uses the vicissitudes of fate (ṣurūf) to bring about appointed death (ḥimām), reflecting pre-Islamic cosmological concepts of fate and time as active forces."
+      },
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_002",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَلْحقَ عاداً وَنُوحاً وَساما",
+        "notes": "The poet expresses the inevitability of death by stating he will join ancient peoples like ʿĀd, Nūḥ, and Sām, reflecting the pre-Islamic concept of death as joining the deceased ancestors."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_003",
+    "poem_index": 3,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_004",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أَقْسَمْتُ بِاللَّهِ",
+        "notes": "This verse contains an explicit oath sworn by Allah, which was a common practice in pre-Islamic Arabia, anchoring the oath to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_005",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرُ",
+        "notes": "The term 'al-Dahr' (Time/Fate) is invoked as a force that can 'darken its face,' reflecting the pre-Islamic Arabian concept of Dahr as a cosmological, often malevolent, force of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_006",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرَ",
+        "notes": "The verse personifies 'dahr' (time/fate) as an active, destructive force, which aligns with pre-Islamic cosmological beliefs about dahr as an agent of destiny."
+      },
+      {
+        "poem_id": "ʿāmir_b_al-ẓarib_006",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنايا",
+        "notes": "The verse refers to 'al-manāyā' (fates/deaths) as actively preparing arrows, reflecting a pre-Islamic cosmological understanding of fate as an irresistible, personified force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ẓarib_007",
+    "poem_index": 7,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  }
+]

@@ -1,0 +1,1366 @@
+[
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_000",
+    "poem_index": 0,
+    "meter": "متقارب",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_001",
+    "poem_index": 1,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_002",
+    "poem_index": 2,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_003",
+    "poem_index": 3,
+    "meter": "وافر",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_003",
+        "verse_indices": [
+          12
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجِنِيِّ",
+        "notes": "This verse explicitly mentions \"al-jinnī,\" referring to a Jinn, which is a prominent supernatural entity in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_003",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَبُّ المَنِيَّةِ",
+        "notes": "This phrase refers to the \"Lord of Fate/Death,\" which aligns with pre-Islamic cosmological concepts of fate (manāyā) as a powerful, often deified, force."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_003",
+        "verse_indices": [
+          13
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجِنِيُّ",
+        "notes": "This verse again mentions \"al-jinnī,\" referring to a Jinn, a supernatural entity in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_003",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الكَواكِبِ",
+        "notes": "This verse mentions \"al-kawākib\" (stars) in a context that suggests their agency or role in a cosmic order, aligning with pre-Islamic astral beliefs as a cosmological concept."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_003",
+        "verse_indices": [
+          18
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النُجومِ",
+        "notes": "This verse mentions \"al-nujūm\" (stars) as \"hung\" and having a \"fixed point,\" reflecting pre-Islamic astral beliefs as a cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_004",
+    "poem_index": 4,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_005",
+    "poem_index": 5,
+    "meter": "رجز",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_005",
+        "verse_indices": [
+          9
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بطن مكة",
+        "notes": "This verse refers to 'the heart of Mecca,' a central pre-Islamic sacred geographical space, lamenting its desolation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 58,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_006",
+        "verse_indices": [
+          26,
+          27
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "شياطين, كواكب",
+        "notes": "These verses explicitly mention shayāṭīn (devils/jinn) and the pre-Islamic belief that stars or meteors (كواكب) are thrown at them to drive them away."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_006",
+        "verse_indices": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          45,
+          46,
+          48
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قمر, ساهور, النجوم, بنات نعش, الفرقد, الدراري, زحل, ثور, النسر, ليث, الشمس",
+        "notes": "These verses describe various celestial bodies and constellations, attributing agency and specific roles to them, and personifying the sun's movement as a form of suffering, reflecting pre-Islamic astral beliefs and cosmology."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_006",
+        "verse_indices": [
+          51
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "إيسار",
+        "notes": "This verse explicitly mentions 'إيسار', a form of gambling or divination using arrows, which was a known pre-Islamic Arabian practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_008",
+    "poem_index": 8,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_010",
+    "poem_index": 10,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_011",
+        "verse_indices": [
+          4,
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البيت, مَكَةَ",
+        "notes": "These verses refer to 'al-Bayt' (the Kaaba) and 'Mecca', both central pre-Islamic sacred sites and pilgrimage destinations."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 42,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_012",
+        "verse_indices": [
+          39
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نُتَلُّ فَنوأَدُ",
+        "notes": "This verse explicitly refers to the pre-Islamic Arabian practice of waʾd (female infanticide) and ritualistic killing or sacrifice, which are mortuary and ritualistic aspects of pre-Islamic belief."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_012",
+        "verse_indices": [
+          41
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "الرَقيمُ",
+        "notes": "The term 'al-Raqīm' refers to a legendary place or book associated with the People of the Cave, a narrative known in pre-Islamic Arabia and considered part of its ancient sacred lore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_013",
+    "poem_index": 13,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_014",
+    "poem_index": 14,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_015",
+    "poem_index": 15,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_015",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الآِلَهِ",
+        "notes": "The verse explicitly mentions 'الآِلَهِ' (the gods), referring to the concept of multiple deities central to pre-Islamic Arabian belief, even if in a context of warning."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_016",
+    "poem_index": 16,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_017",
+    "poem_index": 17,
+    "meter": "رمل",
+    "verse_count": 16,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_018",
+    "poem_index": 18,
+    "meter": "بسيط",
+    "verse_count": 21,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_019",
+    "poem_index": 19,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_020",
+    "poem_index": 20,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_020",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَحَوتَ البِلادَ فَسَوَّيتَها وَأَنتَ عَلى طَيِّها قادِرُ",
+        "notes": "This verse describes the act of a powerful creator deity shaping the earth and having power over it, which is a pre-Islamic cosmological and theological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_021",
+    "poem_index": 21,
+    "meter": "منسرح",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_022",
+    "poem_index": 22,
+    "meter": "خفيف",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_023",
+    "poem_index": 23,
+    "meter": "منسرح",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_024",
+    "poem_index": 24,
+    "meter": "رجز",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_024",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ناقَةٌ لِلآِلَهِ",
+        "notes": "This verse explicitly mentions a she-camel dedicated to 'the deity/gods,' which is a clear reference to pre-Islamic votive or sacrificial practices involving sacred animals."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_024",
+        "verse_indices": [
+          13
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عاقِدينَ النيرانَ",
+        "notes": "This verse describes the ritualistic act of kindling fires on animal tails with the intent to make the seas rage, indicating a form of sympathetic magic or a ritual to influence natural phenomena."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_025",
+    "poem_index": 25,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_026",
+    "poem_index": 26,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_027",
+    "poem_index": 27,
+    "meter": "منسرح",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_028",
+    "poem_index": 28,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_028",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَجٍ",
+        "notes": "The verse explicitly mentions 'ḥajj,' referring to the pre-Islamic pilgrimage ritual to sacred sites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_029",
+    "poem_index": 29,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_031",
+    "poem_index": 31,
+    "meter": "رمل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_031",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ألف رب",
+        "notes": "This verse explicitly questions the nature of deity by contrasting 'one lord' with 'a thousand lords,' directly referencing the polytheistic beliefs prevalent in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_031",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الرحمن",
+        "notes": "The poet's declaration of worshipping 'al-Raḥmān' refers to a deity whose name was used in pre-Islamic Arabian monotheistic contexts, particularly by figures like Umayyah b. Abi al-Salt."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_032",
+    "poem_index": 32,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_033",
+    "poem_index": 33,
+    "meter": "خفيف",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_033",
+        "verse_indices": [
+          7
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "دين الحنيفة",
+        "notes": "This verse explicitly mentions \"دين الحنيفة\" (the religion of the Ḥanīf), which refers to a pre-Islamic monotheistic movement in Arabia, making it a key term in the pre-Islamic sacred lexicon."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_034",
+    "poem_index": 34,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_035",
+    "poem_index": 35,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_036",
+    "poem_index": 36,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_036",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَهل الحُتوفِ",
+        "notes": "The phrase 'أَهل الحُتوفِ' (people of deaths) refers to the deceased, and the act of 'pleasing them' (أَرضى بِهِ) suggests a practice or belief related to honoring the dead, which is part of pre-Islamic mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_037",
+    "poem_index": 37,
+    "meter": "متدارك",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_037",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الجَوزاءُ",
+        "notes": "The verse states that the constellation al-Jawzāʾ (Orion) has become empty due to the demise of the lamented figures, indicating an astral belief where celestial bodies are affected by or reflect significant human events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_038",
+    "poem_index": 38,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_039",
+    "poem_index": 39,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_040",
+    "poem_index": 40,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_041",
+    "poem_index": 41,
+    "meter": "بسيط",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_041",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منيته",
+        "notes": "The verse refers to 'maniyya' (appointed death or fate), which is a key pre-Islamic cosmological concept representing an inescapable, impersonal force of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_042",
+    "poem_index": 42,
+    "meter": "خفيف",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_043",
+    "poem_index": 43,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_043",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'حدثان الدهر' (the vicissitudes of Time/Fate) refers to 'dahr' as an impersonal, destructive cosmological force, a common pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_044",
+    "poem_index": 44,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_045",
+    "poem_index": 45,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_046",
+    "poem_index": 46,
+    "meter": "متدارك",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_046",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The personification of 'الدَهرُ' (Time/Fate) as an active, potentially harmful agent ('هَرَشَ الدَهرُ' - if Time scratches/bites) is a central pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_047",
+    "poem_index": 47,
+    "meter": "خفيف",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_047",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهراً",
+        "notes": "The term 'dahr' (time/fate) is used here to denote a cosmological force that brings all things to an end, a common pre-Islamic concept."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_047",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غولَةَ الدَهرِ",
+        "notes": "The 'ghoul of Dahr' refers to a ghoul, a type of supernatural being or jinn, which was a common belief in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_048",
+    "poem_index": 48,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_049",
+    "poem_index": 49,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_050",
+    "poem_index": 50,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_051",
+    "poem_index": 51,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_052",
+    "poem_index": 52,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_053",
+    "poem_index": 53,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_054",
+    "poem_index": 54,
+    "meter": "خفيف",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_054",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "تِرات, دَمٌ مَطلولُ",
+        "notes": "This verse refers to 'tirāt' (vengeance) and 'dam maṭlūl' (unavenged blood), which were central to the pre-Islamic 'tha'r' system, considered a quasi-ritual duty."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_055",
+    "poem_index": 55,
+    "meter": "رمل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_056",
+    "poem_index": 56,
+    "meter": "خفيف",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_057",
+    "poem_index": 57,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_058",
+    "poem_index": 58,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_059",
+    "poem_index": 59,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_060",
+    "poem_index": 60,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_061",
+    "poem_index": 61,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_062",
+    "poem_index": 62,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_063",
+    "poem_index": 63,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_064",
+    "poem_index": 64,
+    "meter": "وافر",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_065",
+    "poem_index": 65,
+    "meter": "كامل",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_065",
+        "verse_indices": [
+          11
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نَذرٍ",
+        "notes": "The verse refers to Abraham fulfilling a vow (nadhir), a practice of making a solemn promise to a deity, often involving a sacrifice, which was common in pre-Islamic Arabian religious life."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_065",
+        "verse_indices": [
+          13
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نَذَرتُكَ لِلَّهِ شَحيطاً",
+        "notes": "This verse explicitly describes the act of vowing a human sacrifice to God (nadhartuka li-llāhi shaḥīṭan), a ritual concept that resonates with pre-Islamic Arabian sacrificial practices, even within an Abrahamic narrative."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_065",
+        "verse_indices": [
+          21
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "فَكَّهُ بِكَبشٍ",
+        "notes": "The concept of redemption through a substitutionary animal sacrifice (fakkahu bi-kabshen) is a ritual act that finds parallels in pre-Islamic Arabian sacrificial practices."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_065",
+        "verse_indices": [
+          27
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "شاطِنٌ",
+        "notes": "The term 'shāṭin' refers to a devil or demon, a type of supernatural entity widely recognized in pre-Islamic Arabian belief systems, often associated with jinn."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_066",
+    "poem_index": 66,
+    "meter": "بسيط",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_067",
+    "poem_index": 67,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_068",
+    "poem_index": 68,
+    "meter": "وافر",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_068",
+        "verse_indices": [
+          22
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "النذور، القسوم",
+        "notes": "The mention of 'vows' (النذور) and 'oaths/ritual divisions' (القسوم) being lightened or ended refers to ritual practices common in pre-Islamic Arabian religious life."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_068",
+        "verse_indices": [
+          25
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا، الحتوم",
+        "notes": "The terms 'al-manāyā' (fates/deaths) and 'al-ḥutūm' (inevitable decrees) are key concepts in pre-Islamic Arabian cosmology, representing irresistible forces of fate, even when placed under divine control by Umayyah."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_068",
+        "verse_indices": [
+          33
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'al-dahr' (time/fate) is a central concept in pre-Islamic Arabian cosmology, often personified as an indifferent and destructive force, as implied by 'مقتبل حسوم'."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_069",
+    "poem_index": 69,
+    "meter": "متدارك",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_069",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحَرَم",
+        "notes": "The term 'الحَرَم' (al-Ḥaram) refers to a sacred, inviolable precinct, a concept central to pre-Islamic Arabian religious geography and ritual practice, particularly in Mecca."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_070",
+    "poem_index": 70,
+    "meter": "سريع",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_071",
+    "poem_index": 71,
+    "meter": "متدارك",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_072",
+    "poem_index": 72,
+    "meter": "بسيط",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_072",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "القَسَمُ",
+        "notes": "This verse refers to 'the oath' (القَسَمُ) as a power that can compel action, which was a significant ritualistic act in pre-Islamic Arabian belief, often invoking divine authority."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_072",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ذَاتَ الآلهِ",
+        "notes": "The phrase 'possessor of the deity' (ذَاتَ الآلهِ) explicitly refers to a deity or divine power associated with the snake, indicating a pre-Islamic belief in divine agency."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_072",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نافث, الكَلِمُ",
+        "notes": "This verse mentions a 'نافث' (enchanter) and the power of 'words' (الكَلِمُ) in enchanting, which points to pre-Islamic ritualistic practices involving incantations and charms."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_073",
+    "poem_index": 73,
+    "meter": "متقارب",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_073",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الرَحمنِ",
+        "notes": "This verse contains an adjuration ('أُحرَجُ بالرَحمنِ') by a divine name, reflecting a common pre-Islamic practice of swearing by deities, and 'al-Raḥmān' was a known divine name in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_074",
+    "poem_index": 74,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_075",
+    "poem_index": 75,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_076",
+    "poem_index": 76,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_077",
+    "poem_index": 77,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_078",
+    "poem_index": 78,
+    "meter": "رجز",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_079",
+    "poem_index": 79,
+    "meter": "متدارك",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_080",
+    "poem_index": 80,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_080",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجنّان",
+        "notes": "The verse explicitly mentions \"jinn\" (الجنّان), which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_081",
+    "poem_index": 81,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_082",
+    "poem_index": 82,
+    "meter": "رمل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_083",
+    "poem_index": 83,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_084",
+    "poem_index": 84,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_085",
+    "poem_index": 85,
+    "meter": "بسيط",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_085",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَبُّ الحَنيفَةِ",
+        "notes": "This verse refers to \"the Lord of the Hanifs,\" explicitly referencing Hanifism, a pre-Islamic monotheistic belief system in Arabia, thus fitting a cosmological concept of God within that context."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_085",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَجَّ الحَجيجُ",
+        "notes": "The verse explicitly mentions \"pilgrimage\" (hajj) and \"pilgrims,\" referring to a central pre-Islamic Arabian ritual associated with sacred spaces like the Kaaba."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_085",
+        "verse_indices": [
+          9
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَجِّهِمِ",
+        "notes": "This verse continues the reference to \"their pilgrimage,\" reinforcing the mention of a key pre-Islamic Arabian ritual."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_085",
+        "verse_indices": [
+          13
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تَفَثاً",
+        "notes": "The term \"tafath\" refers to specific ritual impurities removed after pilgrimage, directly referencing a pre-Islamic ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_086",
+    "poem_index": 86,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_087",
+    "poem_index": 87,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_088",
+    "poem_index": 88,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_089",
+    "poem_index": 89,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_090",
+    "poem_index": 90,
+    "meter": "وافر",
+    "verse_count": 37,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_091",
+    "poem_index": 91,
+    "meter": "وافر",
+    "verse_count": 32,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_091",
+        "verse_indices": [
+          24
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The verse refers to 'al-manāyā' (fates/deaths) as an active, almost personified force, reflecting a pre-Islamic cosmological understanding of destiny and the inevitability of death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_092",
+    "poem_index": 92,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_093",
+    "poem_index": 93,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_093",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "يَنكِتونَ الأَرضَ, العِلاّتَ بِالعيدانِ",
+        "notes": "This verse explicitly mentions scratching the ground and seeking causes with sticks, which refers to pre-Islamic divinatory practices used to find answers or excuses."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_094",
+    "poem_index": 94,
+    "meter": "خفيف",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_094",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "سَماءُ الآِلَهِ",
+        "notes": "The phrase 'sky of the deities' (سَماءُ الآِلَهِ) suggests a pre-Islamic cosmological understanding of multiple deities inhabiting the heavens, even if a supreme God is also acknowledged."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_094",
+        "verse_indices": [
+          26,
+          27,
+          28,
+          29
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الحمامة وطوقها",
+        "notes": "The dove's anthropomorphic requests for its collar (طوق) to be preserved and adorned, and for beauty for its offspring, imply a belief in the sacred or specially favored status of this animal and its lineage, reflecting pre-Islamic animal veneration."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_095",
+    "poem_index": 95,
+    "meter": "طويل",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_095",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نَذَرتُ حِجَةً",
+        "notes": "The verse explicitly mentions making a vow (نذر) to perform a pilgrimage (حجة), which were significant pre-Islamic religious rituals."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_095",
+        "verse_indices": [
+          7
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "تَطيرتُ",
+        "notes": "The verb 'تَطيرتُ' explicitly refers to the pre-Islamic practice of augury, particularly bird divination (ṭīra)."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_095",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحَجِيجِ",
+        "notes": "The mention of 'الحَجِيجِ' (the pilgrims) directly relates to the pre-Islamic ritual of pilgrimage."
+      },
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_095",
+        "verse_indices": [
+          9
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حِجَتي",
+        "notes": "The term 'حِجَتي' (my pilgrimage) explicitly refers to the pre-Islamic ritual of pilgrimage."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_096",
+    "poem_index": 96,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_096",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "غَيرَهُ",
+        "notes": "This verse warns against associating 'others' (غَيرَهُ) with God, directly referencing the polytheistic belief in multiple deities characteristic of pre-Islamic Arabian religion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_097",
+    "poem_index": 97,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al_ṣalt_097",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly mentions 'al-Jinn' as entities that people relied upon for hope or refuge, reflecting a pre-Islamic belief in their influence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_098",
+    "poem_index": 98,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "umayyah_b_abī_al-ṣalt_098",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أَوثانَ الطَواغي",
+        "notes": "This verse explicitly refers to 'idols of the tyrants' (أَوثانَ الطَواغي), which were physical representations of pre-Islamic deities and central to polytheistic worship."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_099",
+    "poem_index": 99,
+    "meter": "خفيف",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_100",
+    "poem_index": 100,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umayyah_b_abī_al-ṣalt_101",
+    "poem_index": 101,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

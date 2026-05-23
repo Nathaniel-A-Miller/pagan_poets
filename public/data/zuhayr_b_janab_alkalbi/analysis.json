@@ -1,0 +1,398 @@
+[
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_003",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْر",
+        "notes": "The term 'al-dahr' (time/fate) is invoked as a powerful, overarching force, which aligns with pre-Islamic cosmological beliefs about fate."
+      },
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_003",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنِيَّةُ",
+        "notes": "The term 'al-maniyya' (fate/death) is presented as an inescapable force, reflecting a common pre-Islamic understanding of destiny."
+      },
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_003",
+        "verse_indices": [
+          4
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "شَياطِينُ",
+        "notes": "The mention of 'shayāṭīn' (devils/demons) as supernatural entities, even in the context of Solomon, reflects a belief in such beings prevalent in pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_004",
+    "poem_index": 4,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_006",
+    "poem_index": 6,
+    "meter": "خفيف",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_006",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرُ",
+        "notes": "The term 'الدَّهْرُ' (Dahr) is used here as a force associated with events and calamities, reflecting the pre-Islamic cosmological concept of Dahr as an impersonal, often malevolent, agent of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_009",
+    "poem_index": 9,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_010",
+    "poem_index": 10,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_011",
+    "poem_index": 11,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_013",
+    "poem_index": 13,
+    "meter": "خفيف",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرُ",
+        "notes": "The term 'الدَّهْرُ' (dahr) refers to the pre-Islamic concept of time or fate as an active, powerful, and often destructive cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_015",
+    "poem_index": 15,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_016",
+    "poem_index": 16,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_017",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ودٌّ",
+        "notes": "This verse contains an explicit invocation of Wadd, a known pre-Islamic deity, as a form of blessing."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_019",
+    "poem_index": 19,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_019",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تَيْ ياحاً تُمَرُّ لَهُ الْأَجِرَّةْ",
+        "notes": "This verse describes the preparation of a 'tayyāḥ' (a type of sacrifice or offering) for which ropes are passed, explicitly referencing a pre-Islamic sacrificial act."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_021",
+    "poem_index": 21,
+    "meter": "خفيف",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_023",
+    "poem_index": 23,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_023",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنايا بِقَدْرِ",
+        "notes": "The verse refers to 'al-manāyā' (fates/destinies) arriving 'bi-qadr' (by measure/decree), indicating a pre-Islamic cosmological understanding of fate as an irresistible force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_024",
+    "poem_index": 24,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_024",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الدَّوارِ",
+        "notes": "The verse explicitly mentions 'al-Dawwār,' a pre-Islamic idol or sacred stone, and describes people 'devoted to it,' referring to the ritual of circumambulation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_025",
+    "poem_index": 25,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_029",
+    "poem_index": 29,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_030",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرَ",
+        "notes": "The term 'al-dahr' (Time/Fate) is explicitly mentioned, which in pre-Islamic belief was often personified as a blind, indifferent force governing human destiny and the cycle of existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_031",
+    "poem_index": 31,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_032",
+    "poem_index": 32,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_033",
+    "poem_index": 33,
+    "meter": "خفيف",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "zuhayr_b_janāb_al-kalbī_033",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "This verse refers to 'al-manāyā' (fates/deaths) as a powerful, almost personified force, aligning with pre-Islamic cosmological concepts of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_034",
+    "poem_index": 34,
+    "meter": "وافر",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zuhayr_b_janāb_al-kalbī_035",
+    "poem_index": 35,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]

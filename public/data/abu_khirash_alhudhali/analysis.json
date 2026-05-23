@@ -1,0 +1,516 @@
+[
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_000",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The term 'الدَهر' (Dahr) refers to Time or Fate, which was often personified as a powerful, indifferent cosmological force in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_000",
+        "verse_indices": [
+          19
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غَول",
+        "notes": "The mention of 'غَول' (ghoul) explicitly refers to a type of monstrous supernatural being from pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_002",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَأَبيكِ الخَيرَ",
+        "notes": "This verse contains an oath formula swearing by the father, a common pre-Islamic practice where lineage and family honor served as a sacred anchor for oaths."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_002",
+        "verse_indices": [
+          13
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمري",
+        "notes": "This verse features the oath formula 'By my life,' a widespread pre-Islamic expression used to affirm truth or commitment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_003",
+    "poem_index": 3,
+    "meter": "وافر",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_003",
+        "verse_indices": [
+          13
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "القُبورِ",
+        "notes": "The verse explicitly mentions dwelling 'beneath the graves' (جاوَرتُ مِن تَحتِ القُبورِ), referring to the state of the deceased and thus touching upon pre-Islamic mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_006",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "This verse contains an explicit oath by 'Allah,' who was recognized as a supreme deity in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_006",
+        "verse_indices": [
+          5
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قِدحُ المُستَفيضِ المُوَشَّمُ",
+        "notes": "The phrase refers to the practice of divination using marked arrows, a common pre-Islamic method for seeking guidance or fortune."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_007",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "This verse contains an explicit oath 'By God,' which is a common pre-Islamic oath formula used to lend solemnity to a statement."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_008",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The personification of Dahr (Time/Fate) as an active, destructive force is a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_008",
+        "verse_indices": [
+          6
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "أَخو جِنَّةٍ",
+        "notes": "This phrase explicitly refers to the belief in jinn causing madness or possession."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_008",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "Manāyā represents the pre-Islamic concept of fate or death as an irresistible, impersonal force."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_008",
+        "verse_indices": [
+          16
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "This verse reiterates the concept of Manāyā as an inescapable force of death, fitting cosmological beliefs."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_008",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قَضاءً",
+        "notes": "The term 'qada'' here signifies an inescapable decree of death, aligning with pre-Islamic notions of fate."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_008",
+        "verse_indices": [
+          18
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الرَجمِ",
+        "notes": "This refers to the grave or tomb, indicating a physical aspect of mortuary practice."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_008",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حَتمٌ",
+        "notes": "The term 'ḥatm' denotes an inevitable, predetermined fate, consistent with pre-Islamic cosmological views."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_009",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبي الطَيرِ",
+        "notes": "The verse contains an oath formula 'لَعَمرُ' sworn by 'أبي الطير' (father of the birds), which functions as a sacred entity in a pre-Islamic oath."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_009",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبّي",
+        "notes": "The verse includes an oath 'وَرَبّي' (by my Lord), which is a common pre-Islamic oath invoking a divine entity."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_009",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنِيَّةُ",
+        "notes": "The term 'المَنِيَّةُ' (fate/death) is used here as an active force, reflecting the pre-Islamic cosmological concept of *manāyā* as an irresistible power."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_009",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَأَبي",
+        "notes": "The verse contains an oath 'وَأَبي' (by my father), which was a common and significant oath in pre-Islamic Arabian culture, invoking the reverence for one's ancestors."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_010",
+    "poem_index": 10,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_011",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The term 'al-Dahr' (Time/Fate) is invoked as a cosmological force, a common pre-Islamic concept of an impersonal agent of destiny."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دِماءَنا / يُقتَلوا بِقَتيلِ",
+        "notes": "This verse refers to the concept of blood vengeance (tha'r) and the reciprocal obligation to kill for a slain person, which was a quasi-ritual duty in pre-Islamic society."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_011",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "يَدَ الدَهرِ",
+        "notes": "The phrase 'yad al-Dahr' (the hand of Dahr) personifies Dahr as a controlling cosmological force, consistent with pre-Islamic fatalistic beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "This verse contains an oath by 'Allāh,' which was a common pre-Islamic practice invoking a high god, fitting the category of oath formulae anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_013",
+    "poem_index": 13,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَستُ لِمُرَّةَ",
+        "notes": "This verse contains an oath formula, 'لست لمرة' (I am not of Murra), which is a common pre-Islamic oath structure implying a profound disavowal of tribal affiliation if a condition is not met, thus anchoring it to a sacred social entity."
+      },
+      {
+        "poem_id": "abū_khirāsh_al_hudhalī_013",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "زُلَمٌ مِنَ القِداحِ",
+        "notes": "The phrase 'زُلَمٌ مِنَ القِداحِ' explicitly refers to divination arrows, a well-known practice of augury in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_014",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَلا اللَهِ",
+        "notes": "This verse contains an explicit oath invoking 'Allah', a common practice in pre-Islamic Arabian religion where Allah was one of the deities in the pantheon."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_014",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَلا وَاللَهِ",
+        "notes": "This verse contains an explicit oath invoking 'Allah', reflecting the pre-Islamic practice of swearing by deities."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_014",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحَدَثانِ",
+        "notes": "The term 'al-ḥadathān' refers to the vicissitudes of time and fate, a key pre-Islamic cosmological concept of an impersonal, often destructive, force."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_014",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحُتوفُ",
+        "notes": "The term 'al-ḥutūf' (deaths/fates) signifies the impersonal forces of destiny and death, a common pre-Islamic cosmological idea."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_014",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حَتفٌ",
+        "notes": "The term 'ḥatf' (death/fate) refers to the concept of an inevitable, impersonal destiny, aligning with pre-Islamic cosmological beliefs."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_014",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حُتوفُ الدَهرِ",
+        "notes": "The phrase 'ḥutūf al-dahr' explicitly refers to the fates brought by 'dahr' (time/fate), a central pre-Islamic cosmological concept of an active, often destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_015",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَرامُهُ",
+        "notes": "The phrase 'اِستُحِلَّ حَرامُهُ' refers to the violation of something sacred or inviolable, a concept central to pre-Islamic notions of sacred boundaries and protection, often associated with sacred spaces or pacts."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_015",
+        "verse_indices": [
+          7
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طائِرٌ كَهلُ",
+        "notes": "The mention of an 'old bird' (طائر كهل) turning someone back is a clear reference to augury or divination by birds (ṭīra), a common pre-Islamic practice for interpreting omens."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_017",
+    "poem_index": 17,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_017",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نحر البكر",
+        "notes": "The slaughtering of a young camel (naḥr al-bakr) as a condition for peace implies a ritualistic act, possibly a sacrifice or solemn offering to seal an agreement, which was a common pre-Islamic practice."
+      },
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_017",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "عهد الله",
+        "notes": "The phrase 'by the covenant of God' (bi-ʿahd Allāh) refers to a solemn oath or agreement made under divine witness, a practice common in pre-Islamic Arabian society where 'Allāh' was recognized as a supreme deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_018",
+    "poem_index": 18,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_019",
+    "poem_index": 19,
+    "meter": "خفيف",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_khirāsh_al-hudhalī_021",
+    "poem_index": 21,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "abū_khirāsh_al-hudhalī_021",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) refers to an impersonal, irresistible force of fate or death, a common pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  }
+]

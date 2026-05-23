@@ -1,0 +1,247 @@
+[
+  {
+    "poem_id": "ṣakhr_al-ghayy_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_001",
+    "poem_index": 1,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_004",
+    "poem_index": 4,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ṣakhr_al-ghayy_006",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أُمُّ مِرزَمِ",
+        "notes": "The mention of 'Umm Mirzam' (Canopus) in conjunction with winter weather reflects pre-Islamic astral belief, where stars were observed for their influence on seasons and natural phenomena."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_008",
+    "poem_index": 8,
+    "meter": "متقارب",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "ṣakhr_al-ghayy_008",
+        "verse_indices": [
+          20,
+          21
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قِدح, خضخضت",
+        "notes": "The verses describe the act of 'stirring' (خضخضت) a vessel and drawing a 'lot/arrow' (قِدح) to make a decision about a journey, which is a clear reference to pre-Islamic arrow divination (azlām)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_009",
+    "poem_index": 9,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_010",
+    "poem_index": 10,
+    "meter": "وافر",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "ṣakhr_al_ghayy_010",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term \"المَنايا\" (fates) refers to an overwhelming, inescapable force, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "ṣakhr_al_ghayy_010",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "التَميماتُ",
+        "notes": "\"التَميماتُ\" (amulets) refer to objects used for protection, indicating a pre-Islamic ritualistic practice."
+      },
+      {
+        "poem_id": "ṣakhr_al_ghayy_010",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنِيَّةُ",
+        "notes": "\"المَنِيَّةُ\" (death/fate) is depicted as an active agent, reflecting a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "ṣakhr_al_ghayy_010",
+        "verse_indices": [
+          15
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حُتوفَهُما",
+        "notes": "\"حُتوفَهُما\" (their deaths/fates) refers to an inescapable destiny, aligning with pre-Islamic cosmological concepts of fate."
+      },
+      {
+        "poem_id": "ṣakhr_al_ghayy_010",
+        "verse_indices": [
+          20
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نائحة",
+        "notes": "The mention of \"كَنائِحَةٍ\" (like a wailing woman) explicitly refers to a professional mourner, a recognized figure in pre-Islamic mourning rites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_011",
+    "poem_index": 11,
+    "meter": "منسرح",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "ṣakhr_al-ghayy_011",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهُ",
+        "notes": "The verse contains an explicit oath by 'Allāh', which was a common practice in pre-Islamic Arabia, often invoking the supreme deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_al-ghayy_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "ṣakhr_al-ghayy_012",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنا",
+        "notes": "The term \"al-manā\" refers to fate or destiny, a significant cosmological force in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "ṣakhr_al-ghayy_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنا",
+        "notes": "The term \"al-manā\" again refers to fate or destiny, reinforcing its role as a cosmological force."
+      },
+      {
+        "poem_id": "ṣakhr_al-ghayy_012",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الرُقى",
+        "notes": "\"Al-ruqā\" refers to incantations or charms, which were ritualistic practices used for protection or healing in pre-Islamic society."
+      },
+      {
+        "poem_id": "ṣakhr_al-ghayy_012",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرِ",
+        "notes": "\"Al-dahr\" (time/fate) is invoked as an overarching cosmological force that dictates events, a common pre-Islamic concept."
+      },
+      {
+        "poem_id": "ṣakhr_al-ghayy_012",
+        "verse_indices": [
+          8
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "صَوتِ الغُرابِ",
+        "notes": "The sound of a raven or crow was widely considered an ill omen in pre-Islamic Arabian culture, indicating a belief in augury."
+      },
+      {
+        "poem_id": "ṣakhr_al-ghayy_012",
+        "verse_indices": [
+          20
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "صَوتَ ناعِبِ",
+        "notes": "The mention of the sound of a \"nāʿib\" (crow/raven) again refers to the belief in omens derived from bird calls, a form of augury."
+      },
+      {
+        "poem_id": "ṣakhr_al-ghayy_012",
+        "verse_indices": [
+          22
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرَ",
+        "notes": "\"Al-dahr\" is once more presented as the ultimate agent of events, reflecting the pre-Islamic cosmological understanding of time and fate."
+      }
+    ],
+    "error": false
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "poem_id": "al-munakhkhal_000",
+    "poem_index": 0,
+    "meter": "رمل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-munakhkhal_001",
+    "poem_index": 1,
+    "meter": "متدارك",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "al-munakhkhal_001",
+        "verse_indices": [
+          10
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "مَريِ قِدحي",
+        "notes": "This phrase refers to the rubbing or drawing of arrows (qadḥ), a practice associated with divination or casting lots (azlām) in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-munakhkhal_002",
+    "poem_index": 2,
+    "meter": "رمل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-munakhkhal_003",
+    "poem_index": 3,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

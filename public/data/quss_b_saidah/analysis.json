@@ -1,0 +1,156 @@
+[
+  {
+    "poem_id": "quss_b_sāʿidah_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_001",
+    "poem_index": 1,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "quss_b_sāʿidah_001",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حكم الزمان",
+        "notes": "The phrase 'حكم الزمان' (the judgment/rule of Time) refers to the pre-Islamic concept of 'dahr' or 'zamān' as an impersonal, deterministic force governing human destiny, fitting cosmological beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_002",
+    "poem_index": 2,
+    "meter": "خفيف",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_005",
+    "poem_index": 5,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "quss_b_sāʿidah_006",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَداكُما",
+        "notes": "This verse refers to the pre-Islamic belief in the ṣadā, a bird-like entity believed to emerge from the skull of the deceased and hover over the grave."
+      },
+      {
+        "poem_id": "quss_b_sāʿidah_006",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أَصُبُّ عَلى قَبرَيكُما مِن مُدامَةٍ",
+        "notes": "The act of pouring wine on graves is a ritualistic offering or libation associated with pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_007",
+    "poem_index": 7,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "quss_b_sāʿidah_007",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حِمامُ المَوتِ",
+        "notes": "The phrase 'ḥimām al-mawt' refers to the inescapable doom or fate of death, a key pre-Islamic cosmological concept related to destiny and the end of life."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_008",
+    "poem_index": 8,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_009",
+    "poem_index": 9,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "quss_b_sāʿidah_010",
+        "verse_indices": [
+          8
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "تَلاعُبِ الأَرواحِ",
+        "notes": "The phrase 'تَلاعُبِ الأَرواحِ' (the play of spirits) refers to the activity of supernatural entities, likely jinn or other spirits, around the burial place of Dhu al-Qarnayn, indicating a belief in such beings."
+      },
+      {
+        "poem_id": "quss_b_sāʿidah_010",
+        "verse_indices": [
+          20
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بَيعَةِ الأَرواحِ",
+        "notes": "The term 'بَيعَةِ الأَرواحِ' (pledge of souls) suggests a solemn, possibly ritualistic, commitment or offering involving one's soul, aligning with the performative dimensions of pre-Islamic religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "quss_b_sāʿidah_011",
+    "poem_index": 11,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]
