@@ -548,8 +548,8 @@
     "chronological_layer": "pre-Islamic",
     "gender": "female",
     "number_of_lines": 9,
-    "source": "data/hind al-fazariyyah/source.json",
-    "analysis": "data/hind al-fazariyyah/analysis.json"
+    "source": "data/hind_alfazariyyah/source.json",
+    "analysis": "data/hind_alfazariyyah/analysis.json"
   },
   {
     "slug": "hind_bt_ibn_amir_alaslami",
