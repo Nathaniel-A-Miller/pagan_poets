@@ -195,21 +195,27 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                   </div>
 
                   {ref.poem && (
-                    <div className="ref-expanded-row" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                    <div className="ref-expanded-row" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '0.5rem' }}>
+                      
+                      {/* Tidy, left-aligned Meter Block */}
+                      <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.5rem' }}>
+                        <span className="expanded-label">Meter</span>
+                        <span className="poem-meter arabic" style={{ color: '#007a87', fontWeight: '500' }}>
+                          {meter}
+                        </span>
+                      </div>
+
+                      {/* Right-aligned Opening Verse Block */}
                       <div style={{ display: 'flex', width: '100%' }}>
                         <span className="expanded-label">Poem</span>
-                        
-                        {/* Meta Text Group — Full line width, clean truncation */}
-                        <div className="poem-meta-text-group" style={{ flex: '1', minWidth: '0', display: 'flex', alignItems: 'center', gap: '0.5rem', overflow: 'hidden' }}>
-                          <span className="poem-meter arabic" style={{ whiteSpace: 'nowrap' }}>{meter}</span>
-                          <span className="poem-meta-divider" style={{ color: 'var(--stone)' }}> · </span>
-                          <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', direction: 'rtl', flex: '1', textAlign: 'right' }}>
+                        <div style={{ flex: '1', minWidth: '0', textAlign: 'right', direction: 'rtl' }}>
+                          <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
                             {openingVerse}
                           </span>
                         </div>
                       </div>
 
-                      {/* Action Button — Moved to its own row below the text */}
+                      {/* Action Button Row */}
                       <div style={{ display: 'flex', justifyContent: 'flex-end', width: '100%', marginTop: '0.25rem' }}>
                         <button 
                           className="open-poem-drawer-btn"
