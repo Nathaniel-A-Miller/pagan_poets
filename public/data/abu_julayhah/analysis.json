@@ -1,0 +1,38 @@
+[
+  {
+    "poem_id": "abū_julayḥah_al-qushayrī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "abū_julayḥah_al_qushayrī_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللاتي",
+        "notes": "The nisbah al-Lātī is a possible reference to the pagan deity Al-Lāt."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_julayḥah_al-qushayrī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "abū_julayḥah_al_qushayrī_001",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "سهيل",
+        "notes": "The mention of the star Suhail (Canopus) in connection with an event reflects pre-Islamic astral belief, where stars were observed for their influence on weather, seasons, and sometimes omens."
+      }
+    ],
+    "error": false
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "poet": {
+    "name_ar": "أبو جليحة القشيري",
+    "name_en": "Abū Jalīḥah al-Qushayrī",
+    "tribe": "Qushayr (ʿĀmir b. Ṣaʿṣaʿah)",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "abū_julayḥah_al-qushayrī_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "على السدر اللاتي جنوبيّ موثبٍ  إذا هجّر الفتيان رجع سلام"
+        }
+      ]
+    },
+    {
+      "poem_index": 1,
+      "poem_id": "abū_julayḥah_al-qushayrī_001",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "فهان على يحيى إذا عرضت له  متون الصّوى أن تبعدا من هواكما"
+        },
+        {
+          "verse_index": 1,
+          "text": "وللشيخ معروف إذا صاب صدره  أمام سهيل أن يطول قذاكما"
+        }
+      ]
+    }
+  ]
+}

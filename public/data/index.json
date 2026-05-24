@@ -1330,5 +1330,17 @@
     "number_of_lines": 6,
     "source": "data/mariyah_bt_aldayyan/source.json",
     "analysis": "data/mariyah_bt_aldayyan/analysis.json"
+  },
+  {
+    "slug": "abu_julayhah",
+    "name_en": "Abū Jalīḥah al-Qushayrī",
+    "name_ar": "أبو جليحة القشيري",
+    "tribe": "Qushayr (ʿĀmir b. Ṣaʿṣaʿah)",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 3,
+    "source": "data/abu_julayhah/source.json",
+    "analysis": "data/abu_julayhah/analysis.json"
   }
 ]
