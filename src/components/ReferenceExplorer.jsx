@@ -43,19 +43,30 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
     return total
   }, [pooledData])
 
-  // Enhanced filtering logic to handle search query matches
+// Enhanced filtering logic to handle search query matches (ignoring Arabic vocalization)
   const searchFilteredRefs = useMemo(() => {
-    return allRefs.filter(r => {
-      if (!searchQuery.trim()) return true
-      const query = searchQuery.toLowerCase().trim()
+    if (!searchQuery.trim()) return allRefs
+    const query = searchQuery.toLowerCase().trim()
 
+    // Helper to strip Arabic diacritics / tashkeel
+    const normalizeArabic = (str) => {
+      if (!str) return ''
+      // This regex removes all Arabic vowel/diacritic Unicode points (U+064B to U+0652)
+      return str.replace(/[\u064B-\u0652]/g, '')
+    }
+
+    const normalizedQuery = normalizeArabic(query)
+
+    return allRefs.filter(r => {
       const matchPoetEn = r.poet.name_en?.toLowerCase().includes(query)
-      const matchPoetAr = r.poet.name_ar?.includes(query)
-      const matchEntity = r.entity_or_term?.toLowerCase().includes(query) || r.entity_or_term?.includes(query)
+      
+      // Normalize Arabic fields before using .includes()
+      const matchPoetAr = normalizeArabic(r.poet.name_ar).includes(normalizedQuery)
+      const matchEntity = normalizeArabic(r.entity_or_term).includes(normalizedQuery)
       const matchNotes = r.notes?.toLowerCase().includes(query)
 
       const flaggedVerses = r.poem?.verses?.filter(v => r.verse_indices.includes(v.verse_index)) || []
-      const matchVerses = flaggedVerses.some(v => v.text.includes(query))
+      const matchVerses = flaggedVerses.some(v => normalizeArabic(v.text).includes(normalizedQuery))
 
       return matchPoetEn || matchPoetAr || matchEntity || matchNotes || matchVerses
     })
