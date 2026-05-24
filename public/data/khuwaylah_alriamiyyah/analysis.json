@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "khuwaylah_al-riʾāmiyyah_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "khuwaylah_al-riʾāmiyyah_000",
+        "verse_indices": [
+          9
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثأر",
+        "notes": "The verse explicitly mentions 'ثأر' (blood vengeance), which was a fundamental and quasi-ritualistic obligation in pre-Islamic Arabian society, tied to the honor of the deceased and the tribe."
+      }
+    ],
+    "error": false
+  }
+]

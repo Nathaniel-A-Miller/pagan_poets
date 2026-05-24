@@ -1234,5 +1234,53 @@
     "number_of_lines": 18,
     "source": "data/jumah_bt_al-khuss/source.json",
     "analysis": "data/jumah_bt_al-khuss/analysis.json"
+  },
+  {
+    "slug": "jumal_al-sulamiyyah",
+    "name_en": "Jumal al-Sulamiyyah",
+    "name_ar": "جمل السلمية",
+    "tribe": "Sulaym",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 11,
+    "source": "data/jumal_al-sulamiyyah/source.json",
+    "analysis": "data/jumal_al-sulamiyyah/analysis.json"
+  },
+  {
+    "slug": "kasrah_bt_dawshan",
+    "name_en": "Kasrah bt. Dawshan",
+    "name_ar": "كسرة بنت دوشن",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 8,
+    "source": "data/kasrah_bt_dawshan/source.json",
+    "analysis": "data/kasrah_bt_dawshan/analysis.json"
+  },
+  {
+    "slug": "khalidah_bt_hashim",
+    "name_en": "Khālidah bt. Hāshim b. ʿAbd Manāf",
+    "name_ar": "خالدة بنت هاشم بن عبد مناف",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 13,
+    "source": "data/khalidah_bt_hashim/source.json",
+    "analysis": "data/khalidah_bt_hashim/analysis.json"
+  },
+  {
+    "slug": "khuwaylah_alriamiyyah",
+    "name_en": "Khuwaylah al-Riʾāmiyyah",
+    "name_ar": "خويلة الرئامية",
+    "tribe": "Quḍāʿah",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 10,
+    "source": "data/khuwaylah_alriamiyyah/source.json",
+    "analysis": "data/khuwaylah_alriamiyyah/analysis.json"
   }
 ]
