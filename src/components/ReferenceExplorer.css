@@ -469,3 +469,16 @@
   direction: ltr !important;
   text-align: center !important;
 }
+
+/* Target the first and last filter buttons in the container */
+.filters .filter-btn:first-child {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  padding-left: 0.8rem;
+}
+
+.filters .filter-btn:last-child {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  padding-right: 0.8rem;
+}
