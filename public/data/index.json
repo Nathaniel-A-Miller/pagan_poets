@@ -1342,5 +1342,65 @@
     "number_of_lines": 3,
     "source": "data/abu_julayhah/source.json",
     "analysis": "data/abu_julayhah/analysis.json"
+  },
+  {
+    "slug": "abu_umayyah_aljumahi",
+    "name_en": "Abū Umayyah al-Jumaḥī",
+    "name_ar": "أبو أمية الجمحي",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 6,
+    "source": "data/abu_umayyah_aljumahi/source.json",
+    "analysis": "data/abu_umayyah_aljumahi/analysis.json"
+  },
+  {
+    "slug": "alakhwas_alyarbui",
+    "name_en": "Al-Akhwaṣ al-Yarbūʿī",
+    "name_ar": "الأخوص اليربوعي",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 13,
+    "source": "data/alakhwas_alyarbui/source.json",
+    "analysis": "data/alakhwas_alyarbui/analysis.json"
+  },
+  {
+    "slug": "alshuwayir_alkinani",
+    "name_en": "Al-Shuwayʿir al-Kinānī",
+    "name_ar": "الشويعر الكناني",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 4,
+    "source": "data/alshuwayir_alkinani/source.json",
+    "analysis": "data/alshuwayir_alkinani/analysis.json"
+  },
+  {
+    "slug": "amr_b_al-mushamrij",
+    "name_en": "ʿAmr b. al-Mushamrij",
+    "name_ar": "عمرو بن المشمرج",
+    "tribe": "Yashkur (Bakr b. Wāʾil)",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 4,
+    "source": "data/amr_b_al-mushamrij/source.json",
+    "analysis": "data/amr_b_al-mushamrij/analysis.json"
+  },
+  {
+    "slug": "alashar_albalawi",
+    "name_en": "Al-Ashʿar al-Balawī",
+    "name_ar": "الأشعر البلوي",
+    "tribe": "Balī",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 3,
+    "source": "data/alashar_albalawi/source.json",
+    "analysis": "data/alashar_albalawi/analysis.json"
   }
 ]
