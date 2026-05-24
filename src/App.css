@@ -259,6 +259,6 @@
 
 /* Add padding inside the text cards */
 .ref-card {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
 }
