@@ -1282,5 +1282,53 @@
     "number_of_lines": 10,
     "source": "data/khuwaylah_alriamiyyah/source.json",
     "analysis": "data/khuwaylah_alriamiyyah/analysis.json"
+  },
+  {
+    "slug": "layla_bt_mirdas",
+    "name_en": "Laylā bt. Mirdās",
+    "name_ar": "ليلى بنت مرداس",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "source": "data/layla_bt_mirdas/source.json",
+    "analysis": "data/layla_bt_mirdas/analysis.json"
+  },
+  {
+    "slug": "layla_bt_salamah",
+    "name_en": "Laylā bt. Salamah",
+    "name_ar": "ليلى بنت سلمة",
+    "tribe": "unknown",
+    "region": "Other / Unknown",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 14,
+    "source": "data/layla_bt_salamah/source.json",
+    "analysis": "data/layla_bt_salamah/analysis.json"
+  },
+  {
+    "slug": "manfusah_bt_zayd_alkhayl",
+    "name_en": "Manfūsah bt. Zayd al-Khayl",
+    "name_ar": "منفوسة بنت زيد الخيل",
+    "tribe": "Jusham",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "source": "data/manfusah_bt_zayd_alkhayl/source.json",
+    "analysis": "data/manfusah_bt_zayd_alkhayl/analysis.json"
+  },
+  {
+    "slug": "mariyah_bt_aldayyan",
+    "name_en": "Māriyah bt. al-Dayyān",
+    "name_ar": "مارية بنت الديان",
+    "tribe": "Ḥārith b. Kaʿb (Madhḥij)",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "source": "data/mariyah_bt_aldayyan/source.json",
+    "analysis": "data/mariyah_bt_aldayyan/analysis.json"
   }
 ]

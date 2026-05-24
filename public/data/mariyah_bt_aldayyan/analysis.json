@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "māriyah_bt_al-dayyān_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "māriyah_bt_al-dayyān_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "لم يثأر",
+        "notes": "This verse refers to the failure to achieve vengeance (tha'r), which was a central quasi-ritualistic obligation in pre-Islamic Arabian society related to death and tribal honor."
+      }
+    ],
+    "error": false
+  }
+]

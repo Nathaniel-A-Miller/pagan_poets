@@ -1,0 +1,44 @@
+{
+  "poet": {
+    "name_ar": "منفوسة بنت زيد الخيل",
+    "name_en": "Manfūsah bt. Zayd al-Khayl",
+    "tribe": "Jusham",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "manfūsah_bt_zayd_al-khayl_000",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَشْبِهْ أَخِي أَوْ أَشْبِهَنْ أَباكا  أَمَّا أَبِي فَلَنْ تَنالَ ذاكا"
+        },
+        {
+          "verse_index": 1,
+          "text": "تَقْصُرُ عَنْ مَنالِهِ يَداكا"
+        }
+      ]
+    },
+    {
+      "poem_index": 1,
+      "poem_id": "manfūsah_bt_zayd_al-khayl_001",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَبَى الْمَرْءُ قَيْسٌ أَنْ يَذُوقَ طَعَامَهُ  بِغَيْرِ أَكِيلٍ إِنَّهُ لَكَرِيمُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "فَبُورِكْتَ حَيّاً يَا أَخَا الْجُودِ وَالنَّدَى  وَبُورِكْتَ مَيْتاً قَدْ حَوَتْكَ رُجُومُ"
+        }
+      ]
+    }
+  ]
+}

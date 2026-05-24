@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "manfūsah_bt_zayd_al-khayl_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "manfūsah_bt_zayd_al-khayl_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "manfūsah_bt_zayd_al-khayl_001",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رُجُومُ",
+        "notes": "This verse describes the deceased being encompassed by 'رجوم,' referring to the stone markers of a grave, which is a direct reference to pre-Islamic burial practices."
+      }
+    ],
+    "error": false
+  }
+]
