@@ -252,5 +252,7 @@
 
 /* text color for the reference block category labels */
 .ref-category {
-    color: #f0d691 !important;
+    color: #d8d4ca !important;
+    padding: 0 0.5rem; /* 0 top/bottom, 0.5rem (approx 8px) left/right */
+    border-radius: 3px;
 }
