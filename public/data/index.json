@@ -1174,5 +1174,65 @@
     "number_of_lines": 3,
     "source": "data/hafsah_bt_almughirah/source.json",
     "analysis": "data/hafsah_bt_almughirah/analysis.json"
+  },
+  {
+    "slug": "hind_bt_asad",
+    "name_en": "Hind bt. Asad",
+    "name_ar": "هند بنت أسد",
+    "tribe": "Asad",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "source": "data/hind_bt_asad/source.json",
+    "analysis": "data/hind_bt_asad/analysis.json"
+  },
+  {
+    "slug": "hind_bt_usm",
+    "name_en": "Hind bt. ʿIṣm",
+    "name_ar": "هند بنت عصم",
+    "tribe": "Kind",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 8,
+    "source": "data/hind_bt_usm/source.json",
+    "analysis": "data/hind_bt_usm/analysis.json"
+  },
+  {
+    "slug": "inabah_bt_afif",
+    "name_en": "ʿInabah bt. ʿAfīf",
+    "name_ar": "عنبة بنت عفيف",
+    "tribe": "Ṭayyiʾ",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "source": "data/inabah_bt_afif/source.json",
+    "analysis": "data/inabah_bt_afif/analysis.json"
+  },
+  {
+    "slug": "jalilah_bt_murrah",
+    "name_en": "Jalīlah bt. Murrah al-Shaybānī",
+    "name_ar": "جليلة بنت مرة الشيباني",
+    "tribe": "Shaybān (Bakr b. Wāʾil)",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 28,
+    "source": "data/jalilah_bt_murrah/source.json",
+    "analysis": "data/jalilah_bt_murrah/analysis.json"
+  },
+  {
+    "slug": "jumah_bt_al-khuss",
+    "name_en": "Jumʿah bt. al-Khuss",
+    "name_ar": "جمعة بنت الخس",
+    "tribe": "Iyād (?)",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 18,
+    "source": "data/jumah_bt_al-khuss/source.json",
+    "analysis": "data/jumah_bt_al-khuss/analysis.json"
   }
 ]
