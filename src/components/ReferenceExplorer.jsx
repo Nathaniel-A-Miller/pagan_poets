@@ -197,19 +197,19 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                   {ref.poem && (
                     <div className="ref-expanded-row" style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '0.5rem' }}>
                       
-                      {/* Tidy, left-aligned Meter Block */}
+                      {/* Left-aligned Meter Block (Reverted color to normal text) */}
                       <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.5rem' }}>
                         <span className="expanded-label">Meter</span>
-                        <span className="poem-meter arabic" style={{ color: '#007a87', fontWeight: '500' }}>
+                        <span className="poem-meter arabic" style={{ color: 'var(--rust)' }}>
                           {meter}
                         </span>
                       </div>
 
-                      {/* Right-aligned Opening Verse Block */}
-                      <div style={{ display: 'flex', width: '100%' }}>
+                      {/* Left-aligned Poem Line Block */}
+                      <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.5rem', width: '100%' }}>
                         <span className="expanded-label">Poem</span>
-                        <div style={{ flex: '1', minWidth: '0', textAlign: 'right', direction: 'rtl' }}>
-                          <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                        <div style={{ flex: '1', minWidth: '0', textAlign: 'left', direction: 'rtl' }}>
+                          <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', display: 'block', width: 'fit-content' }}>
                             {openingVerse}
                           </span>
                         </div>
