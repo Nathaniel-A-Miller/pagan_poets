@@ -1402,5 +1402,17 @@
     "number_of_lines": 3,
     "source": "data/alashar_albalawi/source.json",
     "analysis": "data/alashar_albalawi/analysis.json"
+  },
+  {
+    "slug": "abd_allah_b_alzibaara",
+    "name_en": "ʿAbd Allāh b. al-Zibaʿrā",
+    "name_ar": "عبد الله بن الزبعرى",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 187,
+    "source": "data/abd_allah_b_alzibaara/source.json",
+    "analysis": "data/abd_allah_b_alzibaara/analysis.json"
   }
 ]
