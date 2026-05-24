@@ -208,7 +208,7 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
                       {/* Left-aligned Poem Line Block */}
                       <div style={{ display: 'flex', alignItems: 'baseline', gap: '0.5rem', width: '100%' }}>
                         <span className="expanded-label">Poem</span>
-                        <div style={{ flex: '1', minWidth: '0', textAlign: 'left', direction: 'rtl' }}>
+                        <div style={{ flex: '1', minWidth: '0', textAlign: 'left'}}>
                           <span className="poem-opening arabic" style={{ opacity: 0.7, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', display: 'block', width: 'fit-content' }}>
                             {openingVerse}
                           </span>
