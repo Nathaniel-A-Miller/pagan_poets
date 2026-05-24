@@ -250,7 +250,7 @@
   to { opacity: 1; }
 }
 
-/* Fix text color for the reference block category labels */
+/* text color for the reference block category labels */
 .ref-category {
-    color: #dad4d4 !important;
+    color: #c0a763 !important;
 }
