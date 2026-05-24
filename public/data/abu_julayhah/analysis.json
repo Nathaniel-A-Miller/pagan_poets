@@ -4,17 +4,7 @@
     "poem_index": 0,
     "meter": "طويل",
     "verse_count": 1,
-    "references": [
-      {
-        "poem_id": "abū_julayḥah_al_qushayrī_000",
-        "verse_indices": [
-          0
-        ],
-        "category": "Deities_and_Oaths",
-        "entity_or_term": "اللاتي",
-        "notes": "The nisbah al-Lātī is a possible reference to the pagan deity Al-Lāt."
-      }
-    ],
+    "references": [],
     "error": false
   },
   {
