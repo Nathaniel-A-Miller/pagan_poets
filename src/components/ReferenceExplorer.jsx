@@ -70,7 +70,7 @@ const query = searchQuery.toLowerCase().trim()
       const matchPoetEn = normalizeEn(r.poet.name_en).includes(normalizedQueryEn)
       const matchPoetAr = normalizeArabic(r.poet.name_ar).includes(normalizedQuery)
       const matchEntity = normalizeArabic(r.entity_or_term).includes(normalizedQuery)
-      const matchNotes = r.notes?.toLowerCase().includes(query)
+      const matchNotes = normalizeEn(r.notes).includes(normalizedQueryEn)
 
       const flaggedVerses = r.poem?.verses?.filter(v => r.verse_indices.includes(v.verse_index)) || []
       const matchVerses = flaggedVerses.some(v => normalizeArabic(v.text).includes(normalizedQuery))
