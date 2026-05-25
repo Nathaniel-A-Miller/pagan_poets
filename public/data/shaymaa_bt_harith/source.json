@@ -1,0 +1,29 @@
+{
+  "poet": {
+    "name_ar": "الشيماء بنت الحارث السعدية",
+    "name_en": "Shaymāʾ bt. al-Ḥārith al-Saʿdiyyah",
+    "tribe": "Saʿd b. Bakr",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 2,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "shaymāʾ_bt_al-ḥārith_al-saʿdiyyah_000",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "يا رَبَّنا أَبْقِ لَنا مُحَمَّدا  حَتَّى أَراهُ يافِعاً وَأَمْرَدا"
+        },
+        {
+          "verse_index": 1,
+          "text": "ثُمَّ أَراهُ سَيِّداً مُسَوَّدا  وَاكْبِتْ أَعادِيهِ مَعاً وَالْحُسَّدا"
+        }
+      ]
+    }
+  ]
+}
