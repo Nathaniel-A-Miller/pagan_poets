@@ -1,0 +1,1157 @@
+[
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_003",
+    "poem_index": 3,
+    "meter": "بحر مخلع البسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_006",
+    "poem_index": 6,
+    "meter": "كامل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_006",
+        "verse_indices": [
+          4
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "كاهن",
+        "notes": "The verse explicitly names the 'kāhin' (soothsayer/diviner-priest), a significant pre-Islamic sacred role."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_007",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هامة",
+        "notes": "The verse refers to 'هامة' (hama), which in pre-Islamic belief was the soul-bird (often an owl) thought to emerge from the skull of the unavenged dead, crying for vengeance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_008",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "العُزَّى",
+        "notes": "The poet swears by al-ʿUzzā, a prominent pre-Islamic goddess, indicating an oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_011",
+        "verse_indices": [
+          5
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الأَشائم",
+        "notes": "The verse explicitly mentions 'al-ashā'im' (ill omens), which refers to a common pre-Islamic divination practice, specifically augury from birds."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_012",
+    "poem_index": 12,
+    "meter": "هزج",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_014",
+    "poem_index": 14,
+    "meter": "بحر مجزوء الوافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_015",
+    "poem_index": 15,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_015",
+        "verse_indices": [
+          11
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يَنذُرونَ دمي",
+        "notes": "This verse refers to the act of making a solemn vow (nadhr) to shed blood, which in pre-Islamic context often implied a dedication or oath with religious significance."
+      },
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_015",
+        "verse_indices": [
+          12,
+          14
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "لَحدا, أَلبستُهُ أَثوابَه",
+        "notes": "These verses describe specific pre-Islamic burial practices, including preparing a niche grave (laḥd) and dressing the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_017",
+    "poem_index": 17,
+    "meter": "متقارب",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_019",
+    "poem_index": 19,
+    "meter": "بحر مجزوء الوافر",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_019",
+        "verse_indices": [
+          11
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "الشرك",
+        "notes": "The term 'الشرك' (shirk, polytheism/idolatry) explicitly refers to the core religious practice of pre-Islamic Arabia, making it a technical religious term."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_020",
+    "poem_index": 20,
+    "meter": "بحر مجزوء الوافر",
+    "verse_count": 17,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_021",
+    "poem_index": 21,
+    "meter": "بحر مجزوء الوافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_022",
+    "poem_index": 22,
+    "meter": "وافر",
+    "verse_count": 51,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_022",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وأودٌ",
+        "notes": "The poet explicitly names Wadd (ود), a prominent pre-Islamic deity, as his helper, which constitutes an invocation of a pagan god."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_023",
+    "poem_index": 23,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_024",
+    "poem_index": 24,
+    "meter": "وافر",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_025",
+    "poem_index": 25,
+    "meter": "وافر",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_026",
+    "poem_index": 26,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_027",
+    "poem_index": 27,
+    "meter": "وافر",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_028",
+    "poem_index": 28,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_029",
+    "poem_index": 29,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_029",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المقادير",
+        "notes": "The term 'المقادير' (destinies/fates) attributed to Quraysh reflects a pre-Islamic cosmological understanding of fate as an unchangeable force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_030",
+    "poem_index": 30,
+    "meter": "رمل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_031",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse attributes agency to 'الدهر' (Time/Fate) as a force that causes events, reflecting the pre-Islamic fatalistic belief in dahr as an impersonal cosmological power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_032",
+    "poem_index": 32,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_033",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمري",
+        "notes": "This verse contains the oath formula 'لعمري' (by my life), which is a common pre-Islamic oath."
+      },
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_033",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهرِ",
+        "notes": "The term 'الدَّهر' (dahr) refers to time or fate, a significant cosmological concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_034",
+    "poem_index": 34,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_035",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الهام",
+        "notes": "This verse refers to 'al-hām' (the skulls/heads of the slain) crying out, which alludes to the pre-Islamic belief of the *ṣadā* (a bird emerging from the skull of a murdered person, crying for vengeance)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_036",
+    "poem_index": 36,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_037",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأحامس",
+        "notes": "The term 'الأحامس' (al-Aḥāmis) refers to a group of pre-Islamic tribes who observed specific, stricter ritual practices (ḥums) related to the Kaaba and the sacred precinct (Haram) during pilgrimage."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_039",
+    "poem_index": 39,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_040",
+    "poem_index": 40,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_040",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نَحس",
+        "notes": "The term \"نَحس\" (inauspiciousness, ill omen) refers to a concept of bad fortune or an inauspicious event, which was a significant part of pre-Islamic beliefs related to omens and divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_041",
+    "poem_index": 41,
+    "meter": "متقارب",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_042",
+    "poem_index": 42,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_043",
+    "poem_index": 43,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_044",
+    "poem_index": 44,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_045",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَهُ / فواللَهِ",
+        "notes": "The verse contains an oath by 'Allāh' (فواللَهِ), which was a recognized high god in the pre-Islamic Arabian pantheon, making it an explicit reference to a deity and an oath formula."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_046",
+    "poem_index": 46,
+    "meter": "وافر",
+    "verse_count": 38,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_046",
+        "verse_indices": [
+          19
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الخَلِيعُ, أَقدُحِهِ",
+        "notes": "The verse refers to 'al-khalīʿ' (one who casts lots/arrows) and 'aqduḥ' (arrows/lots), which are explicit terms for pre-Islamic divination practices."
+      },
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_046",
+        "verse_indices": [
+          30
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجِنَّانِ",
+        "notes": "The term 'al-jinnān' (plural of jinn) explicitly refers to jinn, which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_046",
+        "verse_indices": [
+          32
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'laʿamruka' (by your life) is a common pre-Islamic oath formula, representing a sacred affirmation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_047",
+    "poem_index": 47,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_048",
+    "poem_index": 48,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_049",
+    "poem_index": 49,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_051",
+    "poem_index": 51,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_052",
+    "poem_index": 52,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_053",
+    "poem_index": 53,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_054",
+    "poem_index": 54,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_054",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "شهرٍ حَلالِ",
+        "notes": "This verse refers to a 'permissible month' (شهر حلال), implying the pre-Islamic distinction between sacred months (الأشهر الحرم) when fighting was forbidden, and other months when it was allowed, thus referencing a pre-Islamic religious concept of time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_055",
+    "poem_index": 55,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_055",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "هابِلَه",
+        "notes": "The term 'هابلة' (hābila) is an imprecation meaning 'bereaved of her child,' used here as a strong oath or curse formula common in pre-Islamic speech to affirm a statement or challenge."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_056",
+    "poem_index": 56,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_057",
+    "poem_index": 57,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_058",
+    "poem_index": 58,
+    "meter": "وافر",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_059",
+    "poem_index": 59,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_060",
+    "poem_index": 60,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_061",
+    "poem_index": 61,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_062",
+    "poem_index": 62,
+    "meter": "سريع",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_063",
+    "poem_index": 63,
+    "meter": "خفيف",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_063",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأوثان",
+        "notes": "This verse explicitly contrasts the worship of the true God with the pre-Islamic practice of worshipping idols (الأوثان), which falls under the performative dimensions of religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_064",
+    "poem_index": 64,
+    "meter": "كامل",
+    "verse_count": 31,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_065",
+    "poem_index": 65,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_066",
+    "poem_index": 66,
+    "meter": "وافر",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_066",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحدثان",
+        "notes": "The term 'الحدثان' (al-ḥadathān) refers to the calamities or vicissitudes of time and fate, which in pre-Islamic thought were often seen as inexorable cosmological forces, similar to dahr or manāyā."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_067",
+    "poem_index": 67,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_067",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبيكَ",
+        "notes": "This phrase is a common pre-Islamic oath formula, swearing by the life of the father, which falls under oath formulae anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_068",
+    "poem_index": 68,
+    "meter": "وافر",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_069",
+    "poem_index": 69,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_069",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سَهمَكَ في اليمينِ",
+        "notes": "This phrase alludes to the pre-Islamic practice of divination using arrows (azlām), where drawing a 'right' arrow indicated a favorable outcome or permission."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_070",
+    "poem_index": 70,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_071",
+    "poem_index": 71,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_071",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الشهر الأصم, التقليد",
+        "notes": "The verse refers to 'al-shahr al-aṣamm' (the sacred month, a period of truce) and 'dhī al-taqlīd' (one who performs taqlīd, the ritual marking of sacrificial animals or pilgrims), both explicit pre-Islamic ritual practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_072",
+    "poem_index": 72,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_073",
+    "poem_index": 73,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_074",
+    "poem_index": 74,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_075",
+    "poem_index": 75,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_075",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ",
+        "notes": "The phrase 'وَرَبِّ' (By the Lord) is an explicit oath, indicating an invocation of a divine entity, characteristic of pre-Islamic oath-taking."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_076",
+    "poem_index": 76,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_077",
+    "poem_index": 77,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_078",
+    "poem_index": 78,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_079",
+    "poem_index": 79,
+    "meter": "بحر مجزوء الرمل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_080",
+    "poem_index": 80,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_081",
+    "poem_index": 81,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_082",
+    "poem_index": 82,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_083",
+    "poem_index": 83,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_084",
+    "poem_index": 84,
+    "meter": "بسيط",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_085",
+    "poem_index": 85,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_085",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "This verse refers to 'al-manāyā' (fates/destinies) as a cosmological force, a common pre-Islamic concept of an irresistible power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_086",
+    "poem_index": 86,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_087",
+    "poem_index": 87,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_088",
+    "poem_index": 88,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_088",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأَيام",
+        "notes": "The phrase \"فما بكَ والأَيامِ من عَجَبِ\" refers to \"the days\" (al-ayyām) as an impersonal force of fate or time, a common pre-Islamic cosmological concept akin to dahr."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_089",
+    "poem_index": 89,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_089",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أحجار الكلاب",
+        "notes": "The phrase 'أحجار الكلاب' (stones of al-Kilāb) is interpreted as referring to grave markers or a significant burial site, aligning with pre-Islamic mortuary practices of marking graves with stones and venerating the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_090",
+    "poem_index": 90,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_091",
+    "poem_index": 91,
+    "meter": "رمل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_092",
+    "poem_index": 92,
+    "meter": "متقارب",
+    "verse_count": 16,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_093",
+    "poem_index": 93,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_094",
+    "poem_index": 94,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_095",
+    "poem_index": 95,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_096",
+    "poem_index": 96,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_097",
+    "poem_index": 97,
+    "meter": "رمل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_098",
+    "poem_index": 98,
+    "meter": "رمل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_099",
+    "poem_index": 99,
+    "meter": "سريع",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_100",
+    "poem_index": 100,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_101",
+    "poem_index": 101,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_102",
+    "poem_index": 102,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_103",
+    "poem_index": 103,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_104",
+    "poem_index": 104,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_104",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغُول",
+        "notes": "The verse explicitly mentions 'al-ghūl', a supernatural creature from pre-Islamic Arabian folklore, fitting the category of supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_105",
+    "poem_index": 105,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

@@ -1426,5 +1426,41 @@
     "number_of_lines": 584,
     "source": "data/alabbas_b_mirdas/source.json",
     "analysis": "data/alabbas_b_mirdas/analysis.json"
+  },
+  {
+    "slug": "alaghlab_alijli",
+    "name_en": "Al-Aghlab al-ʿIjlī",
+    "name_ar": "الاغلب العجلي",
+    "tribe": "ʿIjl (Bakr b. Wāʾil)",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 126,
+    "source": "data/alaghlab_alijli/source.json",
+    "analysis": "data/alaghlab_alijli/analysis.json"
+  },
+  {
+    "slug": "alhusayn_b_humam",
+    "name_en": "Al-Ḥuṣayn b. Ḥumān",
+    "name_ar": "الحصين بن حمام",
+    "tribe": "Murrah (Dhubyān)",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 152,
+    "source": "data/alhusayn_b_humam/source.json",
+    "analysis": "data/alhusayn_b_humam/analysis.json"
+  },
+  {
+    "slug": "amr_b_maadikarib",
+    "name_en": "ʿAmr b. Maʿdīkarib",
+    "name_ar": "عمرو بن معد يكرب",
+    "tribe": "Zubayd (Madhḥij)",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 718,
+    "source": "data/amr_b_maadikarib/source.json",
+    "analysis": "data/amr_b_maadikarib/analysis.json"
   }
 ]
