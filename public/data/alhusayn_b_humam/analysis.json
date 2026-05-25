@@ -1,0 +1,330 @@
+[
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرِ",
+        "notes": "This verse mentions 'dahr' (time/fate) as a force that one might complain about, reflecting the pre-Islamic cosmological concept of dahr as an indifferent agent of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_005",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The mention of 'صُروفِ الدَهر' (vicissitudes of Time/Fate) refers to Dahr as a powerful, impersonal cosmological force, a common pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_006",
+    "poem_index": 6,
+    "meter": "كامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_007",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذات العظوم",
+        "notes": "This verse explicitly names \"Dhāt al-ʿUẓūm,\" a known pre-Islamic sanctuary or sacred place, thus referring to sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 45,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_008",
+        "verse_indices": [
+          19
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَأَقسَمتُ",
+        "notes": "The verb 'أقسمت' explicitly refers to the act of swearing an oath, a significant ritualistic practice in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_008",
+        "verse_indices": [
+          26
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "حِلفاً... وَمُقسَما",
+        "notes": "This verse mentions 'حلف' (alliance/pact) and 'مقسمًا' (an oath), both of which were solemn, often sacred, commitments in pre-Islamic tribal life."
+      },
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_008",
+        "verse_indices": [
+          28
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مَأتَما",
+        "notes": "The mention of 'مأتم' (a mourning ceremony) over a grave refers to pre-Islamic funerary and mourning rites."
+      },
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_008",
+        "verse_indices": [
+          39
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'المنايا' (fates/deaths) refers to the pre-Islamic concept of an irresistible, often personified, force of destiny or death."
+      },
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_008",
+        "verse_indices": [
+          40
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لعمرك' (by your life) is a common pre-Islamic oath formula, swearing by the life of the addressee."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_009",
+    "poem_index": 9,
+    "meter": "متقارب",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_015",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كَحل",
+        "notes": "This verse refers to the appearance of the star Kaḥl (Canopus) as a marker of time, which is an element of pre-Islamic astral belief and cosmological understanding."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_016",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) here refers to time or fate as an impersonal, often destructive, cosmological force, a common pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_018",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula 'لَعَمرُكَ' (By your life), which is a common pre-Islamic oath anchored to a sacred entity (the life of the addressee)."
+      },
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_018",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كَحلٌ",
+        "notes": "The mention of the star Kaḥl (Sirius) in a context that implies its appearance or influence on earthly events (like a strong wind) suggests an astral belief or omen, fitting cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_019",
+        "verse_indices": [
+          7
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القِداح",
+        "notes": "This verse explicitly mentions casting lots with arrows (al-qidāḥ), a known pre-Islamic practice of divination or decision-making, often referred to as azlām."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-ḥuṣayn_b_ḥumān_020",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مَكَّة",
+        "notes": "The mention of Mecca (مَكَّة) refers to a central pre-Islamic sacred city and pilgrimage site, thus qualifying as sacred geography."
+      },
+      {
+        "poem_id": "al_ḥuṣayn_b_ḥumān_020",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بَيتِ الحَرامِ",
+        "notes": "The phrase 'بَيتِ الحَرامِ' (the Sacred House) explicitly refers to the Kaaba, a primary pre-Islamic sanctuary and sacred space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥuṣayn_b_ḥumān_022",
+    "poem_index": 22,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

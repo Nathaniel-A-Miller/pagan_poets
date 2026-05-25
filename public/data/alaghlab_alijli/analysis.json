@@ -1,0 +1,516 @@
+[
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-aghlab_al-ʿijlī_001",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الودّ",
+        "notes": "This verse explicitly names Wadd, a prominent pre-Islamic deity, suggesting an invocation or oath in the context of the girl's reaction to the assault."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_004",
+    "poem_index": 4,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_005",
+    "poem_index": 5,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_007",
+    "poem_index": 7,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_008",
+    "poem_index": 8,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_009",
+    "poem_index": 9,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_010",
+    "poem_index": 10,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_011",
+    "poem_index": 11,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-aghlab_al-ʿijlī_011",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "سَرحَتي",
+        "notes": "The personification of the *sarḥa* tree, which 'recognized' the poet and 'groaned,' suggests a belief in the tree possessing a spirit or sacred quality, aligning with the veneration of sacred trees in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_012",
+    "poem_index": 12,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_013",
+    "poem_index": 13,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_014",
+    "poem_index": 14,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_015",
+    "poem_index": 15,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_016",
+    "poem_index": 16,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_017",
+    "poem_index": 17,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_019",
+    "poem_index": 19,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_020",
+    "poem_index": 20,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_021",
+    "poem_index": 21,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_022",
+    "poem_index": 22,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_023",
+    "poem_index": 23,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_024",
+    "poem_index": 24,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_025",
+    "poem_index": 25,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_026",
+    "poem_index": 26,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aghlab_al-ʿijlī_026",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنا",
+        "notes": "The term 'al-Manā' (المنا) refers to fate or death as a powerful, often personified, cosmological force, a significant concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_027",
+    "poem_index": 27,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_028",
+    "poem_index": 28,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_029",
+    "poem_index": 29,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_030",
+    "poem_index": 30,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_031",
+    "poem_index": 31,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_032",
+    "poem_index": 32,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_033",
+    "poem_index": 33,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_034",
+    "poem_index": 34,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_035",
+    "poem_index": 35,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-aghlab_al-ʿijlī_035",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "مَنٍّ ومَن",
+        "notes": "The phrase 'أنخناها الى مَنٍّ ومَن' (we made them kneel to Mann and Man) strongly suggests a reference to the pre-Islamic deity Manāt or associated idols/sacred entities, indicating a sacred destination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_036",
+    "poem_index": 36,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_037",
+    "poem_index": 37,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_038",
+    "poem_index": 38,
+    "meter": "رجز",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_039",
+    "poem_index": 39,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_040",
+    "poem_index": 40,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_041",
+    "poem_index": 41,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_042",
+    "poem_index": 42,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_043",
+    "poem_index": 43,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_044",
+    "poem_index": 44,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_045",
+    "poem_index": 45,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_046",
+    "poem_index": 46,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_047",
+    "poem_index": 47,
+    "meter": "رجز",
+    "verse_count": 16,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_048",
+    "poem_index": 48,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_049",
+    "poem_index": 49,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_050",
+    "poem_index": 50,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_051",
+    "poem_index": 51,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_052",
+    "poem_index": 52,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_053",
+    "poem_index": 53,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_054",
+    "poem_index": 54,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_055",
+    "poem_index": 55,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_056",
+    "poem_index": 56,
+    "meter": "رجز",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-aghlab_al-ʿijlī_056",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحُرَم",
+        "notes": "The term 'al-ḥuram' refers to sacred, inviolable zones or sanctuaries, a significant concept in pre-Islamic Arabian ritual geography, indicating a place of refuge or sanctity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aghlab_al-ʿijlī_057",
+    "poem_index": 57,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]
