@@ -1,0 +1,820 @@
+[
+  {
+    "poem_id": "ḥumayd_al-thawr_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صُروفِ الدَّهرِ",
+        "notes": "The phrase 'صُروفِ الدَّهرِ' (vicissitudes of time/fate) refers to Dahr, a pre-Islamic cosmological force often associated with blind fate and destruction."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_001",
+        "verse_indices": [
+          30
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "علَيَّ اللَّه",
+        "notes": "The phrase 'علَيَّ اللَّه' is an oath formula, invoking God as a witness or guarantor, which is a common pre-Islamic practice of swearing by a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهر",
+        "notes": "The verse refers to 'الدَّهر' (time/fate) as an agent causing change, aligning with the pre-Islamic cosmological concept of dahr as a powerful, often indifferent, force."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_002",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهرٍ",
+        "notes": "The phrase 'لِكُلِّ دَهرٍ' (for every dahr/time) implies dahr as a significant period or overarching force, consistent with the pre-Islamic understanding of dahr as a cosmological agent of change and passage."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_003",
+    "poem_index": 3,
+    "meter": "متقارب",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_003",
+        "verse_indices": [
+          25
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهرٍ",
+        "notes": "The term 'dahr' (time/fate) is used here in the pre-Islamic sense of an impersonal, often malevolent, cosmological force responsible for calamities, fitting the category of cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_004",
+    "poem_index": 4,
+    "meter": "رجز",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_004",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مُعَبَّدٍ مِن عَهدِ عادٍ",
+        "notes": "The term 'muʿabbad' (venerated/worshipped) applied to a path ('lāḥib') from the ancient era of ʿĀd suggests a sacred space or a path used for ancient religious practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": true
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_010",
+    "poem_index": 10,
+    "meter": "رجز",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 27,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_011",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "لَيلِ نَحسٍ",
+        "notes": "The phrase \"لَيلِ نَحسٍ\" (inauspicious night) refers to the belief that certain times or nights can carry ill omens or bad fortune, aligning with pre-Islamic cosmological concepts of fate and time."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_011",
+        "verse_indices": [
+          23
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الفراقد",
+        "notes": "The personification of the stars (al-Farāqid) as \"yearning\" reflects pre-Islamic astral beliefs where celestial bodies were often seen as having agency or significance."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_011",
+        "verse_indices": [
+          25
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يَحشون كُرسُفاً رؤوسَ عظامٍ",
+        "notes": "The description of women \"stuffing cotton into bone heads\" refers to a specific pre-Islamic mortuary practice or ritual associated with the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 16,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_016",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَقادِرُه",
+        "notes": "The reference to 'destinies' or 'fates' (maqādiruh) aligns with pre-Islamic cosmological concepts of predetermined fate."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_016",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حِماها حَرامٌ",
+        "notes": "The phrase 'ḥimāhā ḥarām' explicitly refers to a sacred, inviolable zone, a key concept in pre-Islamic sacred geography and ritual prohibitions."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_016",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "المَوتِ, شِراشِرُه",
+        "notes": "This verse describes the act of death and the use of shrouds, which are direct references to pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_017",
+    "poem_index": 17,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_019",
+    "poem_index": 19,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_020",
+    "poem_index": 20,
+    "meter": "كامل",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_021",
+    "poem_index": 21,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_022",
+    "poem_index": 22,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_022",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أَناصِب",
+        "notes": "The term 'anāṣib' refers to standing stones or altars used in pre-Islamic Arabian worship and ritual, indicating a sacred space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_023",
+    "poem_index": 23,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_023",
+        "verse_indices": [
+          2,
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون, المنية",
+        "notes": "These verses describe 'al-Manūn' and 'al-Manīya' (death/fate) as an inescapable and relentless cosmological force, reflecting pre-Islamic beliefs about fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_025",
+    "poem_index": 25,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_026",
+    "poem_index": 26,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_028",
+        "verse_indices": [
+          12
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "إِلى بَيتهِ تُزجى حَوافٍ وَظُلَّعُ",
+        "notes": "This verse describes animals being driven to 'His house,' which implies a sacred dwelling or shrine where offerings or sacrifices were made, a common pre-Islamic ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_030",
+    "poem_index": 30,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_031",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يُطفن بِجَعجاعٍ",
+        "notes": "The verb 'يُطفن' (to circumambulate) explicitly refers to the ritual of ṭawāf, which was performed around sacred sites like Jaʿjaʿ in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 46,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_032",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "يوم نحس",
+        "notes": "The phrase \"يوم نحس\" refers to a day of ill omen, reflecting a pre-Islamic belief in the inherent auspiciousness or inauspiciousness of certain times."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_032",
+        "verse_indices": [
+          9
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مثوى حرام",
+        "notes": "\"مثوى حرام\" denotes a sacred dwelling or sanctuary, indicating a designated holy space in pre-Islamic belief."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_032",
+        "verse_indices": [
+          13
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "المحصّب من منى",
+        "notes": "\"المحصّب من منى\" refers to a specific location within the pilgrimage circuit of Minā, a site of pre-Islamic ritual significance."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_032",
+        "verse_indices": [
+          14
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "النسك, مشعر",
+        "notes": "The terms \"النسك\" (rites) and \"مشعر\" (sacred site) explicitly describe pre-Islamic pilgrimage rituals and sacred geography."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_032",
+        "verse_indices": [
+          38
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الطائفين",
+        "notes": "\"الطائفين\" refers to those who perform circumambulation (ṭawāf), a ritual practice around sacred objects or sites in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_034",
+    "poem_index": 34,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_035",
+    "poem_index": 35,
+    "meter": "بسيط",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_035",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ الهَدايا في مَشاعِرها وَحَيثُ يُقضى نذورُ النّاسِ والنُّسُكُ",
+        "notes": "The verse contains an oath sworn by a 'Lord' associated with pre-Islamic pilgrimage rituals, sacred places (mashāʿir), vows (nudhūr), and ritual sacrifices (nusuk)."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_035",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهر",
+        "notes": "The term 'dahr' (time/fate) is used, which in pre-Islamic Arabian belief often represented an impersonal, irresistible cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_036",
+    "poem_index": 36,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_037",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نَحجُّ",
+        "notes": "The verb 'نَحجُّ' (to perform the pilgrimage) explicitly refers to the pre-Islamic ritual of pilgrimage to a sacred site."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_040",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِرَبِّ الراقِصاتِ إِلى مِنىً",
+        "notes": "The verse contains an explicit oath sworn by 'the Lord of those who hasten to Mina', referencing a deity associated with the sacred pilgrimage site of Mina."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_040",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قَضى رَبُّها",
+        "notes": "The phrase 'her Lord decreed' refers to a divine power determining fate, aligning with pre-Islamic cosmological concepts of divine decree and destiny."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_040",
+        "verse_indices": [
+          22
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يَندبونَهُ",
+        "notes": "The term 'يَندبونَهُ' (they lament him) explicitly refers to the practice of lamentation, a significant mourning rite in pre-Islamic Arabian culture."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_040",
+        "verse_indices": [
+          23
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "هاتِفٌ",
+        "notes": "The mention of a 'هاتِفٌ' (unseen caller) refers to a voice heard without a visible source, commonly attributed to jinn or other supernatural entities in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_041",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وِتر",
+        "notes": "The term 'witr' refers to the blood feud or vengeance obligation, which was a central quasi-ritualistic duty in pre-Islamic Arabian society related to death and honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_042",
+    "poem_index": 42,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_043",
+    "poem_index": 43,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_044",
+    "poem_index": 44,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_045",
+    "poem_index": 45,
+    "meter": "رمل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_046",
+    "poem_index": 46,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 130,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_047",
+        "verse_indices": [
+          20
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "This verse explicitly mentions 'al-Jinn' (جن) playing music around an object, referring to a common pre-Islamic supernatural entity."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_047",
+        "verse_indices": [
+          37
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنٍّ",
+        "notes": "This verse describes the sound of the wind as 'ʿawāzif jinn' (عَوازِفُ جِنٍّ), explicitly referencing Jinn as supernatural beings."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_047",
+        "verse_indices": [
+          83
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "تَميمَةٍ",
+        "notes": "The term 'tamīma' (تميمة) refers to an amulet, a protective charm widely believed in and used in pre-Islamic Arabian culture."
+      },
+      {
+        "poem_id": "ḥumayd_al-thawr_047",
+        "verse_indices": [
+          120
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَدى",
+        "notes": "The verse refers to 'ṣadā' (صدى) of the deceased, which is the pre-Islamic belief in a bird (often an owl) emerging from the skull of the dead, representing their soul."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_048",
+    "poem_index": 48,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_049",
+    "poem_index": 49,
+    "meter": "كامل",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_049",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهر",
+        "notes": "The term 'الدَّهر' (Dahr) is used here as an impersonal, powerful force of fate or time, a significant cosmological concept in pre-Islamic Arabian belief, which one is advised not to contend with."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_050",
+    "poem_index": 50,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_051",
+    "poem_index": 51,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_051",
+        "verse_indices": [
+          1,
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "سرحة",
+        "notes": "These verses describe the poet addressing a specific tree (سرحة) with blessings, which reflects the pre-Islamic practice of venerating sacred trees as objects or sites of ritualistic interaction."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_052",
+    "poem_index": 52,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_053",
+    "poem_index": 53,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_054",
+    "poem_index": 54,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_055",
+    "poem_index": 55,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_056",
+    "poem_index": 56,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_057",
+    "poem_index": 57,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥumayd_al-thawr_058",
+    "poem_index": 58,
+    "meter": "متقارب",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ḥumayd_al-thawr_058",
+        "verse_indices": [
+          10
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الرُّقى",
+        "notes": "The verse mentions \"الرُّقى\" (incantations/charms) which were a common pre-Islamic practice to influence or ward off supernatural forces, fitting the performative dimension of religious practice."
+      }
+    ],
+    "error": false
+  }
+]

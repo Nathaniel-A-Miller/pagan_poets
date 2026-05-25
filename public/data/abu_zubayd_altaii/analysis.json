@@ -1,0 +1,760 @@
+[
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_000",
+    "poem_index": 0,
+    "meter": "خفيف",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_000",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الجوزاء",
+        "notes": "The mention of the constellation al-Jawzāʾ in conjunction with a question about misfortune suggests an astral belief, where celestial bodies were often seen as influencing events or indicating fate in pre-Islamic Arabian cosmology."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_001",
+    "poem_index": 1,
+    "meter": "خفيف",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_001",
+        "verse_indices": [
+          20,
+          21
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَهُ",
+        "notes": "The phrase \"فَلَحا اللَهُ\" (May God curse) is an imprecation invoking a divine entity, reflecting the pre-Islamic practice of appealing to a high god for curses or blessings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_002",
+    "poem_index": 2,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_003",
+    "poem_index": 3,
+    "meter": "خفيف",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_003",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الصَدى",
+        "notes": "This verse refers to al-ṣadā, a bird believed in pre-Islamic Arabian belief to emerge from the skull of an unavenged murdered person."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_004",
+    "poem_index": 4,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_006",
+    "poem_index": 6,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_006",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "محراب",
+        "notes": "The term 'محراب' (miḥrāb) in a pre-Islamic context refers to a sacred niche or a place of worship, indicating a ritual space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_008",
+    "poem_index": 8,
+    "meter": "خفيف",
+    "verse_count": 59,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_008",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The term \"المنون\" refers to death or fate, which was often personified as a cosmological force in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          7,
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صدىً",
+        "notes": "The mention of \"صدىً\" in these verses refers to the pre-Islamic belief that the soul of a deceased person, especially one unavenged, transforms into a bird that cries out from the grave."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          24
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الوتر",
+        "notes": "The mention of \"الوتر\" (vengeance) refers to the pre-Islamic tribal duty to avenge the dead, which was a central aspect of their social and quasi-religious obligations."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          25
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثأر",
+        "notes": "This verse explicitly mentions \"ثأر\" (vengeance) for a brother, directly linking to the pre-Islamic concept of the vengeance obligation as a quasi-ritual duty."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          26
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The term \"دهر\" refers to time or fate, often personified as an indifferent or hostile cosmological force in pre-Islamic Arabian thought."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          30
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "آل ثمود",
+        "notes": "The reference to \"آل ثمود\" (the people of Thamud) alludes to an ancient Arabian tribe whose destruction was a common legendary motif, often serving as a cautionary tale about fate or divine judgment in pre-Islamic narratives."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          31
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The phrase \"خان دهر بهم\" explicitly personifies \"دهر\" (time/fate) as a betraying force, a central cosmological concept in pre-Islamic Arabian thought."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          33
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كف الدهر",
+        "notes": "The phrase \"بكف الدهر\" (by the hand of Dahr) personifies Dahr (time/fate) as an active, destructive agent, aligning with pre-Islamic cosmological beliefs."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          46
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase \"يعتلي الدهر\" (Dahr ascends) further personifies Dahr (time/fate) as a dominant force, consistent with pre-Islamic cosmological beliefs."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          50
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "العزيف",
+        "notes": "The term \"العزيف\" refers to the sound attributed to jinn in the desert, indicating a belief in these supernatural entities."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          56
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "البلايا",
+        "notes": "The term \"البلايا\" refers to the pre-Islamic practice of tethering a she-camel or horse to the grave of its master and leaving it to die, intended to provide a mount for the deceased in the afterlife."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          57
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The phrase \"دهر كنود\" (ungrateful Dahr) personifies Dahr (time/fate) as a harsh and ungrateful force, consistent with pre-Islamic cosmological beliefs."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_008",
+        "verse_indices": [
+          58
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ذحل",
+        "notes": "The phrase \"طالب ذحلاً\" (seeking vengeance) refers to the pre-Islamic tribal duty of vengeance, which was a central aspect of their social and quasi-religious obligations."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_009",
+    "poem_index": 9,
+    "meter": "منسرح",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 27,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_010",
+        "verse_indices": [
+          13
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ الراقِصاتِ المُزَعفَرُ",
+        "notes": "This verse contains an oath by 'the Lord of the saffron-clad dancers,' which is a pre-Islamic oath formula invoking a deity or sacred entity, likely idols or priestesses."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_011",
+    "poem_index": 11,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_014",
+    "poem_index": 14,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_015",
+    "poem_index": 15,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_016",
+    "poem_index": 16,
+    "meter": "سريع",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_018",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-dahr' (time/fate) as an impersonal, destructive cosmological force, a common pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_019",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبيكَ",
+        "notes": "This verse contains a common pre-Islamic oath formula, 'By the life of your father,' which anchors the oath to a respected, quasi-sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_020",
+    "poem_index": 20,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_021",
+    "poem_index": 21,
+    "meter": "بسيط",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_022",
+    "poem_index": 22,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_023",
+    "poem_index": 23,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_024",
+    "poem_index": 24,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_025",
+    "poem_index": 25,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_026",
+    "poem_index": 26,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_027",
+    "poem_index": 27,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_028",
+    "poem_index": 28,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_029",
+    "poem_index": 29,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_030",
+    "poem_index": 30,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_032",
+    "poem_index": 32,
+    "meter": "وافر",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_032",
+        "verse_indices": [
+          10
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الزاجرون",
+        "notes": "This verse explicitly mentions \"al-zājirūn,\" referring to practitioners of augury (zajr), which is a form of divination in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_032",
+        "verse_indices": [
+          20
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الزار, عبقرياً",
+        "notes": "This verse mentions \"al-zār\" and \"ʿabqarī,\" both terms associated with jinn and supernatural entities in pre-Islamic Arabian belief, implying a connection to such beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_033",
+    "poem_index": 33,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_034",
+    "poem_index": 34,
+    "meter": "منسرح",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_034",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وتر",
+        "notes": "This verse refers to the 'seeker of vengeance' (ṭallāb watr), highlighting the pre-Islamic tribal obligation of blood-feud, which was a quasi-ritualistic duty related to death and honor."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_034",
+        "verse_indices": [
+          14,
+          15
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "طَيراً عُكوفاً / جُثَّتَهُ",
+        "notes": "These verses describe birds of prey circling and consuming the corpse, reflecting a common pre-Islamic understanding of the body's fate after death, which was a significant aspect of their mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_035",
+    "poem_index": 35,
+    "meter": "بسيط",
+    "verse_count": 32,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_036",
+    "poem_index": 36,
+    "meter": "خفيف",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_037",
+    "poem_index": 37,
+    "meter": "بسيط",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_037",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "جَدَثٍ",
+        "notes": "The verse explicitly mentions a 'grave' (جَدَثٍ) as the destination for the deceased, directly referencing mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_039",
+    "poem_index": 39,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_040",
+    "poem_index": 40,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_041",
+    "poem_index": 41,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_042",
+    "poem_index": 42,
+    "meter": "خفيف",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_042",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to \"Dahr\" (Time/Fate) as a force bringing adversity, which aligns with pre-Islamic cosmological concepts where Dahr was often seen as an impersonal, destructive power."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_042",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The verse states that there is no escaping \"al-Manaya\" (fates/deaths), reflecting a pre-Islamic cosmological understanding of death as an inescapable, predetermined force."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_042",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعمرُ الإِلَهِ",
+        "notes": "The phrase \"لَعمرُ الإِلَهِ\" is an oath formula invoking a deity, characteristic of pre-Islamic pledges."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_042",
+        "verse_indices": [
+          10
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "لَحَرَّمتُ لَحمَكَ",
+        "notes": "The phrase \"لَحَرَّمتُ لَحمَكَ\" implies a ritualistic act of making something forbidden or taboo, reflecting a pre-Islamic concept of sacred prohibition."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_042",
+        "verse_indices": [
+          11
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "الحرام, حلال",
+        "notes": "The terms \"الحرام\" (forbidden) and \"حلال\" (permissible) refer to ritual prohibitions and permissions regarding drink, reflecting a pre-Islamic sacred lexicon concerning what is ritually allowed or disallowed."
+      },
+      {
+        "poem_id": "abū_zubayd_al_ṭāʾī_042",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهرٌ",
+        "notes": "The verse attributes misfortune to \"Dahr\" (Time/Fate), reiterating the pre-Islamic cosmological belief in Dahr as an active, often malevolent, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_044",
+    "poem_index": 44,
+    "meter": "رجز",
+    "verse_count": 23,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_045",
+    "poem_index": 45,
+    "meter": "بسيط",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_045",
+        "verse_indices": [
+          12
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجَنَنِ",
+        "notes": "The verse explicitly mentions 'الجَنَنِ' (jinn), referring to supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_047",
+    "poem_index": 47,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_047",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِأَبي الوَليد وَأُمِّ نَفسي",
+        "notes": "This verse contains an oath formula invoking the speaker's father and mother's soul, which was a common form of oath-taking in pre-Islamic Arabian culture."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_048",
+    "poem_index": 48,
+    "meter": "منسرح",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_049",
+    "poem_index": 49,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_050",
+    "poem_index": 50,
+    "meter": "بسيط",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_050",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "رَجَب",
+        "notes": "The mention of \"Rajab\" refers to one of the sacred months in pre-Islamic Arabia, during which certain rituals and prohibitions (like the cessation of warfare) were observed."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_051",
+    "poem_index": 51,
+    "meter": "بحر مجزوء الخفيف",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_zubayd_al-ṭāʾī_052",
+    "poem_index": 52,
+    "meter": "بسيط",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "abū_zubayd_al-ṭāʾī_052",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The term 'al-dahr' (time/fate) is invoked as an impersonal, often destructive, cosmological force responsible for events, which is a significant pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  }
+]
