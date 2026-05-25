@@ -253,7 +253,14 @@ const query = searchQuery.toLowerCase().trim()
           )
         })}
         {filtered.length === 0 && (
-          <div className="no-results" dir="ltr">No references match your search term.</div>
+          <div className="no-results" dir="ltr">
+            {allRefs.length === 0
+              ? pooledData.map(({ poet }) => (
+                  <div key={poet.slug}>{poet.name_en} was found but has no references in this corpus.</div>
+                ))
+              : 'No references match your search term.'
+            }
+          </div>
         )}
       </div>
     </div>
