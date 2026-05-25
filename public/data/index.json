@@ -1630,5 +1630,41 @@
     "number_of_lines": 169,
     "source": "data/urwah_b_izm/source.json",
     "analysis": "data/urwah_b_izm/analysis.json"
+  },
+  {
+    "slug": "amrah_bt_durayd",
+    "name_en": "ʿAmrah bt. Durayd",
+    "name_ar": "عمرة بنت دريد",
+    "tribe": "Jusham",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 11,
+    "source": "data/amrah_bt_durayd/source.json",
+    "analysis": "data/amrah_bt_durayd/analysis.json"
+  },
+  {
+    "slug": "tikha_bt_abd_al-mualib",
+    "name_en": "ʿĀtikha bt. ʿAbd al-Muṭṭalib",
+    "name_ar": "عاتكة بنت عبد المطلب",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 10,
+    "source": "data/tikha_bt_abd_al-mualib/source.json",
+    "analysis": "data/tikha_bt_abd_al-mualib/analysis.json"
+  },
+  {
+    "slug": "afiyyah_bt_abd_al-mualib",
+    "name_en": "Ṣafiyyah bt. ʿAbd al-Muṭṭalib",
+    "name_ar": "صفية بنت عبد المطلب",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 120,
+    "source": "data/afiyyah_bt_abd_al-mualib/source.json",
+    "analysis": "data/afiyyah_bt_abd_al-mualib/analysis.json"
   }
 ]

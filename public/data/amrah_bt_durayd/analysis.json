@@ -1,0 +1,18 @@
+[
+  {
+    "poem_id": "ʿamrah_bt_durayd_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamrah_bt_durayd_001",
+    "poem_index": 1,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  }
+]
