@@ -1666,5 +1666,41 @@
     "number_of_lines": 120,
     "source": "data/afiyyah_bt_abd_al-mualib/source.json",
     "analysis": "data/afiyyah_bt_abd_al-mualib/analysis.json"
+  },
+  {
+    "slug": "abu_tamhan_alqayni",
+    "name_en": "Abū Ṭamḥān al-Qaynī",
+    "name_ar": "أبو الطمحان القيني",
+    "tribe": "Qayn",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 119,
+    "source": "data/abu_tamhan_alqayni/source.json",
+    "analysis": "data/abu_tamhan_alqayni/analysis.json"
+  },
+  {
+    "slug": "kab_b_mlik_al-anr",
+    "name_en": "Kaʿb b. Mālik al-Anṣārī",
+    "name_ar": "كعب بن مالك الأنصاري",
+    "tribe": "Khazraj",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 555,
+    "source": "data/kab_b_mlik_al-anr/source.json",
+    "analysis": "data/kab_b_mlik_al-anr/analysis.json"
+  },
+  {
+    "slug": "rabah_b_maqrm",
+    "name_en": "Rabīʿah b. Maqrūm",
+    "name_ar": "ربيعة بن مقروم",
+    "tribe": "Ḍabbah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 214,
+    "source": "data/rabah_b_maqrm/source.json",
+    "analysis": "data/rabah_b_maqrm/analysis.json"
   }
 ]
