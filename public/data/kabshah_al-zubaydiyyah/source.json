@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "كبشة الزبيدية",
+    "name_en": "Kabshah al-Zubaydiyyah",
+    "tribe": "Zubayd (Madhḥij)",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "kabshah_al-zubaydiyyah_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "وَأَرسلَ عبدُ اللَّه إِذ حان يومهُ  إِلى قَومهِ لا تعقلوا لهم دمي"
+        },
+        {
+          "verse_index": 1,
+          "text": "وَلا تَأخُذوا مِنهم إِفالاً وأبكراً  وَأُترك في بيتٍ بصعدة مظلمِ"
+        },
+        {
+          "verse_index": 2,
+          "text": "وَلا تَردوا إلّا فصولَ نِسائكم  إِذا اِرتَملت أعقابهنّ من الدمِ"
+        }
+      ]
+    }
+  ]
+}

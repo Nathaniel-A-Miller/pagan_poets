@@ -1702,5 +1702,41 @@
     "number_of_lines": 214,
     "source": "data/rabah_b_maqrm/source.json",
     "analysis": "data/rabah_b_maqrm/analysis.json"
+  },
+  {
+    "slug": "kabshah_al-zubaydiyyah",
+    "name_en": "Kabshah al-Zubaydiyyah",
+    "name_ar": "كبشة الزبيدية",
+    "tribe": "Zubayd (Madhḥij)",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 3,
+    "source": "data/kabshah_al-zubaydiyyah/source.json",
+    "analysis": "data/kabshah_al-zubaydiyyah/analysis.json"
+  },
+  {
+    "slug": "qutaylah_bt_alnasr",
+    "name_en": "Qutaylah bt. al-Naḍr",
+    "name_ar": "قتيلة بنت النضر",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 11,
+    "source": "data/qutaylah_bt_alnasr/source.json",
+    "analysis": "data/qutaylah_bt_alnasr/analysis.json"
+  },
+  {
+    "slug": "shaymaa_bt_harith",
+    "name_en": "Shaymāʾ bt. al-Ḥārith al-Saʿdiyyah",
+    "name_ar": "الشيماء بنت الحارث السعدية",
+    "tribe": "Saʿd b. Bakr",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 2,
+    "source": "data/shaymaa_bt_harith/source.json",
+    "analysis": "data/shaymaa_bt_harith/analysis.json"
   }
 ]

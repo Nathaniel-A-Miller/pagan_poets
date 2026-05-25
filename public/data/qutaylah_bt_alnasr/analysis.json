@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "qutaylah_bt_al-naḍr_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qutaylah_bt_al-naḍr_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "qutaylah_bt_al-naḍr_001",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يسمع ميت أو ينطق",
+        "notes": "This verse questions whether the deceased can hear or speak, directly addressing a conceptual aspect of the state of the dead in the afterlife."
+      }
+    ],
+    "error": false
+  }
+]

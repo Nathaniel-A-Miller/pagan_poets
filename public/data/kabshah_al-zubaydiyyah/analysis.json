@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "kabshah_al-zubaydiyyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "kabshah_al-zubaydiyyah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "عقل الدم / ثأر",
+        "notes": "The verse refers to the practice of blood-money (ʿaql al-dam) or blood-vengeance (tha'r), which was a central aspect of pre-Islamic tribal justice and mortuary belief."
+      },
+      {
+        "poem_id": "kabshah_al-zubaydiyyah_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "بيت مظلم / دفن",
+        "notes": "The phrase 'بيت مظلم' (dark house) is a euphemism for a grave, explicitly referencing pre-Islamic burial practices."
+      }
+    ],
+    "error": false
+  }
+]
