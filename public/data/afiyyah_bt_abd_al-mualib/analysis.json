@@ -1,0 +1,259 @@
+[
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_000",
+    "poem_index": 0,
+    "meter": "سريع",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_002",
+    "poem_index": 2,
+    "meter": "خفيف",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_004",
+    "poem_index": 4,
+    "meter": "متقارب",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_005",
+    "poem_index": 5,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_005",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يا رَبِّ",
+        "notes": "This verse contains an explicit invocation to 'Rabb' (Lord), a term used in pre-Islamic Arabia to address a divine entity, fitting the category of invocations to deities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_006",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَأَبِيكَ",
+        "notes": "This verse contains the oath formula 'wa-abīka' (by your father), which is a common pre-Islamic oath invoking a respected entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_008",
+    "poem_index": 8,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_010",
+        "verse_indices": [
+          9
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَضْبُعٍ يَنْتَبْنَنِي وَنُسُورِ",
+        "notes": "This verse laments the body's fate after death, being consumed by hyenas and eagles, a common pre-Islamic poetic motif reflecting concerns about proper burial and the body's integrity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_011",
+    "poem_index": 11,
+    "meter": "خفيف",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_012",
+    "poem_index": 12,
+    "meter": "خفيف",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_013",
+    "poem_index": 13,
+    "meter": "وافر",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_013",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "لا سَبِيلَ إِلَى الْخُلُودِ",
+        "notes": "This verse explicitly states the impossibility of immortality, reflecting a pre-Islamic cosmological understanding of fate and the limits of human existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_014",
+    "poem_index": 14,
+    "meter": "خفيف",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_014",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "collective lamentation",
+        "notes": "The phrase 'أَسْعِدْنَنِي أَخَواتِي' (help me, my sisters) refers to the practice of women joining together in collective lamentation, a significant component of pre-Islamic mourning rites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_015",
+    "poem_index": 15,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_016",
+    "poem_index": 16,
+    "meter": "متقارب",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_016",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مَكَّةُ وَالْأَخْشَبُ",
+        "notes": "This verse refers to Mecca and its surrounding mountains (al-Akhshabayn), which were central sacred geographical sites in pre-Islamic Arabian religion, here personified as grieving."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_017",
+    "poem_index": 17,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_017",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "احتَلْ لِقَوْمِكَ فَاشْهَدْهُمْ",
+        "notes": "This verse, part of a lament, addresses the deceased and asks them to 'intercede' and 'witness' for their people, implying a belief in the deceased's continued awareness or ability to influence the living, which is a pre-Islamic mortuary belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_018",
+    "poem_index": 18,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_019",
+    "poem_index": 19,
+    "meter": "خفيف",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_020",
+    "poem_index": 20,
+    "meter": "خفيف",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_020",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "شَعُوب",
+        "notes": "The term 'Shaʿūb' refers to death or the place of the dead, a specific concept in pre-Islamic Arabian belief regarding the destination after death."
+      },
+      {
+        "poem_id": "ṣafiyyah_bt_ʿabd_al-muṭṭalib_020",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنِيَّةُ الْمَكْتُوبِ",
+        "notes": "The phrase 'maniyyat al-maktūb' (decreed death/fate) reflects the pre-Islamic concept of an inescapable, predetermined fate, often associated with cosmological forces like dahr or manāyā."
+      }
+    ],
+    "error": false
+  }
+]
