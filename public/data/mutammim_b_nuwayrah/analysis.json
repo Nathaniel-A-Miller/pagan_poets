@@ -1,0 +1,472 @@
+[
+  {
+    "poem_id": "mutammim_b_nuwayrah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دأب ثمود إذ رغا بكرهم",
+        "notes": "This verse references the pre-Islamic narrative of Thamūd and their sacred camel, whose killing led to divine punishment, reflecting a cosmological understanding of fate and divine judgment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_001",
+        "verse_indices": [
+          5
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنيّ",
+        "notes": "The poet explicitly denies being a jinn, referencing a common pre-Islamic supernatural entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_002",
+        "verse_indices": [
+          9
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذات الوسائد",
+        "notes": "This verse mentions a grave at Dhāt al-Wasāʾid, a specific geographical location known to have significance in pre-Islamic Arabian sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_003",
+    "poem_index": 3,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_003",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بالله",
+        "notes": "The verse refers to an appeal or covenant made 'by God' (بالله), which constitutes an oath formula anchored to a sacred entity, common in pre-Islamic Arabian practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_004",
+    "poem_index": 4,
+    "meter": "كامل",
+    "verse_count": 45,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_004",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "فَدَن تطيفُ به النبيطُ",
+        "notes": "This verse describes a 'fadan' (large building, possibly a temple) that the Nabataeans circumambulate, which is a clear reference to a ritual practice around a sacred space."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_004",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الغرابُ الموقِعُ",
+        "notes": "The mention of a raven croaking ('يُهمُّ به الغرابُ الموقِعُ') alludes to augury, where the calls or movements of birds were interpreted as omens in pre-Islamic belief."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_004",
+        "verse_indices": [
+          37
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The phrase 'زوّ المنيةِ' (the approach of death/fate) refers to 'al-manīya' as an inescapable cosmological force, a common concept in pre-Islamic Arabian thought."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_004",
+        "verse_indices": [
+          41
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دعوتُهم فعلمتُ أن لم يسمعوا",
+        "notes": "The poet's act of calling upon his deceased ancestors and the realization that they cannot hear reflects pre-Islamic beliefs about the state of the dead and the afterlife."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_004",
+        "verse_indices": [
+          42
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غولٌ",
+        "notes": "The mention of a 'ghūl' (غول) explicitly refers to a supernatural entity from pre-Islamic Arabian folklore, often depicted as a desert-dwelling demon."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 19,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_006",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمري",
+        "notes": "This verse contains the oath formula 'la-ʿamrī' (by my life), which was a common solemn oath in pre-Islamic Arabian society, functioning as an anchor to a sacred entity (one's own life)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_007",
+    "poem_index": 7,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase \"ريب الدهر\" refers to the pre-Islamic cosmological concept of Dahr as an impersonal, often destructive, force of fate or time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 57,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_010",
+        "verse_indices": [
+          15,
+          16
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "القداح, نار ايسار, الايسار",
+        "notes": "These verses describe the pre-Islamic maysir game, involving drawing lots (qidaḥ), a fire (nār al-aysār), and the ritualistic distribution of meat from a slaughtered animal."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_010",
+        "verse_indices": [
+          30
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The phrase \"فوا اللهِ\" is an explicit oath invoking Allah, a deity recognized in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_010",
+        "verse_indices": [
+          39
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to \"الدهر\" (Time/Fate) as an active agent that causes calamities, reflecting a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_010",
+        "verse_indices": [
+          41
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The term \"المنية\" (Death/Fate) is presented as an irresistible force against which there is no defense, aligning with pre-Islamic cosmological concepts of fate."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_010",
+        "verse_indices": [
+          51
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحَتف",
+        "notes": "The phrase \"صادفَ الحتفُ مالكاً\" personifies \"الحَتف\" (Death/Doom) as an active agent that encounters individuals, reflecting a pre-Islamic cosmological view of fate."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_010",
+        "verse_indices": [
+          53
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الموت",
+        "notes": "The verse describes \"الموت\" (Death) as \"وقّاعاً\" (striking down), portraying it as an active, personified force in line with pre-Islamic cosmological beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جَنَّة عَبقَرٍ",
+        "notes": "The phrase 'janna ʿAbqar' refers to a legendary place associated with jinn and supernatural phenomena in pre-Islamic Arabian belief, making it a reference to supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_014",
+        "verse_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "البكا, نائح, قبور",
+        "notes": "These verses explicitly describe the act of weeping and lamenting at graves for the deceased, which is a central aspect of pre-Islamic mourning rites."
+      },
+      {
+        "poem_id": "mutammim_b_nuwayrah_014",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The phrase \"نستحفظ الله نفسه\" is an invocation asking God for protection, reflecting a belief in a supreme deity in the pre-Islamic context."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ربّ الراقصات",
+        "notes": "This verse contains an oath sworn by 'the Lord of the dancing ones' (ربّ الراقصات), a sacred entity associated with the ritual of sacrificing camels (البُدن) as they are made to kneel."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_017",
+    "poem_index": 17,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_018",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الرُقى",
+        "notes": "The verse mentions 'al-ruqā' (incantations), which were a common pre-Islamic ritualistic practice for healing or protection."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_020",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الأدم المجلَّلةِ الهُدلِ",
+        "notes": "The poet swears by 'covered hides,' which likely refers to sacred objects or idols draped with coverings, a common practice in pre-Islamic oaths."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_021",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "مقسم",
+        "notes": "The term 'مقسم' (maqsam) refers to an oath, which in pre-Islamic Arabian belief was a solemn declaration often invoking a deity or sacred entity, making it a religious act."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_022",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أنواحاً",
+        "notes": "This verse explicitly mentions 'lamentations' (أنواح), which were a significant part of pre-Islamic mourning rites for the deceased, fitting the 'Death_and_Mortuary_Belief' category."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_023",
+    "poem_index": 23,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mutammim_b_nuwayrah_026",
+    "poem_index": 26,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "mutammim_b_nuwayrah_026",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وابيك",
+        "notes": "The phrase 'وابيك' (by your father) is an oath formula common in pre-Islamic Arabic, invoking a revered ancestor as a sacred entity."
+      }
+    ],
+    "error": false
+  }
+]

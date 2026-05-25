@@ -1594,5 +1594,41 @@
     "number_of_lines": 15,
     "source": "data/umm_qirfah_al-fazriyyah/source.json",
     "analysis": "data/umm_qirfah_al-fazriyyah/analysis.json"
+  },
+  {
+    "slug": "mutammim_b_nuwayrah",
+    "name_en": "Mutammim b. Nuwayrah",
+    "name_ar": "متمم بن نويرة",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 232,
+    "source": "data/mutammim_b_nuwayrah/source.json",
+    "analysis": "data/mutammim_b_nuwayrah/analysis.json"
+  },
+  {
+    "slug": "qays_b_amr_al-najsh",
+    "name_en": "Qays b. ʿAmr al-Najāshī",
+    "name_ar": "قيس بن عمرو النجاشي",
+    "tribe": "Ḥārith",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 299,
+    "source": "data/qays_b_amr_al-najsh/source.json",
+    "analysis": "data/qays_b_amr_al-najsh/analysis.json"
+  },
+  {
+    "slug": "urwah_b_izm",
+    "name_en": "ʿUrwah b. Ḥizām",
+    "name_ar": "عروة بن حزام",
+    "tribe": "ʿUdhrah",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 169,
+    "source": "data/urwah_b_izm/source.json",
+    "analysis": "data/urwah_b_izm/analysis.json"
   }
 ]
