@@ -1,0 +1,635 @@
+[
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_000",
+        "verse_indices": [
+          6,
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أَحَاظٍ قُسِّمتْ وجُدُودُ / خَائِبٌ وسَعيدُ",
+        "notes": "These verses express the pre-Islamic cosmological concept that human fortune (wealth, poverty, luck) is determined by pre-ordained portions and fate rather than individual effort."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_001",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرَ",
+        "notes": "The verse warns against committing a 'ḥawba' (sin) that 'al-Dahr' (Time/Fate) might bring into one's grave, implying a post-mortem reckoning by a 'ḥasīb' (reckoner), which reflects pre-Islamic cosmological beliefs about fate and accountability."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَرامٌ",
+        "notes": "The term 'ḥarām' (حَرامٌ) refers to a state of ritual consecration or inviolability, akin to iḥrām, which was a pre-Islamic ritual practice associated with sacred spaces or pilgrimage."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_009",
+        "verse_indices": [
+          2
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "شاعِر",
+        "notes": "The verse refers to a 'poet' (شاعِر) and implies their power to curse and protect, reflecting the pre-Islamic belief in the poet's semi-sacred status and connection to supernatural forces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_011",
+    "poem_index": 11,
+    "meter": "كامل",
+    "verse_count": 49,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_011",
+        "verse_indices": [
+          9
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نَوّاحَةً",
+        "notes": "This verse explicitly mentions a \"nawwāḥa\" (lamenting woman), which refers to the pre-Islamic practice of professional mourners as part of mortuary rites."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_011",
+        "verse_indices": [
+          12
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "صُوَّة",
+        "notes": "The term \"ṣuwwa\" refers to a standing stone, which in pre-Islamic Arabia could serve as a sacred marker or an object of veneration."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_011",
+        "verse_indices": [
+          16
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "القُربانَ, الصُوى",
+        "notes": "This verse explicitly mentions \"al-qurbān\" (offering/sacrifice) and \"al-ṣuwā\" (standing stones), both central to pre-Islamic ritual practices and sacred spaces."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_011",
+        "verse_indices": [
+          24
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الأَيسارِ",
+        "notes": "The term \"al-aysār\" refers to the arrows used in pre-Islamic Arabian divination (azlām), a common practice for seeking guidance or omens."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_011",
+        "verse_indices": [
+          28
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القِداحِ",
+        "notes": "The phrase \"bārī al-qidāḥ\" (carver of arrows) refers to the making of divination arrows, explicitly linking to the practice of augury."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_012",
+    "poem_index": 12,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_013",
+    "poem_index": 13,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبيكَ",
+        "notes": "This verse contains a pre-Islamic oath formula swearing by the life of the father, which was a common and solemn form of oath in that period, anchored to a highly respected and quasi-sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_014",
+    "poem_index": 14,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_015",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ المُفَرِّقُ",
+        "notes": "This verse personifies 'al-dahr' (Time) as an active, destructive force, which is a central pre-Islamic cosmological concept related to fate and destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_016",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمري",
+        "notes": "This verse contains the oath formula 'لَعَمري' (By my life!), which is a common pre-Islamic oath anchored to a sacred entity (the speaker's own life)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_017",
+    "poem_index": 17,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_017",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "This verse refers to \"الدَهر\" (Time/Fate) as an active agent that separates people, reflecting the pre-Islamic cosmological concept of dahr as an impersonal, controlling force."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_017",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قضاؤُهُ",
+        "notes": "This verse speaks of \"قضاؤُهُ\" (his decree/fate) being sealed, indicating a pre-Islamic belief in predetermined destiny as a cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_018",
+    "poem_index": 18,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_019",
+    "poem_index": 19,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_021",
+    "poem_index": 21,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_022",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يَحُجّونَ سَبَّ الزَبرَقانِ",
+        "notes": "The verb 'يَحُجّونَ' (they perform pilgrimage) explicitly refers to the pre-Islamic ritual of pilgrimage, likely to a sacred site or object ('سَبَّ الزَبرَقانِ')."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_022",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يَدعونَ كَوثَرا",
+        "notes": "The phrase 'يَدعونَ كَوثَرا' (they invoke Kawthar) indicates the invocation of a pre-Islamic deity or sacred entity named Kawthar."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_024",
+    "poem_index": 24,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_026",
+    "poem_index": 26,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_027",
+    "poem_index": 27,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 44,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_028",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحَجّ",
+        "notes": "This verse explicitly mentions \"الحَجّ\" (pilgrimage), a central pre-Islamic ritual practice."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_028",
+        "verse_indices": [
+          30
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula \"لَعَمرُكَ\" (by your life), a common pre-Islamic expression used to swear by the life of the addressee."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_029",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'المَنايا' (al-manāyā) refers to fates or deaths, often conceived as a predetermined cosmological force in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_032",
+    "poem_index": 32,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_032",
+        "verse_indices": [
+          36
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَجَدِّكِ",
+        "notes": "The phrase 'wa-jaddiki' is an explicit oath by an ancestor, a common pre-Islamic practice of swearing by revered figures."
+      },
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_032",
+        "verse_indices": [
+          38
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنِيَّةُ",
+        "notes": "The term 'al-manīya' refers to fate or death as an inescapable, powerful force, which is a significant pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_033",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مقادير الحمام",
+        "notes": "The verse refers to 'مقادير الحمام' (the decrees of fate/death) as an irresistible force, aligning with pre-Islamic cosmological concepts of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_035",
+    "poem_index": 35,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_035",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النُجوم",
+        "notes": "The phrase 'barking at the stars' (نَبَحَ النُجوما) implies a belief in the stars' significance or power within a pre-Islamic cosmological framework, where celestial bodies could be agents or objects of reverence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_042",
+    "poem_index": 42,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-mukhabbal_al-saʿdī_042",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نجم",
+        "notes": "The verse attributes agency to a star ('أراغ لها نجم'), suggesting an astral belief where stars influence earthly events, specifically an 'opportunity' related to water."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_048",
+    "poem_index": 48,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-mukhabbal_al-saʿdī_049",
+    "poem_index": 49,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

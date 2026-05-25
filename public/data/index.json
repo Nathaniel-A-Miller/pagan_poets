@@ -1462,5 +1462,65 @@
     "number_of_lines": 608,
     "source": "data/amr_b_maadikarib/source.json",
     "analysis": "data/amr_b_maadikarib/analysis.json"
+  },
+  {
+    "slug": "abu_mihjan_althaqafi",
+    "name_en": "Abū Miḥjan al-Thaqafī",
+    "name_ar": "أبو محجن الثقفي",
+    "tribe": "Thaqīf",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 107,
+    "source": "data/abu_mihjan_althaqafi/source.json",
+    "analysis": "data/abu_mihjan_althaqafi/analysis.json"
+  },
+  {
+    "slug": "abu_zubayd_altaii",
+    "name_en": "Abū Zubayd al-Ṭāʾī",
+    "name_ar": "أبو زبيد الطائي",
+    "tribe": "Ṭayyiʾ",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 426,
+    "source": "data/abu_zubayd_altaii/source.json",
+    "analysis": "data/abu_zubayd_altaii/analysis.json"
+  },
+  {
+    "slug": "humayd_althawr",
+    "name_en": "Ḥumayd al-Thawr",
+    "name_ar": "حميد الثور",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 580,
+    "source": "data/humayd_althawr/source.json",
+    "analysis": "data/humayd_althawr/analysis.json"
+  },
+  {
+    "slug": "almukhabbal_alsaadi",
+    "name_en": "Al-Mukhabbal al-Saʿdī",
+    "name_ar": "المخبل السعدي",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 250,
+    "source": "data/almukhabbal_alsaadi/source.json",
+    "analysis": "data/almukhabbal_alsaadi/analysis.json"
+  },
+  {
+    "slug": "zayd_alkhayl",
+    "name_en": "Zayd al-Khayl",
+    "name_ar": "زيد الخيل",
+    "tribe": "Ṭayyiʾ",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 261,
+    "source": "data/zayd_alkhayl/source.json",
+    "analysis": "data/zayd_alkhayl/analysis.json"
   }
 ]

@@ -1,0 +1,719 @@
+[
+  {
+    "poem_id": "zayd_al-khayl_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_000",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لِعَمري",
+        "notes": "The phrase 'li-ʿamrī' (by my life) is a common pre-Islamic oath formula, anchoring the oath to the speaker's life as a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_001",
+    "poem_index": 1,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "عبقر",
+        "notes": "The term 'ʿAbqar' refers to a legendary place believed to be inhabited by jinn, thus explicitly referencing supernatural beings in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_003",
+    "poem_index": 3,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "zayd_al_khayl_005",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مِرّيخ",
+        "notes": "The verse explicitly names 'مِرّيخ' (Mars), a celestial body, which aligns with pre-Islamic astral beliefs and cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_008",
+    "poem_index": 8,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_011",
+    "poem_index": 11,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_011",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهرٌ",
+        "notes": "The term 'dahr' (time/fate) is invoked as an active, potentially destructive cosmological force, characteristic of pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "zayd_al-khayl_011",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنايا",
+        "notes": "The term 'manāyā' (fates/deaths) refers to an inescapable force of destiny, a common cosmological concept in pre-Islamic poetry."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_012",
+        "verse_indices": [
+          12
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نَعبَ الغُرابِ",
+        "notes": "This verse refers to the croaking of a raven, which was traditionally interpreted as an omen in pre-Islamic Arabian belief, indicating a practice of augury."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_013",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عُلِّقَت فَوقَ السَليمِ الجَلاجِلُ",
+        "notes": "This verse describes the ritualistic practice of hanging bells (جلاجل) over a sick person (السليم), which was a common pre-Islamic custom for healing or protection."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_014",
+    "poem_index": 14,
+    "meter": "خفيف",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_014",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "جَدِّ قَومي كِئابِ",
+        "notes": "This verse contains an oath sworn by the ancestor of the poet's people, which falls under oath formulae anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_015",
+    "poem_index": 15,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_020",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "المآلي",
+        "notes": "The term 'al-ma'ālī' refers to solemn oaths or obligations, which in pre-Islamic Arabian society were often sworn by deities or sacred entities, signifying a sacred commitment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_021",
+    "poem_index": 21,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_022",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللات",
+        "notes": "The verse explicitly names al-Lāt, a prominent pre-Islamic Arabian goddess, indicating a reference to pre-Islamic polytheism."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_023",
+    "poem_index": 23,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_029",
+    "poem_index": 29,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_031",
+    "poem_index": 31,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_032",
+    "poem_index": 32,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_032",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنِيَّةُ",
+        "notes": "This verse refers to 'al-maniyya' (fate/death) as an active, irresistible cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_033",
+    "poem_index": 33,
+    "meter": "رمل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_035",
+    "poem_index": 35,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_036",
+    "poem_index": 36,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_039",
+        "verse_indices": [
+          8
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نُحوسُ الأَشائِمِ",
+        "notes": "This verse explicitly mentions 'ill omens' or 'bad luck' (nuḥūs al-ashāʾim), which is a concept rooted in pre-Islamic Arabian divination practices, particularly augury associated with the left side."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_040",
+        "verse_indices": [
+          4,
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحُتوف",
+        "notes": "These verses refer to 'al-ḥutūf' (fates or destinies), which in pre-Islamic belief often carried a cosmological connotation of unavoidable, preordained outcomes, akin to 'manāyā'."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_041",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "مَكَّةَ وَالبَيتِ",
+        "notes": "This verse contains an oath by Mecca and the Kaaba (the House), which were sacred sites in pre-Islamic Arabian religion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_042",
+    "poem_index": 42,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_044",
+    "poem_index": 44,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_046",
+    "poem_index": 46,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_047",
+    "poem_index": 47,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_048",
+    "poem_index": 48,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_049",
+    "poem_index": 49,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_049",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The term 'دهري' (my dahr/fate) refers to the pre-Islamic concept of dahr as an impersonal, powerful force of time or fate that governs events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_050",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'al-manāyā' refers to the forces of fate or death, a common cosmological concept in pre-Islamic Arabian belief, often depicted as an irresistible power."
+      },
+      {
+        "poem_id": "zayd_al-khayl_050",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'laʿamruka' is a common pre-Islamic oath formula, swearing by the life of the addressed person, which functions as a sacred entity in the oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_051",
+    "poem_index": 51,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_051",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "غُراب",
+        "notes": "The phrase \"ask the raven of Banu Fazāra\" refers to the pre-Islamic practice of augury (ṭīra), where birds like ravens were consulted for omens or knowledge."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_052",
+    "poem_index": 52,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_053",
+    "poem_index": 53,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_054",
+    "poem_index": 54,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_055",
+    "poem_index": 55,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "zayd_al-khayl_055",
+        "verse_indices": [
+          8
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "شر طائر",
+        "notes": "This verse explicitly mentions 'evil bird/omen' (على شر طائر), which refers to the pre-Islamic practice of augury or divination from birds (ṭīra)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_056",
+    "poem_index": 56,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_057",
+    "poem_index": 57,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_058",
+    "poem_index": 58,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_059",
+    "poem_index": 59,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_060",
+    "poem_index": 60,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_061",
+    "poem_index": 61,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_062",
+    "poem_index": 62,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_063",
+    "poem_index": 63,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_064",
+    "poem_index": 64,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zayd_al-khayl_065",
+    "poem_index": 65,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]
