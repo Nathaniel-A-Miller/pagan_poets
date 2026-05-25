@@ -1,0 +1,407 @@
+[
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_000",
+    "poem_index": 0,
+    "meter": "دوبيت",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_001",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'المَنايا' (al-manāyā) refers to fates or deaths, often personified in pre-Islamic poetry as an irresistible cosmological force, aligning with the concept of fate (dahr) as a governing power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِاللَهِ",
+        "notes": "The verse describes a shaykh whose oaths sworn 'by Allah' are fulfilled, indicating the invocation of a supreme deity to validate an oath, a common practice in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_002",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تُحلَقُ لِمَّتي",
+        "notes": "The description of shaving the poet's *limma* (long hair) and maidens collecting it suggests a pre-Islamic ritual practice, possibly a votive offering or a rite of passage."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_003",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نَوحِ النَوائِحِ, ارتِقاءِ النَفسِ",
+        "notes": "The verse refers to the wailing of mourners and the soul's departure, both central to pre-Islamic mortuary beliefs and practices."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_003",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "لَحدٍ, صَفائِحي",
+        "notes": "The verse describes being placed in a grave ('laḥd') with slabs ('ṣafāʾiḥ'), directly referencing pre-Islamic burial practices."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_003",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "اللحدُ",
+        "notes": "The verse mentions 'al-laḥd' (the grave), reinforcing the theme of pre-Islamic burial practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_006",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse attributes agency to 'al-Dahr' (Time/Fate) as a force that bends and affects humans, reflecting a pre-Islamic cosmological understanding of Dahr."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_006",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزَمان",
+        "notes": "The verse depicts 'al-Zamān' (Time) as an active, binding force, aligning with the pre-Islamic cosmological concept of time as a determinant of fate, similar to Dahr."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_007",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الثقَلَينِ",
+        "notes": "This verse refers to 'al-thaqalayn' (the two weighty ones), which explicitly includes jinn as supernatural beings alongside humans, reflecting a common pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَّهِ",
+        "notes": "The verse contains an oath by Allah, a deity recognized and sworn by in pre-Islamic Arabian religion, used here in a general oath context rather than a specifically Islamic theological sense."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_013",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنِيَّتي",
+        "notes": "The term 'manīya' (fate/death) is a central concept in pre-Islamic Arabian cosmology, often representing an irresistible, impersonal force of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 43,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_018",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَلِلَّهِ",
+        "notes": "The phrase 'وَلِلَّهِ' functions as an exclamation or an oath-like invocation of a supreme deity, common in pre-Islamic poetry."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_018",
+        "verse_indices": [
+          31
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "رَقيبُ قِداحٍ",
+        "notes": "The term 'رقيب قداح' refers to an overseer of lots or arrows, which were used in pre-Islamic Arabian society for divination or ritualistic distribution."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_018",
+        "verse_indices": [
+          37
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "سَعالٍ وَشِبهُ الجِنِّ",
+        "notes": "This verse explicitly mentions 'سَعالٍ' (female ghouls) and 'الجن' (jinn), both prominent supernatural entities in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al_qaynī_018",
+        "verse_indices": [
+          39
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهر",
+        "notes": "The concept of 'الدَّهر' (Time/Fate) as an overwhelming, often adversarial force that humans cannot overcome is a central pre-Islamic cosmological belief."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al_qaynī_018",
+        "verse_indices": [
+          40
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهر",
+        "notes": "This verse continues to personify 'الدَّهر' (Time/Fate) as an active, relentless entity, reinforcing its role as a cosmological force."
+      },
+      {
+        "poem_id": "abū_ṭamḥān_al_qaynī_018",
+        "verse_indices": [
+          42
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأَيّامَ",
+        "notes": "The term 'الأَيّامَ' (days/time) is used here synonymously with 'الدَّهر' to denote the inescapable and often destructive power of fate or time, a key pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_019",
+    "poem_index": 19,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_021",
+    "poem_index": 21,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_024",
+    "poem_index": 24,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_024",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حرم",
+        "notes": "The term 'ḥaram' refers to a sacred, inviolable zone in pre-Islamic Arabian religion, indicating a specific sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_026",
+    "poem_index": 26,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_ṭamḥān_al-qaynī_026",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَيبَ دَهرٍ",
+        "notes": "This verse refers to 'rayb dahr,' which is a pre-Islamic cosmological concept of time or fate as an impersonal, often destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_ṭamḥān_al-qaynī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  }
+]

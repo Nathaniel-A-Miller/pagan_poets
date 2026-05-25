@@ -1,0 +1,275 @@
+[
+  {
+    "poem_id": "rabīʿah_b_maqrūm_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_002",
+    "poem_index": 2,
+    "meter": "مديد",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "rabīʿah_b_maqrūm_003",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "القَرينَةِ",
+        "notes": "The term 'القرينة' refers to a jinnīyah or familiar spirit, indicating a belief in non-divine supernatural entities influencing humans."
+      },
+      {
+        "poem_id": "rabīʿah_b_maqrūm_003",
+        "verse_indices": [
+          24
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَجزَرنَ مَسعوداً ضِباعاً وَأَذؤُبا",
+        "notes": "The description of leaving the slain enemy's body to be devoured by scavengers reflects pre-Islamic beliefs about the dishonorable treatment of the dead and the denial of proper burial rites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_004",
+    "poem_index": 4,
+    "meter": "وافر",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_005",
+    "poem_index": 5,
+    "meter": "منسرح",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "rabīʿah_b_maqrūm_005",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سانِح, ناعِب",
+        "notes": "This verse explicitly mentions specific types of bird omens (sāniḥ and nāʿib) which were central to pre-Islamic divination practices (ṭīra)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_006",
+    "poem_index": 6,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_007",
+    "poem_index": 7,
+    "meter": "بسيط",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_008",
+    "poem_index": 8,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_009",
+    "poem_index": 9,
+    "meter": "وافر",
+    "verse_count": 31,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 50,
+    "references": [
+      {
+        "poem_id": "rabīʿah_b_maqrūm_010",
+        "verse_indices": [
+          40
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'الدهر' (Time/Fate) as an active force that causes decay and wears things out, which aligns with the pre-Islamic Arabian concept of Dahr as an impersonal, destructive cosmological power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_011",
+    "poem_index": 11,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_013",
+    "poem_index": 13,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_014",
+    "poem_index": 14,
+    "meter": "سريع",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_015",
+    "poem_index": 15,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "rabīʿah_b_maqrūm_015",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لِلَّهِ دَرُّ",
+        "notes": "This verse contains the ancient Arabic idiom 'lillāhi darr,' which is an invocation of God's bounty or excellence, reflecting a general reference to a divine entity ('Allāh' as the high god) known in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_016",
+    "poem_index": 16,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "rabīʿah_b_maqrūm_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "البَليَّة",
+        "notes": "This verse explicitly mentions 'al-baliyya,' a pre-Islamic practice of tethering a camel to the grave of its owner to die, reflecting beliefs about the afterlife and service to the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "rabīʿah_b_maqrūm_017",
+        "verse_indices": [
+          1,
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حول مجرم",
+        "notes": "The phrase 'حول مجرم' (forbidden year) refers to a pre-Islamic concept of a period of time (often related to sacred months) during which certain actions, like warfare, were prohibited, reflecting a cosmological understanding of time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_018",
+    "poem_index": 18,
+    "meter": "متقارب",
+    "verse_count": 45,
+    "references": [
+      {
+        "poem_id": "rabīʿah_b_maqrūm_018",
+        "verse_indices": [
+          16
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حِرمِيَةً (ḥirmiyya)",
+        "notes": "The term \"ḥirmiyya\" describes a sword as belonging to a ḥaram, a sacred and inviolable precinct, indicating a connection to pre-Islamic sacred geography."
+      },
+      {
+        "poem_id": "rabīʿah_b_maqrūm_018",
+        "verse_indices": [
+          26
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحَريما (al-ḥarīm)",
+        "notes": "The phrase \"يَمنَعونَ الحَريما\" refers to the protection of the tribe's inviolable sacred territory or sanctuary, a key concept in pre-Islamic sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_021",
+    "poem_index": 21,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "rabīʿah_b_maqrūm_022",
+    "poem_index": 22,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]
