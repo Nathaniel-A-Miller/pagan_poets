@@ -34,22 +34,34 @@ export default function App() {
   }, [])
 
   // 2. Sync Global Search: Update selections automatically ONLY when typing a query
-  useEffect(() => {
-    const query = searchQuery.trim().toLowerCase()
-    
-    if (!query) {
-      return
+useEffect(() => {
+  const query = searchQuery.trim().toLowerCase()
+  
+  if (!query) {
+    return
+  }
+
+  const normalizeEn = (str) => {
+    if (!str) return ''
+    return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[ʿʾ]/g, '').toLowerCase()
+  }
+
+  const normalizeArabic = (str) => {
+    if (!str) return ''
+    return str.replace(/[\u064B-\u0652]/g, '')
+  }
+
+  const normalizedQuery = normalizeEn(query)
+
+  const matchedSlugs = new Set()
+  Object.keys(searchIndex).forEach(keyword => {
+    if (normalizeEn(keyword).includes(normalizedQuery) || normalizeArabic(keyword).includes(normalizeArabic(query))) {
+      searchIndex[keyword].forEach(slug => matchedSlugs.add(slug))
     }
+  })
 
-    const matchedSlugs = new Set()
-    Object.keys(searchIndex).forEach(keyword => {
-      if (keyword.includes(query)) {
-        searchIndex[keyword].forEach(slug => matchedSlugs.add(slug))
-      }
-    })
-
-    if (matchedSlugs.size > 0) setSelectedSlugs(Array.from(matchedSlugs))
-  }, [searchQuery, searchIndex])
+  if (matchedSlugs.size > 0) setSelectedSlugs(Array.from(matchedSlugs))
+}, [searchQuery, searchIndex])
 
   // 3. Lazy Data Loader: Dynamically pulls raw files for selected fields
   useEffect(() => {
