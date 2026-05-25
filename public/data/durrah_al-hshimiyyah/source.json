@@ -1,0 +1,37 @@
+{
+  "poet": {
+    "name_ar": "درة الهاشمية",
+    "name_en": "Durrah al-Hāshimiyyah",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 4,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "durrah_al-hāshimiyyah_000",
+      "meter": "كامل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لاقوا غداة الروع ضموزة  فيها السنور من بني فهر"
+        },
+        {
+          "verse_index": 1,
+          "text": "ملومة خرساء يحسبها  من رامها موجاً من البحر"
+        },
+        {
+          "verse_index": 2,
+          "text": "ذعاف الموت أبرده  يقلي بهم واحره يجري"
+        },
+        {
+          "verse_index": 3,
+          "text": "قومي لو أن الصخر ظالمهم  صبروا وفل عرمس الصخر"
+        }
+      ]
+    }
+  ]
+}
