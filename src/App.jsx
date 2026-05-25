@@ -48,7 +48,7 @@ export default function App() {
       }
     })
 
-    setSelectedSlugs(Array.from(matchedSlugs))
+    if (matchedSlugs.size > 0) setSelectedSlugs(Array.from(matchedSlugs))
   }, [searchQuery, searchIndex])
 
   // 3. Lazy Data Loader: Dynamically pulls raw files for selected fields
