@@ -90,7 +90,7 @@
     "tribe": "Hudhayl",
     "region": "Hijaz",
     "chronological_layer": "mukhaḍramūn",
-    "number_of_lines": 559,
+    "number_of_lines": 555,
     "source": "data/abudhuayb/source.json",
     "analysis": "data/abudhuayb/analysis.json",
     "gender": "male"
@@ -1459,7 +1459,7 @@
     "region": "Yemen / South Arabia",
     "chronological_layer": "mukhaḍramūn",
     "gender": "male",
-    "number_of_lines": 718,
+    "number_of_lines": 608,
     "source": "data/amr_b_maadikarib/source.json",
     "analysis": "data/amr_b_maadikarib/analysis.json"
   }
