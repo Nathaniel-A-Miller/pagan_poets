@@ -1522,5 +1522,41 @@
     "number_of_lines": 261,
     "source": "data/zayd_alkhayl/source.json",
     "analysis": "data/zayd_alkhayl/analysis.json"
+  },
+  {
+    "slug": "arwa_bt_abd_almuttalib",
+    "name_en": "Arwā bt. ʿAbd al-Muṭṭalib",
+    "name_ar": "أروى بنت عبد المطلب",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 10,
+    "source": "data/arwa_bt_abd_almuttalib/source.json",
+    "analysis": "data/arwa_bt_abd_almuttalib/analysis.json"
+  },
+  {
+    "slug": "durrah_al-hshimiyyah",
+    "name_en": "Durrah al-Hāshimiyyah",
+    "name_ar": "درة الهاشمية",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 4,
+    "source": "data/durrah_al-hshimiyyah/source.json",
+    "analysis": "data/durrah_al-hshimiyyah/analysis.json"
+  },
+  {
+    "slug": "hubayrah_al-makhzm",
+    "name_en": "Hubayrah al-Makhzūmī",
+    "name_ar": "هبيرة المخزومي",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 11,
+    "source": "data/hubayrah_al-makhzm/source.json",
+    "analysis": "data/hubayrah_al-makhzm/analysis.json"
   }
 ]

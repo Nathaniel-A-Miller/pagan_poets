@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "arwā_bt_ʿabd_al-muṭṭalib_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "arwā_bt_ʿabd_al-muṭṭalib_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْر",
+        "notes": "The verse refers to 'الدَّهْر' (Time/Fate) as an uncontrollable, defiant force that brings about demise, reflecting the pre-Islamic cosmological concept of Dahr as an impersonal agent of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arwā_bt_ʿabd_al-muṭṭalib_001",
+    "poem_index": 1,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  }
+]
