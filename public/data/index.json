@@ -1414,5 +1414,17 @@
     "number_of_lines": 187,
     "source": "data/abd_allah_b_alzibaara/source.json",
     "analysis": "data/abd_allah_b_alzibaara/analysis.json"
+  },
+  {
+    "slug": "alabbas_b_mirdas",
+    "name_en": "Al-ʿAbbās b. Mirdās",
+    "name_ar": "العباس بن مرداس",
+    "tribe": "Sulaym",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 584,
+    "source": "data/alabbas_b_mirdas/source.json",
+    "analysis": "data/alabbas_b_mirdas/analysis.json"
   }
 ]
