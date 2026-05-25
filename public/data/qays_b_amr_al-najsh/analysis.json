@@ -1,0 +1,572 @@
+[
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_002",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الرقَا",
+        "notes": "The verse refers to incantations (al-ruqā) failing to ward off a serpent's venom, indicating a belief in their efficacy as a pre-Islamic ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_003",
+    "poem_index": 3,
+    "meter": "متقارب",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_007",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فَوَاللهِ",
+        "notes": "The verse contains an explicit oath by God (Allāh), which was a common practice in pre-Islamic Arabia and falls under the category of oaths anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_008",
+    "poem_index": 8,
+    "meter": "متقارب",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_010",
+    "poem_index": 10,
+    "meter": "بسيط",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_010",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْر",
+        "notes": "The term 'الدَّهْر' (dahr) is used here to refer to time or fate as an impersonal, enduring force, which is a significant pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_011",
+    "poem_index": 11,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_016",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "This verse contains the exclamation 'yā li-llāh,' which is a pre-Islamic invocation of the supreme deity Allāh, commonly used in expressions of distress or appeal."
+      },
+      {
+        "poem_id": "qays_b_ʿamr_al_najāshī_016",
+        "verse_indices": [
+          5
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الغيب",
+        "notes": "The phrase 'min al-ghayb' refers to knowledge of the unseen, a concept central to pre-Islamic divination practices and the claims made by seers and kāhins."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_017",
+    "poem_index": 17,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_018",
+        "verse_indices": [
+          7
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السَّواحِر",
+        "notes": "The mention of 'sorceresses' (al-sawāḥir) refers to a pre-Islamic belief in individuals who wield supernatural powers, often associated with jinn or other unseen forces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_021",
+    "poem_index": 21,
+    "meter": "رمل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_022",
+    "poem_index": 22,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_022",
+        "verse_indices": [
+          4
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "إبليس",
+        "notes": "The mention of \"أنْصَارِ ابْلِسِ\" (supporters of Iblis) refers to a supernatural evil entity, fitting the category of non-divine supernatural beings in pre-Islamic belief."
+      },
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_022",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدَّهْرَ\" (Dahr) refers to the pre-Islamic concept of Time or Fate as an impersonal, powerful cosmological force that governs human destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_028",
+    "poem_index": 28,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_029",
+    "poem_index": 29,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_030",
+    "poem_index": 30,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_031",
+    "poem_index": 31,
+    "meter": "خفيف",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_031",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "The phrase 'والله' (by God) is an explicit oath formula common in pre-Islamic and early Islamic Arabic, anchoring the statement to a sacred entity."
+      },
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_031",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الراقي",
+        "notes": "The term 'الراقي' refers to a charmer or exorcist, whose practice of 'ruqya' (incantation) was a pre-Islamic ritual to ward off evil or heal, fitting the performative dimension of religious practice."
+      },
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_031",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The term 'المنية' (Manīya) refers to an irresistible force of fate or death, a significant cosmological concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_036",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فَواللهِ",
+        "notes": "This verse contains an explicit oath 'By God' (فَواللهِ), which is a common pre-Islamic oath formula invoking the high god."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_038",
+    "poem_index": 38,
+    "meter": "سريع",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_038",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزَّمَنِ",
+        "notes": "The verse personifies 'Time' (الزَّمَنِ) as a destructive, active force, aligning with the pre-Islamic concept of Dahr as an indifferent and powerful agent of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_041",
+    "poem_index": 41,
+    "meter": "خفيف",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_042",
+    "poem_index": 42,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_044",
+        "verse_indices": [
+          0
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "الرُّقَاةَ",
+        "notes": "The verse refers to 'al-ruqāt' (charmers/incantators), who were specialists in pre-Islamic society believed to possess the ability to cure ailments or ward off evil through incantations, thus occupying a semi-sacred role."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_048",
+    "poem_index": 48,
+    "meter": "متقارب",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_049",
+    "poem_index": 49,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 43,
+    "references": [
+      {
+        "poem_id": "qays_b_ʿamr_al-najāshī_050",
+        "verse_indices": [
+          42
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ودّ",
+        "notes": "The verse mentions 'Banū Wadd' (بَنُو وِدّ), a tribe whose name is derived from and explicitly refers to the pre-Islamic deity Wadd."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_051",
+    "poem_index": 51,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_ʿamr_al-najāshī_052",
+    "poem_index": 52,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]
