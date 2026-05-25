@@ -1738,5 +1738,17 @@
     "number_of_lines": 2,
     "source": "data/shaymaa_bt_harith/source.json",
     "analysis": "data/shaymaa_bt_harith/analysis.json"
+  },
+  {
+    "slug": "hassan_b_thabit",
+    "name_en": "Ḥassān b. Thābit",
+    "name_ar": "حسان بن ثابت",
+    "tribe": "Khazraj",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 2805,
+    "source": "data/hassan_b_thabit/source.json",
+    "analysis": "data/hassan_b_thabit/analysis.json"
   }
 ]
