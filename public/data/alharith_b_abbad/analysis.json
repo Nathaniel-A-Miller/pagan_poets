@@ -1,0 +1,336 @@
+[
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_002",
+        "verse_indices": [
+          19
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وِتْرَهُ",
+        "notes": "This verse refers to the concept of *witr* (blood-vengeance), which was a significant quasi-ritual duty in pre-Islamic Arabian society, tied to honor and the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_003",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أَيَّاماً شِدادَ الْمَناحِسِ",
+        "notes": "This phrase refers to 'days of severe ill-fortune' or 'inauspicious days,' reflecting a pre-Islamic belief in specific times or cosmic forces bringing bad luck or fate."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_003",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أَيَّامِ عادٍ",
+        "notes": "The 'days of ʿĀd' refer to the legendary destruction of the ancient people of ʿĀd, a common pre-Islamic trope illustrating divine retribution or the inexorable force of fate (dahr) against the arrogant."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_004",
+    "poem_index": 4,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_005",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نُشِرَ الْمَقابِرُ",
+        "notes": "This verse contains a hypothetical reference to the dead rising from their graves, which reflects a pre-Islamic conceptual understanding of death and the afterlife."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_006",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نُشِرَ الْمَقابِرُ",
+        "notes": "The phrase 'if the graves were opened' implies a pre-Islamic belief in the possibility of the dead returning or communicating, touching on the nature of death and the afterlife."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_006",
+        "verse_indices": [
+          18
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَّاتِ",
+        "notes": "The tribal name 'Taym al-Lāt' explicitly names al-Lāt, a prominent pre-Islamic Arabian goddess."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_006",
+        "verse_indices": [
+          20
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مَنْصَبَةِ الْقُدُورِ",
+        "notes": "A 'manṣaba' (standing stone or altar) where pots are placed is a clear reference to a pre-Islamic ritual space or sacrificial practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_007",
+    "poem_index": 7,
+    "meter": "بسيط",
+    "verse_count": 49,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_007",
+        "verse_indices": [
+          15
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَّاتِ",
+        "notes": "The tribal name \"Taym al-Lāt\" explicitly refers to the pre-Islamic goddess al-Lāt, indicating her worship."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_007",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنايا",
+        "notes": "The term \"al-manāyā\" refers to fates or deaths, often conceived as an impersonal cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_007",
+        "verse_indices": [
+          44
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يَمِيناً",
+        "notes": "The explicit mention of swearing a solemn oath (\"ḥalaftu yamīnan\") reflects a pre-Islamic ritual practice where oaths were binding and often implicitly or explicitly invoked divine witness."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_008",
+    "poem_index": 8,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_009",
+    "poem_index": 9,
+    "meter": "خفيف",
+    "verse_count": 32,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_009",
+        "verse_indices": [
+          19
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "شِقّاً",
+        "notes": "This verse describes women tearing their clothes (شقّاً), which is a pre-Islamic mourning ritual."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_009",
+        "verse_indices": [
+          19
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السَعالى",
+        "notes": "The women are compared to \"al-Sa'ali,\" which are female jinn or ghoulish creatures in pre-Islamic Arabian folklore."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_009",
+        "verse_indices": [
+          23
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السَعالى",
+        "notes": "The horses are compared to \"al-Sa'ali,\" which are female jinn or ghoulish creatures in pre-Islamic Arabian folklore."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_009",
+        "verse_indices": [
+          26
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "البَواكي, العَويلا",
+        "notes": "This verse describes professional mourners (al-bawākī) weeping and wailing (al-ʿawīl) for Kulayb, which are explicit pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_010",
+        "verse_indices": [
+          18
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ الراقِصاتِ إِلى مِنّي, وَرَبِّ الحِلِّ وَالإِحرامِ",
+        "notes": "This verse contains two oaths invoking a 'Lord' (رَبّ) associated with pre-Islamic pilgrimage rituals, specifically the journey to Minā and the sacred states of ḥill and iḥrām."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_010",
+        "verse_indices": [
+          20
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يَبكينَ",
+        "notes": "The verse describes women lamenting and mourning, which is a common pre-Islamic mortuary practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_011",
+    "poem_index": 11,
+    "meter": "بسيط",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_011",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللات",
+        "notes": "The verse mentions 'تَيمَ اللاتِ' (Taym al-Lāt), which is a tribal name explicitly incorporating the pre-Islamic goddess al-Lāt."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_011",
+        "verse_indices": [
+          16
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "حَلَفتُ يَميناً",
+        "notes": "The phrase 'حَلَفتُ يَميناً' (I swore an oath) refers to the solemn act of oath-taking, a significant ritual practice in pre-Islamic Arabian religion, often implicitly or explicitly invoking divine witness."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_013",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ القِلاصِ الراقِصاتِ",
+        "notes": "This verse contains an oath sworn by 'the Lord of the dancing she-camels,' which implies a pre-Islamic deity or sacred entity associated with ritualistic camel processions."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_014",
+    "poem_index": 14,
+    "meter": "خفيف",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ʿabbād_014",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "طُلَّ / يُطْلَل",
+        "notes": "The terms 'ṭulla' and 'yuṭlal' refer to blood going unavenged, which is a direct reference to the pre-Islamic concept of blood vengeance (tha'r), a crucial duty related to death and honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_015",
+    "poem_index": 15,
+    "meter": "خفيف",
+    "verse_count": 37,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_016",
+    "poem_index": 16,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ʿabbād_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]

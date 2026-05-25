@@ -1,0 +1,375 @@
+[
+  {
+    "poem_id": "al-musayyab_al-ʿalas_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_002",
+    "poem_index": 2,
+    "meter": "متدارك",
+    "verse_count": 38,
+    "references": [
+      {
+        "poem_id": "al-musayyab_al-ʿalas_002",
+        "verse_indices": [
+          15
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أشائمه تنعب",
+        "notes": "The phrase \"أشائمه تنعب\" explicitly refers to the croaking of ill omens, a form of augury from birds common in pre-Islamic Arabian divination."
+      },
+      {
+        "poem_id": "al-musayyab_al-ʿalas_002",
+        "verse_indices": [
+          31
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نَحسُ الخَراتَينِ وَالعَقرَبُ",
+        "notes": "This verse refers to the \"inauspiciousness\" (نَحس) associated with specific stars or constellations (al-Kharātān and al-ʿAqrab), indicating a belief in astral omens and their influence on human affairs."
+      },
+      {
+        "poem_id": "al-musayyab_al-ʿalas_002",
+        "verse_indices": [
+          36
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "السِدرُ وَالأَثأَبُ",
+        "notes": "The act of calling upon specific trees (Sidr and Ath'ab) for aid implies a belief in their sacredness or power, which aligns with the concept of sacred trees as part of pre-Islamic ritual spaces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_003",
+    "poem_index": 3,
+    "meter": "متدارك",
+    "verse_count": 39,
+    "references": [
+      {
+        "poem_id": "al-musayyab_al-ʿalas_003",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرِ",
+        "notes": "The term 'al-Dahr' (Time/Fate) is invoked as a force that grants 'desire' or 'fortune', reflecting the pre-Islamic cosmological concept of Dahr as an impersonal, determining power."
+      },
+      {
+        "poem_id": "al-musayyab_al-ʿalas_003",
+        "verse_indices": [
+          15
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يَسجُدونَ لَها, لِلنَحرِ",
+        "notes": "This verse describes people prostrating ('yasjudūna') to an entity (likely the pearl or the woman likened to it) and holding it for 'naḥr' (ritual slaughter or sacrifice), which are explicit ritualistic actions in pre-Islamic Arabian practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_004",
+    "poem_index": 4,
+    "meter": "متقارب",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_005",
+    "poem_index": 5,
+    "meter": "كامل",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "al-musayyab_al-ʿalas_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "العُطاس",
+        "notes": "The phrase \"قَبلَ العُطاسِ\" refers to the pre-Islamic belief in sneezing as an omen, which could influence decisions or actions."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_006",
+    "poem_index": 6,
+    "meter": "متدارك",
+    "verse_count": 23,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_007",
+    "poem_index": 7,
+    "meter": "كامل",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_008",
+    "poem_index": 8,
+    "meter": "متقارب",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "al-musayyab_al-ʿalas_008",
+        "verse_indices": [
+          15
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse personifies 'الدَهر' (Time/Fate) as an active agent that 'wears' different states, reflecting the pre-Islamic concept of Dahr as a cosmological force influencing events and destiny."
+      },
+      {
+        "poem_id": "al-musayyab_al-ʿalas_008",
+        "verse_indices": [
+          18
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حادِثِ الدَهرِ",
+        "notes": "The phrase 'حادِثِ الدَهرِ' (event/calamity of Dahr) refers to Dahr as a force that brings about events, aligning with the pre-Islamic understanding of Dahr as a powerful, often indifferent, cosmological agent of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_009",
+    "poem_index": 9,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-musayyab_al-ʿalas_013",
+        "verse_indices": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نَظرَةُ عَنزٍ",
+        "notes": "The poem describes a goat (ʿAnz) seeing a significant sight (v.0, v.2) which is disbelieved by people, leading to their destruction (v.3), thus presenting the goat's observation as a true omen (v.4)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_021",
+    "poem_index": 21,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_023",
+    "poem_index": 23,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-musayyab_al-ʿalas_023",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثأر",
+        "notes": "This verse refers to the obligation of vengeance (ثأر) for the slain (قتيل), which was a central quasi-ritual duty in pre-Islamic Arabian society, ensuring the honor of the deceased and their tribe."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_024",
+    "poem_index": 24,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_027",
+    "poem_index": 27,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-musayyab_al-ʿalas_027",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "مَشائيمُ",
+        "notes": "The term 'مَشائيمُ' (ill-omens/inauspicious ones) explicitly refers to the concept of omens, which was a significant part of pre-Islamic Arabian belief systems."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_028",
+    "poem_index": 28,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_029",
+    "poem_index": 29,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_030",
+    "poem_index": 30,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_031",
+    "poem_index": 31,
+    "meter": "هزج",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-musayyab_al-ʿalas_032",
+    "poem_index": 32,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

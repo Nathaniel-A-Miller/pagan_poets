@@ -1,0 +1,519 @@
+[
+  {
+    "poem_id": "ʿamr_b_kulthūm_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_004",
+    "poem_index": 4,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_008",
+    "poem_index": 8,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_010",
+    "poem_index": 10,
+    "meter": "وافر",
+    "verse_count": 103,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_010",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنَايَا",
+        "notes": "The term 'al-manāyā' (fates/deaths) is used here as an irresistible cosmological force, a common pre-Islamic concept of destiny."
+      },
+      {
+        "poem_id": "ʿamr_b_kulthūm_010",
+        "verse_indices": [
+          65
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "قَرِيْنَتَنَا",
+        "notes": "The term 'qarīna' often refers to a jinn companion or familiar spirit in pre-Islamic belief, implying a supernatural entity associated with the individual."
+      },
+      {
+        "poem_id": "ʿamr_b_kulthūm_010",
+        "verse_indices": [
+          66
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يَمِيْنَا",
+        "notes": "The phrase 'عَقَدُوا يَمِيْنَا' (they made an oath) refers to the solemn act of swearing an oath, which in pre-Islamic society was a sacred ritual often implicitly anchored to divine witness or sacred entities."
+      },
+      {
+        "poem_id": "ʿamr_b_kulthūm_010",
+        "verse_indices": [
+          89
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "دِيْنَا",
+        "notes": "The term 'dīn' in this pre-Islamic context, alongside 'ḥasab' (lineage), refers to the ancestral religion, customs, or way of life of the tribe, representing their traditional belief system."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_012",
+    "poem_index": 12,
+    "meter": "رمل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنّاً",
+        "notes": "The verse describes the swiftness of horses, stating that one might mistake them for jinn, explicitly referencing a supernatural entity."
+      },
+      {
+        "poem_id": "ʿamr_b_kulthūm_013",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فَلا وَضَعَت أُنثى إِلَيَّ قِناعَها",
+        "notes": "The verse contains a self-imprecation or curse, a common form of oath formula in pre-Islamic Arabian culture."
+      },
+      {
+        "poem_id": "ʿamr_b_kulthūm_013",
+        "verse_indices": [
+          5
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سهمي حينَ تَجتَمِعُ السُهُم",
+        "notes": "The verse refers to the practice of casting lots or arrows (azlām) for divination, where 'winning an arrow' signifies a favorable outcome."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_014",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رب الراقصات",
+        "notes": "The verse contains an oath (حَلَفتُ بِ) invoking 'the Lord of the dancing women,' which refers to a pre-Islamic deity or sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_015",
+    "poem_index": 15,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_018",
+    "poem_index": 18,
+    "meter": "رمل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_020",
+    "poem_index": 20,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_020",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' is a common pre-Islamic oath formula, swearing by the life of the addressee, which functions as a sacred entity in the context of an oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_021",
+    "poem_index": 21,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_022",
+    "poem_index": 22,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_023",
+    "poem_index": 23,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_024",
+    "poem_index": 24,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_025",
+    "poem_index": 25,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_026",
+    "poem_index": 26,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_026",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "حَواسِراً",
+        "notes": "This verse describes women left 'unveiled' (ḥawāsir) over the deceased, which is a direct reference to a pre-Islamic mourning rite."
+      },
+      {
+        "poem_id": "ʿamr_b_kulthūm_026",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الدُوار",
+        "notes": "The verse explicitly refers to women circumambulating (ʿakafa) around a 'duwār,' which was a pre-Islamic standing stone or idol used for ritual worship."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_027",
+    "poem_index": 27,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_028",
+    "poem_index": 28,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_029",
+    "poem_index": 29,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_030",
+    "poem_index": 30,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_032",
+    "poem_index": 32,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_032",
+        "verse_indices": [
+          0
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "أَبَيتَ اللَعنَ",
+        "notes": "This is a pre-Islamic honorific formula meaning 'may you avoid the curse/damnation,' which invokes the concept of a curse as a supernatural or divine punishment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_034",
+    "poem_index": 34,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_034",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحاج",
+        "notes": "The term 'الحاج' (al-ḥājj) refers to the pre-Islamic pilgrimage, a significant ritual practice in ancient Arabia, thus fitting the category of rituals and sacred spaces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_035",
+    "poem_index": 35,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_036",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وُدّ",
+        "notes": "The verse mentions 'ʿAbd Wadd' (servant of Wadd), explicitly naming Wadd, a prominent pre-Islamic deity worshipped in northern Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_037",
+    "poem_index": 37,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_038",
+    "poem_index": 38,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_039",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرِ",
+        "notes": "The term 'al-Dahr' (Time/Fate) is invoked as a cosmological force, a common concept in pre-Islamic Arabian belief regarding destiny and the passage of time."
+      },
+      {
+        "poem_id": "ʿamr_b_kulthūm_039",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَحااللَهُ",
+        "notes": "The imprecation 'laḥā Allāh' (May God curse) is a pre-Islamic formula invoking a deity for a curse, fitting the category of oaths and invocations anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_040",
+    "poem_index": 40,
+    "meter": "متدارك",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_040",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "تَاللَهِ",
+        "notes": "The phrase 'تَاللَهِ' is an oath formula, common in pre-Islamic poetry, invoking a sacred entity and thus fitting the category of oaths anchored to a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_041",
+    "poem_index": 41,
+    "meter": "متدارك",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_kulthūm_042",
+    "poem_index": 42,
+    "meter": "وافر",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_kulthūm_042",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نَباتُ نَعشٍ, كَسَفَت شَمسُ السَماءِ",
+        "notes": "The verse describes the absence of cosmic signs, such as the stars dispersing or a solar eclipse, in response to the battle, implicitly referencing a pre-Islamic belief in celestial phenomena as omens or indicators of significant earthly events."
+      }
+    ],
+    "error": false
+  }
+]

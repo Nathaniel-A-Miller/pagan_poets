@@ -1,0 +1,684 @@
+[
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 85,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_000",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ورب البيت",
+        "notes": "The poet swears by 'the Lord of the House,' which refers to the Kaaba, a central pre-Islamic sanctuary, making this an oath anchored to a sacred entity."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_000",
+        "verse_indices": [
+          58
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "بالقداح",
+        "notes": "The verse mentions 'al-qidāḥ' (arrows), which were used in pre-Islamic Arabian society for divination, specifically for casting lots or seeking omens."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_000",
+        "verse_indices": [
+          63
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حرمت",
+        "notes": "The term 'ḥurrimat' (forbidden) refers to a state of sacred prohibition, a concept central to pre-Islamic religious law and practice, here applied to a woman."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_000",
+        "verse_indices": [
+          83
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الناذرين دمي",
+        "notes": "The mention of 'al-nādhirīn damī' (those who vowed my blood) refers to the pre-Islamic practice of making solemn vows, often involving blood or sacrifice, as a ritual commitment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_001",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as a powerful, consuming force, which is a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_001",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse explicitly states that 'al-Dahr' (Time/Fate) cannot save anyone from death, reflecting the pre-Islamic belief in Dahr as an inescapable cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_003",
+    "poem_index": 3,
+    "meter": "وافر",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_004",
+    "poem_index": 4,
+    "meter": "وافر",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_005",
+    "poem_index": 5,
+    "meter": "كامل",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_005",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأنواء",
+        "notes": "The term 'al-anwāʾ' refers to the pre-Islamic Arabian belief system associating the rising and setting of stars with weather phenomena, which is an astral belief."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_005",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The verse describes 'al-maniyya' (death/fate) as an inescapable 'watering place' (manhal), reflecting a pre-Islamic cosmological understanding of fate and the inevitability of death."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_005",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "This verse personifies 'al-maniyya' (death/fate), further emphasizing its role as a conceptual, cosmological force in pre-Islamic thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_006",
+    "poem_index": 6,
+    "meter": "كامل",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_006",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "This verse contains the oath formula 'la-ʿamrik' (by your life), which is a common pre-Islamic oath anchored to the sacredness of life."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_007",
+    "poem_index": 7,
+    "meter": "كامل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_007",
+        "verse_indices": [
+          0,
+          1,
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الغراب الأبقع, زجرته",
+        "notes": "The mention of the piebald raven as an omen of separation and the poet's act of rebuking it explicitly refers to pre-Islamic augury practices (ṭīra)."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_007",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منيتي",
+        "notes": "The verse expresses the pre-Islamic fatalistic belief that one cannot escape their predetermined death (manīya), aligning with cosmological concepts of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_008",
+    "poem_index": 8,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الهدي",
+        "notes": "The term 'al-hadī' refers to a sacrificial animal, which was a central component of pre-Islamic Arabian ritual practices and offerings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_009",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "صنم يعتاد معكوف",
+        "notes": "The verse compares the woman to an idol that is habitually worshipped, explicitly referencing the pre-Islamic practice of idol veneration."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_011",
+    "poem_index": 11,
+    "meter": "كامل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نوح مسلب",
+        "notes": "The verse describes the pre-Islamic mourning practice of lamentation (نوح) where mourners would strip or tear their garments (مسلب) as a sign of grief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_014",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أنفث عليه",
+        "notes": "This verse refers to the practice of 'nafth' (blowing with light spit), a pre-Islamic ritualistic act often associated with incantations for healing or protection."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_015",
+    "poem_index": 15,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_016",
+    "poem_index": 16,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_017",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "معبد",
+        "notes": "This verse explicitly mentions 'maʿbad' (place of worship), referring to a pre-Islamic sanctuary or temple, implying a lack of reward or offering associated with such a sacred space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_018",
+    "poem_index": 18,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_019",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لحاك الله",
+        "notes": "This verse contains an imprecation, 'لحاك الله' (may God curse you), which is an oath formula anchored to a divine entity, common in pre-Islamic speech."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_020",
+    "poem_index": 20,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_021",
+    "poem_index": 21,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_022",
+    "poem_index": 22,
+    "meter": "وافر",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_023",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سنيح وبارح",
+        "notes": "The mention of 'سنيح وبارح' (passing from right to left and left to right) in relation to gazelles explicitly refers to a form of augury or omen-taking from animal movements."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_023",
+        "verse_indices": [
+          18
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "النوائح",
+        "notes": "The reference to 'النوائح' (lamenting women) explicitly points to pre-Islamic mourning rites for the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_024",
+    "poem_index": 24,
+    "meter": "كامل",
+    "verse_count": 22,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_025",
+    "poem_index": 25,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_028",
+    "poem_index": 27,
+    "meter": "كامل",
+    "verse_count": 43,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_028",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر جدك",
+        "notes": "This verse contains an explicit oath formula, 'la-ʿamru jaddik' (by the life of your grandfather), which is a common pre-Islamic practice of swearing by an ancestor or their life."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_028",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية, الآجال",
+        "notes": "The poet refers to 'al-manīya' (fate/death) and 'al-ājāl' (appointed times/fates) as forces that his actions precede, reflecting pre-Islamic cosmological beliefs about destiny and the inevitability of death."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_028",
+        "verse_indices": [
+          15
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "للجنب",
+        "notes": "The phrase 'ghādarat-hu li-l-jinn' (left him for the jinn) explicitly refers to jinn as supernatural entities associated with consuming the unburied dead in desolate places."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_029",
+    "poem_index": 28,
+    "meter": "وافر",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_029",
+        "verse_indices": [
+          9
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الزلام",
+        "notes": "The verse explicitly mentions 'al-azlām,' referring to the divination arrows used in pre-Islamic Arabian practices."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_029",
+        "verse_indices": [
+          21
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حجر المقام",
+        "notes": "The phrase 'ḥajar al-maqām' refers to a sacred stone, likely the Maqam Ibrahim, which was a pre-Islamic sacred object and part of the ritual landscape."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_029",
+        "verse_indices": [
+          22
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أصداء وهام",
+        "notes": "The mention of 'aṣdāʾ wa hām' refers to the pre-Islamic belief that the soul of the deceased, particularly one unavenged, transforms into a bird (ṣadā or hāma) hovering over the grave."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_031",
+    "poem_index": 29,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_031",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "آلاء الوشيج, مر الشياه بوقعه",
+        "notes": "This verse describes a practice of gaining knowledge or omens by observing the interaction of sheep with falling branches or rods, which is a form of augury or divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_032",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_032",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "سعالى",
+        "notes": "The verse compares the horses to 'saʿālī', which are a type of female jinn or ghoul in pre-Islamic Arabian folklore, thus referencing supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_033",
+    "poem_index": 31,
+    "meter": "كامل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_033",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الغراب الأبقع",
+        "notes": "The mention of the piebald raven flying to announce separation is a clear reference to augury and omens derived from bird behavior."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_033",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "زجر الغراب",
+        "notes": "The act of rebuking the raven and wishing it ill fortune demonstrates belief in its power as an omen-bearer and the practice of interacting with such signs."
+      },
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_033",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منيتي",
+        "notes": "The statement about the inevitability of one's 'maniyya' (fate/death) reflects a pre-Islamic cosmological understanding of destiny as an inescapable force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_034",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_035",
+    "poem_index": 33,
+    "meter": "وافر",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_036",
+    "poem_index": 34,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_037",
+    "poem_index": 35,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_037",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الثارات",
+        "notes": "The verse mentions 'vengeance' (الثارات), which in pre-Islamic Arabian society was a quasi-ritualistic obligation tied to tribal honor and the duty to the deceased, falling under mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_038",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_038",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "يلق الذي كان لاقيا",
+        "notes": "This verse expresses a fatalistic view, common in pre-Islamic thought, where one will inevitably encounter what is destined for them, aligning with cosmological concepts of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_039",
+    "poem_index": 37,
+    "meter": "رجز",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_039",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The phrase 'رحى المنون' (the mill of fate/death) refers to 'al-Manūn' as an irresistible cosmological force of fate and death, a common concept in pre-Islamic Arabian thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_040",
+    "poem_index": 38,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_041",
+    "poem_index": 39,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_042",
+    "poem_index": 40,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_043",
+    "poem_index": 41,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿantarah_ibn_shaddād_043",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' refers to death or fate as an inescapable, preordained cosmological force in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿantarah_ibn_shaddād_044",
+    "poem_index": 42,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  }
+]

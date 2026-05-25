@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "al-akhwaṣ_al-yarbūʿī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-akhwaṣ_al-yarbūʿī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-akhwaṣ_al-yarbūʿī_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "غراب, شؤم",
+        "notes": "The verse explicitly mentions the raven (غراب) croaking with ill omen (شؤم), which is a direct reference to augury from birds, a common pre-Islamic divinatory practice."
+      }
+    ],
+    "error": false
+  }
+]

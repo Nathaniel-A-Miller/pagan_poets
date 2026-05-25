@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "ليلى بنت مرداس",
+    "name_en": "Laylā bt. Mirdās",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "laylā_bt_mirdās_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "حَلَفْتُ يَمِيناً يا ابْنَ قَحْفانَ بِالَّذِي  تَكَفَّلَ بِالْأَرْزاقِ فِي السَّهْلِ وَالْجَبَلْ"
+        },
+        {
+          "verse_index": 1,
+          "text": "تَزالُ حِبالٌ مُحْصَداتٌ أُعِدُّها  لَها ما مَشَى مِنْها عَلَى خُفِّهِ جَمَلْ"
+        },
+        {
+          "verse_index": 2,
+          "text": "فَأَعْطِ وَلا تَبْخَلْ لِمَنْ جاءَ طالِباً  فَعِنْدِي لَها خَطْمٌ وَقَدْ زالَتْ الْعِلَلْ"
+        }
+      ]
+    }
+  ]
+}

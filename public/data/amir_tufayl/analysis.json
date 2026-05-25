@@ -1,0 +1,760 @@
+[
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أبى الله",
+        "notes": "The phrase \"أبى الله\" refers to the will of a supreme deity as a determining force in the poet's destiny, reflecting a pre-Islamic cosmological concept of divine decree."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_001",
+    "poem_index": 1,
+    "meter": "كامل تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_001",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزمان",
+        "notes": "The phrase \"غدر الزمان\" (the treachery of time) refers to *dahr* as a cosmological force that can act upon individuals, a common pre-Islamic belief."
+      },
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_001",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزمان",
+        "notes": "The phrase \"كلب الزمان\" (time has raged) personifies *dahr* as an active, malevolent force, reflecting a pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_002",
+    "poem_index": 2,
+    "meter": "وافر تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_002",
+        "verse_indices": [
+          10,
+          11
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الغراب, نحوس طير",
+        "notes": "These verses describe the raven (الغراب) flying with ill omens (نحوس طير), indicating a practice of bird augury to predict misfortune."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_003",
+    "poem_index": 3,
+    "meter": "وافر تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_004",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر أبي",
+        "notes": "The phrase 'لعمر أبي' (by the life of my father) is a common pre-Islamic oath formula, invoking a sacred entity (the father's life) to affirm a statement."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_005",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The phrase 'أبى الله' (God refused/denied) explicitly invokes the will or agency of a divine entity, fitting the category of deities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_006",
+    "poem_index": 6,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_007",
+    "poem_index": 7,
+    "meter": "كامل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_008",
+    "poem_index": 8,
+    "meter": "خفيف تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_009",
+    "poem_index": 9,
+    "meter": "تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_010",
+    "poem_index": 10,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_010",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وأبيك",
+        "notes": "The phrase 'wa-abīka' (by your father) is an oath formula common in pre-Islamic Arabic, invoking the honor and lineage of the father as a sacred entity to lend weight to the speaker's statement."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_012",
+    "poem_index": 12,
+    "meter": "كامل تام",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_012",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الجد",
+        "notes": "The phrase 'بما جدا الجد' (with what fate/destiny brought) refers to 'al-jadd' as a cosmological force of fate, aligning with pre-Islamic concepts of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_014",
+    "poem_index": 14,
+    "meter": "كامل تام",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_014",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "فلأثأرن, لم يوسد",
+        "notes": "The verse explicitly mentions the obligation of vengeance (tha'r) for the slain and refers to one who 'was not laid to rest,' implying a concern for proper burial practices, both of which are aspects of pre-Islamic mortuary beliefs."
+      },
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_014",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أثأرن",
+        "notes": "This verse reiterates the duty of vengeance (tha'r) for the slain, which was a quasi-ritualistic obligation in pre-Islamic society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_015",
+    "poem_index": 15,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_016",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الله",
+        "notes": "The phrase \"لكيلا يعلم الله\" (so that God may not know) implies a belief in divine knowledge and oversight of human actions, which is a pre-Islamic theological concept about the nature of the high god."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_017",
+    "poem_index": 17,
+    "meter": "متقارب تام",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_020",
+    "poem_index": 20,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_022",
+    "poem_index": 22,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_022",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "دوار",
+        "notes": "The term 'دوار' (duwār) refers to a pre-Islamic sacred stone or idol that was circumambulated, indicating a reference to a sacred object or ritual space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_023",
+    "poem_index": 23,
+    "meter": "كامل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_024",
+    "poem_index": 24,
+    "meter": "كامل تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_024",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الصفا",
+        "notes": "The mention of 'al-Ṣafā' refers to a sacred hill in Mecca, a significant site in pre-Islamic Arabian religious geography and pilgrimage rituals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_025",
+    "poem_index": 25,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_025",
+        "verse_indices": [
+          1
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حرم الإدبارا",
+        "notes": "The verb 'ḥarrama' (to make forbidden/sacred) is a key term in the pre-Islamic sacred lexicon, implying a prohibition with religious or quasi-religious weight, making retreat a taboo."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_026",
+    "poem_index": 26,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_027",
+    "poem_index": 27,
+    "meter": "ألبهم فخارا % %  : طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_028",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منايا",
+        "notes": "The term 'منايا' (manāyā) refers to deaths or fates, often personified in pre-Islamic thought as an irresistible cosmological force, fitting the concept of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_029",
+    "poem_index": 29,
+    "meter": "كامل تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_029",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "زجر",
+        "notes": "The verb 'فزجرته' (so I chided it/drove it away) refers to the pre-Islamic practice of 'zajr al-ṭayr,' a form of augury involving interpreting the flight or cries of birds."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_032",
+    "poem_index": 32,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_032",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The mention of 'al-Dahr' (Time/Fate) as a force 'full of changes and turmoil' reflects a pre-Islamic cosmological concept where Dahr was often seen as an impersonal, irresistible power governing events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_033",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن وخابل",
+        "notes": "This verse explicitly mentions 'jinn' (جن) and 'khābil' (خابل), which are supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_034",
+    "poem_index": 34,
+    "meter": "كامل تام",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_034",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نوح معول",
+        "notes": "This verse describes women lamenting the deceased with wailing and mourning, which constitutes a pre-Islamic mourning rite."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_035",
+    "poem_index": 35,
+    "meter": "وافر تام",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_036",
+    "poem_index": 36,
+    "meter": "وافر تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_037",
+    "poem_index": 37,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_038",
+    "poem_index": 38,
+    "meter": "خفيف تام",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_038",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والذي يحج له الناس",
+        "notes": "The verse contains an oath sworn by 'Him to whom people make pilgrimage,' referring to a sacred entity or deity in a pre-Islamic context."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_039",
+    "poem_index": 39,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_040",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "موسما (mawsim)",
+        "notes": "The term 'mawsim' refers to a pre-Islamic seasonal gathering or fair, often associated with pilgrimage and religious rituals, indicating a reference to sacred geography and performative dimensions of religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_041",
+    "poem_index": 41,
+    "meter": "وافر تام",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_042",
+    "poem_index": 42,
+    "meter": "unknown",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_042",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "يوم نحس",
+        "notes": "The phrase \"يوم نحس\" (inauspicious day) reflects a pre-Islamic belief in the inherent quality of certain times as unlucky, which falls under cosmological concepts related to the nature of time."
+      },
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_042",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحدثان",
+        "notes": "The term \"الحدثان\" refers to calamities or fate, often personified as a destructive force of time, which is a significant pre-Islamic cosmological concept akin to dahr or manaya."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_044",
+    "poem_index": 44,
+    "meter": "متقارب تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_045",
+    "poem_index": 45,
+    "meter": "متقارب تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_046",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "التمائم",
+        "notes": "The verse refers to the practice of tying amulets (tamāʾim), a pre-Islamic ritualistic act for protection, fitting the performative dimension of religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_048",
+    "poem_index": 48,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_048",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'al-dahr' (time/fate) is used, which in pre-Islamic Arabian belief often represented an impersonal, powerful cosmological force governing existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_049",
+    "poem_index": 49,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_050",
+    "poem_index": 50,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_050",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The verse refers to 'dahr' (time/fate) as a force that can bring harm, which is a significant pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_051",
+    "poem_index": 51,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_051",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "طلقت إن لم",
+        "notes": "This verse contains a pre-Islamic oath formula where the speaker swears by divorcing his wife if a condition is not met, a common form of solemn vow in the Jahiliyya."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_052",
+    "poem_index": 52,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_053",
+    "poem_index": 53,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_054",
+    "poem_index": 54,
+    "meter": "بسيط تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_055",
+    "poem_index": 55,
+    "meter": "كامل تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_056",
+    "poem_index": 56,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_057",
+    "poem_index": 57,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_058",
+    "poem_index": 58,
+    "meter": "وافر تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_al-ṭufayl_058",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الخمش",
+        "notes": "The phrase 'دميت من الخمش الخدود' (cheeks bled from scratching) explicitly refers to the pre-Islamic mourning practice of self-mutilation as a sign of grief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_al-ṭufayl_059",
+    "poem_index": 59,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  }
+]

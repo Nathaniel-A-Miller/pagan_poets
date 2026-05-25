@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "ʿabd_yaghūth_al-ḥārithī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_yaghūth_al-ḥārithī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "ʿabd_yaghūth_al-ḥārithī_001",
+        "verse_indices": [
+          19
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أَيسار",
+        "notes": "The verse refers to the poet's past practice of engaging with *aysār*, who were practitioners of *maysir*, a pre-Islamic ritual involving arrow divination (azlām) and the distribution of meat."
+      }
+    ],
+    "error": false
+  }
+]

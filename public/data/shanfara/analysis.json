@@ -1,0 +1,65 @@
+[
+  {
+    "poem_id": "al-shanfarā_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 73,
+    "references": [
+      {
+        "poem_id": "al-shanfarā_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "This verse contains the pre-Islamic oath formula \"لعمرك\" (by your life), which is a common form of swearing."
+      },
+      {
+        "poem_id": "al-shanfarā_000",
+        "verse_indices": [
+          33
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قداح بأيدي ياسر",
+        "notes": "The verse explicitly refers to \"قداح بأيدي ياسر\" (arrows in the hands of a lot-caster), indicating the pre-Islamic practice of divination by arrows (azlām)."
+      },
+      {
+        "poem_id": "al-shanfarā_000",
+        "verse_indices": [
+          36
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نوح",
+        "notes": "The term \"نوح\" (lamentation) refers to a pre-Islamic mourning rite for the deceased."
+      },
+      {
+        "poem_id": "al-shanfarā_000",
+        "verse_indices": [
+          58
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "ليلة نحس",
+        "notes": "The phrase \"ليلة نحس\" (an unlucky night) reflects a pre-Islamic belief in inauspicious times or omens."
+      },
+      {
+        "poem_id": "al-shanfarā_000",
+        "verse_indices": [
+          64
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "This verse explicitly mentions \"جن\" (jinn), which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "al-shanfarā_000",
+        "verse_indices": [
+          65
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الشعرى",
+        "notes": "The mention of \"الشعرى\" (Sirius) as influencing a \"day\" indicates a pre-Islamic astral belief about the influence of stars on earthly events or weather."
+      }
+    ],
+    "error": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "ḥind_al-ḍabābiyyah_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ḥind_al-ḍabābiyyah_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يُهلنَ عَليه بِالأكفّ مِنَ الثرى",
+        "notes": "This verse describes the physical act of burial, specifically covering the deceased with earth, which is a pre-Islamic mortuary practice."
+      }
+    ],
+    "error": false
+  }
+]

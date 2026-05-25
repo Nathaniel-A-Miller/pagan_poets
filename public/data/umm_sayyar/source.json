@@ -1,0 +1,29 @@
+{
+  "poet": {
+    "name_ar": "أم سيار",
+    "name_en": "Umm Sayyār",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 2,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "umm_sayyār_000",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "إِنَّا بَنُو ثَعْلَبَةَ بْنِ مالِكِ  مُرَزَّأٌ أَخْيارُنا كَذَلِكِ"
+        },
+        {
+          "verse_index": 1,
+          "text": "مِنْ بَيْنِ مَقْتُولٍ وَبَيْنِ هالِكِ  وَلا يَكُونُ الرُّزْءُ إلَّا ذَلِكِ"
+        }
+      ]
+    }
+  ]
+}

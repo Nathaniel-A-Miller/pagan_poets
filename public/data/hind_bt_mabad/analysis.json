@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "hind_bt_maʿbad_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_maʿbad_001",
+    "poem_index": 1,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "hind_bt_maʿbad_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قبره",
+        "notes": "This verse explicitly mentions the grave and the act of burial, which falls under pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  }
+]

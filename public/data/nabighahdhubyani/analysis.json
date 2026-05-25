@@ -1,0 +1,1138 @@
+[
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_000",
+        "verse_indices": [
+          9
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "عصائب طير",
+        "notes": "The mention of flocks of birds 'guiding' (تهتدي) in relation to an army's movement implies augury or omens, a common pre-Islamic divinatory practice."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_000",
+        "verse_indices": [
+          22
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The term 'Allāh' is used here to refer to a supreme deity, a concept present in pre-Islamic Arabian belief, distinct from specific idol worship."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_000",
+        "verse_indices": [
+          23
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإله",
+        "notes": "The phrase 'ذات الإله' explicitly refers to a divine entity or a place associated with a deity, indicating a pre-Islamic religious concept."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_000",
+        "verse_indices": [
+          24
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يوم السباسب",
+        "notes": "The 'Day of Sabasib' (يوم السباسب) is identified as a pre-Islamic festival day, suggesting a ritualistic celebration."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_001",
+    "poem_index": 1,
+    "meter": "بسيط تام",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_001",
+        "verse_indices": [
+          15
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "سوع, دعمي, دعاء",
+        "notes": "The verse explicitly mentions the invocation (دعاء) of Suwaʿ and Duʿamī, both known pre-Islamic idols, fitting the category of naming deities and invocations."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "اللعن",
+        "notes": "The phrase 'أبيت اللعن' (may you avoid the curse) is a pre-Islamic formulaic address to kings, explicitly referencing the belief in curses as a supernatural negative force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_003",
+    "poem_index": 3,
+    "meter": "وافر تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_003",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "العقاب",
+        "notes": "The mention of an eagle (العقاب) above a gathering, particularly in a context of battle, suggests an omen or augury, a common practice in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_004",
+    "poem_index": 4,
+    "meter": "بسيط تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_004",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies al-Dahr (Time/Fate) as a powerful, inescapable force that 'reaches with its claws' and is 'victorious in vengeance', reflecting a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_004",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مكتوب / الآجال",
+        "notes": "The phrase 'كل حتف من الآجال مكتوب' (every death from the appointed times is written) refers to the pre-ordained nature of death and fate, a common pre-Islamic cosmological belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_007",
+    "poem_index": 7,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_009",
+    "poem_index": 9,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_010",
+    "poem_index": 10,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_011",
+    "poem_index": 11,
+    "meter": "كامل تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ولم تلفظ الموتى القبور",
+        "notes": "This phrase refers to the conceptual state of the dead and the afterlife, implying a stable cosmic order where the dead have not yet emerged from their graves, fitting the category of cosmological understanding of death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_013",
+    "poem_index": 13,
+    "meter": "بسيط تام",
+    "verse_count": 50,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_013",
+        "verse_indices": [
+          22
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly mentions 'الجن' (Jinn) as supernatural beings commanded to build Palmyra, reflecting pre-Islamic beliefs about their power and interaction with humans."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_013",
+        "verse_indices": [
+          36
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الكعبة, الأنصاب, هريق من جسد",
+        "notes": "The verse contains an oath sworn by the Kaaba, a pre-Islamic sanctuary, and by the blood sacrifices ('هريق من جسد') poured on 'الأنصاب' (sacred standing stones), both central elements of pre-Islamic ritual and belief."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_013",
+        "verse_indices": [
+          37
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "العائذات الطير, تمسحها",
+        "notes": "The verse refers to 'العائذات الطير' (birds whose movements were observed for omens or protection) and the ritualistic act of 'تمسحها' (touching them for blessing or divination) by travelers in Mecca."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_014",
+    "poem_index": 14,
+    "meter": "-",
+    "verse_count": 35,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_014",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "البوارح, الغداف الأسود",
+        "notes": "The verse explicitly mentions 'البوارح' (birds of ill omen) and the 'الغداف الأسود' (black raven) as sources of information about the journey, indicating a belief in augury."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_014",
+        "verse_indices": [
+          14
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يهل ويسجد",
+        "notes": "The verse describes the diver's reaction to a pearl as 'يهل ويسجد' (he exclaims and prostrates), which are ritualistic acts of veneration, even if used hyperbolically here to describe the woman's beauty."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_014",
+        "verse_indices": [
+          15
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "دمية",
+        "notes": "The term 'دمية' (statue/idol) and its description as 'مرفوعة' (raised) and built with bricks strongly suggest a reference to an idol, which was an object of pre-Islamic ritual veneration."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_015",
+        "verse_indices": [
+          13
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رب",
+        "notes": "The term \"رب\" (Lord) is invoked in a formula of dedication or oath (\"فدى لك من رب طريفي وتالدي\"), referring to a divine entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_016",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قبر",
+        "notes": "The verse describes the act of honoring or giving a gift (حباء) to a grave (قبر), which reflects a pre-Islamic practice or belief associated with the deceased and their burial place."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_017",
+    "poem_index": 17,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_017",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "غير موسد",
+        "notes": "The phrase 'غير موسد' (un-cushioned/un-laid-to-rest) implies not receiving a proper burial or being left in an undignified state after death, which reflects pre-Islamic beliefs about mortuary practices and the importance of honoring the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_018",
+    "poem_index": 18,
+    "meter": "بسيط تام",
+    "verse_count": 46,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_018",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as having agency or intention ('لم يهمم'), which aligns with pre-Islamic cosmological beliefs about dahr as a powerful, often destructive, force."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_018",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أقدار",
+        "notes": "The phrase 'توفيق أقدار لأقدار' explicitly refers to the alignment or concurrence of 'aqdār' (fates/destinies), indicating a belief in pre-ordained cosmic forces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_019",
+    "poem_index": 19,
+    "meter": "بسيط تام",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_019",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أقر",
+        "notes": "The verse refers to the poet forbidding a practice called 'أقر', which is understood to be related to the pre-Islamic ritual of *nasīʾ* (postponement of sacred months)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_020",
+    "poem_index": 20,
+    "meter": "وافر تام",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_021",
+    "poem_index": 21,
+    "meter": "كامل تام",
+    "verse_count": 26,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_022",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse personifies \"الدهر\" (Time/Fate) as an irresistible force, reflecting a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_022",
+        "verse_indices": [
+          5
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قدحنا, قدح الموت",
+        "notes": "The mention of \"قدحنا\" and \"قدح الموت\" refers to the pre-Islamic practice of casting lots or arrows (azlām) for divination, often to determine fate."
+      },
+      {
+        "poem_id": "al_nābighah_al_dhubyānī_022",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse refers to \"الدهر\" (Time/Fate) as an active agent that affects things, reinforcing the pre-Islamic cosmological concept of its power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_024",
+        "verse_indices": [
+          14
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The phrase 'نجعل الله بيننا' (let us make God between us) is an oath formula, invoking God as a witness or arbiter in an agreement, a common practice in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_024",
+        "verse_indices": [
+          15
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يمين الله",
+        "notes": "The phrase 'يمين الله' (by God's oath/right hand) is a direct and explicit oath invoking God, characteristic of pre-Islamic oath-taking."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_025",
+    "poem_index": 25,
+    "meter": "بسيط تام",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_025",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "البغوث",
+        "notes": "The verse explicitly names al-Bāghūth, a pre-Islamic deity, in reference to a location associated with its worship."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_025",
+        "verse_indices": [
+          12
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجني",
+        "notes": "The verse explicitly mentions a 'jinn rider' (راكبها الجني), referring to a jinn as a supernatural entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_026",
+    "poem_index": 26,
+    "meter": "-",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_027",
+    "poem_index": 27,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_028",
+    "poem_index": 28,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_029",
+        "verse_indices": [
+          1,
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الراغبين العاكفين ببابه, بفناء البيت, أوصال الجزور",
+        "notes": "These verses describe people devotedly attending ('al-ʿākifīn') at the gate of a 'House' ('al-Bayt') where sacrificial camel meat ('awṣāl al-jazūr') is cooked in a large pot, strongly suggesting a pre-Islamic ritual feast at a sanctuary."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_030",
+    "poem_index": 30,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_031",
+    "poem_index": 31,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_032",
+    "poem_index": 32,
+    "meter": "مجزوء الكامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 33,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_033",
+        "verse_indices": [
+          21
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "إلال",
+        "notes": "This verse explicitly mentions pilgrims visiting 'Ilāl,' a known sacred mountain and pilgrimage site in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_033",
+        "verse_indices": [
+          23
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حج",
+        "notes": "This verse describes people 'intending their pilgrimage (hajj),' referring to the pre-Islamic ritual of visiting sacred sites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_034",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عتائدا",
+        "notes": "The term 'عتائدا' (ʿatāʾid) refers to animals prepared for sacrifice, often specifically for idols, indicating a pre-Islamic ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_036",
+    "poem_index": 36,
+    "meter": "%  : كامل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_037",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ورب بني البرشاء",
+        "notes": "This verse contains an explicit oath sworn by 'the Lord of Banu al-Barsha'', a common pre-Islamic practice of invoking a tribal deity or a general high god."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_037",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' refers to fate or death as an inescapable, powerful cosmological force, a prevalent concept in pre-Islamic Arabian thought."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_037",
+        "verse_indices": [
+          19
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "و العيس العتاق",
+        "notes": "This verse includes an oath sworn by 'the noble camels,' a form of swearing by significant entities or possessions common in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_037",
+        "verse_indices": [
+          21
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The term 'al-maniyya' signifies fate or death as an overarching, unavoidable cosmological power, consistent with pre-Islamic beliefs about destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_038",
+        "verse_indices": [
+          28
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'المنايا' (fates/deaths) refers to an impersonal, inexorable force of fate or death, a common pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_039",
+    "poem_index": 39,
+    "meter": "وافر تام",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_039",
+        "verse_indices": [
+          13
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فلا عمر, الحجيج إلى إلال",
+        "notes": "This verse contains an oath formula (فلا عمر) that invokes the pre-Islamic practice of pilgrimage (الحجيج) to the sacred mountain Ilāl, fitting the category of oaths anchored to sacred entities or rituals."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_039",
+        "verse_indices": [
+          16
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (al-Dahr) explicitly refers to the pre-Islamic cosmological concept of Time or Fate as a powerful, often indifferent, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_040",
+    "poem_index": 40,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_041",
+    "poem_index": 41,
+    "meter": "خفيف تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_041",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The phrase \"qabbaḥa Allāh\" is an imprecation invoking the high god Allāh, who was recognized in pre-Islamic Arabian religion as a supreme deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_042",
+    "poem_index": 42,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_042",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الثاوي على أبوى",
+        "notes": "This phrase describes the deceased lying upon two stones, which likely refers to a grave or burial markers, indicating a pre-Islamic mortuary practice."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_042",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "بالي",
+        "notes": "The verse explicitly mentions the deceased 'decaying beneath' the earth, referring to the physical state of the body after burial, which is a component of pre-Islamic mortuary belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_043",
+    "poem_index": 43,
+    "meter": "بسيط تام",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_043",
+        "verse_indices": [
+          5
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "الدين",
+        "notes": "The term \"الدين\" (religion/faith) is used to refer to a binding religious or moral injunction, reflecting a pre-Islamic concept of religious law or custom."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_043",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإله",
+        "notes": "The phrase \"نرجو الإله\" (we hope for the God) constitutes an invocation of a divine entity, consistent with pre-Islamic belief in a supreme deity."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_043",
+        "verse_indices": [
+          13
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذي المجاز",
+        "notes": "Dhū al-Majāz was a significant pre-Islamic market and pilgrimage site, representing a key location in the sacred geography of the time."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_043",
+        "verse_indices": [
+          14
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حرمية",
+        "notes": "The term \"حرمية\" refers to a woman from the ḥaram (sacred precinct), explicitly referencing pre-Islamic sacred geography."
+      },
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_043",
+        "verse_indices": [
+          16
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذي المجاز",
+        "notes": "Dhū al-Majāz is mentioned again as a location, reinforcing its significance as a pre-Islamic market and pilgrimage site."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_044",
+    "poem_index": 44,
+    "meter": "بسيط تام",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_044",
+        "verse_indices": [
+          5
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "تزجروا (from زجر)",
+        "notes": "The verb 'تزجروا' (from 'زجر') refers to the pre-Islamic practice of augury, specifically observing the flight of birds to divine future events or outcomes, implying an attempt to predict the fate of confronting a formidable foe."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_045",
+    "poem_index": 45,
+    "meter": "بسيط تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_046",
+    "poem_index": 46,
+    "meter": "كامل تام",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_048",
+    "poem_index": 48,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_048",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الشهر الحرام",
+        "notes": "This verse explicitly mentions 'الشهر الحرام' (the sacred month), which refers to the pre-Islamic concept of months during which warfare was forbidden, indicating a sacred time and associated ritual prohibitions."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_049",
+    "poem_index": 49,
+    "meter": "وافر تام",
+    "verse_count": 36,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_049",
+        "verse_indices": [
+          21
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حرام",
+        "notes": "The term 'ḥaram' refers to a sacred, inviolable territory, a key concept in pre-Islamic Arabian sacred geography and ritual practice."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_049",
+        "verse_indices": [
+          30
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حمسى",
+        "notes": "The 'Ḥums' were a group of tribes known for their specific ritual practices and sacred status, particularly concerning the Meccan sanctuary, making 'Jibāl Ḥumsā' a reference to sacred geography and associated rituals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_050",
+    "poem_index": 50,
+    "meter": "كامل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_051",
+    "poem_index": 51,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_052",
+    "poem_index": 52,
+    "meter": "سريع",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_053",
+    "poem_index": 53,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_054",
+    "poem_index": 54,
+    "meter": "رجز تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_055",
+    "poem_index": 55,
+    "meter": "وافر تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_056",
+    "poem_index": 56,
+    "meter": "وافر تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_056",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أبو قبيس",
+        "notes": "Abū Qubays is a mountain overlooking the Kaaba in Mecca, which held sacred significance in pre-Islamic Arabian geography, thus fitting the 'Rituals_and_Spaces' category."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_057",
+    "poem_index": 57,
+    "meter": "وافر تام",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_057",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صرف الدهر",
+        "notes": "This verse refers to 'صرف الدهر' (the vicissitudes of Time/Fate) as an active force causing decay, which is a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-nābighah_al-dhubyānī_057",
+        "verse_indices": [
+          20
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "The warriors are described as 'أشباه جن' (like jinn), explicitly referencing jinn as supernatural entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_058",
+    "poem_index": 58,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_059",
+    "poem_index": 59,
+    "meter": "وافر تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_060",
+    "poem_index": 60,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_061",
+    "poem_index": 61,
+    "meter": "متقارب تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_062",
+    "poem_index": 62,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_063",
+    "poem_index": 63,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_dhubyānī_063",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "حباء فوق أحجار قبره",
+        "notes": "The verse describes an offering (حباء) made at a grave, indicating a pre-Islamic mortuary practice related to the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_064",
+    "poem_index": 64,
+    "meter": "كامل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_065",
+    "poem_index": 65,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_066",
+    "poem_index": 66,
+    "meter": "%  : بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_067",
+    "poem_index": 67,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_068",
+    "poem_index": 68,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_069",
+    "poem_index": 69,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_070",
+    "poem_index": 70,
+    "meter": "سريع",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_071",
+    "poem_index": 71,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_072",
+    "poem_index": 72,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_073",
+    "poem_index": 73,
+    "meter": "سريع",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-dhubyānī_074",
+    "poem_index": 74,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  }
+]

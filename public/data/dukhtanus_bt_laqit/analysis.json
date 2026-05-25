@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "dukhtanūs_bt_laqīṭ_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dukhtanūs_bt_laqīṭ_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "dukhtanūs_bt_laqīṭ_001",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنِيَّةٍ لِكِتابِها",
+        "notes": "The phrase 'وَكُلُّ مَنِيَّةٍ لِكِتابِها' (and every death has its decree) explicitly refers to the pre-ordained nature of death, a key cosmological concept of fate and destiny in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  }
+]

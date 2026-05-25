@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "حفصة بنت المغيرة",
+    "name_en": "Ḥafṣah bt. al-Mughīrah",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ḥafṣah_bt_al-mughīrah_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "وَلا تَأْمَنَنَّ الدَّهْرَ بَعْدِيَ حُرَّةٌ  وَقَدْ نَكَحَ الْبِيضَ الْحَرائِرَ حَنْطَبُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "لَئِيمٌ لِسَوْداءِ الْجَواعِرِ جَعْدَةٍ  عَلَى أَهْلِها مِمَّا تُصِرُّ وَتَحْلُبُ"
+        },
+        {
+          "verse_index": 2,
+          "text": "تَطاوَحُها الْأَنْسابُ حَتَّى تَرُدَّها  إِلَى نَسَبٍ فِي آلِ دَمَّةَ مُطْنِبِ"
+        }
+      ]
+    }
+  ]
+}

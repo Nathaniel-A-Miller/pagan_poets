@@ -1,0 +1,36 @@
+[
+  {
+    "poem_id": "ḥalīmah_al-ḥaḍariyyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḥalīmah_al-ḥaḍariyyah_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنايا",
+        "notes": "The verse refers to 'al-manāyā' (fates/deaths) as an irresistible cosmological force, a prominent concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥalīmah_al-ḥaḍariyyah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥalīmah_al-ḥaḍariyyah_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

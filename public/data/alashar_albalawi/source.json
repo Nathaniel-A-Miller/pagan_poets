@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "الأشعر البلوي",
+    "name_en": "Al-Ashʿar al-Balawī",
+    "tribe": "Balī",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-ashʿar_al-balawī_000",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "هُمُ مَلَؤُوا الْمَسِيلَ مَسِيلَ نَجْدٍ  وَغَصَّمَضِيقُهُ بِهِمُ طَوِيلا"
+        },
+        {
+          "verse_index": 1,
+          "text": "وَعِنْدِي الْعِلْمُ أَنَّ الْقَوْمَ زادُوا  عَلَى مِئَتَيْنِ أَوْ نَقَصُوا قَلِيلا"
+        },
+        {
+          "verse_index": 2,
+          "text": "فَإِنْ يَكُ ذُو الشَّلِيلِ نَجا صَحِيحاً  فَلا تَحْمَدْ لَهُ إِلَّا الشَّلِيلا"
+        }
+      ]
+    }
+  ]
+}

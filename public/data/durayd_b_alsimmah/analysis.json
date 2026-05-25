@@ -1,0 +1,896 @@
+[
+  {
+    "poem_id": "durayd_b_al-ṣimmah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثَأَرنا",
+        "notes": "This verse explicitly states the act of vengeance (tha'r), which was a central quasi-ritual duty in pre-Islamic Arabian society, linked to the honor of the deceased and the tribe."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_002",
+    "poem_index": 2,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_003",
+    "poem_index": 3,
+    "meter": "متقارب",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_004",
+    "poem_index": 4,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_005",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السَعالي",
+        "notes": "The term 'al-saʿālī' refers to a type of ghoul or jinn, which are supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_011",
+    "poem_index": 11,
+    "meter": "متقارب",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_012",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' (By your life) is a common pre-Islamic oath formula, fitting the category of oaths anchored to a sacred entity (the life of the addressed person)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_013",
+    "poem_index": 13,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غول",
+        "notes": "The verse explicitly mentions 'ghūl,' a type of jinn or supernatural desert creature believed to lead travelers astray in pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 44,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_014",
+        "verse_indices": [
+          7
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "عِلمُ الغَيبِ",
+        "notes": "The phrase \"ʿilm al-ghayb\" (knowledge of the unseen) refers to a concept central to pre-Islamic divination, where kāhins or others claimed access to hidden knowledge, often through jinn."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_014",
+        "verse_indices": [
+          35
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَهُ",
+        "notes": "The invocation \"فَلا يُبعِدَنكَ اللَهُ\" (May God not remove you far) uses \"Allāh\" in a pre-Islamic context as a divine entity to whom appeals are made."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_017",
+    "poem_index": 17,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_017",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأَيسارِ",
+        "notes": "The term 'al-aysār' refers to the arrows used in the pre-Islamic maysir game, a ritual involving the slaughter of a camel and the distribution of its meat by lots, thus referencing a specific pre-Islamic ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_018",
+    "poem_index": 18,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_020",
+    "poem_index": 20,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_021",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "القَدر",
+        "notes": "The phrase 'القَدرُ يَجري إِلى القَدرِ' (fate runs to fate) refers to the pre-Islamic concept of an irresistible, impersonal force of destiny."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_021",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (Dahr) is used here in the context of 'آخِرَ الدَهرِ' (the end of Dahr), reflecting the pre-Islamic cosmological concept of Dahr as a powerful, often destructive, force of time and fate."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_021",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse 'قَسَمنا الدَهرَ شَطرَينِ' (we divided Dahr into two halves) explicitly treats Dahr as a significant cosmological entity or force that can be interacted with, consistent with pre-Islamic beliefs about time and fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_022",
+    "poem_index": 22,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_022",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنونِ",
+        "notes": "The term 'al-manūn' refers to fate or death as an active, inescapable cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_023",
+    "poem_index": 23,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_024",
+    "poem_index": 24,
+    "meter": "متقارب",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_024",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The verse personifies 'Dahr' (Time/Fate) as an active, malevolent force that brings evil, reflecting a pre-Islamic cosmological belief."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_024",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "إِرَمٍ وَأَحجارٍ وَصيرٍ",
+        "notes": "This verse explicitly describes the physical elements of a pre-Islamic grave, including a cairn (iram), stones (ahjar), and a grave-mound (ṣayr), which are part of mortuary practices."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_024",
+        "verse_indices": [
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "بُنيانُ القُبورِ",
+        "notes": "The mention of 'the structure of graves' (bunyān al-qubūr) further elaborates on the physical aspects of burial sites, aligning with pre-Islamic mortuary beliefs."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_024",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "جَدَثٍ, الأَرواحِ",
+        "notes": "This verse refers to the 'grave' (jadath) and describes it as 'devoid of spirits' (mas'haka min al-arwah), reflecting a belief about the state of the deceased or the afterlife."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_026",
+    "poem_index": 26,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_026",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَبرَأنا الصُدُرا",
+        "notes": "This phrase, meaning 'we healed our chests,' refers to the satisfaction derived from fulfilling the vengeance obligation, a central quasi-ritual duty in pre-Islamic Arabian society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_027",
+    "poem_index": 27,
+    "meter": "بسيط",
+    "verse_count": 26,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_028",
+    "poem_index": 28,
+    "meter": "متقارب",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_028",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وَلَم يُقبَروا",
+        "notes": "This verse explicitly mentions the lack of burial for the fallen, which was a significant aspect of pre-Islamic mortuary beliefs concerning honor and the proper treatment of the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_029",
+    "poem_index": 29,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_030",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنِيَّةَ",
+        "notes": "The term 'al-maniyya' (fate/death) is invoked as an irresistible cosmological force, aligning with pre-Islamic concepts of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_031",
+    "poem_index": 31,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_032",
+    "poem_index": 32,
+    "meter": "وافر",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_032",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنّ",
+        "notes": "The verse explicitly mentions 'jinn' alongside humans, referring to a class of supernatural entities in pre-Islamic belief."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_032",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نَحس",
+        "notes": "The term 'naḥs' (ill-omen or misfortune) associated with a specific night reflects a pre-Islamic belief in inauspicious times or cosmological influences on fate."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_032",
+        "verse_indices": [
+          11,
+          13,
+          15
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قِداحِ النَبعِ, أَكدى, أَربى, نِكس",
+        "notes": "These verses collectively describe the practice of azlām (divining arrows made from nabʿ wood) and its specific outcomes ('akdā', 'arbā', 'niks'), which was a common pre-Islamic method of divination."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_032",
+        "verse_indices": [
+          12
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "المُفيض",
+        "notes": "The 'Mufīḍ' refers to the person responsible for casting or distributing the divining arrows (azlām), indicating a specific sacral role in pre-Islamic ritual."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_034",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهارِسِ",
+        "notes": "The term 'الدَهارِسِ' (calamities/destruction) is derived from 'dahr,' which in pre-Islamic Arabian belief often represented an impersonal, destructive force of fate or time, fitting the cosmological concept category."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_035",
+    "poem_index": 35,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_035",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِرَبِّ الراقِصاتِ إِلى حُراضِ",
+        "notes": "This verse contains an oath sworn by a deity, 'the Lord of the dancing women to Ḥurāḍ,' which refers to a pre-Islamic ritual involving sacred dances at a specific location."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_036",
+    "poem_index": 36,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_037",
+    "poem_index": 37,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_038",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنيَّتُهُ",
+        "notes": "The term 'maniyya' (fate/death) refers to a pre-Islamic cosmological concept of an impersonal, irresistible force determining one's end, aligning with the category of fate as a cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_039",
+    "poem_index": 39,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_040",
+    "poem_index": 40,
+    "meter": "متدارك",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_041",
+    "poem_index": 41,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_042",
+    "poem_index": 42,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_043",
+    "poem_index": 43,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_045",
+    "poem_index": 45,
+    "meter": "متدارك",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_046",
+    "poem_index": 46,
+    "meter": "وافر",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_046",
+        "verse_indices": [
+          5
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "بَسل",
+        "notes": "The term 'بَسل' (basl) in the context of 'جارَتُكُم بَني الدَيّانِ بَسلٌ' refers to the sacred inviolability or forbidden status of a protected neighbor, a key concept in pre-Islamic tribal ethics and covenants."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_048",
+    "poem_index": 48,
+    "meter": "وافر",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_049",
+    "poem_index": 49,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_050",
+    "poem_index": 50,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_051",
+    "poem_index": 51,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_052",
+    "poem_index": 52,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_053",
+    "poem_index": 53,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_054",
+    "poem_index": 54,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_055",
+    "poem_index": 55,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_056",
+    "poem_index": 56,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_057",
+    "poem_index": 57,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_057",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحَيِيَّة والخِدام",
+        "notes": "The verse refers to 'the presence of the sacred enclosure and the servants,' which alludes to a pre-Islamic sacred space and its attendants."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_058",
+    "poem_index": 58,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_058",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula 'laʿamruka' (by your life), a common pre-Islamic oath swearing by the life of the addressee as a sacred entity."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_058",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثَأرٍ",
+        "notes": "The mention of 'tha'r' (vengeance) refers to the pre-Islamic obligation of blood vengeance, which was a central quasi-ritual duty related to tribal honor and the deceased."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_058",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "التَمائِمُ",
+        "notes": "The term 'tamāʾim' (amulets) refers to physical objects worn for protection, indicating a pre-Islamic ritual practice to ward off harm or evil."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_059",
+    "poem_index": 59,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_060",
+    "poem_index": 60,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_061",
+    "poem_index": 61,
+    "meter": "متدارك",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "durayd_b_al-ṣimmah_061",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نوحاً تلتدم",
+        "notes": "This verse describes the act of lamenting and chest-beating, which are explicit pre-Islamic mourning rites."
+      },
+      {
+        "poem_id": "durayd_b_al-ṣimmah_061",
+        "verse_indices": [
+          6
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السعالي",
+        "notes": "The term 'al-Saʿālī' refers to a type of ghoul or female jinn, which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_062",
+    "poem_index": 62,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_063",
+    "poem_index": 63,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_064",
+    "poem_index": 64,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_065",
+    "poem_index": 65,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_066",
+    "poem_index": 66,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_067",
+    "poem_index": 67,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_068",
+    "poem_index": 68,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_069",
+    "poem_index": 69,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_070",
+    "poem_index": 70,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_071",
+    "poem_index": 71,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "durayd_b_al-ṣimmah_072",
+    "poem_index": 72,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

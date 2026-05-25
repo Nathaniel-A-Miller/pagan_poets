@@ -1,0 +1,1368 @@
+[
+  {
+    "poem_id": "labīd_b_rabīʿah_000",
+    "poem_index": 0,
+    "meter": "كامل تام",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_001",
+    "poem_index": 1,
+    "meter": "منسرح",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_001",
+        "verse_indices": [
+          5
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "منطق الدجاج",
+        "notes": "This verse refers to 'the speech of chickens' (منطق الدجاج) which was interpreted as an omen, a common form of augury (ṭīra) in pre-Islamic Arabia, influencing decisions like breaking a covenant."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_002",
+    "poem_index": 2,
+    "meter": "unknown",
+    "verse_count": 16,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_003",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الغراب",
+        "notes": "The mention of the raven's shadow (ظل الغراب) approaching as a cause for fear explicitly refers to the pre-Islamic practice of augury and omens derived from birds."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 48,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_004",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قمرة مؤرب",
+        "notes": "The phrase 'نفس الفتى رهن بقمرة مؤرب' (the soul of the youth is pledged to a fateful night/destiny) refers to a pre-ordained fate or destiny, a key cosmological concept in pre-Islamic thought."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_004",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (Time/Fate) is used here as an active, personified force that brings events, reflecting the pre-Islamic belief in dahr as an uncontrollable cosmological agent."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_004",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "Similar to verse 13, 'الدهر' (Time/Fate) is depicted as an active agent that takes things away, reinforcing its role as a cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_004",
+        "verse_indices": [
+          21
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أصوات نوح",
+        "notes": "The phrase 'رفعت بها أصوات نوح مسلب' (voices of lamentation of a bereaved woman were raised) explicitly refers to the ritualized mourning and wailing for the deceased, a common pre-Islamic mortuary practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_005",
+    "poem_index": 5,
+    "meter": "كامل تام",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_005",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإله",
+        "notes": "The phrase 'لولا الإله' (Were it not for the Deity) refers to a divine entity, functioning as an invocation of divine power or will, consistent with pre-Islamic references to a high god or generic deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_006",
+    "poem_index": 6,
+    "meter": "كامل تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_006",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an unyielding, impersonal force that cannot be blamed, reflecting a common pre-Islamic cosmological concept of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_007",
+    "poem_index": 7,
+    "meter": "رجز تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_008",
+    "poem_index": 8,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_009",
+    "poem_index": 9,
+    "meter": "وافر تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_010",
+    "poem_index": 10,
+    "meter": "كامل تام",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_010",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "خلود النفس",
+        "notes": "This verse contemplates the concept of the soul's immortality, which falls under the nature of death and the afterlife as conceptual content in pre-Islamic thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_011",
+    "poem_index": 11,
+    "meter": "منسرح",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_011",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The term \"المنون\" (al-manūn) refers to fate or death as an irresistible, often personified, cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نوء السماك والأسد",
+        "notes": "The mention of \"نوء السماك والأسد\" (nawʾ al-simāk wa-l-asad) refers to astral belief, where the rising and setting of specific stars were associated with weather patterns and omens."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_011",
+        "verse_indices": [
+          13
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مآتم",
+        "notes": "The reference to \"مآتم\" (maʾātim) explicitly denotes mourning gatherings, which are a part of pre-Islamic mortuary rites and beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_012",
+    "poem_index": 12,
+    "meter": "مجزوء الكامل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_012",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ريب البرية, لا خلودا",
+        "notes": "This verse refers to the irresistible force of fate/existence ('ريب البرية') and the pre-Islamic belief in the absence of immortality ('لا خلودا'), both central cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_013",
+    "poem_index": 13,
+    "meter": "بسيط تام",
+    "verse_count": 36,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_013",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "القدر",
+        "notes": "The verse explicitly mentions 'al-qadar' (fate/destiny) as an external force bringing about events, aligning with pre-Islamic cosmological views on fate."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_013",
+        "verse_indices": [
+          18
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "المعبد",
+        "notes": "The term 'al-maʿbad' (place of worship/sanctuary) explicitly refers to a sacred space, fitting the category of Rituals_and_Spaces."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_013",
+        "verse_indices": [
+          21
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "The verse explicitly mentions 'jinn' (supernatural beings), indicating a belief in such entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_014",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (time/fate) is invoked as an active force that can prevent or not prevent, reflecting the pre-Islamic cosmological concept of Dahr as an agent of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_015",
+    "poem_index": 15,
+    "meter": "كامل تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_016",
+        "verse_indices": [
+          14
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أحناء طيرك",
+        "notes": "This verse explicitly refers to 'restraining your birds,' which is a direct allusion to the pre-Islamic practice of bird augury (ṭīra) for divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 41,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_017",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) refers to a pre-Islamic cosmological concept of an impersonal force governing destiny and death."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_017",
+        "verse_indices": [
+          29
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بنات الدهر",
+        "notes": "The phrase 'banāt al-dahr' (daughters of Time/Fate) personifies 'dahr' as a destructive cosmological force, a key pre-Islamic concept."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_017",
+        "verse_indices": [
+          34
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "المسحر",
+        "notes": "The term 'al-musahhar' (enchanted/bewitched) implies the influence of supernatural forces, typically associated with jinn or magic in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_018",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نوء",
+        "notes": "The term 'نوء' (nawʾ) refers to the pre-Islamic Arabian belief that the rising or setting of certain stars or constellations brings specific weather events or influences fate, clearly indicating an astral belief system."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_019",
+    "poem_index": 19,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_020",
+    "poem_index": 20,
+    "meter": "كامل تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_021",
+    "poem_index": 21,
+    "meter": "خفيف تام",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_021",
+        "verse_indices": [
+          17
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر جدي",
+        "notes": "This is an explicit oath formula common in pre-Islamic Arabic, invoking the life of an ancestor as a sacred entity to affirm a statement."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_021",
+        "verse_indices": [
+          18
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase \"حدث الدهر\" refers to the events or vicissitudes brought about by \"dahr,\" which in pre-Islamic thought was often personified as a cosmological force of fate or time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_022",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نائحتان تندبان",
+        "notes": "This verse explicitly mentions wailing women lamenting, which is a common pre-Islamic mourning practice."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_022",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The personification of 'dahr' (time/fate) as a destructive force that betrays and causes ruin reflects a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_022",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "تخمشا وجها ولا تحلقا شعر",
+        "notes": "This verse explicitly prohibits specific actions (scratching the face, shaving hair) that were common, albeit sometimes forbidden, practices during pre-Islamic mourning rites."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_022",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يبك حولا كاملا",
+        "notes": "This verse refers to the custom of mourning for a full year, which was a recognized duration for lamentation in pre-Islamic Arabian society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_024",
+        "verse_indices": [
+          6
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly refers to 'the assembly of the jinn' (نادي الجن), indicating a belief in these supernatural entities common in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse attributes agency to 'al-Dahr' (Time/Fate), a common pre-Islamic cosmological concept where dahr was seen as an active, often destructive, force."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "Similar to verse 2, this verse refers to 'al-Dahr' (Time/Fate) as an agent of events, reflecting a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منيتي",
+        "notes": "The term 'manīya' (my destined death) refers to the pre-Islamic concept of an inescapable fate or destiny, a key cosmological idea."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "This verse uses 'al-Manīya' (destined death) as an inevitable appointment, reflecting the pre-Islamic cosmological belief in fate."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse again personifies 'al-Dahr' (Time/Fate) as the agent of misfortune, consistent with pre-Islamic cosmological beliefs."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الضوارب بالحصى",
+        "notes": "This phrase explicitly refers to practitioners of geomancy or pebble divination, a well-attested pre-Islamic divinatory practice."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "زاجرات الطير",
+        "notes": "This phrase explicitly refers to practitioners of augury from birds, a common pre-Islamic method of divination."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_025",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The plural 'al-Manāyā' (fates/destinies) refers to the pre-Islamic cosmological concept of inescapable forces determining life and death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "المآتم واندبي",
+        "notes": "This verse refers to pre-Islamic mourning gatherings (ma'ātim) and the act of lamentation (nadb) for the deceased."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The phrase 'لا يبعد الله أربدا' is an invocation of Allāh, a known pre-Islamic deity, for blessing."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) is used here to refer to time or fate as an active, often destructive, cosmological force."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مضجعا",
+        "notes": "The phrase 'خطوا له يوما من الأرض مضجعا' describes the act of preparing a burial place for the deceased."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمر أبيك",
+        "notes": "The phrase 'لعمر أبيك الخير' is an oath formula invoking the life of a respected person, common in pre-Islamic speech."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The term 'المنون' (al-manūn) refers to fate or death as a cosmological force or personification of destiny."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لحا الله",
+        "notes": "The phrase 'لحا الله' is an invocation of Allāh to curse, demonstrating the deity's perceived power in pre-Islamic belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_026",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) is again used to refer to time or fate as an active, often destructive, cosmological force, here being cursed."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_028",
+        "verse_indices": [
+          6
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "راقيا",
+        "notes": "The term 'rāqī' refers to a charmer or enchanter, a person who performs incantations (ruqya) to deal with snakes or other afflictions, indicating a specialized role involving interaction with the supernatural in pre-Islamic society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_029",
+    "poem_index": 29,
+    "meter": "وافر تام",
+    "verse_count": 59,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_029",
+        "verse_indices": [
+          30
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الشيطين",
+        "notes": "This verse explicitly mentions 'الشيطين' (shayāṭīn/devils), which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 91,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_030",
+        "verse_indices": [
+          14
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "صبح الحرام",
+        "notes": "The phrase \"صبح الحرام\" refers to the morning of a sacred or forbidden period, likely one of the pre-Islamic sacred months or a sacred territory."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_030",
+        "verse_indices": [
+          34
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غول",
+        "notes": "The term \"غول\" explicitly refers to a ghoul, a type of jinn or demonic entity in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_030",
+        "verse_indices": [
+          43
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حجة",
+        "notes": "The word \"حجة\" refers to the pre-Islamic pilgrimage, a significant ritual practice."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_030",
+        "verse_indices": [
+          45
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنيا",
+        "notes": "The term \"جنيا\" explicitly refers to a jinn, a supernatural being in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_030",
+        "verse_indices": [
+          50
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أرباب ربها",
+        "notes": "The phrase \"أرباب ربها\" refers to multiple lords or deities, implying a polytheistic context and a ritualistic action towards them."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_030",
+        "verse_indices": [
+          59
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الضريح",
+        "notes": "This verse describes the pre-Islamic burial practice of throwing large stones over a tomb (ḍarīḥ)."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_030",
+        "verse_indices": [
+          72
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الصيام",
+        "notes": "The mention of \"الصيام\" (fasting) refers to a ritual practice known in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_031",
+    "poem_index": 31,
+    "meter": "وافر تام",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_031",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قرزل، الجون، تحجل، النعامة، الخبال",
+        "notes": "This verse explicitly names several stars or constellations (Qarzāl, al-Jawūn, Taḥjal, al-Naʿāma, al-Khubāl), indicating a reference to pre-Islamic astral belief, which falls under cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_032",
+    "poem_index": 32,
+    "meter": "خفيف تام",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_033",
+    "poem_index": 33,
+    "meter": "كامل تام",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_033",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ريب الزمان",
+        "notes": "This phrase refers to the destructive power of time or fate, a central cosmological concept in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_033",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ريب الزمان",
+        "notes": "This phrase refers to the destructive power of time or fate, a central cosmological concept in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_033",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "غلب الليالي",
+        "notes": "This phrase attributes destructive power to 'the nights,' echoing the pre-Islamic cosmological concept of time or fate as an irresistible force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_034",
+    "poem_index": 34,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_034",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تيمن ذي ظلال",
+        "notes": "This verse refers to 'Tayman Dhū Ẓilāl', which is interpreted as a sacred geographical location or sanctuary, possibly a sacred grove, within the ancient city of Tayman."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_035",
+    "poem_index": 35,
+    "meter": "مجزوء الكامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 52,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_036",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (time/fate) is invoked as a force that can admonish, reflecting its pre-Islamic cosmological significance as an agent of destiny."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_036",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "هابل",
+        "notes": "The phrase 'أمك هابل' (your mother is Hubal's) is a pre-Islamic curse or expression of contempt, explicitly naming the deity Hubal."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_036",
+        "verse_indices": [
+          11
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السعالي",
+        "notes": "The comparison of women to 'السعالي' (Saʿālī), a type of female jinn or ghoul, explicitly references a pre-Islamic supernatural being."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_036",
+        "verse_indices": [
+          19
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "سعال",
+        "notes": "The comparison of riders to 'سعال' (Saʿālī), a type of female jinn or ghoul, explicitly references a pre-Islamic supernatural being."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_037",
+    "poem_index": 37,
+    "meter": "رمل تام",
+    "verse_count": 85,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_037",
+        "verse_indices": [
+          28
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The verse refers to 'the treachery of an inattentive dahr,' explicitly naming dahr as a cosmological force associated with fate or time in pre-Islamic belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_037",
+        "verse_indices": [
+          60
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجني",
+        "notes": "The verse explicitly mentions 'الجني' (the jinn), referring to a non-divine supernatural entity in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_037",
+        "verse_indices": [
+          81
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies 'الدهر' (Dahr) as looking upon and imploring, reinforcing its role as a cosmological force in pre-Islamic thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_039",
+    "poem_index": 39,
+    "meter": "كامل تام",
+    "verse_count": 55,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_039",
+        "verse_indices": [
+          46
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حريم",
+        "notes": "The term 'حريم' (ḥarīm) refers to a sacred, inviolable territory or sanctuary, a concept central to pre-Islamic Arabian religious geography and ritual spaces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_040",
+    "poem_index": 40,
+    "meter": "كامل تام",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_040",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أهل بعد جماديين حرام",
+        "notes": "This phrase refers to the act of declaring something sacred (أهلّ) after the months of Jumada, likely indicating the entry into a sacred period or state, possibly related to pilgrimage or the sacred months (الأشهر الحرم) in pre-Islamic Arabian practice."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_040",
+        "verse_indices": [
+          9
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "The verse explicitly mentions 'jinn' (جن) as a comparison, referring to supernatural entities believed to inhabit the Arabian Peninsula in pre-Islamic times."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_041",
+    "poem_index": 41,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_041",
+        "verse_indices": [
+          0,
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الجدث المقيم / سمك بانياه",
+        "notes": "These verses describe stopping at and observing a permanent grave, which relates to pre-Islamic burial practices and the remembrance of the deceased."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_041",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قتلنا تسعة بأبي لبينى",
+        "notes": "This verse explicitly refers to the act of killing nine individuals in revenge for Abū Lubaynā, which reflects the pre-Islamic tribal obligation of blood vengeance (tha'r)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_042",
+    "poem_index": 42,
+    "meter": "كامل تام",
+    "verse_count": 42,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_042",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "منى",
+        "notes": "The mention of Minā refers to a sacred site and pilgrimage destination in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_042",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حلالها وحرامها",
+        "notes": "This phrase refers to the pre-Islamic concept of sacred and profane months, where certain months were designated as forbidden (ḥaram) for warfare and other activities."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_042",
+        "verse_indices": [
+          27
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "صيام",
+        "notes": "The mention of 'fasting' (ṣiyām) refers to a pre-Islamic ritual practice, often associated with vows or specific sacred periods."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_043",
+    "poem_index": 43,
+    "meter": "unknown",
+    "verse_count": 45,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_043",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أزلامها",
+        "notes": "The term 'أزلامها' (azlāmuhā) explicitly refers to divination arrows, a well-documented pre-Islamic practice for seeking omens or making decisions."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_043",
+        "verse_indices": [
+          27
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن البدي",
+        "notes": "The phrase 'جن البدي' (jinn al-badī) directly names jinn, which are supernatural entities central to pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_043",
+        "verse_indices": [
+          29
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "جزور أيسار",
+        "notes": "The 'جزور أيسار' (jazūr aysār) refers to a camel slaughtered for the pre-Islamic gambling ritual of maysir, which involved ritualistic distribution of meat and had sacrificial undertones."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_044",
+        "verse_indices": [
+          14
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بيت على الأفلاج",
+        "notes": "The mention of a 'بيت' (house/temple) in الأفلاج, a region in Najd, likely refers to a pre-Islamic sanctuary or cultic structure, fitting the category of sacred spaces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_045",
+    "poem_index": 45,
+    "meter": "وافر تام",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_045",
+        "verse_indices": [
+          12
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وأبيك",
+        "notes": "This verse contains the oath formula 'فلا وأبيك' (No, by your father), which is a common pre-Islamic oath sworn by a respected ancestor or figure, fitting the category of oath formulae anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_046",
+    "poem_index": 46,
+    "meter": "كامل تام",
+    "verse_count": 33,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_046",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse refers to 'al-dahr' (time/fate) as a powerful force that prevents immortality, reflecting a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_046",
+        "verse_indices": [
+          25
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الصدى",
+        "notes": "The mention of 'al-ṣadā' (the bone-bird or spirit of the deceased) weeping is a direct reference to a specific pre-Islamic mortuary belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_047",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنة عبقرية",
+        "notes": "This verse explicitly mentions 'jinn of ʿAbqar,' referring to a supernatural entity associated with pre-Islamic Arabian belief and often linked to poetic inspiration."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_048",
+    "poem_index": 48,
+    "meter": "وافر تام",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_048",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صداء",
+        "notes": "This verse explicitly mentions the ṣadā, the pre-Islamic belief in a bird-like entity emerging from the skull of an unavenged slain person."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_048",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحرام",
+        "notes": "This verse refers to the passing of the sacred months (al-ashhur al-ḥurum), a pre-Islamic period of ritual prohibition against warfare."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_048",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الللات",
+        "notes": "This verse explicitly names al-Lāt, a major pre-Islamic Arabian goddess, through the tribal name Taym al-Lāt."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_049",
+    "poem_index": 49,
+    "meter": "طويل",
+    "verse_count": 32,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_049",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" (Time/Fate) is used to denote a powerful, active force that brings hardship, reflecting a pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_049",
+        "verse_indices": [
+          17
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أنواح القريطين مأتما",
+        "notes": "The verse explicitly mentions \"أنواح\" (lamentations) and \"مأتم\" (a mourning gathering), which are components of pre-Islamic mourning rites."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_049",
+        "verse_indices": [
+          20
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "غوجا محرما",
+        "notes": "The term \"محرما\" (sacred/forbidden) refers to a designated sacred or inviolable zone, akin to a ḥaram, which is a pre-Islamic sacred space concept."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_049",
+        "verse_indices": [
+          27
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أقسما",
+        "notes": "The verb \"أقسما\" (he swore an oath) indicates a formal oath-taking, a significant ritualistic act in pre-Islamic Arabian society, often implicitly invoking divine witness."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_049",
+        "verse_indices": [
+          31
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "Similar to verse 12, \"الدهر\" is presented as an active, influential force shaping human experience, reflecting a pre-Islamic cosmological understanding of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_050",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "التمائم",
+        "notes": "This verse explicitly mentions \"التمائم\" (amulets), which were worn in pre-Islamic Arabia for protection against supernatural harm, such as the evil eye or jinn."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_051",
+    "poem_index": 51,
+    "meter": "وافر تام",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_051",
+        "verse_indices": [
+          19
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحرام",
+        "notes": "This verse refers to seeking refuge in a sacred precinct (ḥaram), a key concept in pre-Islamic Arabian ritual and sacred geography."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_051",
+        "verse_indices": [
+          26
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الفرقدين وآل نعش خوالد",
+        "notes": "The mention of the stars al-Farqadayn and Āl Naʿsh as 'eternal' reflects pre-Islamic cosmological beliefs about the enduring nature of celestial bodies."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_051",
+        "verse_indices": [
+          28
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أصداء وهام",
+        "notes": "This refers to the pre-Islamic belief that the soul of a deceased person could transform into a bird (ṣadā or hāma) that would hover over the grave."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_052",
+    "poem_index": 52,
+    "meter": "كامل تام",
+    "verse_count": 34,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_052",
+        "verse_indices": [
+          19
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طير لاشياح",
+        "notes": "The phrase 'طير لاشياح' explicitly refers to birds used for augury, a common pre-Islamic practice of divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_053",
+    "poem_index": 53,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_054",
+    "poem_index": 54,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "labīd_b_rabīʿah_055",
+    "poem_index": 55,
+    "meter": "مجزوء الكامل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "labīd_b_rabīʿah_055",
+        "verse_indices": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دفن, جدث",
+        "notes": "These verses describe the physical act of burial and the construction of the grave, which are pre-Islamic mortuary practices."
+      },
+      {
+        "poem_id": "labīd_b_rabīʿah_055",
+        "verse_indices": [
+          22
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مسوح الشعر",
+        "notes": "This verse describes women wearing 'مسوح الشعر' (haircloth) as a specific mourning rite, common in pre-Islamic Arabian society."
+      }
+    ],
+    "error": false
+  }
+]

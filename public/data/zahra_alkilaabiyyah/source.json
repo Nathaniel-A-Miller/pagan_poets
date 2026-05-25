@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "زهراء الكلابية",
+    "name_en": "Zahrāʾ al-Kilābiyyah",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "zahrāʾ_al-kilābiyyah_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "تَأَوَّهْتُ مِنْ ذِكْرَى ابْنِ عَمِّي وَدُونَهُ  نَقاً هائِلٌ جَعْدُ الثَّرَى وَصَفِيحُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "وَكُنْتُ أَنامُ اللَّيْلَ مِنْ ثِقَتِي بِهِ  وَأَعْلَمُ أَنْ لا ضَيْمَ وَهْوَ صَحِيحُ"
+        },
+        {
+          "verse_index": 2,
+          "text": "فَأَصْبَحْتُ سالَمْتُ الْعَدُوَّ وَلَمْ أَجِدْ  مِنَ السِّلْمِ بُدّاً وَالْفُؤادُ جَرِيحُ"
+        }
+      ]
+    }
+  ]
+}

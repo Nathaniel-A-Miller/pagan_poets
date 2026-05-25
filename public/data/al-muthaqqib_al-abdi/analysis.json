@@ -1,0 +1,248 @@
+[
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_000",
+    "poem_index": 0,
+    "meter": "سريع",
+    "verse_count": 32,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "المسجد",
+        "notes": "The term \"المسجد\" (masjid) in a pre-Islamic context refers to a place of worship or sanctuary, indicating a sacred space."
+      },
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_000",
+        "verse_indices": [
+          9
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جناتها",
+        "notes": "The verse explicitly mentions \"جناتها\" (its jinn), referring to supernatural beings inhabiting a place."
+      },
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_000",
+        "verse_indices": [
+          12
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نوح, تندبه",
+        "notes": "The terms \"نوح\" (wailing) and \"تندبه\" (lamenting him) describe mourning rites for the deceased."
+      },
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_000",
+        "verse_indices": [
+          14
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنانه",
+        "notes": "The verse explicitly mentions \"جنانه\" (its jinn), referring to supernatural beings inhabiting a place."
+      },
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_000",
+        "verse_indices": [
+          25
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنانها",
+        "notes": "The verse explicitly mentions \"جنانها\" (its jinn), referring to supernatural beings inhabiting a place."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_001",
+    "poem_index": 1,
+    "meter": "رمل تام",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_003",
+    "poem_index": 3,
+    "meter": "unknown",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_003",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النجوم سعودها",
+        "notes": "This verse refers to the belief in the auspicious influence of stars, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_003",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كوكب الموت",
+        "notes": "This verse refers to a 'star of death,' indicating a belief in the astrological influence of celestial bodies on human fate, a pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_003",
+        "verse_indices": [
+          17
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "أبيت اللعن",
+        "notes": "This phrase is a traditional pre-Islamic formula of address, implying a belief in curses and their avoidance, thus fitting into the sacred lexicon."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_005",
+    "poem_index": 5,
+    "meter": "وافر تام",
+    "verse_count": 44,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_005",
+        "verse_indices": [
+          35
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse laments the relentless nature of *dahr* (time/fate), which was conceived in pre-Islamic belief as an impersonal, powerful, and often destructive cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_006",
+        "verse_indices": [
+          5
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "راقي حية",
+        "notes": "The phrase \"راقي حية\" (snake charmer/exorcist) refers to a figure who performed incantations (ruqya) and mediated with supernatural forces, representing a pre-Islamic tribal sacral role."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_007",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نوء المرزمين",
+        "notes": "This verse refers to the *nawʾ* system, a pre-Islamic astral belief where the setting of specific stars (here, al-Marzamayn) was associated with particular weather phenomena, reflecting a cosmological understanding of celestial influence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_008",
+    "poem_index": 8,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_010",
+    "poem_index": 10,
+    "meter": "منسرح",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_010",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "concept of inescapable fate",
+        "notes": "This verse expresses the pre-Islamic fatalistic worldview, where human actions cannot avert an irresistible destiny, aligning with cosmological concepts of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_011",
+    "poem_index": 11,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الرحمن",
+        "notes": "The phrase 'لحى الرحمن' (May al-Raḥmān curse) is an imprecation invoking a divine entity, fitting the category of oaths anchored to a deity, as 'al-Raḥmān' was a known divine name in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-muthaqqib_al-ʿabdī_013",
+    "poem_index": 13,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-muthaqqib_al-ʿabdī_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "ذبح على حجر جرى الدميان بالخبر اليقين",
+        "notes": "This verse describes a pre-Islamic divinatory practice where the flow of blood from a ritual slaughter on a sacred stone would reveal certain news."
+      }
+    ],
+    "error": false
+  }
+]

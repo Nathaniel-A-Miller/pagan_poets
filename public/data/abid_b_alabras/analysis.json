@@ -1,0 +1,893 @@
+[
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنِيّة",
+        "notes": "The term 'maniyya' (fate) is personified as an active force, aligning with pre-Islamic cosmological beliefs about fate as an irresistible power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 44,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_001",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرُ",
+        "notes": "The verse refers to 'الدَّهْرُ' (Time/Fate) as an entity that gives counsel, reflecting the pre-Islamic belief in Dahr as a powerful, often destructive, cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_002",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "تَعَيَّفوا",
+        "notes": "The verb \"تَعَيَّفوا\" refers to the practice of augury or seeking omens, specifically from animals or birds, which is a form of pre-Islamic divination."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_002",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أَبو الفِراخِ يَنعَبُ",
+        "notes": "The mention of \"أَبو الفِراخِ\" (a bird, often a raven) croaking (\"يَنعَبُ\") is a classic reference to bird augury, a pre-Islamic divinatory practice."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_002",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "إِلَهِهِم صَنَماً",
+        "notes": "This verse explicitly refers to \"their god, an idol,\" indicating the worship of idols or specific deities in pre-Islamic Arabian religion."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_002",
+        "verse_indices": [
+          17
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيرُ الأَشائِمِ يَنعَبُ",
+        "notes": "The phrase \"birds of ill omen croak\" directly describes a form of augury from birds, a common pre-Islamic divinatory practice."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_002",
+        "verse_indices": [
+          24
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "المَغاوِلُ",
+        "notes": "The term \"المَغاوِلُ\" refers to ghūls, which are supernatural beings or jinn in pre-Islamic Arabian folklore, often associated with deserts and shapeshifting."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_003",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الهام, الصدى",
+        "notes": "This verse explicitly mentions 'al-hām' (owls, often associated with the souls of the dead) and 'al-ṣadā' (the bone-bird, representing the soul of the deceased crying for vengeance), which are key elements of pre-Islamic mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_004",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهرٌ",
+        "notes": "The verse refers to 'dahr' (time/fate) as an active, destructive force that scattered people, aligning with pre-Islamic cosmological views of dahr."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_004",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) is used to describe an irresistible force that takes people, reflecting a pre-Islamic understanding of fate and death as cosmological agents."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_005",
+    "poem_index": 5,
+    "meter": "خفيف",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_005",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السعالي",
+        "notes": "The term 'السعالي' (al-saʿālī) refers to ghoul-like female jinn, which are supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_008",
+    "poem_index": 8,
+    "meter": "وافر",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_009",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَّه",
+        "notes": "The verse contains an oath sworn by Allah, a common practice in pre-Islamic Arabia where Allah was recognized as a supreme deity."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_009",
+        "verse_indices": [
+          14
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "جَدِّكَ",
+        "notes": "The phrase \"وَجَدِّكَ\" is an oath sworn by one's ancestor or fortune, a common pre-Islamic oath formula."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_009",
+        "verse_indices": [
+          15
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رَميماً تَحتَ أَلواحِ",
+        "notes": "This verse describes the physical state of the deceased as decayed bones under planks, referring to the practice of burial."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_009",
+        "verse_indices": [
+          16
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وُسِّدتُ حَثحَثَةً في قَعرِ مُظلِمَةِ الأَرجاءِ",
+        "notes": "This verse further elaborates on the burial process, describing being laid in a deep, dark grave."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_009",
+        "verse_indices": [
+          17
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صِرتُ ذا بومَةٍ",
+        "notes": "This verse refers to the pre-Islamic belief of the *ṣadā* or *hāmā*, where the soul of the deceased transforms into a bird (often an owl) that perches on the grave."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_009",
+        "verse_indices": [
+          19
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مَلحودَةٍ",
+        "notes": "The term \"مَلحودَةٍ\" refers to a specific type of grave (a niche grave), indicating a pre-Islamic burial practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_010",
+    "poem_index": 10,
+    "meter": "بسيط",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_010",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قَبرٍ, كَفَنٍ",
+        "notes": "This verse explicitly mentions a grave (qabr) and a shroud (kafan), which are direct references to mortuary practices and beliefs about death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_011",
+    "poem_index": 11,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_011",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) refers to an impersonal, irresistible force of destiny, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_011",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فَوَاللَهِ",
+        "notes": "The phrase 'fa-wa-llāhi' is an explicit oath by God, a common pre-Islamic oath formula."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_013",
+    "poem_index": 13,
+    "meter": "رجز",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The term 'المنون' (al-manūn) refers to fate or death as an inescapable cosmological force, a common concept in pre-Islamic thought."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_013",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الغداف الأسود",
+        "notes": "The black raven is explicitly stated to have 'informed' them, indicating a belief in augury from birds, a pre-Islamic divinatory practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_014",
+    "poem_index": 14,
+    "meter": "بسيط",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_014",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الموت",
+        "notes": "This verse personifies 'Death' (الموت) as an inescapable 'driver' (حادي) following all people, reflecting a pre-Islamic fatalistic view of death as an active, cosmological force akin to manāyā."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 36,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_015",
+        "verse_indices": [
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الصَدي",
+        "notes": "The term 'الصدي' (al-ṣadā) refers to a pre-Islamic belief about a bird or spirit emerging from the skull of the deceased, representing the soul or a spirit seeking vengeance."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_015",
+        "verse_indices": [
+          14
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' (by your life) is a common pre-Islamic oath formula, swearing by the life of the addressed person, which was considered a sacred entity."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_015",
+        "verse_indices": [
+          31
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'المنايا' (al-manāyā) refers to fate or death as an inescapable, predetermined cosmological force, a prevalent concept in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_015",
+        "verse_indices": [
+          32
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنِيَّتُهُ",
+        "notes": "The term 'مَنِيَّتُهُ' (manīyatuhu) signifies one's appointed death or fate, emphasizing its predetermined and unavoidable nature as a cosmological force."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_015",
+        "verse_indices": [
+          33
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنِيَّةِ",
+        "notes": "The phrase 'حَبلُ المَنِيَّةِ' (ḥabl al-manīya) refers to the 'rope of fate/death,' personifying death as an inevitable, binding force that ensnares individuals, a key pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_016",
+    "poem_index": 16,
+    "meter": "كامل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_016",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النَجمُ تَجري أَنحُساً وَسُعودا",
+        "notes": "This verse explicitly refers to stars influencing human fate by bringing ill-fortune (anḥus) and good-fortune (suʿūd), which is a form of astral belief common in pre-Islamic cosmology."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_016",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإِلَهَ وَوَجهَهُ المَعبودا",
+        "notes": "This verse refers to 'the God' (al-Ilāh) and 'His worshipped face' as eternal, contrasting with the perishable nature of all else, indicating a belief in a supreme deity in a pre-Islamic context."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_017",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَدَيكٌ",
+        "notes": "This verse explicitly names Wadd, a prominent pre-Islamic deity, particularly worshipped in South Arabia and known in other regions."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_017",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذاتِ المَساجِدِ",
+        "notes": "The phrase 'Dhāt al-Masājid' refers to a place containing 'masājid' (places of prostration or worship), indicating a sacred geography or sanctuary in a pre-Islamic context."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_018",
+    "poem_index": 18,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_018",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَرواح, أَجساد",
+        "notes": "This verse describes the state of human spirits (أرواح) and bodies (أجساد) passing under the earth after death, reflecting a conceptual understanding of the afterlife."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_019",
+    "poem_index": 19,
+    "meter": "منسرح",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_019",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الفَرضِ",
+        "notes": "This verse refers to the *farḍ*, a type of arrow used in pre-Islamic *maysir* (gambling with arrows), a practice often associated with divination using *azlām* (divining arrows)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_020",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمري",
+        "notes": "This verse contains the oath formula 'لَعَمري' (by my life), which is a common pre-Islamic oath used to lend solemnity to a statement."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_021",
+    "poem_index": 21,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_022",
+    "poem_index": 22,
+    "meter": "كامل",
+    "verse_count": 22,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_023",
+    "poem_index": 23,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_024",
+    "poem_index": 24,
+    "meter": "وافر",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_024",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأَنواء",
+        "notes": "This verse refers to al-Anwāʾ, specific stars whose rising and setting were believed to influence weather, reflecting pre-Islamic astral belief and cosmological understanding."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_024",
+        "verse_indices": [
+          23
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَهُ",
+        "notes": "The poet uses 'Allāh' in an imprecation, which in a pre-Islamic context refers to the high god of the Arabian pantheon, fitting the category of invoking a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_026",
+    "poem_index": 26,
+    "meter": "بسيط",
+    "verse_count": 27,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_026",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse attributes agency to \"al-Dahr\" (Time/Fate), depicting it as a force that causes separation and injustice, which is a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_026",
+        "verse_indices": [
+          14
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغول",
+        "notes": "The verse explicitly mentions \"al-Ghul,\" a type of monstrous supernatural being from pre-Islamic Arabian folklore, often associated with deserts and wilderness."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_026",
+        "verse_indices": [
+          16
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "سيحتنط",
+        "notes": "The term \"sayuḥtanaṭ\" refers to the preparation of the deceased for burial, specifically embalming or shrouding, which is a practice related to pre-Islamic mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_027",
+    "poem_index": 27,
+    "meter": "كامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_028",
+    "poem_index": 28,
+    "meter": "منسرح",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_029",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse attributes an action (giving a choice leading to destruction) to \"al-Dahr\" (Time/Fate), which was considered a powerful cosmological force in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_030",
+        "verse_indices": [
+          14,
+          15
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الوتر / الأوتار",
+        "notes": "These verses criticize the addressee for failing to fulfill the obligation of 'al-watr' (vengeance or blood-feud), which was a crucial quasi-ritual duty in pre-Islamic Arabian society related to death and honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_031",
+    "poem_index": 31,
+    "meter": "رمل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_032",
+    "poem_index": 32,
+    "meter": "منسرح",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_032",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإِلَهُ",
+        "notes": "The verse invokes 'al-ilāh' (the god) to bless the water, reflecting a pre-Islamic belief in a high god capable of divine intervention and blessing."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_033",
+    "poem_index": 33,
+    "meter": "بسيط",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_034",
+    "poem_index": 34,
+    "meter": "خفيف",
+    "verse_count": 35,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_034",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse attributes the desolation of the dwellings to 'سالف الدهر' (the past of time/fate), reflecting the pre-Islamic fatalistic concept of dahr as an impersonal force."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_034",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'سالِفِ الدَهرِ' (the past of time/fate) again invokes dahr as a significant, overarching concept of time and destiny in the pre-Islamic worldview."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_035",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "آجال",
+        "notes": "The phrase 'غياهيب آجال' (depths of destinies/appointed times) refers to the hidden, predetermined nature of fate, aligning with pre-Islamic cosmological concepts."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_035",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تَبالَة",
+        "notes": "Tabāla is mentioned as a geographical location, which was a significant pre-Islamic sanctuary and cultic site, thus referencing sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_036",
+    "poem_index": 36,
+    "meter": "بسيط",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_036",
+        "verse_indices": [
+          5
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السعالي",
+        "notes": "The verse explicitly mentions \"السعالي\", which are a type of ghoul or female jinn in pre-Islamic Arabian folklore, thus referring to supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_037",
+    "poem_index": 37,
+    "meter": "سريع",
+    "verse_count": 21,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_038",
+    "poem_index": 38,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_039",
+    "poem_index": 39,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_040",
+    "poem_index": 40,
+    "meter": "كامل",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_041",
+    "poem_index": 41,
+    "meter": "بسيط",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_041",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "العبقري",
+        "notes": "The term 'al-ʿabqarī' refers to something of extraordinary quality, derived from 'Abqar', a legendary place believed to be inhabited by jinn, thus implicitly referencing supernatural beings and their craftsmanship."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_042",
+    "poem_index": 42,
+    "meter": "مجتث",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_042",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هامَه",
+        "notes": "This verse explicitly mentions the 'hāma,' which in pre-Islamic belief was the spirit of a murdered person, often depicted as a bird (owl) emerging from the skull, crying for vengeance until avenged."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_043",
+    "poem_index": 43,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_044",
+    "poem_index": 44,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_045",
+    "poem_index": 45,
+    "meter": "كامل",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_045",
+        "verse_indices": [
+          13
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَمَينا",
+        "notes": "The phrase 'ما حَمَينا' (what we have protected/made inviolable) alludes to the pre-Islamic concept of ḥimā, a sacred or protected zone."
+      },
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_045",
+        "verse_indices": [
+          24
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' is a common pre-Islamic oath formula, swearing by the life of the addressee, which functions as a sacred entity in this context."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_046",
+    "poem_index": 46,
+    "meter": "وافر",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabīd_b_al-abraṣ_047",
+    "poem_index": 47,
+    "meter": "متقارب",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿabīd_b_al-abraṣ_047",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The verse explicitly refers to 'al-Dahr' (Time/Fate) as a powerful, changing force, which is a key pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  }
+]

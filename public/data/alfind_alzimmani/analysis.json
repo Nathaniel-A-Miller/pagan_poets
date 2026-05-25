@@ -1,0 +1,161 @@
+[
+  {
+    "poem_id": "al-find_al-zimmānī_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_001",
+    "poem_index": 1,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_002",
+    "poem_index": 2,
+    "meter": "unknown",
+    "verse_count": 28,
+    "references": [
+      {
+        "poem_id": "al-find_al-zimmānī_002",
+        "verse_indices": [
+          24
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القداح",
+        "notes": "The verse mentions casting 'al-qidāḥ' (arrows/lots) for men, which refers to a pre-Islamic practice of divination or ritualistic lot-casting, such as azlām or maysir."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_003",
+    "poem_index": 3,
+    "meter": "unknown",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "al-find_al-zimmānī_003",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse refers to 'صروف الدهر' (the vicissitudes of Time/Fate), which was a significant cosmological concept in pre-Islamic Arabian belief, often seen as an irresistible force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_004",
+    "poem_index": 4,
+    "meter": "unknown",
+    "verse_count": 78,
+    "references": [
+      {
+        "poem_id": "al-find_al-zimmānī_004",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The personification of 'Dahr' (Time/Fate) as an active, destructive force is a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-find_al-zimmānī_004",
+        "verse_indices": [
+          41
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ناذرها / حرمت كأس",
+        "notes": "The mention of a 'nādhir' (one who makes a vow) and a 'forbidden cup' suggests a pre-Islamic ritual vow or sacred prohibition."
+      },
+      {
+        "poem_id": "al-find_al-zimmānī_004",
+        "verse_indices": [
+          45
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أود",
+        "notes": "'Wadd' is explicitly named as a pre-Islamic deity, worshipped by tribes like Kalb."
+      },
+      {
+        "poem_id": "al-find_al-zimmānī_004",
+        "verse_indices": [
+          64,
+          65
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بيت / رب وجار",
+        "notes": "These verses refer to a 'bayt' (sacred house/sanctuary) that is desired for visitation (pilgrimage) and has God as its 'Lord and Protector,' strongly evoking pre-Islamic sacred spaces like the Kaaba and the concept of jiwār."
+      },
+      {
+        "poem_id": "al-find_al-zimmānī_004",
+        "verse_indices": [
+          76
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The explicit mention of 'Jinn' as supernatural entities that perceive the poet's people with awe is a clear reference to pre-Islamic belief in these beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_005",
+    "poem_index": 5,
+    "meter": "unknown",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "al-find_al-zimmānī_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "دَيَّانُ",
+        "notes": "The term 'Dayyān' (دَيَّانُ) refers to a divine judge or supreme authority, a concept of a higher power overseeing justice, which is a common pre-Islamic religious notion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_006",
+    "poem_index": 6,
+    "meter": "unknown",
+    "verse_count": 24,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_007",
+    "poem_index": 7,
+    "meter": "unknown",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "al-find_al-zimmānī_007",
+        "verse_indices": [
+          10
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حرمة الجار",
+        "notes": "The phrase \"ḥurmat al-jār\" (the sanctity/inviolability of the neighbor) refers to a fundamental pre-Islamic Arabian concept of sacred protection and covenant, making \"ḥurma\" a key term in the sacred lexicon."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-find_al-zimmānī_008",
+    "poem_index": 8,
+    "meter": "unknown",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  }
+]

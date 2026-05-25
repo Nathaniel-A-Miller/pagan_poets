@@ -1,0 +1,46 @@
+[
+  {
+    "poem_id": "laylā_bt_salamah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "laylā_bt_salamah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المقادر",
+        "notes": "The term \"المقادر\" (fates/destinies) refers to the pre-Islamic cosmological concept of fate as an irresistible, often destructive, force."
+      },
+      {
+        "poem_id": "laylā_bt_salamah_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "طائر",
+        "notes": "The image of a fluttering bird in the context of death and grief alludes to the pre-Islamic belief in the *ṣadā* or *hāmā*, a bird representing the soul of the deceased."
+      },
+      {
+        "poem_id": "laylā_bt_salamah_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صروف الليالي, الجدود العواثر",
+        "notes": "The phrases \"صروف الليالي\" (vicissitudes of nights/time) and \"الجدود العواثر\" (stumbling fates/fortunes) refer to the pre-Islamic cosmological concept of time and fate as powerful, often malevolent, forces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "laylā_bt_salamah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "hind_bt_ibn_ʿāmir_al-aslamī_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "hind_bt_ibn_ʿāmir_al-aslamī_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "The phrase 'لعمرك' (la-ʿamruka) is a common pre-Islamic oath formula, meaning 'by your life', which falls under oath formulae anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  }
+]

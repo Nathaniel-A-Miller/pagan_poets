@@ -1,0 +1,777 @@
+[
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 79,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون, الدهر",
+        "notes": "The verse refers to \"المنون\" (fate/death) and \"الدهر\" (time/fate) as powerful, unyielding cosmological forces, central to pre-Islamic fatalism."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنيّة",
+        "notes": "The verse mentions \"المنيّة\" (death/fate) as an unstoppable force, reflecting a pre-Islamic understanding of destiny."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تميمة",
+        "notes": "The mention of \"تميمة\" (amulet) refers to a physical object used in pre-Islamic protective rituals, which were believed to ward off harm but are ineffective against fate."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ريب الدهر",
+        "notes": "The phrase \"ريب الدهر\" (the vicissitudes of time/fate) highlights the pre-Islamic concept of dahr as an unpredictable and often malevolent force."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزمان وريبه",
+        "notes": "This verse refers to \"الزمان وريبه\" (time and its vicissitudes) as a cause of sorrow, aligning with the pre-Islamic fatalistic view of time."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          18
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse emphasizes the destructive power of \"الدهر\" (time/fate), a key cosmological concept in pre-Islamic thought."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse reiterates the theme of \"الدهر\" (time/fate) as an inescapable force that brings about destruction."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          25
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "شؤم",
+        "notes": "The term \"شؤم\" (ill-omen) explicitly refers to a belief in negative signs or portents, a common aspect of pre-Islamic divination."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          28
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "يسر يفيض على القداح",
+        "notes": "This verse describes the practice of \"يسر\" (casting lots) with \"قداح\" (arrows), a well-known pre-Islamic method of divination or distribution."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          30
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "العيوق",
+        "notes": "The mention of \"العيوق\" (Capella) and its observation by a \"watcher\" suggests pre-Islamic astral belief, where stars were often seen as significant or influential."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          42
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأرطى",
+        "notes": "The act of \"يعوذ بالأرطى\" (seeking refuge in the Arṭā tree) reflects a pre-Islamic practice of venerating or seeking protection from sacred trees, often associated with jinn or spirits."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_000",
+        "verse_indices": [
+          54
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse again highlights \"الدهر\" (time/fate) as an overwhelming force that no one can withstand, a recurring pre-Islamic cosmological theme."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 41,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_001",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse refers to 'al-dahr' (time/fate) as the ultimate reality, reflecting the pre-Islamic fatalistic worldview where dahr is an impersonal, controlling force."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_001",
+        "verse_indices": [
+          15
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حَرامٌ",
+        "notes": "The term 'ḥarām' signifies a sacred prohibition or inviolability, reflecting pre-Islamic concepts of sacredness and the protection of a neighbor (jiwār) as a quasi-sacred duty."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الطُرّاق",
+        "notes": "The term 'al-ṭurrāq' refers to practitioners of ṭarq, a pre-Islamic form of divination, explicitly indicating a belief in omens and their interpretation."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_002",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The word 'al-manāyā' (fates/deaths) is used here as an irresistible, personified force, reflecting a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al_hudhalī_002",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "اللَحد",
+        "notes": "This verse describes the act of burial, specifically lowering the deceased into a 'deep pit' and 'the grave' (al-laḥd), which falls under pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 32,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_003",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula 'By your life', a common pre-Islamic expression used to swear by the life of the addressee."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_003",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنايا",
+        "notes": "The term 'manāyā' refers to the pre-Islamic concept of fate or destiny as an active, often personified, force that brings about death."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_003",
+        "verse_indices": [
+          22
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذي المَجازِ",
+        "notes": "Dhū al-Majāz was a significant pre-Islamic market and pilgrimage site near Mecca, indicating a sacred geography."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_003",
+        "verse_indices": [
+          24
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حِجَّةً",
+        "notes": "The term 'ḥijja' explicitly refers to the pre-Islamic pilgrimage ritual, a central practice in Arabian religion."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_003",
+        "verse_indices": [
+          25
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بِجَمعٍ, مِنىً",
+        "notes": "This verse mentions Jamʿ (Muzdalifah) and Minā, both key locations within the pre-Islamic pilgrimage circuit."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 35,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_006",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "عَمري",
+        "notes": "The phrase 'عَمري' (by my life) is a common pre-Islamic oath formula, invoking one's own existence as a sacred entity for swearing."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_007",
+    "poem_index": 7,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_008",
+    "poem_index": 8,
+    "meter": "متقارب",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_008",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الهَدِيُّ",
+        "notes": "The term 'al-hadīy' refers to an animal designated for sacrifice, a central practice in pre-Islamic Arabian rituals, especially pilgrimage, and its decoration is part of the ritual preparation."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_008",
+        "verse_indices": [
+          7
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "عوذ",
+        "notes": "The mention of 'ʿawdh' (amulet) indicates a belief in protective charms, which were commonly used in pre-Islamic Arabia to ward off evil or supernatural influences like jinn."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_008",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عُكوفٌ",
+        "notes": "The term 'ʿukūf' denotes a state of ritual devotion or staying at a sacred site, a practice associated with pre-Islamic veneration of idols or sanctuaries."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_009",
+    "poem_index": 9,
+    "meter": "وافر",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_009",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "العَيّوق",
+        "notes": "The verse refers to al-ʿAyyūq (Aldebaran), a specific star used as a time marker, which reflects pre-Islamic astral observation and cosmological understanding of celestial bodies."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 34,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_010",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيرَ السَنيحِ",
+        "notes": "The phrase 'zajarta lahā ṭayra al-sanīḥ' refers to the pre-Islamic practice of augury, specifically interpreting omens from the flight of birds."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_010",
+        "verse_indices": [
+          20
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حَرامُ",
+        "notes": "The term 'ḥarām' signifies a religious prohibition or sacred inviolability, indicating a pre-Islamic concept of taboo or forbidden action."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_010",
+        "verse_indices": [
+          21
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنِيَّةِ",
+        "notes": "The phrase 'asbāb al-manīya' refers to the inescapable forces of fate or destiny, a central cosmological concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_011",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قِردٍ وَكاهِلِ",
+        "notes": "This verse explicitly mentions 'qird' and 'kāhil', which refer to specific objects used in pre-Islamic divination practices, particularly scapulimancy."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_011",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نَوائِحُ, البُكا",
+        "notes": "The mention of 'nawāʾiḥ' (professional wailing women) and 'al-bukā' (wailing) explicitly refers to pre-Islamic mourning rites and practices associated with death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_013",
+    "poem_index": 13,
+    "meter": "وافر",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_013",
+        "verse_indices": [
+          9
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "ذي الشَرعِ العَتيقِ",
+        "notes": "This verse compares the sound of a camel to the chanting of 'the one of the ancient law/ritual,' which refers to a pre-Islamic figure who performs sacred chants, indicating a sacral role."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_015",
+    "poem_index": 15,
+    "meter": "وافر",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_015",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "This verse refers to 'fates' (al-manāyā) as an overpowering force ('ghālibāt'), reflecting a pre-Islamic cosmological understanding of destiny."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_015",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "رُقيَةَ",
+        "notes": "The mention of 'ruqya' (incantation or charm) refers to a specific performative ritual practice common in pre-Islamic Arabian belief for protection or healing."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_016",
+        "verse_indices": [
+          5
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "التمائم",
+        "notes": "The verse mentions 'tamāʾim' (amulets), which were worn in pre-Islamic Arabia for protection against supernatural threats like the evil eye or jinn."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_016",
+        "verse_indices": [
+          8,
+          9
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "عُقاب, تَعيفُ",
+        "notes": "The verses describe an eagle's flight being interpreted as an omen, with the explicit mention of 'taʿīf' (augury), a pre-Islamic practice of divination by birds."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_016",
+        "verse_indices": [
+          11
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيراً ثِقالاً",
+        "notes": "The speaker refers to 'heavy birds' as bringing either good news or fear, indicating their role as omens in pre-Islamic augury."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_016",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' refers to fate or destiny as an overarching, irresistible cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_016",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "العِقبانُ, أَعيفُ",
+        "notes": "The verse explicitly states that 'al-ʿiqbān' (eagles) provided information, and the speaker would have understood it 'if I augured' (aʿīf), confirming the practice of bird divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_017",
+    "poem_index": 17,
+    "meter": "بسيط",
+    "verse_count": 43,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_017",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "The phrase \"وَاللَهِ\" is an explicit oath invoking Allah, a common practice in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_017",
+        "verse_indices": [
+          8
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الأَقاديحُ",
+        "notes": "\"الأَقاديحُ\" refers to arrows or lots used for divination (azlām), a well-documented pre-Islamic practice."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_017",
+        "verse_indices": [
+          24
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "The phrase \"وَاللَهِ\" is an explicit oath invoking Allah, a common practice in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_017",
+        "verse_indices": [
+          25
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "كاهِلٍ",
+        "notes": "The term \"كاهِلٍ\" (kāhin) refers to a pre-Islamic diviner or priest, indicating a specific sacral role."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_017",
+        "verse_indices": [
+          30
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَصداءُ القُبورِ",
+        "notes": "\"أَصداءُ القُبورِ\" alludes to the pre-Islamic belief in the ṣadā or hāma, a bird-like entity believed to emerge from the skull of the deceased and inhabit the grave."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_018",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "حواسراً, ضرب السبت",
+        "notes": "This verse describes the daughters performing specific mourning rites, including unveiling and striking their chests with sandals, which are characteristic of pre-Islamic lamentation."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_018",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أكفاني, وسدت ساعدي",
+        "notes": "This verse explicitly refers to the speaker being shrouded in burial cloths and having his arm as a pillow, detailing pre-Islamic burial practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_019",
+    "poem_index": 19,
+    "meter": "بسيط",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_019",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "تَاللَهِ",
+        "notes": "This verse contains the oath formula 'تَاللَهِ' (By God), which is a common pre-Islamic Arabian oath invoking a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_020",
+    "poem_index": 20,
+    "meter": "متقارب",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_020",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النعامى",
+        "notes": "The verse attributes the causation of wind to 'al-Naʿāmā', a specific star or asterism, indicating a belief in astral influence on natural phenomena."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_021",
+        "verse_indices": [
+          7
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "الكاهِلِيَّةِ",
+        "notes": "The term 'الكاهِلِيَّةِ' (al-Kāhiliyya) refers to the dwellings or people associated with a kāhin, a pre-Islamic diviner or priest, thus referencing a tribal sacral role."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_022",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمري",
+        "notes": "This verse contains the oath formula 'لَعَمري' (by my life), which is a common pre-Islamic oath invoking one's life as a sacred entity."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_022",
+        "verse_indices": [
+          16
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "رَجَبِيَّة",
+        "notes": "The term 'رَجَبِيَّة' refers to the month of Rajab, a sacred month in pre-Islamic Arabia, indicating a connection to the pre-Islamic sacred calendar."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al_hudhalī_022",
+        "verse_indices": [
+          22
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يُنشَرَ في القَتلى",
+        "notes": "The phrase 'يُنشَرَ في القَتلى' (resurrected among the dead) refers to a conceptual belief about the state of the deceased and a hypothetical return, even if used hyperbolically."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_023",
+    "poem_index": 23,
+    "meter": "متقارب",
+    "verse_count": 27,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_023",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حَجِّنا",
+        "notes": "The verse explicitly mentions 'ḥajj' (pilgrimage), which was a central pre-Islamic ritual in Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_025",
+        "verse_indices": [
+          17
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هامُها",
+        "notes": "This verse refers to the pre-Islamic belief in the *hama* bird (هامُها), which was thought to emerge from the skull of the deceased and represent their soul."
+      },
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_025",
+        "verse_indices": [
+          25
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِاللَهِ",
+        "notes": "The phrase \"وَقاسَمَها بِاللَهِ\" constitutes an oath sworn by Allah, a common practice in pre-Islamic Arabia where Allah was recognized as a high god."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_028",
+    "poem_index": 28,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_dhuʾayb_al-hudhalī_029",
+    "poem_index": 29,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_dhuʾayb_al-hudhalī_029",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الزَلَم",
+        "notes": "This verse explicitly mentions 'al-zalam,' referring to the arrows used for divination (azlām) in pre-Islamic Arabian practices."
+      }
+    ],
+    "error": false
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "poem_id": "kaʿb_b_zuhayr_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_000",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الرقى",
+        "notes": "This verse refers to 'al-ruqā' (incantations or charms), a pre-Islamic ritualistic practice used for healing or protection, fitting the performative dimension of religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_001",
+    "poem_index": 1,
+    "meter": "كامل تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_002",
+    "poem_index": 2,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_004",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سنيح وبارح",
+        "notes": "This verse explicitly references \"saniḥ\" and \"bāriḥ,\" terms used in pre-Islamic augury to describe the movement of animals as omens."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_004",
+        "verse_indices": [
+          11
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "منى, ركن البيت",
+        "notes": "This verse describes performing rituals at Minā and touching the corner of the Kaaba, both central practices in pre-Islamic pilgrimage."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_004",
+        "verse_indices": [
+          20
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الشعرى",
+        "notes": "This verse mentions al-Shiʿrā (Sirius) as an agent influencing the \"bāriḥ\" winds, reflecting pre-Islamic astral beliefs about the cosmological influence of stars."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_005",
+    "poem_index": 5,
+    "meter": "وافر تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_007",
+    "poem_index": 7,
+    "meter": "خفيف تام",
+    "verse_count": 57,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_007",
+        "verse_indices": [
+          14
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هام",
+        "notes": "This verse refers to the 'hām' (هام), a bird believed in pre-Islamic Arabian belief to emerge from the skull of the unavenged dead, crying out for vengeance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_008",
+    "poem_index": 8,
+    "meter": "بسيط تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_009",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "البلية",
+        "notes": "The term 'al-balīya' refers to the pre-Islamic practice of tethering a camel at a grave to die, intended to serve the deceased in the afterlife, which is a direct reference to mortuary belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "خيف منى",
+        "notes": "The verse refers to Khayf Minā, a significant sacred location in pre-Islamic Arabia where covenants and rituals were performed."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "This is an explicit oath invoking God as a witness, a common practice in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_011",
+        "verse_indices": [
+          10
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الخيف من منى",
+        "notes": "This verse again mentions Khayf Minā as the sacred location where a covenant was made, indicating a pre-Islamic ritual context for solemn agreements."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_012",
+    "poem_index": 12,
+    "meter": "بسيط تام",
+    "verse_count": 33,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_012",
+        "verse_indices": [
+          17
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنان",
+        "notes": "The verse explicitly mentions 'جنانها' (its jinn), referring to non-divine supernatural entities associated with a place."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_012",
+        "verse_indices": [
+          22
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جن",
+        "notes": "The verse explicitly mentions 'آثار جن' (traces of jinn), referring to non-divine supernatural entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_013",
+    "poem_index": 13,
+    "meter": "كامل تام",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse describes the poet's state as if 'surrendered to the jinn' and having his heart 'snatched away,' directly referencing the pre-Islamic belief in jinn and their influence over humans."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_014",
+    "poem_index": 14,
+    "meter": "وافر تام",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_014",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللات والعزى",
+        "notes": "This verse explicitly names al-Lāt and al-ʿUzzā as deities (إلها) that others worshipped, clearly referencing pre-Islamic Arabian polytheism."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_015",
+    "poem_index": 15,
+    "meter": "بسيط تام",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_015",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الطير تخبرني",
+        "notes": "The poet's wish for birds to inform him directly references the pre-Islamic practice of augury (ṭīra), where bird movements or calls were interpreted for omens or information."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_016",
+    "poem_index": 16,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_016",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The verse refers to 'al-manāyā' as an irresistible force to which one is surrendered, reflecting the pre-Islamic cosmological concept of fate or death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_017",
+        "verse_indices": [
+          1,
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "These verses refer to 'al-Dahr' (Time/Fate) as a cosmological force that brings about aging and is a subject of poetic contemplation, reflecting a pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_019",
+    "poem_index": 19,
+    "meter": "وافر تام",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 50,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_020",
+        "verse_indices": [
+          35
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الرحمن",
+        "notes": "The verse contains an explicit oath sworn by 'al-Raḥmān', a divine name attested in pre-Islamic and early transitional Arabian religious contexts."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_020",
+        "verse_indices": [
+          36
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الذي يحيي الأنام ويقتل",
+        "notes": "This verse describes a supreme being with the power to give life and cause death, reflecting a cosmological understanding of divine control over existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_021",
+    "poem_index": 21,
+    "meter": "بسيط تام",
+    "verse_count": 55,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_021",
+        "verse_indices": [
+          7
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغول",
+        "notes": "This verse explicitly mentions 'al-ghūl' (the ghoul), a well-known supernatural entity from pre-Islamic Arabian folklore, characterized by its ability to change form."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_022",
+        "verse_indices": [
+          16
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجنان",
+        "notes": "The verse explicitly mentions 'الجنان' (Jinn), referring to non-divine supernatural entities believed to inhabit desolate places in pre-Islamic Arabian cosmology."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_023",
+        "verse_indices": [
+          9
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الرجم",
+        "notes": "The verse refers to the father's death and burial 'في الرجم' (in the cairn/grave), which is a direct reference to pre-Islamic mortuary practices."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_023",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (Time/Fate) is invoked as an agent of misfortune ('تنزل لزبة من الدهر'), reflecting the pre-Islamic cosmological concept of dahr as a powerful, often destructive, force."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_023",
+        "verse_indices": [
+          18
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحرم",
+        "notes": "The verse mentions 'الحرم' (the sacred precinct), referring to an inviolable sanctuary, which is a key element of pre-Islamic sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_024",
+    "poem_index": 24,
+    "meter": "بسيط تام",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 43,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_025",
+        "verse_indices": [
+          12
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "ترمي به الغيب",
+        "notes": "The phrase 'ترمي به الغيب' (it shoots with it the unseen/future) describes a divinatory gaze or ability, fitting the category of practices related to discerning the unknown."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_025",
+        "verse_indices": [
+          31
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly mentions a 'jinn' (الجن) interfering with the hunter's arrow, which is a direct reference to a supernatural entity in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_027",
+    "poem_index": 27,
+    "meter": "متقارب تام",
+    "verse_count": 39,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_027",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الياسرينا",
+        "notes": "The term 'الياسرينا' (al-yāsirīn) refers to those who practice 'al-maysir', a pre-Islamic ritual involving casting lots (azlām) with arrows to divide a slaughtered camel, which had divinatory and sacrificial aspects."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_028",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "عيافة",
+        "notes": "The term 'نعتافها' (naʿtāfuhā) derives from 'ʿiyāfa', which refers to a pre-Islamic practice of augury, typically bird augury, used for divination."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_028",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عكوف, قنة بتثليث",
+        "notes": "The phrase 'تعكفون بقنة بتثليث' refers to the practice of 'ʿukūf' (devotion or retreat) at a sacred peak ('qanna') in Tathlīth, a known pre-Islamic sanctuary, indicating a ritual performed at a sacred space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_029",
+    "poem_index": 29,
+    "meter": "كامل تام",
+    "verse_count": 24,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_030",
+    "poem_index": 30,
+    "meter": "وافر تام",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_030",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نذر",
+        "notes": "This verse explicitly mentions 'vows' (نذور) and their fulfillment, which were significant votive practices and ritual obligations in pre-Islamic Arabian religion."
+      },
+      {
+        "poem_id": "kaʿb_b_zuhayr_030",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عتر",
+        "notes": "This verse refers to the pre-Islamic ritual of ʿatr, which involved sacrificing animals (here, gazelles) to deities or sacred entities, often in the month of Rajab."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_032",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الصفائح",
+        "notes": "The verse explicitly mentions \"الصفائح\" (slabs), referring to the covering of a grave, which is a pre-Islamic burial practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_034",
+    "poem_index": 34,
+    "meter": "مجزوء الكامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_035",
+    "poem_index": 35,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_036",
+    "poem_index": 36,
+    "meter": "بسيط تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_037",
+    "poem_index": 37,
+    "meter": "unknown",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_037",
+        "verse_indices": [
+          9
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The phrase \"سقي الجن\" (the watering/drink of the jinn) refers to the deep darkness of night, which was associated with the presence and activity of jinn in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_042",
+    "poem_index": 42,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_042",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غول",
+        "notes": "The verse explicitly mentions a 'ghoul' (غول), a type of supernatural being from pre-Islamic Arabian folklore, which is categorized under Supernatural_Beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_043",
+    "poem_index": 43,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "kaʿb_b_zuhayr_044",
+    "poem_index": 44,
+    "meter": "وافر تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "kaʿb_b_zuhayr_044",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الباكيات",
+        "notes": "This verse refers to 'wailing women' (الباكيات), which were a common feature of pre-Islamic mourning rites and lamentation practices."
+      }
+    ],
+    "error": false
+  }
+]

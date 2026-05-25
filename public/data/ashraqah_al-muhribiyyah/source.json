@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "عشرقة المحاربية",
+    "name_en": "ʿAshraqah al-Muhāribiyyah",
+    "tribe": "Muhārib",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ʿashraqah_al-muhāribiyyah_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "جَرَيْتُ مَعَ الْعُشَّاقِ فِيْ حَلْبَةِ الْهَوَى  فَفُقْتُهُمُ سَبْقاً وَجِئْتُ عَلَى رِسْلِي"
+        },
+        {
+          "verse_index": 1,
+          "text": "فَما لَبِسَ الْعُشَّاقُ مِنْ حُلَلِ الْهَوَى  وَلا خَلَعُوا إِلَّا الثِّيابَ الَّتِي أُبْلِي"
+        },
+        {
+          "verse_index": 2,
+          "text": "وَلا شَرِبُوا كَأْساً مِنَ الْحُبّ مَرَّةً  وَلا حُلْوَةً إِلَّا شَرابُهُمُ فَضْلِي"
+        }
+      ]
+    }
+  ]
+}

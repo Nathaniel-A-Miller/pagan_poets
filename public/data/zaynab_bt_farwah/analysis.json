@@ -1,0 +1,36 @@
+[
+  {
+    "poem_id": "zaynab_bt_farwah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zaynab_bt_farwah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "zaynab_bt_farwah_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنُون",
+        "notes": "The verse refers to 'al-manūn' (fate/death) as a powerful, almost personified cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zaynab_bt_farwah_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

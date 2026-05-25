@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "hind_bt_ʿiṣm_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿiṣm_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿiṣm_001",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيْرُها يَجْرِي",
+        "notes": "The phrase 'عَشِيَّةَ طَيْرُها يَجْرِي' refers to the practice of augury or divination by observing the flight or movement of birds, a common pre-Islamic Arabian practice."
+      }
+    ],
+    "error": false
+  }
+]

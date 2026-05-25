@@ -1,0 +1,515 @@
+[
+  {
+    "poem_id": "jirān_al-ʿawd_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 48,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_000",
+        "verse_indices": [
+          8,
+          9
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "عُقاب, غُراب, شَحّاج",
+        "notes": "The poet describes the appearance of an eagle and a croaking bird (raven/crow) and then explicitly interprets their significance as omens, which is a clear reference to pre-Islamic augury."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_000",
+        "verse_indices": [
+          13
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغُولُ, السِعلاةُ",
+        "notes": "The verse explicitly names al-Ghūl and al-Siʿlāt, which are well-known monstrous supernatural entities from pre-Islamic Arabian folklore and belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 78,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_001",
+        "verse_indices": [
+          41
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجِنُّ",
+        "notes": "This verse explicitly mentions jinn playing music in a high place, indicating their presence as supernatural entities in pre-Islamic belief."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_001",
+        "verse_indices": [
+          55
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "المُتَحَنِّفُ",
+        "notes": "This verse refers to the 'ḥanīf' (mutahanif), a pre-Islamic figure associated with monotheistic worship, indicating a specific religious role."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_002",
+    "poem_index": 2,
+    "meter": "متقارب",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_002",
+        "verse_indices": [
+          10
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "النُذور",
+        "notes": "The phrase 'أَقضي ما عَليَّ مِنَ النُذورِ' (I fulfill what is due from vows) refers to the pre-Islamic practice of making and fulfilling vows, which were ritualistic obligations often made to deities or sacred places."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_002",
+        "verse_indices": [
+          11,
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The repeated mention of 'الدَهر' (time/fate) in verses 11 and 12, wishing for its 'healing' and for it to 'return anew,' reflects the pre-Islamic concept of Dahr as a powerful, often personified, cosmological force governing human destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_006",
+        "verse_indices": [
+          1,
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "لَقطِ الحَصى وَالخَطِّ في الأَرضِ",
+        "notes": "These verses describe the practice of picking pebbles and drawing lines on the ground, which was a known pre-Islamic divinatory method."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_008",
+    "poem_index": 8,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ",
+        "notes": "The verse begins with an oath by 'the Lord of men,' a common pre-Islamic oath formula invoking a divine entity."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يَطوفونَ, البَيتِ, الحَجَرِ",
+        "notes": "This describes the pre-Islamic ritual of circumambulation (ṭawāf) around the Kaaba (al-Bayt) and the Black Stone (al-Ḥajar), central sacred elements in Arabian paganism."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_009",
+    "poem_index": 9,
+    "meter": "وافر",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_009",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نوائح, يلتدمن",
+        "notes": "This verse describes mourning rites, specifically wailing women (نَوائِحُ) beating their faces (يَلتَدِمنَ), which is a known pre-Islamic mortuary practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_010",
+    "poem_index": 10,
+    "meter": "بسيط",
+    "verse_count": 45,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_010",
+        "verse_indices": [
+          6
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغول",
+        "notes": "This verse explicitly mentions the 'ghoul' (الغول), a supernatural being from pre-Islamic Arabian folklore, suggesting a belief in such entities."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_010",
+        "verse_indices": [
+          21
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مَكَّةَ",
+        "notes": "The mention of 'Mecca' (مَكَّةَ) refers to a significant sacred geographical location in pre-Islamic Arabia, associated with pilgrimage and religious practices."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_010",
+        "verse_indices": [
+          30
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنُّ",
+        "notes": "This verse explicitly mentions 'jinn' (جِنُّ), referring to supernatural entities believed to inhabit certain places in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_011",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بَناتِ نَعشٍ",
+        "notes": "The mention of 'Banāt Naʿsh' (the constellation Ursa Major) reflects pre-Islamic astral belief, which is a component of cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_012",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رب",
+        "notes": "This verse contains an oath by 'Rabb' (Lord), which in this pre-Islamic context refers to a deity."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_012",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الطواف حول البيت والحجر",
+        "notes": "This describes the pre-Islamic ritual of circumambulation (ṭawāf) around the Kaaba (al-Bayt) and the Black Stone (al-Ḥajar)."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_012",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحج و ليلة النفر",
+        "notes": "This verse explicitly mentions the performance of Hajj and the specific pilgrimage term 'Laylat al-Nafr', both central to pre-Islamic ritual."
+      },
+      {
+        "poem_id": "jirān_al-ʿawd_012",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "القدر",
+        "notes": "This refers to 'al-Qadar' (fate/destiny) as an impersonal, irresistible force, a common pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_013",
+    "poem_index": 13,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_015",
+    "poem_index": 15,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_016",
+    "poem_index": 16,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_017",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "ذِئبٌ سانِحٌ, الطَيرُ",
+        "notes": "This verse explicitly refers to a wolf passing from the right (sāniḥ) and birds, both of which were common subjects for augury and omens in pre-Islamic Arabian divination practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_018",
+    "poem_index": 18,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_019",
+    "poem_index": 19,
+    "meter": "بسيط",
+    "verse_count": 27,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_019",
+        "verse_indices": [
+          25
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الغول",
+        "notes": "The verse explicitly mentions 'الغول' (ghoul), a supernatural entity from pre-Islamic Arabian folklore, typically a desert demon or jinn."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_020",
+    "poem_index": 20,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_020",
+        "verse_indices": [
+          0,
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) in early Arabic poetry frequently refers to fate or time as a powerful, impersonal cosmological force, reflecting pre-Islamic beliefs about destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_021",
+    "poem_index": 21,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_022",
+    "poem_index": 22,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_023",
+    "poem_index": 23,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_024",
+    "poem_index": 24,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_025",
+    "poem_index": 25,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_026",
+    "poem_index": 26,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_027",
+    "poem_index": 27,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_028",
+    "poem_index": 28,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_029",
+    "poem_index": 29,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_030",
+    "poem_index": 30,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_031",
+    "poem_index": 31,
+    "meter": "unknown",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_032",
+    "poem_index": 32,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_032",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بجرٌ رحابٌ مبجّلةٌ",
+        "notes": "The verse describes 'revered wide stones' (بجرٌ رحابٌ مبجّلةٌ) associated with a fire, strongly suggesting a pre-Islamic sacred space or object of veneration like an anṣāb."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_033",
+    "poem_index": 33,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_034",
+    "poem_index": 34,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "jirān_al-ʿawd_034",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "قرابينا",
+        "notes": "The verse describes a 'high place' (مشرف) where 'offerings' (قرابينا) were presented, indicating a pre-Islamic ritual practice associated with sacred spaces and sacrificial acts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jirān_al-ʿawd_035",
+    "poem_index": 35,
+    "meter": "متدارك",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  }
+]

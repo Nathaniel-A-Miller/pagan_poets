@@ -1,0 +1,397 @@
+[
+  {
+    "poem_id": "al-afwah_al-awdī_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_002",
+    "poem_index": 2,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_003",
+    "poem_index": 3,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_004",
+    "poem_index": 4,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_004",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The verse attributes agency to 'al-Dahr' (Time/Fate) as a force that removes or finishes off people, reflecting a pre-Islamic cosmological understanding of Dahr."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_007",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "المآلي ودارات الصفائح",
+        "notes": "This verse describes widows performing lamentations (المآلي) and mentions 'circles of flat stones' (دارات الصفائح), which likely refer to grave markers or a burial site, indicating pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_009",
+    "poem_index": 9,
+    "meter": "كامل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_009",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يا عِزَّ",
+        "notes": "The vocative 'يا عِزَّ' is interpreted as an invocation of the pre-Islamic goddess al-ʿUzzā, often referred to in a shortened form."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_009",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ذَحلا",
+        "notes": "The phrase 'لا نُضيعُ لنا ذَحلا' refers to the pre-Islamic obligation of vengeance (dhahl/tha'r), which is considered a quasi-ritual duty related to death and tribal honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_010",
+    "poem_index": 10,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_011",
+    "poem_index": 11,
+    "meter": "بسيط",
+    "verse_count": 16,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_012",
+    "poem_index": 12,
+    "meter": "كامل",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_012",
+        "verse_indices": [
+          15
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "تَيَمَّنَ",
+        "notes": "The verb \"تَيَمَّنَ\" refers to the act of seeking good fortune or taking an omen, a practice associated with pre-Islamic divination."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_012",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The mention of \"الدَهرُ\" (Time/Fate) as an irresistible force reflects a common pre-Islamic cosmological belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_013",
+    "poem_index": 13,
+    "meter": "رمل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_014",
+    "poem_index": 14,
+    "meter": "سريع",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_014",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "زمان",
+        "notes": "The term 'زمان' (time) is used here as an agent of misfortune, reflecting the pre-Islamic concept of dahr as a powerful, often destructive, cosmological force."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_014",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The explicit mention of 'الدهر' (Time/Fate) as an irresistible force that brings change and destruction is a direct reference to a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_014",
+        "verse_indices": [
+          21
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "السعد, النحوس",
+        "notes": "The reference to 'ليلة بالسعد' (a night of good fortune) and 'ليالي النحوس' (nights of ill fortune) reflects a belief in auspicious and inauspicious times, which is part of pre-Islamic cosmological understanding of fate and astral influences."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_015",
+    "poem_index": 15,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_017",
+    "poem_index": 17,
+    "meter": "رمل",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_017",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر (al-Dahr)",
+        "notes": "The verse refers to \"صروف الدهر\" (the vicissitudes of Dahr), which represents the pre-Islamic cosmological concept of Time/Fate as an impersonal, determining force."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_017",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر (al-Dahr)",
+        "notes": "The phrase \"حتم الدهر\" (Dahr decreed) explicitly attributes agency and power to Dahr, a key pre-Islamic cosmological concept of Time/Fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_018",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "غسل",
+        "notes": "This verse explicitly mentions the ritual washing of the deceased ('غسل'), a common pre-Islamic mortuary practice."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_018",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نائحة, نوح",
+        "notes": "The mention of a 'نائحة' (wailing woman) and 'نوح' (lamentation) refers to specific pre-Islamic mourning rites."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_018",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "شقق الخمش, مسلبة",
+        "notes": "This verse describes the pre-Islamic mourning practice of scratching the face ('شقق الخمش') and refers to a woman in mourning ('مسلبة')."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_018",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رن مرنات",
+        "notes": "The phrase 'رن مرنات' explicitly describes the wailing of women, a key component of pre-Islamic mourning rituals."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_018",
+        "verse_indices": [
+          7,
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "حفرة, هالوا عليه الترب",
+        "notes": "These verses describe the physical act of burial, including the grave ('حفرة') and covering the deceased with earth, which are fundamental pre-Islamic mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_019",
+    "poem_index": 19,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_021",
+    "poem_index": 21,
+    "meter": "بسيط",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "al-afwah_al-awdī_021",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "عاد (ʿĀd)",
+        "notes": "This verse references the legendary destruction of the ancient Arabian tribe of ʿĀd, implying a pre-Islamic concept of cosmic retribution for their past deeds."
+      },
+      {
+        "poem_id": "al-afwah_al-awdī_021",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "قُدار (Qudār)",
+        "notes": "This verse references Qudār, associated with the destruction of the Thamūd tribe, which serves as a cautionary tale reflecting pre-Islamic beliefs about fate and the consequences of misguidance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_022",
+    "poem_index": 22,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_024",
+    "poem_index": 24,
+    "meter": "وافر",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_025",
+    "poem_index": 25,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-afwah_al-awdī_027",
+    "poem_index": 27,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  }
+]

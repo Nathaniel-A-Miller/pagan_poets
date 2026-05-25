@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "zuhayr_ibn_abi_sulma",
+    "name_en": "Zuhayr ibn Abi Sulma",
+    "name_ar": "زهير بن أبي سلمى",
+    "source": "data/zuhayr/source.json",
+    "analysis": "data/zuhayr/analysis.json"
+  },
+  {
+    "slug": "qays_ibn_al-khatim",
+    "name_en": "Qays b. al-Khaṭīm",
+    "name_ar":"قيس بن ال خطيم",
+    "source": "data/qayskhatim/source.json",
+    "analysis": "data/qayskhatim/analysis.json"
+  }
+]

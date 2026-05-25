@@ -1,0 +1,29 @@
+{
+  "poet": {
+    "name_ar": "عبلة بنت خالد",
+    "name_en": "ʿAblah bt. Khālid",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 2,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ʿablah_bt_khālid_000",
+      "meter": "متقارب",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "شَرِبْتُ بِراحِلَتَيْ مِحْجَنٍ  فَيا وَيْلَتِي مِحْجَنٌ قاتِلِي"
+        },
+        {
+          "verse_index": 1,
+          "text": "وَبِابْنِ أَخِيهِ عَلَى لَذَّةٍ  وَلَمْ أَحْتَفِلْ عَذْلَةَ الْعاذِلِ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "poem_id": "salāmah_b_jandal_000",
+    "poem_index": 0,
+    "meter": "بسيط تام",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "salāmah_b_jandal_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أنصاب ترجيب",
+        "notes": "The phrase \"أنصاب ترجيب\" explicitly refers to the standing stones (anṣāb) used for sacrifices, particularly those performed during the sacred month of Rajab (tarjīb), a key pre-Islamic ritual."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_001",
+    "poem_index": 1,
+    "meter": "كامل تام",
+    "verse_count": 35,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "salāmah_b_jandal_002",
+        "verse_indices": [
+          13
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحمس",
+        "notes": "This verse explicitly mentions 'al-Ḥums,' a group of Quraysh and allied tribes known for their specific ritual practices during the pre-Islamic pilgrimage."
+      },
+      {
+        "poem_id": "salāmah_b_jandal_002",
+        "verse_indices": [
+          25
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "تخمش وتحلق",
+        "notes": "The verse describes traditional pre-Islamic mourning practices involving scratching the face and shaving the head."
+      },
+      {
+        "poem_id": "salāmah_b_jandal_002",
+        "verse_indices": [
+          35,
+          36
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الرحمن",
+        "notes": "These verses refer to 'al-Raḥmān' and describe a divine will that controls fate and events, reflecting a pre-Islamic cosmological understanding of a supreme power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "salāmah_b_jandal_003",
+        "verse_indices": [
+          13,
+          14
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "عويل, الطير غابات",
+        "notes": "These verses describe the aftermath of battle, specifically the wailing of women (a mourning rite) and the bodies of the fallen being left for carrion birds, which relates to pre-Islamic mortuary beliefs and practices regarding the unburied dead."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "salāmah_b_jandal_004",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الخلى والمسح",
+        "notes": "The poet explicitly states non-participation in 'al-khalā wa-l-masḥ,' which refers to pre-Islamic ritual practices of touching or wiping sacred objects or idols."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "salāmah_b_jandal_005",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "راقيا",
+        "notes": "The term 'rāqiyan' refers to a charmer or incanter, whose practice (ruqya) was a form of folk magic or divination used to avert misfortune or death in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "salāmah_b_jandal_008",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The phrase 'سؤوق المنايا' (the drivers of fates/deaths) refers to 'manāyā' as an irresistible cosmological force of fate or death, a common concept in pre-Islamic poetry."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_009",
+    "poem_index": 9,
+    "meter": "بسيط تام",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_010",
+    "poem_index": 10,
+    "meter": "بسيط تام",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_011",
+    "poem_index": 11,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_012",
+    "poem_index": 12,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_013",
+    "poem_index": 13,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_014",
+    "poem_index": 14,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_015",
+    "poem_index": 15,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_018",
+    "poem_index": 18,
+    "meter": "بسيط تام",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_020",
+    "poem_index": 20,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_022",
+    "poem_index": 22,
+    "meter": "وافر تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_023",
+    "poem_index": 23,
+    "meter": "متقارب تام",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_024",
+    "poem_index": 24,
+    "meter": "متقارب تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "salāmah_b_jandal_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  }
+]

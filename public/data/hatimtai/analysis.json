@@ -1,0 +1,722 @@
+[
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_000",
+    "poem_index": 0,
+    "meter": "خفيف تام",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_001",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse attributes the causation of calamity to 'al-Dahr,' reflecting the pre-Islamic cosmological concept of Dahr as an impersonal force of fate responsible for events and misfortunes."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_003",
+    "poem_index": 3,
+    "meter": "%  : وافر تام",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_003",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "This verse contains the phrase 'معاذ الله' (God forbid), which is an oath or invocation seeking refuge in God, a common practice in pre-Islamic Arabian religion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_004",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الشيطن",
+        "notes": "The verse explicitly mentions 'al-Shayṭān,' referring to a supernatural entity believed to be a type of jinn in pre-Islamic Arabian cosmology."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_006",
+    "poem_index": 6,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_006",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse refers to 'صروف الدهر' (the vicissitudes of Dahr), which represents a pre-Islamic cosmological concept of time or fate as an impersonal, powerful force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_008",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "العائدات يعدنه ينادين لا تبعد",
+        "notes": "This verse describes women mourning the deceased with a specific lamentation formula ('do not be far'), which is a pre-Islamic mortuary practice."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_008",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أطافوا به طوفين",
+        "notes": "This verse refers to the ritualistic circling (ṭawāf) of the deceased, a practice associated with pre-Islamic burial rites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_010",
+    "poem_index": 10,
+    "meter": "متقارب تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_011",
+        "verse_indices": [
+          12
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإله, الرحمان",
+        "notes": "The verse refers to 'sustenance from God' (رزق الإله) and states that 'your sustenance is upon al-Raḥmān tomorrow' (على الرحمان رزقكم غدا), explicitly naming a divine entity (al-Raḥmān) as a provider, which was a known divine name/epithet in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_012",
+    "poem_index": 12,
+    "meter": "كامل تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_015",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نطفة من الخمر، ريا، فانضحن بها قبري",
+        "notes": "The instruction to sprinkle wine on the grave is a specific pre-Islamic mortuary practice or belief related to honoring the deceased."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_015",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهري",
+        "notes": "The personification of 'dahr' (time/fate) as an agent that 'gives to drink' aligns with pre-Islamic cosmological beliefs about an impersonal force governing human destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_016",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمري",
+        "notes": "The phrase 'لعمري' (by my life) is a common pre-Islamic oath formula, invoking the speaker's life as a sacred entity."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_016",
+        "verse_indices": [
+          20
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ودا",
+        "notes": "The term 'ودا' refers to Wadd, a prominent pre-Islamic Arabian deity, particularly worshipped in the south."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_017",
+    "poem_index": 17,
+    "meter": "وافر تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 20,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_018",
+        "verse_indices": [
+          7
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صداي",
+        "notes": "This verse explicitly mentions the 'ṣadā', a pre-Islamic belief that a bird-like entity emerges from the skull of the deceased."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_018",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رب واحد أمه أجرت",
+        "notes": "This verse contains an oath formula invoking 'the Lord of one whose mother granted protection,' which is characteristic of pre-Islamic oath-taking."
+      },
+      {
+        "poem_id": "ḥātim_al_ṭāʾī_018",
+        "verse_indices": [
+          12
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القداح",
+        "notes": "This verse mentions 'al-qidāḥ,' referring to divining arrows or arrows used in games of chance with ritualistic connotations, indicating a practice of divination or ritualistic gambling."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_018",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse refers to 'al-dahr' as a cosmological force that dictates the changing fortunes of life, a significant pre-Islamic concept of fate and time."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_018",
+        "verse_indices": [
+          15
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse further emphasizes 'al-dahr' as a cosmological force, describing it as an active agent that brings both ease and hardship."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_019",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حمام",
+        "notes": "The term \"حمام\" refers to fated death or doom, a concept often linked to pre-Islamic notions of inescapable destiny (manāyā) as a cosmological force."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_019",
+        "verse_indices": [
+          13
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "زاجر",
+        "notes": "The verse mentions \"قول زاجر\" (the saying of an augur), explicitly referencing the pre-Islamic practice of augury (zajr) and its practitioners."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_020",
+    "poem_index": 20,
+    "meter": "كامل تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_021",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "وقعات الدهر",
+        "notes": "The phrase 'وقعات الدهر' (blows of time/fate) refers to dahr as a powerful, often indifferent or malevolent, cosmological force, a common pre-Islamic concept of fate."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_021",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله ، رب الناس",
+        "notes": "This verse contains an invocation to 'Allah, Lord of people,' which reflects the pre-Islamic recognition of a supreme deity, often invoked for blessings like rain."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_022",
+    "poem_index": 22,
+    "meter": "متقارب تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_023",
+    "poem_index": 23,
+    "meter": "رجز تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_024",
+    "poem_index": 24,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_025",
+    "poem_index": 25,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_025",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ود",
+        "notes": "The name 'ʿAbd Wadd' (عبد ود) explicitly refers to Wadd, a pre-Islamic deity, indicating a connection to a pagan deity through a personal name."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_027",
+        "verse_indices": [
+          11
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عقيرا ، أمام البيت",
+        "notes": "The mention of slaughtering an animal ('عقير') in front of the house ('أمام البيت') suggests a pre-Islamic ritualistic act of sacrifice or offering, often associated with hospitality or votive practices."
+      },
+      {
+        "poem_id": "ḥātim_al_ṭāʾī_027",
+        "verse_indices": [
+          14
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وأبيك",
+        "notes": "The phrase \"وأبيك\" (by your father) is a common pre-Islamic oath formula, invoking the father's honor or existence as a sacred anchor."
+      },
+      {
+        "poem_id": "ḥātim_al_ṭāʾī_027",
+        "verse_indices": [
+          20
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "بنوا الجن",
+        "notes": "The phrase \"بنوا الجن\" (sons of the Jinn) explicitly refers to Jinn, which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_028",
+    "poem_index": 28,
+    "meter": "كامل تام",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_028",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بالله العزيز",
+        "notes": "This verse contains an explicit oath sworn by 'God the Mighty,' a common practice in pre-Islamic Arabia where 'Allah' was recognized as a supreme deity, often invoked in oaths."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_028",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله يعلم",
+        "notes": "This verse invokes God's knowledge, which is an explicit reference to a deity's attribute and presence, common in pre-Islamic expressions of belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_029",
+    "poem_index": 29,
+    "meter": "وافر تام",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_029",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنية",
+        "notes": "The verse explicitly mentions 'جنية' (female jinn), which are non-divine supernatural entities central to pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_031",
+    "poem_index": 31,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_031",
+        "verse_indices": [
+          0
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "أبيت اللعن",
+        "notes": "This is a pre-Islamic formulaic expression wishing the addressee to be spared from curses, implying a belief in the efficacy and source of curses within the pre-Islamic worldview."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_032",
+        "verse_indices": [
+          14
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "لميت, بيت مسقف",
+        "notes": "The verse explicitly refers to death ('لميت') and the grave ('بيت مسقف' - a roofed house) as the ultimate fate and resting place, aligning with pre-Islamic mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_033",
+    "poem_index": 33,
+    "meter": "متقارب تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_034",
+    "poem_index": 34,
+    "meter": "بسيط تام",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_034",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن والخبلا",
+        "notes": "The verse explicitly mentions 'jinn' and 'khabal' (evil spirits/affliction by jinn), which are key supernatural entities in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_034",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حمام الموت",
+        "notes": "The phrase 'ḥimām al-mawt' refers to the inescapable doom or fate of death, aligning with pre-Islamic cosmological concepts of predetermined destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_035",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أزلي",
+        "notes": "The term 'أزلي' (my fate/destiny) refers to a predetermined destiny, aligning with pre-Islamic cosmological concepts of fate."
+      },
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_035",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The explicit mention of 'الدهر' (Time/Fate) refers to a significant pre-Islamic cosmological force, often personified as an agent of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_039",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صروف الدهر",
+        "notes": "The phrase 'صروف الدهر' (the vicissitudes of Time/Fate) refers to dahr as an active, powerful, and determining force, which is a key pre-Islamic cosmological concept related to fatalism."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_042",
+    "poem_index": 42,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḥātim_al-ṭāʾī_045",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وبيت الله",
+        "notes": "This phrase constitutes an oath by the 'House of God,' referring to the Kaaba, a sacred pre-Islamic sanctuary, making it an oath anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_046",
+    "poem_index": 46,
+    "meter": "وافر تام",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḥātim_al-ṭāʾī_047",
+    "poem_index": 47,
+    "meter": "بسيط تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  }
+]

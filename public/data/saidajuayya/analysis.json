@@ -1,0 +1,344 @@
+[
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 63,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_000",
+        "verse_indices": [
+          8,
+          9,
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "حلف امرئ, هدية, مقام",
+        "notes": "The poet explicitly states an oath ('حلف امرئ') sworn by 'هدية' (votive offering) and 'مقام' (sacred standing place), which are pre-Islamic sacred entities or ritual practices."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_000",
+        "verse_indices": [
+          37
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "The phrase 'والله' is an explicit oath, commonly used in pre-Islamic Arabia to swear by the supreme deity."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_000",
+        "verse_indices": [
+          39
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "'الدهر' (Time/Fate) is invoked as a powerful, impersonal force, reflecting a key pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 46,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_001",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البيت",
+        "notes": "The phrase 'وراء البيت' (behind the House) refers to the Kaaba, a central pre-Islamic sanctuary and sacred space."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_001",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "تَاللَهِ",
+        "notes": "The term 'تَاللَهِ' (By God) is an explicit pre-Islamic oath formula invoking a deity."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_001",
+        "verse_indices": [
+          26
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بِمِقدارٍ",
+        "notes": "The phrase 'حتفاً بمقدار' (death by measure/fate) implies a concept of predetermined destiny or fate, a common pre-Islamic cosmological idea."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_001",
+        "verse_indices": [
+          27
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حَدَثانُ الدَهرِ",
+        "notes": "The term 'حدثان الدهر' (the events/calamities of Time/Fate) refers to 'Dahr' as a cosmological force responsible for events, a key pre-Islamic belief."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_001",
+        "verse_indices": [
+          32
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حُمساً",
+        "notes": "The mention of 'حُمساً' (Ḥums) refers to a specific group of pre-Islamic Arabs, primarily the Quraysh, who observed distinct ritual practices related to the pilgrimage and sacred spaces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_003",
+    "poem_index": 3,
+    "meter": "وافر",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_003",
+        "verse_indices": [
+          7,
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنِيَّة",
+        "notes": "The term 'maniyya' (fate/appointed death) is used in these verses to describe an irresistible force, reflecting a pre-Islamic cosmological understanding of destiny."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_003",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مُجنَأَة",
+        "notes": "The verse describes a 'mujnaʾa' (grave) covered with heavy stones and wood, which is an explicit reference to pre-Islamic burial practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "عبد شمس",
+        "notes": "The personal name 'ʿAbd Shams' (Servant of Shams) explicitly refers to Shams, the pre-Islamic sun deity, indicating a form of devotion or acknowledgment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 28,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_006",
+        "verse_indices": [
+          21
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "تَنـوحُ",
+        "notes": "This verse describes a woman lamenting ('تنوح'), which was a significant ritualistic aspect of pre-Islamic mourning practices for the deceased."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_006",
+        "verse_indices": [
+          27
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "رِبابَـــةُ أَيســـارٍ",
+        "notes": "The phrase 'ربابة أيسار' explicitly refers to the bundle of arrows used in the pre-Islamic practice of *maysir*, which involved casting lots for divination or ritualistic distribution of meat, often with marked arrows ('وشوم')."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_007",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحجيج الملبد",
+        "notes": "This verse explicitly refers to 'pilgrims with matted hair' (الحجيج الملبد) crying out, which is a direct allusion to the pre-Islamic Hajj pilgrimage and the ritual state of ihram."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_007",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'أرى الدهر' (I see Time/Dahr) refers to Dahr as a powerful, active cosmological force, a common pre-Islamic belief about fate and the nature of existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_008",
+    "poem_index": 8,
+    "meter": "بسيط",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نَحَروا بِالخَيفِ",
+        "notes": "This verse explicitly mentions the act of sacrifice (naḥr) performed at al-Khayf, a sacred location in Mina associated with pre-Islamic pilgrimage rituals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_009",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "وادٍ حَرامٍ",
+        "notes": "This verse explicitly mentions a 'sacred valley' (wādī ḥarām), indicating a pre-Islamic sacred space where certain activities like hunting were prohibited."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_009",
+        "verse_indices": [
+          13
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَتَـاللَّهِ",
+        "notes": "This verse contains an explicit oath 'By God' (wa-tā-llāhi), which is a common pre-Islamic oath formula."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_009",
+        "verse_indices": [
+          22
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نُحورُها",
+        "notes": "This verse describes a scene using the simile of 'sacrificial camels of Iyad on the day their throats were slit,' explicitly referencing a pre-Islamic ritual slaughter."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_009",
+        "verse_indices": [
+          25
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِـاللَّهِ المَجيدِ",
+        "notes": "This verse contains an explicit oath 'By God, the Glorious' (bi-llāhi l-majīd), reinforcing the use of pre-Islamic oath formulae."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_010",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهـر",
+        "notes": "The term 'dahr' (time/fate) is invoked as a cosmological force, a common pre-Islamic concept representing an impersonal destiny."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_010",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المُنى",
+        "notes": "'Al-Munā' (fates/destinies) refers to pre-Islamic concepts of fate as an active cosmological agent, similar to dahr."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_010",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهري",
+        "notes": "The poet addresses 'dahr' (my fate/time) as a personified cosmological force, reflecting pre-Islamic beliefs about destiny."
+      },
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_010",
+        "verse_indices": [
+          11
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "مَنَى",
+        "notes": "'Manā' (منى) is an explicit reference to Manāt, a prominent pre-Islamic Arabian goddess."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "sāʿidah_b_juʾayyah_011",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البَيتَ المُحَجَّبَ",
+        "notes": "This verse explicitly mentions 'the veiled House' (al-Bayt al-Muḥajjab), which is a clear reference to the Kaaba, a central pre-Islamic sanctuary and sacred space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sāʿidah_b_juʾayyah_012",
+    "poem_index": 12,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

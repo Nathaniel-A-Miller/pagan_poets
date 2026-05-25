@@ -1,0 +1,36 @@
+[
+  {
+    "poem_id": "aktham_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "aktham_001",
+    "poem_index": 1,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "aktham_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "aktham_002",
+        "verse_indices": [
+          1
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "الكواهن",
+        "notes": "This verse explicitly mentions \"al-kawāhin\" (diviner-priestesses/priests), referring to a pre-Islamic sacral role whose efforts were in vain."
+      }
+    ],
+    "error": false
+  }
+]

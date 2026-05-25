@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "jumal_al-sulamiyyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "jumal_al-sulamiyyah_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تَمائِمِي",
+        "notes": "The mention of 'tamāʾim' (amulets) refers to a common pre-Islamic practice of wearing protective charms, which falls under the performative dimensions of religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "jumal_al-sulamiyyah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  }
+]

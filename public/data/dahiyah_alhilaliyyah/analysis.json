@@ -1,0 +1,26 @@
+[
+  {
+    "poem_id": "ḍāḥiyah_al-hilāliyyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍāḥiyah_al-hilāliyyah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍāḥiyah_al-hilāliyyah_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

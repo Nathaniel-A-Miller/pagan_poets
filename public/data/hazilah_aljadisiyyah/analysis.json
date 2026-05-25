@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "hazīlah_al-jadīsiyyah_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hazīlah_al-jadīsiyyah_001",
+    "poem_index": 1,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "hazīlah_al-jadīsiyyah_001",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمري",
+        "notes": "This verse contains the oath formula \"لعمري\" (By my life), a common pre-Islamic oath used to affirm the truth or gravity of a statement."
+      }
+    ],
+    "error": false
+  }
+]

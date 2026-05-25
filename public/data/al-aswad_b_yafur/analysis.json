@@ -1,0 +1,938 @@
+[
+  {
+    "poem_id": "al-aswad_b_yaʿfur_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_001",
+    "poem_index": 1,
+    "meter": "unknown",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_002",
+    "poem_index": 2,
+    "meter": "unknown",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_002",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نجمٌ عن نوئه",
+        "notes": "This verse refers to the pre-Islamic Arabian belief in *anwāʾ*, where the rising or setting of certain stars (نجم) was believed to bring specific weather events, particularly rain, thus fitting astral belief under cosmological concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_003",
+    "poem_index": 3,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_004",
+    "poem_index": 4,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_005",
+    "poem_index": 5,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_006",
+    "poem_index": 6,
+    "meter": "unknown",
+    "verse_count": 31,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_006",
+        "verse_indices": [
+          12
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حجّ مسكن",
+        "notes": "This verse explicitly mentions 'hajj Masakan' (pilgrimage of Masakan), referring to a pre-Islamic pilgrimage ritual to a specific location."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_006",
+        "verse_indices": [
+          14
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حُمس",
+        "notes": "The term 'ḥums' refers to a specific group of Quraysh and allied tribes who observed particular ritual practices and restrictions during the pre-Islamic Hajj, making it a technical term related to pre-Islamic ritual status."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_006",
+        "verse_indices": [
+          29
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ذريح",
+        "notes": "The phrase 'كلاب ذريح' (dogs of Dharīḥ) refers to Dharīḥ, a known pre-Islamic deity or sacred entity in South Arabia, indicating a direct connection to a pre-Islamic divine figure."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_007",
+    "poem_index": 7,
+    "meter": "unknown",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_008",
+    "poem_index": 8,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنّ",
+        "notes": "The verse explicitly mentions 'jinn' as a source of favor, directly referencing pre-Islamic supernatural entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_009",
+    "poem_index": 9,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_010",
+    "poem_index": 10,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_011",
+    "poem_index": 11,
+    "meter": "unknown",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_012",
+    "poem_index": 12,
+    "meter": "unknown",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أصداءٍ وهامِ",
+        "notes": "This verse explicitly refers to the pre-Islamic belief that the soul of the deceased transforms into a bird (ṣadā) or an owl (hām) that hovers over the grave."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_013",
+    "poem_index": 13,
+    "meter": "unknown",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_014",
+    "poem_index": 14,
+    "meter": "unknown",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_014",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "تالله",
+        "notes": "The phrase 'تالله' (By God) is an explicit oath formula common in pre-Islamic Arabian speech, invoking a deity."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_014",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أحرما",
+        "notes": "The verb 'أحرما' refers to entering the state of iḥrām, a ritual consecration associated with pilgrimage (ḥajj or ʿumra) to sacred sites in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_015",
+    "poem_index": 15,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_016",
+    "poem_index": 16,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جُنّيتَ",
+        "notes": "The verb 'جُنّيتَ' (junniyta) explicitly refers to being possessed by jinn, a common pre-Islamic belief regarding the cause of madness or affliction."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_017",
+    "poem_index": 17,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_018",
+    "poem_index": 18,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_018",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "السماك",
+        "notes": "The verse refers to al-Simāk, a star whose rising or setting was associated with specific weather patterns (dust-carrying winds), reflecting pre-Islamic astral belief in stars as agents influencing earthly events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_019",
+    "poem_index": 19,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_020",
+    "poem_index": 20,
+    "meter": "unknown",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_020",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies 'dahr' (time/fate) as an agent that acts upon people, reflecting the pre-Islamic belief in dahr as a powerful, often destructive, cosmological force."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_020",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "إهلاك عاد",
+        "notes": "The reference to the destruction of the ancient tribe of ʿĀd serves as an example of the overwhelming power of fate or cosmic forces, aligning with pre-Islamic cosmological views."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_021",
+    "poem_index": 21,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_022",
+    "poem_index": 22,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_023",
+    "poem_index": 23,
+    "meter": "خفيف",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_024",
+    "poem_index": 24,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_025",
+    "poem_index": 25,
+    "meter": "unknown",
+    "verse_count": 28,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_025",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يوم التحالِق",
+        "notes": "This verse refers to \"the day of shaving heads\" (يوم التحالِق), a specific ritual associated with pilgrimage (Hajj/Umrah) in pre-Islamic Arabia, indicating a sacred practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_026",
+    "poem_index": 26,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_027",
+    "poem_index": 27,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_028",
+    "poem_index": 28,
+    "meter": "unknown",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_029",
+    "poem_index": 29,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_030",
+    "poem_index": 30,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_031",
+    "poem_index": 31,
+    "meter": "unknown",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_031",
+        "verse_indices": [
+          6
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجنيّ",
+        "notes": "The verse explicitly mentions 'الجنيّ' (jinn), referring to a non-divine supernatural entity prominent in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_032",
+    "poem_index": 32,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_034",
+    "poem_index": 34,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_035",
+    "poem_index": 35,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_036",
+    "poem_index": 36,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_037",
+    "poem_index": 37,
+    "meter": "unknown",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_037",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "إن الأمور مطالِعُ",
+        "notes": "This phrase suggests a belief in the predetermined nature of events or fate, aligning with pre-Islamic cosmological concepts like dahr or manāyā."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_038",
+    "poem_index": 38,
+    "meter": "unknown",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_038",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فدى لك أمي",
+        "notes": "This verse contains the pre-Islamic oath formula 'May my mother be your ransom,' which is a common expression of ultimate loyalty or sacrifice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_039",
+    "poem_index": 39,
+    "meter": "unknown",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_040",
+    "poem_index": 40,
+    "meter": "متدارك",
+    "verse_count": 34,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_040",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القداح",
+        "notes": "The comparison of individuals to 'al-qidāḥ' (divining arrows) in the context of 'their portions/fates' explicitly references the pre-Islamic practice of divination using lots (azlām)."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_040",
+        "verse_indices": [
+          29
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "قُدسُ",
+        "notes": "The mention of 'Qudus' as a source of water ('مياه القهر أو قدس') likely refers to a sacred spring or well, indicating a sacred geographical location in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_041",
+    "poem_index": 41,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_041",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللات",
+        "notes": "The verse explicitly names al-Lāt, a prominent pre-Islamic Arabian goddess, indicating a reference to a pre-Islamic deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_042",
+    "poem_index": 42,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_043",
+    "poem_index": 43,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_043",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعَمرُكَ",
+        "notes": "This verse contains the pre-Islamic oath formula 'la-ʿamruka' (by your life), which is a common form of swearing in the pre-Islamic period."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_044",
+    "poem_index": 44,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_045",
+    "poem_index": 45,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_045",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قَدح",
+        "notes": "The term 'qadaḥ' (قَدح) can refer to the arrows or lots used in pre-Islamic divination (azlām), suggesting a call to abandon such practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_046",
+    "poem_index": 46,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_047",
+    "poem_index": 47,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_048",
+    "poem_index": 48,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_048",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "مَنِيّ",
+        "notes": "The poet invokes \"Manīy\" (مَنِيّ), which is likely a variant or a related form of a pre-Islamic deity or sacred entity, asking for intervention."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_048",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "طَواف",
+        "notes": "The verse describes a Himyarite performing \"ṭawāf\" (circumambulation), a ritual practice associated with pre-Islamic sanctuaries."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_049",
+    "poem_index": 49,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_050",
+    "poem_index": 50,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_051",
+    "poem_index": 51,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_051",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أيمَنُ أو جُبارُ",
+        "notes": "The phrase describes the water as either 'auspicious' (أيمَنُ) or 'inauspicious/difficult' (جُبارُ), reflecting a belief in omens derived from environmental conditions or spatial orientation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_052",
+    "poem_index": 52,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_053",
+    "poem_index": 53,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_053",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النجم, العقرب",
+        "notes": "The verse refers to being born under specific stars (al-Najm, al-ʿAqrab), indicating an astral belief system where stars influence destiny, which is a pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_054",
+    "poem_index": 54,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_055",
+    "poem_index": 55,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_056",
+    "poem_index": 56,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_057",
+    "poem_index": 57,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_058",
+    "poem_index": 58,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_058",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعمرُ أبيكَ",
+        "notes": "The phrase 'لَعمرُ أبيكَ' is a pre-Islamic oath formula invoking the life of a father, which is considered a sacred entity in such contexts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_059",
+    "poem_index": 59,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_060",
+    "poem_index": 60,
+    "meter": "متدارك",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_061",
+    "poem_index": 61,
+    "meter": "متدارك",
+    "verse_count": 36,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_061",
+        "verse_indices": [
+          4
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "ذي الأعواد",
+        "notes": "The phrase 'سبيل ذي الأعواد' (the path of Dhu al-A'wad) refers to a fated path, with 'ذي الأعواد' often interpreted as a reference to the arrows (azlām) used for divination to determine one's destiny."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_061",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية والحتوف",
+        "notes": "Al-Manīya (death/fate) and al-Ḥutūf (deaths/fates) are personified as active, irresistible forces, reflecting the pre-Islamic belief in fate as a powerful cosmological agent."
+      },
+      {
+        "poem_id": "al-aswad_b_yaʿfur_061",
+        "verse_indices": [
+          35
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "Al-Dahr (Time/Fate) is presented as an indifferent, destructive force that replaces good with corruption, a central cosmological concept in pre-Islamic Arabian thought."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_062",
+    "poem_index": 62,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_062",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الصدى",
+        "notes": "This verse explicitly mentions 'al-ṣadā,' a bird-like entity believed to emerge from the skull of the deceased in pre-Islamic Arabian belief, crying out for water or vengeance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_063",
+    "poem_index": 63,
+    "meter": "unknown",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_063",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أخذتُ حقي",
+        "notes": "This verse implicitly refers to the pre-Islamic tribal obligation of blood vengeance (tha'r) in the context of deceased kin, which was a quasi-ritualistic duty."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_064",
+    "poem_index": 64,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_065",
+    "poem_index": 65,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_065",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللات",
+        "notes": "The verse contains an explicit oath 'لا باللاتِ' (no, by al-Lāt), directly invoking the pre-Islamic goddess al-Lāt."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_066",
+    "poem_index": 66,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_067",
+    "poem_index": 67,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_068",
+    "poem_index": 68,
+    "meter": "متدارك",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_068",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النجم والنَثرة والعقرب",
+        "notes": "The verse attributes the generosity of the sky (rain) to specific stars and constellations (al-Najm, al-Nathra, al-ʿAqrab), reflecting pre-Islamic astral belief in their influence on natural phenomena."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_069",
+    "poem_index": 69,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_069",
+        "verse_indices": [
+          0,
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهر",
+        "notes": "These verses describe 'dahr' (time/fate) as an active, powerful force that brings change and calamity, reflecting a pre-Islamic cosmological understanding of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_070",
+    "poem_index": 70,
+    "meter": "unknown",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_071",
+    "poem_index": 71,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-aswad_b_yaʿfur_071",
+        "verse_indices": [
+          0,
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البدن, الرأس والأكرع والإهاب",
+        "notes": "The verses describe the appearance of sacrificial animals (البدن) and the subsequent distribution of their parts (الرأس والأكرع والإهاب), indicating a pre-Islamic sacrificial ritual."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_072",
+    "poem_index": 72,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-aswad_b_yaʿfur_073",
+    "poem_index": 73,
+    "meter": "unknown",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  }
+]

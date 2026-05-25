@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "zawjat_qurād_b_ajdaʿ_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zawjat_qurād_b_ajdaʿ_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) is invoked as an irresistible cosmological force, a common pre-Islamic concept of fate."
+      }
+    ],
+    "error": false
+  }
+]

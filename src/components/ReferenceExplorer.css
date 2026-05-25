@@ -1,0 +1,471 @@
+.explorer {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+/* Poet header */
+.poet-header {
+  background: var(--parchment);
+  border: 1px solid var(--sand-dark);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  border-left: 4px solid var(--rust);
+}
+
+.poet-names {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.poet-name-en {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 0.03em;
+}
+
+.poet-name-ar {
+  font-size: 1.4rem;
+  color: var(--ink-light);
+  font-weight: 400;
+}
+
+.poet-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.meta-item {
+  font-size: 0.82rem;
+  color: var(--stone);
+  letter-spacing: 0.05em;
+}
+
+.meta-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--stone-light);
+  margin-right: 0.4rem;
+}
+
+.meta-warning {
+  font-size: 0.78rem;
+  color: var(--rust);
+  font-style: italic;
+}
+
+/* Filter panel */
+.filter-panel {
+  background: var(--parchment);
+  border: 1px solid var(--sand-dark);
+  padding: 1rem 1.25rem;
+}
+
+.filter-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+
+.filter-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--stone);
+}
+
+.toggle-all-btn {
+  font-size: 0.75rem;
+  color: var(--rust);
+  background: none;
+  border: none;
+  letter-spacing: 0.05em;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.category-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.cat-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--sand-dark);
+  background: var(--sand);
+  color: var(--stone);
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+  border-radius: 2px;
+  transition: all 0.15s ease;
+}
+
+.cat-filter:hover {
+  border-color: var(--cat-color);
+  color: var(--ink-light);
+}
+
+.cat-filter.active {
+  background: var(--cat-color);
+  border-color: var(--cat-color);
+  color: #fff;
+}
+
+.cat-filter.empty {
+  opacity: 0.4;
+}
+
+.cat-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--cat-color);
+  flex-shrink: 0;
+}
+
+.cat-filter.active .cat-dot {
+  background: rgba(255,255,255,0.7);
+}
+
+.cat-count {
+  font-size: 0.72rem;
+  opacity: 0.75;
+  margin-left: 0.1rem;
+}
+
+/* Results */
+.results-header {
+  display: flex;
+  align-items: center;
+}
+
+.results-count {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--stone);
+}
+
+.no-results {
+  text-align: center;
+  padding: 3rem;
+  color: var(--stone-light);
+  font-style: italic;
+}
+
+/* Reference cards */
+.ref-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.ref-card {
+  border: 1px solid var(--sand-dark);
+  background: var(--parchment);
+  border-left: 3px solid var(--ref-color);
+  transition: box-shadow 0.15s ease;
+}
+
+.ref-card:hover {
+  box-shadow: 0 2px 8px rgba(26, 18, 8, 0.08);
+}
+
+.ref-card-main {
+  display: flex;
+  flex-direction: column; /* Stack vertically on mobile */
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+}
+
+/* Switch back to a row layout on wider screens */
+@media (min-width: 600px) {
+  .ref-card-main {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.ref-left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 100%; /* Take up full width on mobile */
+  min-width: 0;
+}
+
+.ref-category-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--ref-color);
+  flex-shrink: 0;
+  margin-top: 0.45rem;
+}
+
+.ref-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.ref-top {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0.3rem;
+  flex-wrap: wrap;
+}
+
+.ref-category-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ref-color);
+  font-weight: 700;
+}
+
+.ref-entity {
+  font-size: 1rem;
+  color: var(--ink);
+  display: inline-flex;
+  flex-direction: row; 
+  align-items: center;
+  gap: 0.35rem;
+  direction: ltr; /* Forces the entity block to read left-to-right */
+}
+
+/* Ensure the label text itself reads left-to-right */
+.entity-label {
+  direction: ltr;
+}
+
+.entity-label::after {
+  content: ":";
+}
+
+/* Retain right-to-left for the Arabic word inside the entity badge */
+.entity-text {
+  direction: rtl;
+  display: inline-block;
+}
+
+.ref-verse-preview {
+  font-size: 0.95rem;
+  color: var(--ink-light);
+  /* Remove white-space: nowrap; */
+  /* Remove overflow: hidden; */
+  /* Remove text-overflow: ellipsis; */
+  white-space: normal; /* Allows wrapping */
+  direction: rtl;
+  line-height: 1.6;
+}
+
+.ref-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.ref-poem-id {
+  font-size: 0.72rem;
+  color: var(--stone-light);
+  letter-spacing: 0.05em;
+  font-style: italic;
+}
+
+.ref-expand {
+  font-size: .7rem;
+  color: #0a6d65;
+}
+
+/* Expanded state */
+.ref-expanded {
+  border-top: 1px solid var(--sand-dark);
+  padding: 1rem 1rem 1rem 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  background: var(--sand);
+}
+
+.ref-notes {
+  font-size: 0.85rem;
+  color: var(--ink-light);
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.ref-verses {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.ref-verse {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  direction: rtl;
+}
+
+.verse-num {
+  font-size: 0.7rem;
+  color: var(--stone-light);
+  flex-shrink: 0;
+  font-style: normal;
+  direction: ltr;
+  min-width: 1.5rem;
+  text-align: right;
+}
+
+.verse-text {
+  font-size: 1.05rem;
+  color: var(--ink);
+  line-height: 1.8;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.ref-poem-meta {
+  font-size: 0.75rem;
+  color: var(--stone);
+  letter-spacing: 0.04em;
+}
+
+.poem-meter {
+  font-weight: 700;
+  color: var(--rust);
+}
+
+.poem-meta-divider {
+  color: var(--stone-light);
+}
+
+.poem-opening {
+  color: var(--ink-light);
+  font-size: 0.9rem;
+}
+
+.ref-expanded-row {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  direction: ltr;
+}
+
+.expanded-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--stone);
+  flex-shrink: 0;
+  width: 3rem;
+  padding-top: 0.15rem;
+  direction: ltr;
+  font-weight: 700;
+}
+
+.filter-count {
+  margin-left: 0.5rem;
+  padding-right: 0.4rem;
+}
+
+.search-summary {
+  padding: 0.5rem 0;
+  font-size: 0.9rem;
+  color: var(--stone);
+  border-bottom: 1px solid var(--ash);
+  margin-bottom: 1rem;
+}
+
+.ref-poet-name {
+  font-size: 0.8rem;
+  color: var(--stone);
+  font-weight: 700;
+  margin-left: 0.5rem;
+}
+
+.ref-note-emph {
+  font-style: normal;
+}
+
+/* Search controls */
+.search-container {
+  position: relative;
+  width: 100%;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.8rem 2.5rem 0.8rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--sand-dark);
+  background: var(--parchment);
+  color: var(--ink);
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: inherit;
+  transition: border-color 0.15s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--rust);
+}
+
+.search-clear-btn {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  color: var(--stone-light);
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+}
+
+.search-clear-btn:hover {
+  color: var(--rust);
+}
+
+.explorer-empty {
+  direction: ltr;
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--stone-light);
+  font-style: italic;
+}
+
+/* Also ensure the 'No results' state behaves cleanly if it encounters punctuation */
+.no-results {
+  direction: ltr;
+  text-align: center;
+  padding: 3rem;
+  color: var(--stone-light);
+  font-style: italic;
+}
+
+.explorer-empty, .no-results {
+  direction: ltr !important;
+  text-align: center !important;
+}

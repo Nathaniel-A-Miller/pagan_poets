@@ -1,0 +1,139 @@
+[
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_000",
+    "poem_index": 0,
+    "meter": "بسيط تام",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "منتصب وراسيات ثلاث",
+        "notes": "The description of 'something erected' (منتصب) and 'three firm standing ones' (راسيات ثلاث) strongly suggests anṣāb, which were sacred standing stones or altars in pre-Islamic Arabian worship."
+      },
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_000",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (Dahr) here refers to time or fate as a powerful, often destructive, cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_001",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لحا الله",
+        "notes": "The phrase \"لحا الله\" is a pre-Islamic imprecation invoking a divine entity for a curse, fitting the category of oath formulae anchored to a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_003",
+    "poem_index": 3,
+    "meter": "متقارب تام",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_004",
+    "poem_index": 4,
+    "meter": "تام",
+    "verse_count": 36,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_004",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse attributes agency to 'al-Dahr' (Time/Fate), reflecting the pre-Islamic belief in it as a powerful, impersonal cosmological force."
+      },
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_004",
+        "verse_indices": [
+          19
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أقدحه",
+        "notes": "The term 'aqdāḥ' refers to the arrows or lots used in pre-Islamic divination (azlām) or ritualistic gambling (maysir)."
+      },
+      {
+        "poem_id": "ʿamr_b_maʿdīkarib_004",
+        "verse_indices": [
+          30
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجنان",
+        "notes": "The verse explicitly mentions 'al-Jinnān' (jinn), referring to non-divine supernatural entities in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_005",
+    "poem_index": 5,
+    "meter": "بسيط تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_006",
+    "poem_index": 6,
+    "meter": "كامل تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_007",
+    "poem_index": 7,
+    "meter": "رجز تام",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_008",
+    "poem_index": 8,
+    "meter": "متقارب تام",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_maʿdīkarib_009",
+    "poem_index": 9,
+    "meter": "كامل تام",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

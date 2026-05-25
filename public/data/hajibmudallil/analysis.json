@@ -1,0 +1,18 @@
+[
+  {
+    "poem_id": "ibn_al-muḍallil_000",
+    "poem_index": 0,
+    "meter": "متقارب تام",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ibn_al-muḍallil_001",
+    "poem_index": 1,
+    "meter": "بسيط تام",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  }
+]

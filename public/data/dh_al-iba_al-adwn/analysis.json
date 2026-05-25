@@ -1,0 +1,406 @@
+[
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_000",
+    "poem_index": 0,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_001",
+    "poem_index": 1,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_002",
+    "poem_index": 2,
+    "meter": "unknown",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_002",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الكواكب",
+        "notes": "The verse attributes agency to the stars (الكواكب), suggesting an astral belief where celestial bodies influence human affairs, which is a pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_003",
+    "poem_index": 3,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_003",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ريب الزمان",
+        "notes": "This verse refers to 'ريب الزمان' (the vicissitudes of time) as an active, powerful force, which aligns with the pre-Islamic concept of *dahr* as a cosmological agent."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_004",
+    "poem_index": 4,
+    "meter": "unknown",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_004",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "نسر",
+        "notes": "The verse explicitly names 'Nasr' (نسر), a known pre-Islamic deity, referring to its enduring nature or cyclical return in contrast to human mortality."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_004",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'al-Dahr' (الدهر) is used, representing the pre-Islamic cosmological concept of Time or Fate as an active, influential force that the poet has experienced extensively."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_005",
+    "poem_index": 5,
+    "meter": "unknown",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_005",
+        "verse_indices": [
+          10
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نحوسا",
+        "notes": "The term 'نحوسا' (inauspiciousness, ill-luck) and the act of 'asking for it' (سائلٌ لهمُ نحوسا) reflect a pre-Islamic belief in fortune and misfortune, often determined by omens or astral influences, aligning with divinatory concepts."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_006",
+    "poem_index": 6,
+    "meter": "unknown",
+    "verse_count": 26,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_007",
+    "poem_index": 7,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_008",
+    "poem_index": 8,
+    "meter": "unknown",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The personification of الدهر (Time/Fate) as a destructive agent is a core pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_008",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النحس والسعد",
+        "notes": "The mention of 'النحس' (ill-omen) and 'السعد' (good fortune) as inherent qualities or influences aligns with pre-Islamic cosmological beliefs about fate."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_008",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ما حمّ",
+        "notes": "The phrase 'ما حمّ' refers to what has been decreed or fated, indicating a pre-Islamic concept of destiny."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_008",
+        "verse_indices": [
+          22
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The repeated reference to 'الدهر' as an active force governing events reinforces the pre-Islamic cosmological understanding of time and fate."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_008",
+        "verse_indices": [
+          38
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السعالي",
+        "notes": "'السعالي' are a specific type of female jinn or ghoul in pre-Islamic Arabian folklore, fitting the category of supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_009",
+    "poem_index": 9,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_010",
+    "poem_index": 10,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_011",
+    "poem_index": 11,
+    "meter": "unknown",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_012",
+    "poem_index": 12,
+    "meter": "unknown",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_013",
+    "poem_index": 13,
+    "meter": "unknown",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر هالكا",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as 'hālikā' (destructive), which aligns with the pre-Islamic cosmological concept of Dahr as an indifferent, destructive force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_014",
+    "poem_index": 14,
+    "meter": "unknown",
+    "verse_count": 21,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_015",
+    "poem_index": 15,
+    "meter": "unknown",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_016",
+    "poem_index": 16,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_017",
+    "poem_index": 17,
+    "meter": "unknown",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_017",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بر دين من أبراد نجرانا",
+        "notes": "The verse mentions a 'religious garment' (بر دين) from Najran, implying an item used in pre-Islamic ritual or religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_018",
+    "poem_index": 18,
+    "meter": "unknown",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_019",
+    "poem_index": 19,
+    "meter": "unknown",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_019",
+        "verse_indices": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر, منايانا",
+        "notes": "The verses repeatedly refer to 'al-Dahr' (Time/Fate) and 'Manāyā' (Fates/Deaths) as powerful, determining forces, which are central cosmological concepts in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+    "poem_index": 20,
+    "meter": "unknown",
+    "verse_count": 40,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The personification of *dahr* (time/fate) as a powerful, active, and sometimes harsh force is a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لاه ابن عمك",
+        "notes": "This is a common pre-Islamic oath formula, invoking a person or entity as a sacred anchor for the oath."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+        "verse_indices": [
+          19
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الهامة",
+        "notes": "This refers to the pre-Islamic belief in the *hāmā* (or *ṣadā*), a bird-like entity believed to emerge from the skull of a murdered person, crying for vengeance until the blood-debt is settled."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+        "verse_indices": [
+          24
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "This is a common pre-Islamic oath, swearing by the life of the addressed person, which serves as a sacred anchor for the oath."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+        "verse_indices": [
+          28
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "واللّه",
+        "notes": "This is an oath swearing by Allāh, who was recognized as a high god in pre-Islamic Arabia, fitting the category of oaths anchored to a deity."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+        "verse_indices": [
+          33
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase attributes agency to *dahr* (time/fate), depicting it as a force that tests or challenges, which is a pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_020",
+        "verse_indices": [
+          39
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This phrase refers to *dahr* (time/fate) as an overarching, often unpredictable, force that governs events, a central pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_021",
+    "poem_index": 21,
+    "meter": "unknown",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_021",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الأله",
+        "notes": "This verse refers to \"الأله\" (the God) as an agent of destruction against tribes, which aligns with pre-Islamic conceptions of a supreme deity's power."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_021",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" is used here as an active force that changes and destroys, reflecting the pre-Islamic cosmological concept of Dahr as fate or destructive time."
+      },
+      {
+        "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_021",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "Similar to verse 4, \"الدهر\" is again presented as an active agent of change and destruction, reinforcing its role as a pre-Islamic cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "dhū_al-iṣbaʿ_al-ʿadwānī_022",
+    "poem_index": 22,
+    "meter": "unknown",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  }
+]

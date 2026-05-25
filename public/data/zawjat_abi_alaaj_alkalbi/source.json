@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "زوجة أبي العاج الكلبي",
+    "name_en": "Zawjat Abī al-ʿĀj al-Kalbī",
+    "tribe": "Kalb",
+    "region": "Syria / Steppe",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "zawjat_abī_al-ʿāj_al-kalbī_000",
+      "meter": "متقارب",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "شَنِئْتُ الشُّيُوخَ وَأَبْغَضْتُهُمْ  وَذَلِكَ مِنْ بَعْضِ أَفْعالِيَةْ"
+        },
+        {
+          "verse_index": 1,
+          "text": "تَرَى زَوْجَةَ الشَّيْخِ مُغْبَرَّةً  وَتُمْسِي لِصُحْبَتِهِ قالِيَةْ"
+        },
+        {
+          "verse_index": 2,
+          "text": "فَلا بارَكَ اللهُ فِي عَرْدِهِ  وَلا فِي عِظامِ اسْتِهِ الْبالِيَةْ"
+        }
+      ]
+    }
+  ]
+}
