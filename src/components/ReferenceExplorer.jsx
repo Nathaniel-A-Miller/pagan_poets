@@ -65,6 +65,8 @@ const query = searchQuery.toLowerCase().trim()
     const normalizedQueryEn = normalizeEn(query)
 
     return allRefs.filter(r => {
+      console.log('testing:', normalizeEn(r.poet.name_en), 'against:', normalizedQueryEn)
+
       const matchPoetEn = normalizeEn(r.poet.name_en).includes(normalizedQueryEn)
       const matchPoetAr = normalizeArabic(r.poet.name_ar).includes(normalizedQuery)
       const matchEntity = normalizeArabic(r.entity_or_term).includes(normalizedQuery)
