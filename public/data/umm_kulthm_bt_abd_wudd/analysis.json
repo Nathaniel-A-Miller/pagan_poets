@@ -1,0 +1,37 @@
+[
+  {
+    "poem_id": "umm_kulthūm_bt_ʿabd_wudd_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "umm_kulthūm_bt_ʿabd_wudd_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الحسد",
+        "notes": "The belief that envy (al-ḥasad) can cause death reflects a pre-Islamic understanding of supernatural malevolent forces, akin to the evil eye."
+      },
+      {
+        "poem_id": "umm_kulthūm_bt_ʿabd_wudd_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "معولة",
+        "notes": "The term 'muʿwilah' refers to a wailing woman, a customary figure in pre-Islamic mourning rites and lamentations for the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umm_kulthūm_bt_ʿabd_wudd_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]

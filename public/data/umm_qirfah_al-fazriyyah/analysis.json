@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "umm_qirfah_al-fazāriyyah_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "umm_qirfah_al-fazāriyyah_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منية, سهام الحادثات",
+        "notes": "The verse refers to 'manīyah' (death/fate) and 'sihām al-ḥādithāt' (arrows of calamities), which reflect pre-Islamic cosmological concepts of fate and uncontrollable forces."
+      }
+    ],
+    "error": false
+  }
+]

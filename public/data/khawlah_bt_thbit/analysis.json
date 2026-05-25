@@ -1,0 +1,18 @@
+[
+  {
+    "poem_id": "khawlah_bt_thābit_000",
+    "poem_index": 0,
+    "meter": "منسرح",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khawlah_bt_thābit_001",
+    "poem_index": 1,
+    "meter": "مديد",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  }
+]

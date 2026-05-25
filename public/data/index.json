@@ -1558,5 +1558,41 @@
     "number_of_lines": 11,
     "source": "data/hubayrah_al-makhzm/source.json",
     "analysis": "data/hubayrah_al-makhzm/analysis.json"
+  },
+  {
+    "slug": "khawlah_bt_thbit",
+    "name_en": "Khawlah bt. Thābit",
+    "name_ar": "خولة بنت ثابت",
+    "tribe": "Khazraj",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 10,
+    "source": "data/khawlah_bt_thbit/source.json",
+    "analysis": "data/khawlah_bt_thbit/analysis.json"
+  },
+  {
+    "slug": "umm_kulthm_bt_abd_wudd",
+    "name_en": "Umm Kulthūm bt. ʿAbd Wudd",
+    "name_ar": "أم كلثوم بنت عبد ود",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 9,
+    "source": "data/umm_kulthm_bt_abd_wudd/source.json",
+    "analysis": "data/umm_kulthm_bt_abd_wudd/analysis.json"
+  },
+  {
+    "slug": "umm_qirfah_al-fazriyyah",
+    "name_en": "Umm Qirfah al-Fazāriyyah",
+    "name_ar": "أم قرفة الفزارية",
+    "tribe": "Fazārah (Dhubyān)",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 15,
+    "source": "data/umm_qirfah_al-fazriyyah/source.json",
+    "analysis": "data/umm_qirfah_al-fazriyyah/analysis.json"
   }
 ]
