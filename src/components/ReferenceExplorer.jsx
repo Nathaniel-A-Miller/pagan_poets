@@ -12,6 +12,7 @@ export default function ReferenceExplorer({ pooledData, searchQuery, onViewPoem 
 
     const refs = []
     pooledData.forEach(({ poet, poems, analysis }) => {
+      console.log('poet:', poet)
       const poemLookup = {}
       poems.forEach(p => { poemLookup[p.poem_id] = p })
 
