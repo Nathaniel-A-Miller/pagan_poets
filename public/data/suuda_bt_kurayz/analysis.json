@@ -1,0 +1,46 @@
+[
+  {
+    "poem_id": "suʿdā_bt_kurayz_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "suʿdā_bt_kurayz_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "suʿdā_bt_kurayz_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأوثان",
+        "notes": "This verse explicitly warns against 'al-awthān' (idols), which were central objects of worship in pre-Islamic Arabian rituals and sacred spaces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "suʿdā_bt_kurayz_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "suʿdā_bt_kurayz_002",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللهِ",
+        "notes": "The phrase 'وَاللهِ' is an oath formula, a common feature of pre-Islamic Arabian speech and religious practice, invoking a divine entity."
+      }
+    ],
+    "error": false
+  }
+]
