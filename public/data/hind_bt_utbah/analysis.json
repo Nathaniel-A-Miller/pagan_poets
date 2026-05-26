@@ -1,0 +1,243 @@
+[
+  {
+    "poem_id": "hind_bt_ʿutbah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_002",
+    "poem_index": 2,
+    "meter": "متقارب",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_003",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies \"الدهر\" (Time/Fate) as an active, uncontrollable force that causes harm, reflecting a pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_005",
+    "poem_index": 5,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_006",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نذري",
+        "notes": "The phrase 'وقضيت نذري' (and I fulfilled my vow) refers to the act of fulfilling a nadhr, a vow often made to deities in pre-Islamic Arabia, which constitutes a ritualistic act."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_007",
+    "poem_index": 7,
+    "meter": "بحر منهوك المنسرح",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "عبد الدار",
+        "notes": "The clan name 'Abd al-Dar' (servant of the House) refers to the Banu Abd al-Dar, who held important sacral roles related to the Kaaba in pre-Islamic Mecca."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_008",
+    "poem_index": 8,
+    "meter": "بحر مجزوء الرجز",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_010",
+    "poem_index": 10,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_011",
+    "poem_index": 11,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_011",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الكواكب خاويه",
+        "notes": "This verse describes stars as 'empty' or 'barren' in the context of drought, alluding to the pre-Islamic belief in the influence of stars (anwāʾ) on weather and rainfall."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_012",
+    "poem_index": 12,
+    "meter": "بحر مجزوء الرجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_013",
+    "poem_index": 13,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_014",
+    "poem_index": 14,
+    "meter": "بحر منهوك المنسرح",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_015",
+    "poem_index": 15,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_015",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحمس",
+        "notes": "The term 'الحمس' refers to a specific group of pre-Islamic Arabs (Quraysh and their allies) who observed particular ritual practices during the pilgrimage, distinguishing them from other tribes."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_016",
+    "poem_index": 16,
+    "meter": "بحر مجزوء الرجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_016",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحمس",
+        "notes": "The term 'الحمس' refers to a pre-Islamic group, primarily the Quraysh, who observed specific ritual practices and restrictions related to the Kaaba and the pilgrimage, making it a reference to pre-Islamic rituals and sacred spaces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_017",
+    "poem_index": 17,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_017",
+        "verse_indices": [
+          0
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "صابئة",
+        "notes": "The term 'ṣābiʾa' refers to someone who has abandoned their ancestral religion, indicating a shift in religious affiliation in a pre-Islamic context."
+      },
+      {
+        "poem_id": "hind_bt_ʿutbah_017",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "وجٍ, مكة, الحجون",
+        "notes": "Wajj and Mecca, particularly the area of al-Ḥajūn, were significant sacred geographical locations in pre-Islamic Arabia, associated with sanctuaries and religious practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "hind_bt_ʿutbah_018",
+    "poem_index": 18,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "hind_bt_ʿutbah_018",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طائره",
+        "notes": "The phrase 'المشؤوم طائره' explicitly refers to an ill-omened bird or augury, a common pre-Islamic practice of divination."
+      }
+    ],
+    "error": false
+  }
+]

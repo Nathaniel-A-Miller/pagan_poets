@@ -1,0 +1,38 @@
+[
+  {
+    "poem_id": "fāriʿah_al-murriyyah_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "fāriʿah_al-murriyyah_000",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "يمين الله",
+        "notes": "The phrase 'يمين الله' (by God) is an explicit oath formula, common in pre-Islamic Arabian discourse, invoking a deity."
+      },
+      {
+        "poem_id": "fāriʿah_al-murriyyah_000",
+        "verse_indices": [
+          14
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لاهِ",
+        "notes": "The term 'لاهِ' is a shortened form of 'للهِ' (by God), functioning as an oath and thus referencing a deity in a pre-Islamic context."
+      },
+      {
+        "poem_id": "fāriʿah_al-murriyyah_000",
+        "verse_indices": [
+          20
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أسقي به قبر",
+        "notes": "The act of 'watering the grave' (أسقي به قبر) is a traditional mortuary practice or rite of respect for the deceased, reflecting pre-Islamic customs related to death."
+      }
+    ],
+    "error": false
+  }
+]

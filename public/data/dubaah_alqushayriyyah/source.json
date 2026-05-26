@@ -1,0 +1,79 @@
+{
+  "poet": {
+    "name_ar": "ضباعة بنت عامر القشيرية",
+    "name_en": "Ḍubāʿah bt. ʿĀmir al-Qushayriyyah",
+    "tribe": "Qushayr (ʿĀmir b. Ṣaʿṣaʿah)",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 11,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_000",
+      "meter": "سريع",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "إِنَّ أَبا عُثْمانَ لَمْ أَنْسَهُ  وَإِنَّ صَمْتاً عَنْ بُكاهُ لَحُوبْ"
+        },
+        {
+          "verse_index": 1,
+          "text": "تَفاقَدُوا مِنْ مَعْشَرٍ ما لَهُمْ  أَيُّ ذُنُوبٍ صُوِّبُوا فِي الْقَلِيبْ"
+        }
+      ]
+    },
+    {
+      "poem_index": 1,
+      "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_001",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "الْيَوْمَ يَبْدُو بَعْضُهُ أَوْ كُلُّهُ  فَما بَدا مِنْهُ فَلا أُحِلُّهُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "كَمْ ناظِرٍ فِيهِ فَما يَمَلُّهُ  أَخْثَمَ مِثْلِ الْقَعْبِ بادٍ ظِلُّهُ"
+        }
+      ]
+    },
+    {
+      "poem_index": 2,
+      "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_002",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "إنك لو وألت إلى هشام  أمنت وكنت في حرم مقيم"
+        },
+        {
+          "verse_index": 1,
+          "text": "كريم الخيم خفاف حشاه  ثمال لليتيمة واليتيم"
+        },
+        {
+          "verse_index": 2,
+          "text": "ربيع الناس أروع هبرزي  أبي الضيم ليس بذي وصوم"
+        },
+        {
+          "verse_index": 3,
+          "text": "أصيل الرأي ليس بحيدري  ولا نكد العطاء ولا زميم"
+        },
+        {
+          "verse_index": 4,
+          "text": "ولا خذالة إن كان كون  دميم في الأمور ولا مليم"
+        },
+        {
+          "verse_index": 5,
+          "text": "ولا متنزع بالسوء فيهم  ولا قذع المقال ولا غشوم"
+        },
+        {
+          "verse_index": 6,
+          "text": "فأصبح ثاوياً بقرار رمس  كذاك الدهر يفجع بالكريم"
+        }
+      ]
+    }
+  ]
+}
