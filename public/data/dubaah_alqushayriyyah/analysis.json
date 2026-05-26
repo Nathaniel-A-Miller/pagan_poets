@@ -1,0 +1,45 @@
+[
+  {
+    "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_000",
+    "poem_index": 0,
+    "meter": "سريع",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حرم",
+        "notes": "The term 'ḥaram' refers to a sacred, inviolable zone, a concept central to pre-Islamic Arabian sacred geography and the practice of seeking refuge."
+      },
+      {
+        "poem_id": "ḍubāʿah_bt_ʿāmir_al-qushayriyyah_002",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'al-Dahr' (Time/Fate) is invoked as a cosmological force that brings about misfortune, a common pre-Islamic belief."
+      }
+    ],
+    "error": false
+  }
+]

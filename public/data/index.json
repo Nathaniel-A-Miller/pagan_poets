@@ -1858,5 +1858,53 @@
     "number_of_lines": 2,
     "source": "data/umamah_alrubadhiyyah/source.json",
     "analysis": "data/umamah_alrubadhiyyah/analysis.json"
+  },
+  {
+    "slug": "dubaah_alqushayriyyah",
+    "name_en": "Ḍubāʿah bt. ʿĀmir al-Qushayriyyah",
+    "name_ar": "ضباعة بنت عامر القشيرية",
+    "tribe": "Qushayr (ʿĀmir b. Ṣaʿṣaʿah)",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 11,
+    "source": "data/dubaah_alqushayriyyah/source.json",
+    "analysis": "data/dubaah_alqushayriyyah/analysis.json"
+  },
+  {
+    "slug": "fariah_almurriyyah",
+    "name_en": "Fāriʿah al-Murriyyah",
+    "name_ar": "فارعة المرية",
+    "tribe": "Murrah (Dhubyān)",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 22,
+    "source": "data/fariah_almurriyyah/source.json",
+    "analysis": "data/fariah_almurriyyah/analysis.json"
+  },
+  {
+    "slug": "hind_bt_utbah",
+    "name_en": "Hind bt. ʿUtbah",
+    "name_ar": "هند بنت عتبة",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 75,
+    "source": "data/hind_bt_utbah/source.json",
+    "analysis": "data/hind_bt_utbah/analysis.json"
+  },
+  {
+    "slug": "umm_ayman",
+    "name_en": "Umm Ayman",
+    "name_ar": "أم أيمن",
+    "tribe": "Quraysh (enslaved)",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 7,
+    "source": "data/umm_ayman/source.json",
+    "analysis": "data/umm_ayman/analysis.json"
   }
 ]
