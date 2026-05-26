@@ -138,7 +138,7 @@ useEffect(() => {
           </div>
         </div>
 
-        {loading && <div className="status">Loading data...</div>}
+        {loading && <div className="status">Loading data</div>}
         {error && <div className="status error">{error}</div>}
 
         {/* Filtered Reference list cards */}
