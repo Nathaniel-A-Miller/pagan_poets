@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "الجعفية امرأة عمرو بن معدي كرب",
+    "name_en": "Al-Juʿfiyyah Imraʾat ʿAmr b. Maʿdīkarib",
+    "tribe": "Madhḥij",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-juʿfiyyah_imraʾat_ʿamr_b_maʿdīkarib_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لَقَدْ غَادَرَ الرَّكْبُ الَّذينَ تَحمَّلُوا  بِروذَةَ شَخْصاً لا ضَعِيفاً وَلَا غَمْرا"
+        },
+        {
+          "verse_index": 1,
+          "text": "فَقُلْ لِزُبَيْدٍ بَلْ لِمَذْحِجَ كُلِّها  فَقَدْتُمْ أَبا ثَورٍ سِنَانَكُمُ عَمْرا"
+        },
+        {
+          "verse_index": 2,
+          "text": "فَإِنْ تَجْزَعُوا لا يُغْنِ ذَلِكَ عَنْكُمُ  وَلَكِنْ سَلُوا الرَّحْمنَ يُعْقِبْكُمُ صَبْرا"
+        }
+      ]
+    }
+  ]
+}

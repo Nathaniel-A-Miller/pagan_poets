@@ -1786,5 +1786,41 @@
     "number_of_lines": 171,
     "source": "data/suwayd_b_abi_kahil/source.json",
     "analysis": "data/suwayd_b_abi_kahil/analysis.json"
+  },
+  {
+    "slug": "al-jufiyyah_imraat_amr_b_madkarib",
+    "name_en": "Al-Juʿfiyyah Imraʾat ʿAmr b. Maʿdīkarib",
+    "name_ar": "الجعفية امرأة عمرو بن معدي كرب",
+    "tribe": "Madhḥij",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 3,
+    "source": "data/al-jufiyyah_imraat_amr_b_madkarib/source.json",
+    "analysis": "data/al-jufiyyah_imraat_amr_b_madkarib/analysis.json"
+  },
+  {
+    "slug": "khawlah_bt_al-azwar",
+    "name_en": "Khawlah bt. al-Azwar",
+    "name_ar": "خولة بنت الأزور",
+    "tribe": "Asad",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 20,
+    "source": "data/khawlah_bt_al-azwar/source.json",
+    "analysis": "data/khawlah_bt_al-azwar/analysis.json"
+  },
+  {
+    "slug": "zaynab_bt_al-awwm",
+    "name_en": "Zaynab bt. al-ʿAwwām",
+    "name_ar": "زينب بنت العوام",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 6,
+    "source": "data/zaynab_bt_al-awwm/source.json",
+    "analysis": "data/zaynab_bt_al-awwm/analysis.json"
   }
 ]
