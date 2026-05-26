@@ -1,0 +1,49 @@
+{
+  "poet": {
+    "name_ar": "ميثاء المجاشعية",
+    "name_en": "Maythāʾ al-Mujāshiʿiyyah",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 7,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "maythāʾ_al-mujāshiʿiyyah_000",
+      "meter": "رمل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "يا رَبِّ رَبَّ الْبَيْتِ وَالْحُجَّاجِ"
+        },
+        {
+          "verse_index": 1,
+          "text": "رَزَقْتَ مَيْثاءَ مِنَ الْأَزْواجِ"
+        },
+        {
+          "verse_index": 2,
+          "text": "هَجَّاجَةً مِنْ أَحْمَقِ الْهُجَّاجِ"
+        },
+        {
+          "verse_index": 3,
+          "text": "عَفَنْجَجاً يَضِلُّ فِي الْعَجاجِ"
+        },
+        {
+          "verse_index": 4,
+          "text": "لا يَعْرِفُ الدِّيكَ مِنَ الدَّجاجِ"
+        },
+        {
+          "verse_index": 5,
+          "text": "أَجْرَأَ مِنْ لَيْثٍ بِلَيْلٍ داجِ"
+        },
+        {
+          "verse_index": 6,
+          "text": "عِنْدَ الْمُناجاةِ وَعِنْدَ الْحاجِ"
+        }
+      ]
+    }
+  ]
+}

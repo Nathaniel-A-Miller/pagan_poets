@@ -1906,5 +1906,53 @@
     "number_of_lines": 7,
     "source": "data/umm_ayman/source.json",
     "analysis": "data/umm_ayman/analysis.json"
+  },
+  {
+    "slug": "maytha_almujashiiyyah",
+    "name_en": "Maythāʾ al-Mujāshiʿiyyah",
+    "name_ar": "ميثاء المجاشعية",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 7,
+    "source": "data/maytha_almujashiiyyah/source.json",
+    "analysis": "data/maytha_almujashiiyyah/analysis.json"
+  },
+  {
+    "slug": "mayyah_bt_dirar",
+    "name_en": "Mayyah bt. Ḍirār",
+    "name_ar": "مية بنت ضرار",
+    "tribe": "Ḍabbah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "source": "data/mayyah_bt_dirar/source.json",
+    "analysis": "data/mayyah_bt_dirar/analysis.json"
+  },
+  {
+    "slug": "najiyah_bt_damdam",
+    "name_en": "Nājiyah bt. Ḍamḍam",
+    "name_ar": "ناجية بنت ضمضم",
+    "tribe": "Dhubyān",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 14,
+    "source": "data/najiyah_bt_damdam/source.json",
+    "analysis": "data/najiyah_bt_damdam/analysis.json"
+  },
+  {
+    "slug": "rafiqah_bint_nubatah",
+    "name_en": "Rafīqah bt. Nubātah",
+    "name_ar": "رفيقة بنت نباتة",
+    "tribe": "unknown",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "source": "data/rafiqah_bint_nubatah/source.json",
+    "analysis": "data/rafiqah_bint_nubatah/analysis.json"
   }
 ]

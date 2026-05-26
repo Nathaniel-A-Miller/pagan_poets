@@ -1,0 +1,54 @@
+[
+  {
+    "poem_id": "nājiyah_bt_ḍamḍam_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "nājiyah_bt_ḍamḍam_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنايا",
+        "notes": "The term 'al-manāyā' refers to the pre-Islamic concept of fate or death as an irresistible, active force that summons individuals."
+      },
+      {
+        "poem_id": "nājiyah_bt_ḍamḍam_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "حَمْلُ السَّرِيرِ",
+        "notes": "This verse describes the act of carrying the deceased's bier, which is a specific pre-Islamic mortuary practice."
+      },
+      {
+        "poem_id": "nājiyah_bt_ḍamḍam_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَنايا",
+        "notes": "The term 'al-manāyā' is repeated, reinforcing the pre-Islamic concept of fate or death as an irresistible force that can destroy."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nājiyah_bt_ḍamḍam_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nājiyah_bt_ḍamḍam_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  }
+]
