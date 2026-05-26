@@ -1822,5 +1822,41 @@
     "number_of_lines": 6,
     "source": "data/zaynab_bt_al-awwm/source.json",
     "analysis": "data/zaynab_bt_al-awwm/analysis.json"
+  },
+  {
+    "slug": "afra_aludhriyyah",
+    "name_en": "ʿAfrāʾ al-ʿUdhriyyah",
+    "name_ar": "عفراء العذرية",
+    "tribe": "ʿUdhrah",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 9,
+    "source": "data/afra_aludhriyyah/source.json",
+    "analysis": "data/afra_aludhriyyah/analysis.json"
+  },
+  {
+    "slug": "suuda_bt_kurayz",
+    "name_en": "Suʿdā bt. Kurayz",
+    "name_ar": "سعدى بنت كريز",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 11,
+    "source": "data/suuda_bt_kurayz/source.json",
+    "analysis": "data/suuda_bt_kurayz/analysis.json"
+  },
+  {
+    "slug": "umamah_alrubadhiyyah",
+    "name_en": "Umāmah al-Rubadhiyyah",
+    "name_ar": "أمامة الربذية",
+    "tribe": "unknown",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 2,
+    "source": "data/umamah_alrubadhiyyah/source.json",
+    "analysis": "data/umamah_alrubadhiyyah/analysis.json"
   }
 ]

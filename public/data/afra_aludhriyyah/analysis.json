@@ -1,0 +1,18 @@
+[
+  {
+    "poem_id": "ʿafrāʾ_al-ʿudhriyyah_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿafrāʾ_al-ʿudhriyyah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  }
+]

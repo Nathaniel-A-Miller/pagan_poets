@@ -1,0 +1,29 @@
+{
+  "poet": {
+    "name_ar": "أمامة الربذية",
+    "name_en": "Umāmah al-Rubadhiyyah",
+    "tribe": "unknown",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "female",
+    "number_of_lines": 2,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "umāmah_al-rubadhiyyah_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "تُكَذِّبُ دِينَ اللهِ وَالْمَرْءَ أَحْمَداً  لَعَمْرِي الَّذِي أَمْناكَ أَنْ بِئْسَ ما يُمْنِي"
+        },
+        {
+          "verse_index": 1,
+          "text": "حَباكَ حَنيفَ آخِرَ الدَّهْرِ طَعْنَةً  أَبا عَفَكٍ خُذْها عَلَى كِبَرِ السِّنِّ"
+        }
+      ]
+    }
+  ]
+}
