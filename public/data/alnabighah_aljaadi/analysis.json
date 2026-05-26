@@ -1,0 +1,1154 @@
+[
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 61,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_000",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "شَعُوبٌ",
+        "notes": "The term 'شعوب' (Sha'ub) is used as a personification of fate or death, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_000",
+        "verse_indices": [
+          33
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "المُشَيَّأِ",
+        "notes": "The term 'المُشَيَّأِ' (al-mushayya') refers to a jinn or demon, indicating a belief in supernatural entities influencing individuals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_001",
+    "poem_index": 1,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_003",
+    "poem_index": 3,
+    "meter": "وافر",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_003",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صُروفُ الدَهرِ",
+        "notes": "The phrase 'صُروفُ الدَهرِ' (vicissitudes of Time/Fate) refers to the pre-Islamic concept of الدهر as an impersonal, destructive cosmological force, fitting the category of cosmological beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_005",
+    "poem_index": 5,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عِتر, الأَوثان",
+        "notes": "This verse explicitly mentions the pre-Islamic ritual of sacrificing 'itr (a specific type of animal offering) upon 'awthān (idols)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_008",
+    "poem_index": 8,
+    "meter": "بحر مخلع البسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_009",
+    "poem_index": 9,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_010",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "The term 'المنية' (al-maniyyah) refers to death or fate, which in pre-Islamic Arabian thought was often conceived as a cosmological force, aligning with the concept of 'manāyā' as destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 30,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_015",
+    "poem_index": 15,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_016",
+    "poem_index": 16,
+    "meter": "منسرح",
+    "verse_count": 39,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_016",
+        "verse_indices": [
+          34
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الركن",
+        "notes": "The term \"الركن\" (the corner) refers to a sacred corner, likely of the Kaaba or another pre-Islamic sanctuary, indicating a significant sacred space or object in Arabian ritual."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_017",
+    "poem_index": 17,
+    "meter": "وافر",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_017",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبيكَ",
+        "notes": "This verse contains the oath formula 'لَعَمرُ أَبيكَ' (by the life of your father), which is a common pre-Islamic oath used to affirm a statement, invoking the sacredness of a respected person's life."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_020",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزمان المصمم / صروف الليالي",
+        "notes": "This verse refers to 'al-zamān al-muṣammim' (decisive time/fate) and 'ṣurūf al-layālī' (vicissitudes of nights), which reflect the pre-Islamic cosmological concept of dahr (time/fate) as an active, often destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_021",
+    "poem_index": 21,
+    "meter": "مديد",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_022",
+    "poem_index": 22,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_023",
+    "poem_index": 23,
+    "meter": "منسرح",
+    "verse_count": 21,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_024",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "جازِيَ الفِتيانِ بِالنِعمِ",
+        "notes": "The verse contains an invocation to an unnamed divine entity, 'The Rewarder of youths with blessings,' to grant reward and forgiveness, which is a form of supplication to a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_025",
+    "poem_index": 25,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_026",
+    "poem_index": 26,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_026",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هامَتِي",
+        "notes": "The term 'hāmā' (هامتي) refers to the pre-Islamic belief in a bird-like creature emerging from the skull of the deceased, crying for vengeance or water, which is a clear mortuary belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_030",
+    "poem_index": 30,
+    "meter": "خفيف",
+    "verse_count": 14,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_031",
+    "poem_index": 31,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_032",
+    "poem_index": 32,
+    "meter": "بسيط",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_032",
+        "verse_indices": [
+          6
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الشيِّطينِ",
+        "notes": "This verse refers to 'shayāṭīn' (devils/demons) as a force driving a wild animal, which aligns with pre-Islamic beliefs about supernatural entities influencing the natural world."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 31,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_039",
+    "poem_index": 39,
+    "meter": "بسيط",
+    "verse_count": 39,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_040",
+    "poem_index": 40,
+    "meter": "رمل",
+    "verse_count": 50,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_040",
+        "verse_indices": [
+          12
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly mentions the 'music of the Jinn' (عَزفِ الجِنِّ) to describe a sound, indicating a belief in these supernatural entities."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_040",
+        "verse_indices": [
+          30
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'Time/Fate drank and ate them' (شَرِبَ الدَهرُ عَليهِم وَأَكَل) personifies 'al-Dahr' as an active, destructive force, reflecting a pre-Islamic cosmological belief."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_040",
+        "verse_indices": [
+          32
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "This verse continues the personification of 'al-Dahr' (Time/Fate) as a destructive agent, stating it 'placed its knee upon them' (وَضَعَ الدَهرُ عَلَيهِم بَركَةً), leading to their annihilation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_041",
+    "poem_index": 41,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_042",
+    "poem_index": 42,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_043",
+    "poem_index": 43,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_044",
+    "poem_index": 44,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_048",
+    "poem_index": 48,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_049",
+    "poem_index": 49,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_049",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَقضِيٌّ عليهِ لِساعَتِهِ",
+        "notes": "This phrase refers to an event being 'decreed upon him for his hour,' indicating a pre-ordained fate or destiny, a common cosmological concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_051",
+    "poem_index": 51,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_052",
+    "poem_index": 52,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_053",
+    "poem_index": 53,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_054",
+    "poem_index": 54,
+    "meter": "رمل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_055",
+    "poem_index": 55,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_056",
+    "poem_index": 56,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_057",
+    "poem_index": 57,
+    "meter": "متقارب",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_057",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنونَ",
+        "notes": "The term 'al-Manūn' refers to fate or death as an impersonal, irresistible cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_058",
+    "poem_index": 58,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_059",
+    "poem_index": 59,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_060",
+    "poem_index": 60,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_061",
+    "poem_index": 61,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_061",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an active force that 'brings things about,' which is a common pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_062",
+    "poem_index": 62,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_062",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "النَسر",
+        "notes": "The verse refers to al-Nasr, a pre-Islamic South Arabian deity, implying a comparison of auspiciousness."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_062",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The term 'al-Dahr' is used here to denote fate or time as a powerful, impersonal force, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_062",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The phrase 'khawālid al-Dahr' refers to the enduring aspects of time or fate, reinforcing the pre-Islamic cosmological concept of Dahr."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_062",
+        "verse_indices": [
+          14
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "شَعر",
+        "notes": "The verse mentions 'Sha'r,' a mountain in Yemen known to have been a pre-Islamic sanctuary or sacred site, indicating sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_063",
+    "poem_index": 63,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_064",
+    "poem_index": 64,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_065",
+    "poem_index": 65,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_066",
+    "poem_index": 66,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_067",
+    "poem_index": 67,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_067",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ذات الصفا",
+        "notes": "The verse refers to 'Dhāt al-Ṣafā' (the one of al-Ṣafā) as an active entity that forms alliances and bestows wealth, suggesting a personified sacred entity or local deity associated with the sacred mountain al-Ṣafā."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_068",
+    "poem_index": 68,
+    "meter": "طويل",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_068",
+        "verse_indices": [
+          17
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ الرَاقِصاتِ",
+        "notes": "This verse contains an explicit oath formula, 'By the Lord of the Dancers,' which is a common pre-Islamic practice of swearing by a deity or sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_069",
+    "poem_index": 69,
+    "meter": "طويل",
+    "verse_count": 85,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_069",
+        "verse_indices": [
+          68
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نَهي غُرابٍ",
+        "notes": "This verse explicitly mentions 'the croaking of a raven,' which was a common method of augury (divination by birds) in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_069",
+        "verse_indices": [
+          74
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أَحلامِها",
+        "notes": "This verse refers to 'her dreams' being consulted, indicating the practice of dream interpretation as a form of divination in pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_070",
+    "poem_index": 70,
+    "meter": "طويل",
+    "verse_count": 122,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_070",
+        "verse_indices": [
+          26
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الشياطين",
+        "notes": "The verse explicitly mentions 'الشياطين' (devils/demons) as naming a creature, directly referencing pre-Islamic supernatural entities."
+      },
+      {
+        "poem_id": "al-nābighah_al_jaʿdī_070",
+        "verse_indices": [
+          38
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The phrase 'بِجِواءِ الجِنِّ' (in the haunts of the jinn) explicitly refers to jinn as supernatural beings and their dwelling places."
+      },
+      {
+        "poem_id": "al-nābighah_al_jaʿdī_070",
+        "verse_indices": [
+          75
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نُعَوِّذُ",
+        "notes": "The phrase 'لا نُعَوِّذُ خيلَنا' (we do not seek protection for our horses) refers to the pre-Islamic ritualistic practice of 'تعويذ' (seeking protection through amulets or incantations)."
+      },
+      {
+        "poem_id": "al-nābighah_al_jaʿdī_070",
+        "verse_indices": [
+          104
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "نهي غراب",
+        "notes": "The phrase 'بِنَهيِ غُرابٍ' (by the croaking of a raven/crow) is a direct reference to augury, a form of divination based on bird omens."
+      },
+      {
+        "poem_id": "al-nābighah_al_jaʿdī_070",
+        "verse_indices": [
+          112
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غولاً",
+        "notes": "The term 'غولاً' (ghoul) refers to a specific type of monstrous jinn or supernatural creature in pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_071",
+    "poem_index": 71,
+    "meter": "متقارب",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_071",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" (dahr) refers to an impersonal, irresistible force of time or fate, a significant pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_072",
+    "poem_index": 72,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_073",
+    "poem_index": 73,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_074",
+    "poem_index": 74,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_075",
+    "poem_index": 75,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_076",
+    "poem_index": 76,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_077",
+    "poem_index": 77,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_jaʿdī_077",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الخوالج",
+        "notes": "The phrase \"الخوالج تخلج\" (the twitchings twitch) refers to a pre-Islamic belief in omens derived from involuntary bodily movements, which is a form of divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_078",
+    "poem_index": 78,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_079",
+    "poem_index": 79,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_080",
+    "poem_index": 80,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_081",
+    "poem_index": 81,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_082",
+    "poem_index": 82,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_083",
+    "poem_index": 83,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_084",
+    "poem_index": 84,
+    "meter": "متقارب",
+    "verse_count": 81,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_084",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The term \"al-Manūn\" refers to fate or predetermined death, a common cosmological concept in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_084",
+        "verse_indices": [
+          40
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "القرينة",
+        "notes": "The term \"al-Qarīnah\" refers to a familiar spirit or jinn, often believed to inspire poets in pre-Islamic Arabian culture."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_084",
+        "verse_indices": [
+          59
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "زاجر",
+        "notes": "The term \"zājir\" denotes a person who practices augury or divination, representing a specific sacral role in pre-Islamic society."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_084",
+        "verse_indices": [
+          60
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "منايا",
+        "notes": "The term \"manāyā\" refers to fates or predetermined deaths, a significant cosmological concept in pre-Islamic Arabian thought."
+      },
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_084",
+        "verse_indices": [
+          71
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَهُ رَبُّ العبادِ",
+        "notes": "The phrase \"laḥā Allāh Rabb al-ʿibād\" is an invocation or curse directed at a high god, reflecting a form of oath-taking or appeal to a deity recognized in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_085",
+    "poem_index": 85,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_086",
+    "poem_index": 86,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_087",
+    "poem_index": 87,
+    "meter": "طويل",
+    "verse_count": 33,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al_jaʿdī_087",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بَنُو نَعشٍ",
+        "notes": "This verse refers to \"Banu Na'sh\" (Ursa Major), indicating an awareness of astral phenomena as part of pre-Islamic cosmological understanding."
+      },
+      {
+        "poem_id": "al-nābighah_al_jaʿdī_087",
+        "verse_indices": [
+          26
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرَ الخَؤُونَ",
+        "notes": "The phrase \"al-Dahr al-Kha'ūn\" (treacherous Time/Fate) reflects the pre-Islamic concept of Dahr as an impersonal, often malevolent, force governing human destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_088",
+    "poem_index": 88,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_089",
+    "poem_index": 89,
+    "meter": "طويل",
+    "verse_count": 17,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_090",
+    "poem_index": 90,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_091",
+    "poem_index": 91,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_092",
+    "poem_index": 92,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_093",
+    "poem_index": 93,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "al-nābighah_al-jaʿdī_093",
+        "verse_indices": [
+          0
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "حَنِيف",
+        "notes": "The term 'ḥanīf' refers to a pre-Islamic monotheistic belief or adherent, representing a specific religious concept in the Arabian Peninsula before Islam."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_094",
+    "poem_index": 94,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-nābighah_al-jaʿdī_095",
+    "poem_index": 95,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]
