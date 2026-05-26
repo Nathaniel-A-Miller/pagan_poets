@@ -1750,5 +1750,17 @@
     "number_of_lines": 2519,
     "source": "data/hassan_b_thabit/source.json",
     "analysis": "data/hassan_b_thabit/analysis.json"
+  },
+  {
+    "slug": "abu_alaswad_alduali",
+    "name_en": "Abū al-Aswad al-Duʾalī",
+    "name_ar": "أبو الأسود الدؤلي",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 727,
+    "source": "data/abu_alaswad_alduali/source.json",
+    "analysis": "data/abu_alaswad_alduali/analysis.json"
   }
 ]

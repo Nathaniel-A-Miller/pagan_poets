@@ -1,0 +1,1434 @@
+[
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_000",
+        "verse_indices": [
+          9
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجِنّ",
+        "notes": "The verse explicitly mentions \"الجِنّ\" (jinn) as supernatural beings who might consume the flesh of the enemy, reflecting a common pre-Islamic belief in their presence and interaction with humans."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_001",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمري",
+        "notes": "The phrase 'لَعَمري' (by my life) is a common pre-Islamic oath formula, indicating a solemn affirmation, and thus falls under oath practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_004",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنيَّةُ",
+        "notes": "The term 'al-maniyya' (fate/death) is used here as an inescapable force that 'overtakes' individuals, aligning with pre-Islamic cosmological concepts of fate (manāyā) as an active agent."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_005",
+    "poem_index": 5,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_005",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'ذم الدهر' (blaming Time/Fate) refers to the pre-Islamic concept of Dahr as an impersonal, often malevolent, cosmological force governing human destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_006",
+    "poem_index": 6,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 26,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_008",
+    "poem_index": 8,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_009",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غولِ اللَيلِ",
+        "notes": "This verse explicitly mentions 'ghoul of the night,' referring to a type of jinn or supernatural creature believed to mislead travelers, fitting the category of supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula 'لَعَمرُكَ' (By your life), which is a common pre-Islamic and early Islamic oath, fitting the category of oath formulae."
+      },
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_011",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula 'لَعَمرُكَ' (By your life), which is a common pre-Islamic and early Islamic oath, fitting the category of oath formulae."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_014",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse refers to 'الدَهر' (Time/Fate) as an active agent that can blunt a sword, reflecting the pre-Islamic cosmological concept of Dahr as an indifferent, destructive force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنّ",
+        "notes": "The verse explicitly mentions 'jinn' (supernatural beings) associated with a specific location, fitting the category of non-divine supernatural entities."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_020",
+    "poem_index": 20,
+    "meter": "رمل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_021",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِالمَطَرِ",
+        "notes": "This verse contains an oath by 'rain,' which was a significant natural phenomenon often invoked in pre-Islamic oath formulae, functioning as a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_022",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "قَدح",
+        "notes": "The verse uses the term 'قَدح' (qadaḥ), referring to a divinatory arrow or lot, in a context that implies seeking to know one's fate, alluding to the pre-Islamic practice of divination by lots (azlām)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_024",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأَيام",
+        "notes": "This verse refers to 'the days' (الأَيام) as an agent that judges or determines outcomes, reflecting the pre-Islamic concept of dahr (time/fate) as a cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_028",
+    "poem_index": 28,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_030",
+    "poem_index": 30,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_037",
+    "poem_index": 37,
+    "meter": "متقارب",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_037",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "شَعوبُ",
+        "notes": "The term 'شَعوبُ' (Shaʿūb) is a pre-Islamic personification of death or fate, representing a cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_040",
+    "poem_index": 40,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_041",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تَطيفُ, كَبشٍ",
+        "notes": "The verse uses the verb 'تَطيفُ' (to circumambulate), a key ritual act in pre-Islamic Arabia, and mentions a 'كَبشٍ' (ram), commonly used in sacrificial offerings, evoking pre-Islamic sacrificial rituals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_042",
+    "poem_index": 42,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_044",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (dahr) refers to Time or Fate, which was often personified as a powerful, indifferent cosmological force in pre-Islamic Arabian belief, making this a cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_045",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَيبَ الدَهرِ",
+        "notes": "The phrase 'رَيبَ الدَهرِ' (the vicissitudes of Time/Fate) refers to Dahr as a powerful, often malevolent, cosmological force in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 16,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_048",
+    "poem_index": 48,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al_duʾalī_048",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The verse refers to \"الدَهرُ\" (Time/Fate) as a force that brings about \"wonders,\" reflecting the pre-Islamic cosmological concept of Dahr as an active agent shaping events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_049",
+    "poem_index": 49,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_050",
+    "poem_index": 50,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_050",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أُحِمَّ",
+        "notes": "The phrase 'أُحِمَّ انطِلاقيا' refers to the poet's departure (death) being decreed or fated, which aligns with pre-Islamic cosmological concepts of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_051",
+    "poem_index": 51,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_052",
+    "poem_index": 52,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_053",
+    "poem_index": 53,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_054",
+    "poem_index": 54,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_055",
+    "poem_index": 55,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_056",
+    "poem_index": 56,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_057",
+    "poem_index": 57,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_058",
+    "poem_index": 58,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_059",
+    "poem_index": 59,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_060",
+    "poem_index": 60,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_061",
+    "poem_index": 61,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_062",
+    "poem_index": 62,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_063",
+    "poem_index": 63,
+    "meter": "وافر",
+    "verse_count": 17,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_064",
+    "poem_index": 64,
+    "meter": "متقارب",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_065",
+    "poem_index": 65,
+    "meter": "كامل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_065",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البيت ذا الأَستارِ",
+        "notes": "This phrase refers to the Kaaba, which was a central sacred space and pilgrimage site in pre-Islamic Arabia, making it a reference to pre-Islamic ritual geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_066",
+    "poem_index": 66,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_067",
+    "poem_index": 67,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_068",
+    "poem_index": 68,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_069",
+    "poem_index": 69,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_070",
+    "poem_index": 70,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_071",
+    "poem_index": 71,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_072",
+    "poem_index": 72,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_073",
+    "poem_index": 73,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_074",
+    "poem_index": 74,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_075",
+    "poem_index": 75,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_076",
+    "poem_index": 76,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_077",
+    "poem_index": 77,
+    "meter": "بسيط",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_078",
+    "poem_index": 78,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_079",
+    "poem_index": 79,
+    "meter": "كامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_080",
+    "poem_index": 80,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_081",
+    "poem_index": 81,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_082",
+    "poem_index": 82,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_083",
+    "poem_index": 83,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_084",
+    "poem_index": 84,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_085",
+    "poem_index": 85,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_086",
+    "poem_index": 86,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_087",
+    "poem_index": 87,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_088",
+    "poem_index": 88,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_089",
+    "poem_index": 89,
+    "meter": "سريع",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_090",
+    "poem_index": 90,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_091",
+    "poem_index": 91,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_092",
+    "poem_index": 92,
+    "meter": "متقارب",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_092",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مَكَةَ",
+        "notes": "The verse refers to Mecca as a sacred space and describes the religious situation there during the pre-Islamic period, where polytheism was dominant and Allah was not exclusively worshipped."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_093",
+    "poem_index": 93,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_094",
+    "poem_index": 94,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_095",
+    "poem_index": 95,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_096",
+    "poem_index": 96,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_097",
+    "poem_index": 97,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_097",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse refers to 'الدَهر' (Time/Fate) as an entity that can be blamed, reflecting its pre-Islamic cosmological role as a force governing events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_098",
+    "poem_index": 98,
+    "meter": "خفيف",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_099",
+    "poem_index": 99,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_100",
+    "poem_index": 100,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_101",
+    "poem_index": 101,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_102",
+    "poem_index": 102,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_103",
+    "poem_index": 103,
+    "meter": "بسيط",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_104",
+    "poem_index": 104,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_105",
+    "poem_index": 105,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_106",
+    "poem_index": 106,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_107",
+    "poem_index": 107,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_108",
+    "poem_index": 108,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_109",
+    "poem_index": 109,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_110",
+    "poem_index": 110,
+    "meter": "رمل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_110",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أَجَلُه",
+        "notes": "The term 'ajaluh' (his appointed time/death) refers to the pre-Islamic concept of a predetermined lifespan or fate, an unalterable decree, which aligns with cosmological forces of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_111",
+    "poem_index": 111,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_112",
+    "poem_index": 112,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_113",
+    "poem_index": 113,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_114",
+    "poem_index": 114,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_115",
+    "poem_index": 115,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_116",
+    "poem_index": 116,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_117",
+    "poem_index": 117,
+    "meter": "خفيف",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_118",
+    "poem_index": 118,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_119",
+    "poem_index": 119,
+    "meter": "منسرح",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_120",
+    "poem_index": 120,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_121",
+    "poem_index": 121,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_122",
+    "poem_index": 122,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_123",
+    "poem_index": 123,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_124",
+    "poem_index": 124,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_125",
+    "poem_index": 125,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_126",
+    "poem_index": 126,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_127",
+    "poem_index": 127,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_128",
+    "poem_index": 128,
+    "meter": "بسيط",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_129",
+    "poem_index": 129,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_130",
+    "poem_index": 130,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_131",
+    "poem_index": 131,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_132",
+    "poem_index": 132,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_133",
+    "poem_index": 133,
+    "meter": "منسرح",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_134",
+    "poem_index": 134,
+    "meter": "متقارب",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_135",
+    "poem_index": 135,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_135",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'دَهى الدَهرُ' (Dahr afflicted) attributes agency to 'Dahr' (Time/Fate), reflecting a pre-Islamic cosmological concept where Dahr was often seen as an active, destructive force."
+      },
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_135",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وقبرك",
+        "notes": "This verse contains an oath sworn by the grave of the deceased, a practice common in pre-Islamic Arabian society where graves could be considered sacred entities for oath-taking."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_136",
+    "poem_index": 136,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_137",
+    "poem_index": 137,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_138",
+    "poem_index": 138,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_139",
+    "poem_index": 139,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_140",
+    "poem_index": 140,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_141",
+    "poem_index": 141,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_142",
+    "poem_index": 142,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_143",
+    "poem_index": 143,
+    "meter": "كامل",
+    "verse_count": 30,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_144",
+    "poem_index": 144,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_145",
+    "poem_index": 145,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_146",
+    "poem_index": 146,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "abū_al-aswad_al-duʾalī_148",
+    "poem_index": 148,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "abū_al-aswad_al-duʾalī_148",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنِّ ضِراسِها",
+        "notes": "This verse explicitly mentions 'jinn,' referring to supernatural entities believed to inhabit specific places in pre-Islamic Arabian cosmology."
+      }
+    ],
+    "error": false
+  }
+]
