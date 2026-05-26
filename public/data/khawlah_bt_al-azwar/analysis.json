@@ -1,0 +1,45 @@
+[
+  {
+    "poem_id": "khawlah_bt_al-azwar_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khawlah_bt_al-azwar_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "khawlah_bt_al-azwar_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "غُرابَ الْبَيْنِ",
+        "notes": "The poet addresses the 'raven of separation' asking it to convey news, reflecting the pre-Islamic practice of augury from birds (ṭīra) as omens."
+      },
+      {
+        "poem_id": "khawlah_bt_al-azwar_001",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَيْبُ الزَّمانِ",
+        "notes": "The phrase 'ريب الزمان' (the vicissitudes of time) reflects the pre-Islamic cosmological concept of time (dahr) as an impersonal, powerful force that dictates fate and causes separation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khawlah_bt_al-azwar_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  }
+]
