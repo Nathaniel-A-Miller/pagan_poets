@@ -29,7 +29,7 @@ export default function CorpusDashboard({ poetIndex }) {
   return (
     <div className="dashboard">
       <div className="dashboard-title">
-        <span className="dashboard-title-ar arabic">شعر الجاهلية</span>
+        <span className="dashboard-title-ar arabic">الوثنية في الشعر الجاهلي</span>
         <span className="dashboard-title-en">Corpus Overview</span>
       </div>
 
