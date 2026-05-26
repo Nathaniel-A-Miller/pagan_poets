@@ -107,16 +107,8 @@
     "error": false
   },
   {
-    "poem_id": "ḥumayd_al-thawr_006",
-    "poem_index": 6,
-    "meter": "رجز",
-    "verse_count": 1,
-    "references": [],
-    "error": true
-  },
-  {
     "poem_id": "ḥumayd_al-thawr_007",
-    "poem_index": 7,
+    "poem_index": 6,
     "meter": "وافر",
     "verse_count": 4,
     "references": [],
@@ -124,7 +116,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_008",
-    "poem_index": 8,
+    "poem_index": 7,
     "meter": "طويل",
     "verse_count": 4,
     "references": [],
@@ -132,7 +124,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_009",
-    "poem_index": 9,
+    "poem_index": 8,
     "meter": "طويل",
     "verse_count": 7,
     "references": [],
@@ -140,7 +132,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_010",
-    "poem_index": 10,
+    "poem_index": 9,
     "meter": "رجز",
     "verse_count": 6,
     "references": [],
@@ -148,7 +140,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_011",
-    "poem_index": 11,
+    "poem_index": 10,
     "meter": "طويل",
     "verse_count": 27,
     "references": [
@@ -184,7 +176,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_012",
-    "poem_index": 12,
+    "poem_index": 11,
     "meter": "طويل",
     "verse_count": 1,
     "references": [],
@@ -192,7 +184,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_013",
-    "poem_index": 13,
+    "poem_index": 12,
     "meter": "طويل",
     "verse_count": 14,
     "references": [],
@@ -200,7 +192,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_014",
-    "poem_index": 14,
+    "poem_index": 13,
     "meter": "طويل",
     "verse_count": 1,
     "references": [],
@@ -208,7 +200,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_015",
-    "poem_index": 15,
+    "poem_index": 14,
     "meter": "طويل",
     "verse_count": 16,
     "references": [],
@@ -216,7 +208,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_016",
-    "poem_index": 16,
+    "poem_index": 15,
     "meter": "طويل",
     "verse_count": 12,
     "references": [
@@ -252,7 +244,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_017",
-    "poem_index": 17,
+    "poem_index": 16,
     "meter": "بسيط",
     "verse_count": 8,
     "references": [],
@@ -260,7 +252,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_018",
-    "poem_index": 18,
+    "poem_index": 17,
     "meter": "طويل",
     "verse_count": 1,
     "references": [],
@@ -268,7 +260,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_019",
-    "poem_index": 19,
+    "poem_index": 18,
     "meter": "بسيط",
     "verse_count": 5,
     "references": [],
@@ -276,7 +268,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_020",
-    "poem_index": 20,
+    "poem_index": 19,
     "meter": "كامل",
     "verse_count": 11,
     "references": [],
@@ -284,7 +276,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_021",
-    "poem_index": 21,
+    "poem_index": 20,
     "meter": "كامل",
     "verse_count": 1,
     "references": [],
@@ -292,7 +284,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_022",
-    "poem_index": 22,
+    "poem_index": 21,
     "meter": "بحر أحذ الكامل",
     "verse_count": 3,
     "references": [
@@ -310,7 +302,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_023",
-    "poem_index": 23,
+    "poem_index": 22,
     "meter": "متقارب",
     "verse_count": 4,
     "references": [
@@ -329,7 +321,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_024",
-    "poem_index": 24,
+    "poem_index": 23,
     "meter": "طويل",
     "verse_count": 2,
     "references": [],
@@ -337,7 +329,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_025",
-    "poem_index": 25,
+    "poem_index": 24,
     "meter": "بحر أحذ الكامل",
     "verse_count": 9,
     "references": [],
@@ -345,7 +337,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_026",
-    "poem_index": 26,
+    "poem_index": 25,
     "meter": "بسيط",
     "verse_count": 5,
     "references": [],
@@ -353,7 +345,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_027",
-    "poem_index": 27,
+    "poem_index": 26,
     "meter": "طويل",
     "verse_count": 20,
     "references": [],
@@ -361,7 +353,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_028",
-    "poem_index": 28,
+    "poem_index": 27,
     "meter": "طويل",
     "verse_count": 19,
     "references": [
@@ -379,7 +371,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_029",
-    "poem_index": 29,
+    "poem_index": 28,
     "meter": "طويل",
     "verse_count": 2,
     "references": [],
@@ -387,7 +379,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_030",
-    "poem_index": 30,
+    "poem_index": 29,
     "meter": "كامل",
     "verse_count": 1,
     "references": [],
@@ -395,7 +387,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_031",
-    "poem_index": 31,
+    "poem_index": 30,
     "meter": "طويل",
     "verse_count": 3,
     "references": [
@@ -413,7 +405,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_032",
-    "poem_index": 32,
+    "poem_index": 31,
     "meter": "طويل",
     "verse_count": 46,
     "references": [
@@ -467,7 +459,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_033",
-    "poem_index": 33,
+    "poem_index": 32,
     "meter": "طويل",
     "verse_count": 1,
     "references": [],
@@ -475,7 +467,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_034",
-    "poem_index": 34,
+    "poem_index": 33,
     "meter": "كامل",
     "verse_count": 3,
     "references": [],
@@ -483,7 +475,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_035",
-    "poem_index": 35,
+    "poem_index": 34,
     "meter": "بسيط",
     "verse_count": 15,
     "references": [
@@ -510,7 +502,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_036",
-    "poem_index": 36,
+    "poem_index": 35,
     "meter": "متقارب",
     "verse_count": 6,
     "references": [],
@@ -518,7 +510,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_037",
-    "poem_index": 37,
+    "poem_index": 36,
     "meter": "طويل",
     "verse_count": 3,
     "references": [
@@ -536,7 +528,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_038",
-    "poem_index": 38,
+    "poem_index": 37,
     "meter": "طويل",
     "verse_count": 3,
     "references": [],
@@ -544,7 +536,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_039",
-    "poem_index": 39,
+    "poem_index": 38,
     "meter": "طويل",
     "verse_count": 4,
     "references": [],
@@ -552,7 +544,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_040",
-    "poem_index": 40,
+    "poem_index": 39,
     "meter": "طويل",
     "verse_count": 29,
     "references": [
@@ -597,7 +589,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_041",
-    "poem_index": 41,
+    "poem_index": 40,
     "meter": "طويل",
     "verse_count": 4,
     "references": [
@@ -615,7 +607,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_042",
-    "poem_index": 42,
+    "poem_index": 41,
     "meter": "وافر",
     "verse_count": 1,
     "references": [],
@@ -623,7 +615,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_043",
-    "poem_index": 43,
+    "poem_index": 42,
     "meter": "وافر",
     "verse_count": 1,
     "references": [],
@@ -631,7 +623,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_044",
-    "poem_index": 44,
+    "poem_index": 43,
     "meter": "كامل",
     "verse_count": 6,
     "references": [],
@@ -639,7 +631,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_045",
-    "poem_index": 45,
+    "poem_index": 44,
     "meter": "رمل",
     "verse_count": 1,
     "references": [],
@@ -647,7 +639,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_046",
-    "poem_index": 46,
+    "poem_index": 45,
     "meter": "متقارب",
     "verse_count": 4,
     "references": [],
@@ -655,7 +647,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_047",
-    "poem_index": 47,
+    "poem_index": 46,
     "meter": "طويل",
     "verse_count": 130,
     "references": [
@@ -700,7 +692,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_048",
-    "poem_index": 48,
+    "poem_index": 47,
     "meter": "وافر",
     "verse_count": 1,
     "references": [],
@@ -708,7 +700,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_049",
-    "poem_index": 49,
+    "poem_index": 48,
     "meter": "كامل",
     "verse_count": 16,
     "references": [
@@ -726,7 +718,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_050",
-    "poem_index": 50,
+    "poem_index": 49,
     "meter": "متقارب",
     "verse_count": 1,
     "references": [],
@@ -734,7 +726,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_051",
-    "poem_index": 51,
+    "poem_index": 50,
     "meter": "طويل",
     "verse_count": 3,
     "references": [
@@ -753,7 +745,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_052",
-    "poem_index": 52,
+    "poem_index": 51,
     "meter": "طويل",
     "verse_count": 1,
     "references": [],
@@ -761,7 +753,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_053",
-    "poem_index": 53,
+    "poem_index": 52,
     "meter": "بحر مجزوء الكامل",
     "verse_count": 2,
     "references": [],
@@ -769,7 +761,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_054",
-    "poem_index": 54,
+    "poem_index": 53,
     "meter": "رجز",
     "verse_count": 1,
     "references": [],
@@ -777,7 +769,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_055",
-    "poem_index": 55,
+    "poem_index": 54,
     "meter": "وافر",
     "verse_count": 1,
     "references": [],
@@ -785,7 +777,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_056",
-    "poem_index": 56,
+    "poem_index": 55,
     "meter": "كامل",
     "verse_count": 4,
     "references": [],
@@ -793,7 +785,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_057",
-    "poem_index": 57,
+    "poem_index": 56,
     "meter": "رجز",
     "verse_count": 1,
     "references": [],
@@ -801,7 +793,7 @@
   },
   {
     "poem_id": "ḥumayd_al-thawr_058",
-    "poem_index": 58,
+    "poem_index": 57,
     "meter": "متقارب",
     "verse_count": 11,
     "references": [

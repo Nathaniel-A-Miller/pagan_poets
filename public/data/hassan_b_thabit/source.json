@@ -751,17 +751,6 @@
     },
     {
       "poem_index": 37,
-      "poem_id": "ḥassān_b_thābit_037",
-      "meter": "طويل",
-      "verses": [
-        {
-          "verse_index": 0,
-          "text": "وَأَنتَ إِذا ما حارَبوا دُعَكُ  المزيد عن حسان بن ثابت"
-        }
-      ]
-    },
-    {
-      "poem_index": 38,
       "poem_id": "ḥassān_b_thābit_038",
       "meter": "طويل",
       "verses": [
@@ -788,7 +777,7 @@
       ]
     },
     {
-      "poem_index": 39,
+      "poem_index": 38,
       "poem_id": "ḥassān_b_thābit_039",
       "meter": "منسرح",
       "verses": [
@@ -811,7 +800,7 @@
       ]
     },
     {
-      "poem_index": 40,
+      "poem_index": 39,
       "poem_id": "ḥassān_b_thābit_040",
       "meter": "كامل",
       "verses": [
@@ -826,7 +815,7 @@
       ]
     },
     {
-      "poem_index": 41,
+      "poem_index": 40,
       "poem_id": "ḥassān_b_thābit_041",
       "meter": "كامل",
       "verses": [
@@ -869,18 +858,7 @@
       ]
     },
     {
-      "poem_index": 42,
-      "poem_id": "ḥassān_b_thābit_042",
-      "meter": "طويل",
-      "verses": [
-        {
-          "verse_index": 0,
-          "text": "أَرَسمَ دِيارٍ مِن هُنَيدَةَ تَعرِفُ  المزيد عن حسان بن ثابت"
-        }
-      ]
-    },
-    {
-      "poem_index": 43,
+      "poem_index": 41,
       "poem_id": "ḥassān_b_thābit_043",
       "meter": "وافر",
       "verses": [
@@ -911,7 +889,7 @@
       ]
     },
     {
-      "poem_index": 44,
+      "poem_index": 42,
       "poem_id": "ḥassān_b_thābit_044",
       "meter": "طويل",
       "verses": [
@@ -926,7 +904,7 @@
       ]
     },
     {
-      "poem_index": 45,
+      "poem_index": 43,
       "poem_id": "ḥassān_b_thābit_045",
       "meter": "كامل",
       "verses": [
@@ -941,7 +919,7 @@
       ]
     },
     {
-      "poem_index": 46,
+      "poem_index": 44,
       "poem_id": "ḥassān_b_thābit_046",
       "meter": "متقارب",
       "verses": [
@@ -960,7 +938,7 @@
       ]
     },
     {
-      "poem_index": 47,
+      "poem_index": 45,
       "poem_id": "ḥassān_b_thābit_047",
       "meter": "طويل",
       "verses": [
@@ -971,7 +949,7 @@
       ]
     },
     {
-      "poem_index": 48,
+      "poem_index": 46,
       "poem_id": "ḥassān_b_thābit_048",
       "meter": "طويل",
       "verses": [
@@ -982,7 +960,7 @@
       ]
     },
     {
-      "poem_index": 49,
+      "poem_index": 47,
       "poem_id": "ḥassān_b_thābit_049",
       "meter": "طويل",
       "verses": [
@@ -993,7 +971,7 @@
       ]
     },
     {
-      "poem_index": 50,
+      "poem_index": 48,
       "poem_id": "ḥassān_b_thābit_050",
       "meter": "كامل",
       "verses": [
@@ -1012,7 +990,7 @@
       ]
     },
     {
-      "poem_index": 51,
+      "poem_index": 49,
       "poem_id": "ḥassān_b_thābit_051",
       "meter": "وافر",
       "verses": [
@@ -1039,7 +1017,7 @@
       ]
     },
     {
-      "poem_index": 52,
+      "poem_index": 50,
       "poem_id": "ḥassān_b_thābit_052",
       "meter": "متقارب",
       "verses": [
@@ -1062,7 +1040,7 @@
       ]
     },
     {
-      "poem_index": 53,
+      "poem_index": 51,
       "poem_id": "ḥassān_b_thābit_053",
       "meter": "طويل",
       "verses": [
@@ -1097,7 +1075,7 @@
       ]
     },
     {
-      "poem_index": 54,
+      "poem_index": 52,
       "poem_id": "ḥassān_b_thābit_054",
       "meter": "طويل",
       "verses": [
@@ -1192,7 +1170,7 @@
       ]
     },
     {
-      "poem_index": 55,
+      "poem_index": 53,
       "poem_id": "ḥassān_b_thābit_055",
       "meter": "طويل",
       "verses": [
@@ -1215,7 +1193,7 @@
       ]
     },
     {
-      "poem_index": 56,
+      "poem_index": 54,
       "poem_id": "ḥassān_b_thābit_056",
       "meter": "طويل",
       "verses": [
@@ -1230,7 +1208,7 @@
       ]
     },
     {
-      "poem_index": 57,
+      "poem_index": 55,
       "poem_id": "ḥassān_b_thābit_057",
       "meter": "كامل",
       "verses": [
@@ -1241,7 +1219,7 @@
       ]
     },
     {
-      "poem_index": 58,
+      "poem_index": 56,
       "poem_id": "ḥassān_b_thābit_058",
       "meter": "كامل",
       "verses": [
@@ -1256,7 +1234,7 @@
       ]
     },
     {
-      "poem_index": 59,
+      "poem_index": 57,
       "poem_id": "ḥassān_b_thābit_059",
       "meter": "بسيط",
       "verses": [
@@ -1267,7 +1245,7 @@
       ]
     },
     {
-      "poem_index": 60,
+      "poem_index": 58,
       "poem_id": "ḥassān_b_thābit_060",
       "meter": "طويل",
       "verses": [
@@ -1278,7 +1256,7 @@
       ]
     },
     {
-      "poem_index": 61,
+      "poem_index": 59,
       "poem_id": "ḥassān_b_thābit_061",
       "meter": "طويل",
       "verses": [
@@ -1293,7 +1271,7 @@
       ]
     },
     {
-      "poem_index": 62,
+      "poem_index": 60,
       "poem_id": "ḥassān_b_thābit_062",
       "meter": "طويل",
       "verses": [
@@ -1304,7 +1282,7 @@
       ]
     },
     {
-      "poem_index": 63,
+      "poem_index": 61,
       "poem_id": "ḥassān_b_thābit_063",
       "meter": "طويل",
       "verses": [
@@ -1315,7 +1293,7 @@
       ]
     },
     {
-      "poem_index": 64,
+      "poem_index": 62,
       "poem_id": "ḥassān_b_thābit_064",
       "meter": "بسيط",
       "verses": [
@@ -1330,7 +1308,7 @@
       ]
     },
     {
-      "poem_index": 65,
+      "poem_index": 63,
       "poem_id": "ḥassān_b_thābit_065",
       "meter": "خفيف",
       "verses": [
@@ -1349,7 +1327,7 @@
       ]
     },
     {
-      "poem_index": 66,
+      "poem_index": 64,
       "poem_id": "ḥassān_b_thābit_066",
       "meter": "بحر مجزوء الكامل",
       "verses": [
@@ -1364,7 +1342,7 @@
       ]
     },
     {
-      "poem_index": 67,
+      "poem_index": 65,
       "poem_id": "ḥassān_b_thābit_067",
       "meter": "خفيف",
       "verses": [
@@ -1383,7 +1361,7 @@
       ]
     },
     {
-      "poem_index": 68,
+      "poem_index": 66,
       "poem_id": "ḥassān_b_thābit_068",
       "meter": "بسيط",
       "verses": [
@@ -1430,7 +1408,7 @@
       ]
     },
     {
-      "poem_index": 69,
+      "poem_index": 67,
       "poem_id": "ḥassān_b_thābit_069",
       "meter": "منسرح",
       "verses": [
@@ -1449,7 +1427,7 @@
       ]
     },
     {
-      "poem_index": 70,
+      "poem_index": 68,
       "poem_id": "ḥassān_b_thābit_070",
       "meter": "طويل",
       "verses": [
@@ -1468,7 +1446,7 @@
       ]
     },
     {
-      "poem_index": 71,
+      "poem_index": 69,
       "poem_id": "ḥassān_b_thābit_071",
       "meter": "طويل",
       "verses": [
@@ -1623,7 +1601,7 @@
       ]
     },
     {
-      "poem_index": 72,
+      "poem_index": 70,
       "poem_id": "ḥassān_b_thābit_072",
       "meter": "طويل",
       "verses": [
@@ -1634,7 +1612,7 @@
       ]
     },
     {
-      "poem_index": 73,
+      "poem_index": 71,
       "poem_id": "ḥassān_b_thābit_073",
       "meter": "بحر مجزوء الكامل",
       "verses": [
@@ -1645,7 +1623,7 @@
       ]
     },
     {
-      "poem_index": 74,
+      "poem_index": 72,
       "poem_id": "ḥassān_b_thābit_074",
       "meter": "رمل",
       "verses": [
@@ -1656,7 +1634,7 @@
       ]
     },
     {
-      "poem_index": 75,
+      "poem_index": 73,
       "poem_id": "ḥassān_b_thābit_075",
       "meter": "متقارب",
       "verses": [
@@ -1667,7 +1645,7 @@
       ]
     },
     {
-      "poem_index": 76,
+      "poem_index": 74,
       "poem_id": "ḥassān_b_thābit_076",
       "meter": "بسيط",
       "verses": [
@@ -1678,7 +1656,7 @@
       ]
     },
     {
-      "poem_index": 77,
+      "poem_index": 75,
       "poem_id": "ḥassān_b_thābit_077",
       "meter": "كامل",
       "verses": [
@@ -1689,7 +1667,7 @@
       ]
     },
     {
-      "poem_index": 78,
+      "poem_index": 76,
       "poem_id": "ḥassān_b_thābit_078",
       "meter": "وافر",
       "verses": [
@@ -1700,7 +1678,7 @@
       ]
     },
     {
-      "poem_index": 79,
+      "poem_index": 77,
       "poem_id": "ḥassān_b_thābit_079",
       "meter": "بسيط",
       "verses": [
@@ -1711,7 +1689,7 @@
       ]
     },
     {
-      "poem_index": 80,
+      "poem_index": 78,
       "poem_id": "ḥassān_b_thābit_080",
       "meter": "طويل",
       "verses": [
@@ -1722,7 +1700,7 @@
       ]
     },
     {
-      "poem_index": 81,
+      "poem_index": 79,
       "poem_id": "ḥassān_b_thābit_081",
       "meter": "طويل",
       "verses": [
@@ -1733,7 +1711,7 @@
       ]
     },
     {
-      "poem_index": 82,
+      "poem_index": 80,
       "poem_id": "ḥassān_b_thābit_082",
       "meter": "طويل",
       "verses": [
@@ -1744,7 +1722,7 @@
       ]
     },
     {
-      "poem_index": 83,
+      "poem_index": 81,
       "poem_id": "ḥassān_b_thābit_083",
       "meter": "طويل",
       "verses": [
@@ -1759,7 +1737,7 @@
       ]
     },
     {
-      "poem_index": 84,
+      "poem_index": 82,
       "poem_id": "ḥassān_b_thābit_084",
       "meter": "طويل",
       "verses": [
@@ -1798,7 +1776,7 @@
       ]
     },
     {
-      "poem_index": 85,
+      "poem_index": 83,
       "poem_id": "ḥassān_b_thābit_085",
       "meter": "بسيط",
       "verses": [
@@ -1841,7 +1819,7 @@
       ]
     },
     {
-      "poem_index": 86,
+      "poem_index": 84,
       "poem_id": "ḥassān_b_thābit_086",
       "meter": "طويل",
       "verses": [
@@ -1852,7 +1830,7 @@
       ]
     },
     {
-      "poem_index": 87,
+      "poem_index": 85,
       "poem_id": "ḥassān_b_thābit_087",
       "meter": "طويل",
       "verses": [
@@ -1863,7 +1841,7 @@
       ]
     },
     {
-      "poem_index": 88,
+      "poem_index": 86,
       "poem_id": "ḥassān_b_thābit_088",
       "meter": "طويل",
       "verses": [
@@ -1898,7 +1876,7 @@
       ]
     },
     {
-      "poem_index": 89,
+      "poem_index": 87,
       "poem_id": "ḥassān_b_thābit_089",
       "meter": "طويل",
       "verses": [
@@ -1913,7 +1891,7 @@
       ]
     },
     {
-      "poem_index": 90,
+      "poem_index": 88,
       "poem_id": "ḥassān_b_thābit_090",
       "meter": "طويل",
       "verses": [
@@ -1948,7 +1926,7 @@
       ]
     },
     {
-      "poem_index": 91,
+      "poem_index": 89,
       "poem_id": "ḥassān_b_thābit_091",
       "meter": "طويل",
       "verses": [
@@ -2139,7 +2117,7 @@
       ]
     },
     {
-      "poem_index": 92,
+      "poem_index": 90,
       "poem_id": "ḥassān_b_thābit_092",
       "meter": "رجز",
       "verses": [
@@ -2150,7 +2128,7 @@
       ]
     },
     {
-      "poem_index": 93,
+      "poem_index": 91,
       "poem_id": "ḥassān_b_thābit_093",
       "meter": "متقارب",
       "verses": [
@@ -2161,7 +2139,7 @@
       ]
     },
     {
-      "poem_index": 94,
+      "poem_index": 92,
       "poem_id": "ḥassān_b_thābit_094",
       "meter": "طويل",
       "verses": [
@@ -2172,7 +2150,7 @@
       ]
     },
     {
-      "poem_index": 95,
+      "poem_index": 93,
       "poem_id": "ḥassān_b_thābit_095",
       "meter": "بحر مجزوء الكامل",
       "verses": [
@@ -2267,7 +2245,7 @@
       ]
     },
     {
-      "poem_index": 96,
+      "poem_index": 94,
       "poem_id": "ḥassān_b_thābit_096",
       "meter": "متقارب",
       "verses": [
@@ -2294,7 +2272,7 @@
       ]
     },
     {
-      "poem_index": 97,
+      "poem_index": 95,
       "poem_id": "ḥassān_b_thābit_097",
       "meter": "كامل",
       "verses": [
@@ -2305,7 +2283,7 @@
       ]
     },
     {
-      "poem_index": 98,
+      "poem_index": 96,
       "poem_id": "ḥassān_b_thābit_098",
       "meter": "طويل",
       "verses": [
@@ -2316,7 +2294,7 @@
       ]
     },
     {
-      "poem_index": 99,
+      "poem_index": 97,
       "poem_id": "ḥassān_b_thābit_099",
       "meter": "طويل",
       "verses": [
@@ -2327,7 +2305,7 @@
       ]
     },
     {
-      "poem_index": 100,
+      "poem_index": 98,
       "poem_id": "ḥassān_b_thābit_100",
       "meter": "رجز",
       "verses": [
@@ -2338,7 +2316,7 @@
       ]
     },
     {
-      "poem_index": 101,
+      "poem_index": 99,
       "poem_id": "ḥassān_b_thābit_101",
       "meter": "وافر",
       "verses": [
@@ -2349,7 +2327,7 @@
       ]
     },
     {
-      "poem_index": 102,
+      "poem_index": 100,
       "poem_id": "ḥassān_b_thābit_102",
       "meter": "طويل",
       "verses": [
@@ -2372,7 +2350,7 @@
       ]
     },
     {
-      "poem_index": 103,
+      "poem_index": 101,
       "poem_id": "ḥassān_b_thābit_103",
       "meter": "كامل",
       "verses": [
@@ -2383,7 +2361,7 @@
       ]
     },
     {
-      "poem_index": 104,
+      "poem_index": 102,
       "poem_id": "ḥassān_b_thābit_104",
       "meter": "طويل",
       "verses": [
@@ -2398,7 +2376,7 @@
       ]
     },
     {
-      "poem_index": 105,
+      "poem_index": 103,
       "poem_id": "ḥassān_b_thābit_105",
       "meter": "بسيط",
       "verses": [
@@ -2421,7 +2399,7 @@
       ]
     },
     {
-      "poem_index": 106,
+      "poem_index": 104,
       "poem_id": "ḥassān_b_thābit_106",
       "meter": "طويل",
       "verses": [
@@ -2432,7 +2410,7 @@
       ]
     },
     {
-      "poem_index": 107,
+      "poem_index": 105,
       "poem_id": "ḥassān_b_thābit_107",
       "meter": "طويل",
       "verses": [
@@ -2455,7 +2433,7 @@
       ]
     },
     {
-      "poem_index": 108,
+      "poem_index": 106,
       "poem_id": "ḥassān_b_thābit_108",
       "meter": "وافر",
       "verses": [
@@ -2470,7 +2448,7 @@
       ]
     },
     {
-      "poem_index": 109,
+      "poem_index": 107,
       "poem_id": "ḥassān_b_thābit_109",
       "meter": "وافر",
       "verses": [
@@ -2481,7 +2459,7 @@
       ]
     },
     {
-      "poem_index": 110,
+      "poem_index": 108,
       "poem_id": "ḥassān_b_thābit_110",
       "meter": "طويل",
       "verses": [
@@ -2504,7 +2482,7 @@
       ]
     },
     {
-      "poem_index": 111,
+      "poem_index": 109,
       "poem_id": "ḥassān_b_thābit_111",
       "meter": "وافر",
       "verses": [
@@ -2519,7 +2497,7 @@
       ]
     },
     {
-      "poem_index": 112,
+      "poem_index": 110,
       "poem_id": "ḥassān_b_thābit_112",
       "meter": "كامل",
       "verses": [
@@ -2542,7 +2520,7 @@
       ]
     },
     {
-      "poem_index": 113,
+      "poem_index": 111,
       "poem_id": "ḥassān_b_thābit_113",
       "meter": "وافر",
       "verses": [
@@ -2581,7 +2559,7 @@
       ]
     },
     {
-      "poem_index": 114,
+      "poem_index": 112,
       "poem_id": "ḥassān_b_thābit_114",
       "meter": "كامل",
       "verses": [
@@ -2596,7 +2574,7 @@
       ]
     },
     {
-      "poem_index": 115,
+      "poem_index": 113,
       "poem_id": "ḥassān_b_thābit_115",
       "meter": "بسيط",
       "verses": [
@@ -2655,7 +2633,7 @@
       ]
     },
     {
-      "poem_index": 116,
+      "poem_index": 114,
       "poem_id": "ḥassān_b_thābit_116",
       "meter": "كامل",
       "verses": [
@@ -2682,7 +2660,7 @@
       ]
     },
     {
-      "poem_index": 117,
+      "poem_index": 115,
       "poem_id": "ḥassān_b_thābit_117",
       "meter": "طويل",
       "verses": [
@@ -2697,7 +2675,7 @@
       ]
     },
     {
-      "poem_index": 118,
+      "poem_index": 116,
       "poem_id": "ḥassān_b_thābit_118",
       "meter": "طويل",
       "verses": [
@@ -2740,7 +2718,7 @@
       ]
     },
     {
-      "poem_index": 119,
+      "poem_index": 117,
       "poem_id": "ḥassān_b_thābit_119",
       "meter": "طويل",
       "verses": [
@@ -2771,7 +2749,7 @@
       ]
     },
     {
-      "poem_index": 120,
+      "poem_index": 118,
       "poem_id": "ḥassān_b_thābit_120",
       "meter": "متقارب",
       "verses": [
@@ -2790,7 +2768,7 @@
       ]
     },
     {
-      "poem_index": 121,
+      "poem_index": 119,
       "poem_id": "ḥassān_b_thābit_121",
       "meter": "وافر",
       "verses": [
@@ -2821,7 +2799,7 @@
       ]
     },
     {
-      "poem_index": 122,
+      "poem_index": 120,
       "poem_id": "ḥassān_b_thābit_122",
       "meter": "بسيط",
       "verses": [
@@ -2836,7 +2814,7 @@
       ]
     },
     {
-      "poem_index": 123,
+      "poem_index": 121,
       "poem_id": "ḥassān_b_thābit_123",
       "meter": "طويل",
       "verses": [
@@ -2863,7 +2841,7 @@
       ]
     },
     {
-      "poem_index": 124,
+      "poem_index": 122,
       "poem_id": "ḥassān_b_thābit_124",
       "meter": "سريع",
       "verses": [
@@ -2922,7 +2900,7 @@
       ]
     },
     {
-      "poem_index": 125,
+      "poem_index": 123,
       "poem_id": "ḥassān_b_thābit_125",
       "meter": "طويل",
       "verses": [
@@ -2937,7 +2915,7 @@
       ]
     },
     {
-      "poem_index": 126,
+      "poem_index": 124,
       "poem_id": "ḥassān_b_thābit_126",
       "meter": "بسيط",
       "verses": [
@@ -2948,7 +2926,7 @@
       ]
     },
     {
-      "poem_index": 127,
+      "poem_index": 125,
       "poem_id": "ḥassān_b_thābit_127",
       "meter": "كامل",
       "verses": [
@@ -2979,7 +2957,7 @@
       ]
     },
     {
-      "poem_index": 128,
+      "poem_index": 126,
       "poem_id": "ḥassān_b_thābit_128",
       "meter": "بسيط",
       "verses": [
@@ -2998,7 +2976,7 @@
       ]
     },
     {
-      "poem_index": 129,
+      "poem_index": 127,
       "poem_id": "ḥassān_b_thābit_129",
       "meter": "طويل",
       "verses": [
@@ -3025,7 +3003,7 @@
       ]
     },
     {
-      "poem_index": 130,
+      "poem_index": 128,
       "poem_id": "ḥassān_b_thābit_130",
       "meter": "طويل",
       "verses": [
@@ -3040,7 +3018,7 @@
       ]
     },
     {
-      "poem_index": 131,
+      "poem_index": 129,
       "poem_id": "ḥassān_b_thābit_131",
       "meter": "طويل",
       "verses": [
@@ -3083,7 +3061,7 @@
       ]
     },
     {
-      "poem_index": 132,
+      "poem_index": 130,
       "poem_id": "ḥassān_b_thābit_132",
       "meter": "بسيط",
       "verses": [
@@ -3122,7 +3100,7 @@
       ]
     },
     {
-      "poem_index": 133,
+      "poem_index": 131,
       "poem_id": "ḥassān_b_thābit_133",
       "meter": "بسيط",
       "verses": [
@@ -3137,7 +3115,7 @@
       ]
     },
     {
-      "poem_index": 134,
+      "poem_index": 132,
       "poem_id": "ḥassān_b_thābit_134",
       "meter": "طويل",
       "verses": [
@@ -3156,7 +3134,7 @@
       ]
     },
     {
-      "poem_index": 135,
+      "poem_index": 133,
       "poem_id": "ḥassān_b_thābit_135",
       "meter": "بسيط",
       "verses": [
@@ -3179,7 +3157,7 @@
       ]
     },
     {
-      "poem_index": 136,
+      "poem_index": 134,
       "poem_id": "ḥassān_b_thābit_136",
       "meter": "طويل",
       "verses": [
@@ -3218,7 +3196,7 @@
       ]
     },
     {
-      "poem_index": 137,
+      "poem_index": 135,
       "poem_id": "ḥassān_b_thābit_137",
       "meter": "طويل",
       "verses": [
@@ -3241,7 +3219,7 @@
       ]
     },
     {
-      "poem_index": 138,
+      "poem_index": 136,
       "poem_id": "ḥassān_b_thābit_138",
       "meter": "طويل",
       "verses": [
@@ -3284,7 +3262,7 @@
       ]
     },
     {
-      "poem_index": 139,
+      "poem_index": 137,
       "poem_id": "ḥassān_b_thābit_139",
       "meter": "طويل",
       "verses": [
@@ -3303,7 +3281,7 @@
       ]
     },
     {
-      "poem_index": 140,
+      "poem_index": 138,
       "poem_id": "ḥassān_b_thābit_140",
       "meter": "كامل",
       "verses": [
@@ -3326,7 +3304,7 @@
       ]
     },
     {
-      "poem_index": 141,
+      "poem_index": 139,
       "poem_id": "ḥassān_b_thābit_141",
       "meter": "متقارب",
       "verses": [
@@ -3369,7 +3347,7 @@
       ]
     },
     {
-      "poem_index": 142,
+      "poem_index": 140,
       "poem_id": "ḥassān_b_thābit_142",
       "meter": "كامل",
       "verses": [
@@ -3404,7 +3382,7 @@
       ]
     },
     {
-      "poem_index": 143,
+      "poem_index": 141,
       "poem_id": "ḥassān_b_thābit_143",
       "meter": "طويل",
       "verses": [
@@ -3435,7 +3413,7 @@
       ]
     },
     {
-      "poem_index": 144,
+      "poem_index": 142,
       "poem_id": "ḥassān_b_thābit_144",
       "meter": "بسيط",
       "verses": [
@@ -3458,7 +3436,7 @@
       ]
     },
     {
-      "poem_index": 145,
+      "poem_index": 143,
       "poem_id": "ḥassān_b_thābit_145",
       "meter": "رمل",
       "verses": [
@@ -3473,7 +3451,7 @@
       ]
     },
     {
-      "poem_index": 146,
+      "poem_index": 144,
       "poem_id": "ḥassān_b_thābit_146",
       "meter": "طويل",
       "verses": [
@@ -3524,7 +3502,7 @@
       ]
     },
     {
-      "poem_index": 147,
+      "poem_index": 145,
       "poem_id": "ḥassān_b_thābit_147",
       "meter": "وافر",
       "verses": [
@@ -3547,7 +3525,7 @@
       ]
     },
     {
-      "poem_index": 148,
+      "poem_index": 146,
       "poem_id": "ḥassān_b_thābit_148",
       "meter": "طويل",
       "verses": [
@@ -3578,7 +3556,7 @@
       ]
     },
     {
-      "poem_index": 149,
+      "poem_index": 147,
       "poem_id": "ḥassān_b_thābit_149",
       "meter": "متقارب",
       "verses": [
@@ -3605,7 +3583,7 @@
       ]
     },
     {
-      "poem_index": 150,
+      "poem_index": 148,
       "poem_id": "ḥassān_b_thābit_150",
       "meter": "طويل",
       "verses": [
@@ -3628,7 +3606,7 @@
       ]
     },
     {
-      "poem_index": 151,
+      "poem_index": 149,
       "poem_id": "ḥassān_b_thābit_151",
       "meter": "طويل",
       "verses": [
@@ -3667,7 +3645,7 @@
       ]
     },
     {
-      "poem_index": 152,
+      "poem_index": 150,
       "poem_id": "ḥassān_b_thābit_152",
       "meter": "بسيط",
       "verses": [
@@ -3694,7 +3672,7 @@
       ]
     },
     {
-      "poem_index": 153,
+      "poem_index": 151,
       "poem_id": "ḥassān_b_thābit_153",
       "meter": "كامل",
       "verses": [
@@ -3725,7 +3703,7 @@
       ]
     },
     {
-      "poem_index": 154,
+      "poem_index": 152,
       "poem_id": "ḥassān_b_thābit_154",
       "meter": "وافر",
       "verses": [
@@ -3752,7 +3730,7 @@
       ]
     },
     {
-      "poem_index": 155,
+      "poem_index": 153,
       "poem_id": "ḥassān_b_thābit_155",
       "meter": "وافر",
       "verses": [
@@ -3779,7 +3757,7 @@
       ]
     },
     {
-      "poem_index": 156,
+      "poem_index": 154,
       "poem_id": "ḥassān_b_thābit_156",
       "meter": "متقارب",
       "verses": [
@@ -3802,7 +3780,7 @@
       ]
     },
     {
-      "poem_index": 157,
+      "poem_index": 155,
       "poem_id": "ḥassān_b_thābit_157",
       "meter": "رجز",
       "verses": [
@@ -3817,7 +3795,7 @@
       ]
     },
     {
-      "poem_index": 158,
+      "poem_index": 156,
       "poem_id": "ḥassān_b_thābit_158",
       "meter": "طويل",
       "verses": [
@@ -3832,7 +3810,7 @@
       ]
     },
     {
-      "poem_index": 159,
+      "poem_index": 157,
       "poem_id": "ḥassān_b_thābit_159",
       "meter": "طويل",
       "verses": [
@@ -3859,7 +3837,7 @@
       ]
     },
     {
-      "poem_index": 160,
+      "poem_index": 158,
       "poem_id": "ḥassān_b_thābit_160",
       "meter": "منسرح",
       "verses": [
@@ -3942,7 +3920,7 @@
       ]
     },
     {
-      "poem_index": 161,
+      "poem_index": 159,
       "poem_id": "ḥassān_b_thābit_161",
       "meter": "طويل",
       "verses": [
@@ -3961,7 +3939,7 @@
       ]
     },
     {
-      "poem_index": 162,
+      "poem_index": 160,
       "poem_id": "ḥassān_b_thābit_162",
       "meter": "كامل",
       "verses": [
@@ -4016,7 +3994,7 @@
       ]
     },
     {
-      "poem_index": 163,
+      "poem_index": 161,
       "poem_id": "ḥassān_b_thābit_163",
       "meter": "طويل",
       "verses": [
@@ -4035,7 +4013,7 @@
       ]
     },
     {
-      "poem_index": 164,
+      "poem_index": 162,
       "poem_id": "ḥassān_b_thābit_164",
       "meter": "طويل",
       "verses": [
@@ -4054,7 +4032,7 @@
       ]
     },
     {
-      "poem_index": 165,
+      "poem_index": 163,
       "poem_id": "ḥassān_b_thābit_165",
       "meter": "طويل",
       "verses": [
@@ -4077,7 +4055,7 @@
       ]
     },
     {
-      "poem_index": 166,
+      "poem_index": 164,
       "poem_id": "ḥassān_b_thābit_166",
       "meter": "وافر",
       "verses": [
@@ -4096,7 +4074,7 @@
       ]
     },
     {
-      "poem_index": 167,
+      "poem_index": 165,
       "poem_id": "ḥassān_b_thābit_167",
       "meter": "وافر",
       "verses": [
@@ -4119,7 +4097,7 @@
       ]
     },
     {
-      "poem_index": 168,
+      "poem_index": 166,
       "poem_id": "ḥassān_b_thābit_168",
       "meter": "متقارب",
       "verses": [
@@ -4150,7 +4128,7 @@
       ]
     },
     {
-      "poem_index": 169,
+      "poem_index": 167,
       "poem_id": "ḥassān_b_thābit_169",
       "meter": "كامل",
       "verses": [
@@ -4185,7 +4163,7 @@
       ]
     },
     {
-      "poem_index": 170,
+      "poem_index": 168,
       "poem_id": "ḥassān_b_thābit_170",
       "meter": "طويل",
       "verses": [
@@ -4204,7 +4182,7 @@
       ]
     },
     {
-      "poem_index": 171,
+      "poem_index": 169,
       "poem_id": "ḥassān_b_thābit_171",
       "meter": "طويل",
       "verses": [
@@ -4235,7 +4213,7 @@
       ]
     },
     {
-      "poem_index": 172,
+      "poem_index": 170,
       "poem_id": "ḥassān_b_thābit_172",
       "meter": "بسيط",
       "verses": [
@@ -4250,7 +4228,7 @@
       ]
     },
     {
-      "poem_index": 173,
+      "poem_index": 171,
       "poem_id": "ḥassān_b_thābit_173",
       "meter": "كامل",
       "verses": [
@@ -4281,7 +4259,7 @@
       ]
     },
     {
-      "poem_index": 174,
+      "poem_index": 172,
       "poem_id": "ḥassān_b_thābit_174",
       "meter": "بسيط",
       "verses": [
@@ -4336,7 +4314,7 @@
       ]
     },
     {
-      "poem_index": 175,
+      "poem_index": 173,
       "poem_id": "ḥassān_b_thābit_175",
       "meter": "خفيف",
       "verses": [
@@ -4355,7 +4333,7 @@
       ]
     },
     {
-      "poem_index": 176,
+      "poem_index": 174,
       "poem_id": "ḥassān_b_thābit_176",
       "meter": "وافر",
       "verses": [
@@ -4382,7 +4360,7 @@
       ]
     },
     {
-      "poem_index": 177,
+      "poem_index": 175,
       "poem_id": "ḥassān_b_thābit_177",
       "meter": "كامل",
       "verses": [
@@ -4405,7 +4383,7 @@
       ]
     },
     {
-      "poem_index": 178,
+      "poem_index": 176,
       "poem_id": "ḥassān_b_thābit_178",
       "meter": "طويل",
       "verses": [
@@ -4436,7 +4414,7 @@
       ]
     },
     {
-      "poem_index": 179,
+      "poem_index": 177,
       "poem_id": "ḥassān_b_thābit_179",
       "meter": "خفيف",
       "verses": [
@@ -4459,7 +4437,7 @@
       ]
     },
     {
-      "poem_index": 180,
+      "poem_index": 178,
       "poem_id": "ḥassān_b_thābit_180",
       "meter": "متقارب",
       "verses": [
@@ -4494,7 +4472,7 @@
       ]
     },
     {
-      "poem_index": 181,
+      "poem_index": 179,
       "poem_id": "ḥassān_b_thābit_181",
       "meter": "طويل",
       "verses": [
@@ -4521,7 +4499,7 @@
       ]
     },
     {
-      "poem_index": 182,
+      "poem_index": 180,
       "poem_id": "ḥassān_b_thābit_182",
       "meter": "طويل",
       "verses": [
@@ -4540,7 +4518,7 @@
       ]
     },
     {
-      "poem_index": 183,
+      "poem_index": 181,
       "poem_id": "ḥassān_b_thābit_183",
       "meter": "وافر",
       "verses": [
@@ -4563,7 +4541,7 @@
       ]
     },
     {
-      "poem_index": 184,
+      "poem_index": 182,
       "poem_id": "ḥassān_b_thābit_184",
       "meter": "متقارب",
       "verses": [
@@ -4578,7 +4556,7 @@
       ]
     },
     {
-      "poem_index": 185,
+      "poem_index": 183,
       "poem_id": "ḥassān_b_thābit_185",
       "meter": "وافر",
       "verses": [
@@ -4593,7 +4571,7 @@
       ]
     },
     {
-      "poem_index": 186,
+      "poem_index": 184,
       "poem_id": "ḥassān_b_thābit_186",
       "meter": "بسيط",
       "verses": [
@@ -4632,7 +4610,7 @@
       ]
     },
     {
-      "poem_index": 187,
+      "poem_index": 185,
       "poem_id": "ḥassān_b_thābit_187",
       "meter": "كامل",
       "verses": [
@@ -4671,7 +4649,7 @@
       ]
     },
     {
-      "poem_index": 188,
+      "poem_index": 186,
       "poem_id": "ḥassān_b_thābit_188",
       "meter": "كامل",
       "verses": [
@@ -4718,7 +4696,7 @@
       ]
     },
     {
-      "poem_index": 189,
+      "poem_index": 187,
       "poem_id": "ḥassān_b_thābit_189",
       "meter": "طويل",
       "verses": [
@@ -4737,7 +4715,7 @@
       ]
     },
     {
-      "poem_index": 190,
+      "poem_index": 188,
       "poem_id": "ḥassān_b_thābit_190",
       "meter": "بسيط",
       "verses": [
@@ -4756,7 +4734,7 @@
       ]
     },
     {
-      "poem_index": 191,
+      "poem_index": 189,
       "poem_id": "ḥassān_b_thābit_191",
       "meter": "بسيط",
       "verses": [
@@ -4811,7 +4789,7 @@
       ]
     },
     {
-      "poem_index": 192,
+      "poem_index": 190,
       "poem_id": "ḥassān_b_thābit_192",
       "meter": "بسيط",
       "verses": [
@@ -4874,7 +4852,7 @@
       ]
     },
     {
-      "poem_index": 193,
+      "poem_index": 191,
       "poem_id": "ḥassān_b_thābit_193",
       "meter": "متقارب",
       "verses": [
@@ -4905,7 +4883,7 @@
       ]
     },
     {
-      "poem_index": 194,
+      "poem_index": 192,
       "poem_id": "ḥassān_b_thābit_194",
       "meter": "كامل",
       "verses": [
@@ -4960,7 +4938,7 @@
       ]
     },
     {
-      "poem_index": 195,
+      "poem_index": 193,
       "poem_id": "ḥassān_b_thābit_195",
       "meter": "وافر",
       "verses": [
@@ -4987,7 +4965,7 @@
       ]
     },
     {
-      "poem_index": 196,
+      "poem_index": 194,
       "poem_id": "ḥassān_b_thābit_196",
       "meter": "خفيف",
       "verses": [
@@ -5006,7 +4984,7 @@
       ]
     },
     {
-      "poem_index": 197,
+      "poem_index": 195,
       "poem_id": "ḥassān_b_thābit_197",
       "meter": "كامل",
       "verses": [
@@ -5045,7 +5023,7 @@
       ]
     },
     {
-      "poem_index": 198,
+      "poem_index": 196,
       "poem_id": "ḥassān_b_thābit_198",
       "meter": "بحر مجزوء الكامل",
       "verses": [
@@ -5076,7 +5054,7 @@
       ]
     },
     {
-      "poem_index": 199,
+      "poem_index": 197,
       "poem_id": "ḥassān_b_thābit_199",
       "meter": "طويل",
       "verses": [
@@ -5155,7 +5133,7 @@
       ]
     },
     {
-      "poem_index": 200,
+      "poem_index": 198,
       "poem_id": "ḥassān_b_thābit_200",
       "meter": "وافر",
       "verses": [
@@ -5194,7 +5172,7 @@
       ]
     },
     {
-      "poem_index": 201,
+      "poem_index": 199,
       "poem_id": "ḥassān_b_thābit_201",
       "meter": "وافر",
       "verses": [
@@ -5225,7 +5203,7 @@
       ]
     },
     {
-      "poem_index": 202,
+      "poem_index": 200,
       "poem_id": "ḥassān_b_thābit_202",
       "meter": "كامل",
       "verses": [
@@ -5248,7 +5226,7 @@
       ]
     },
     {
-      "poem_index": 203,
+      "poem_index": 201,
       "poem_id": "ḥassān_b_thābit_203",
       "meter": "طويل",
       "verses": [
@@ -5267,7 +5245,7 @@
       ]
     },
     {
-      "poem_index": 204,
+      "poem_index": 202,
       "poem_id": "ḥassān_b_thābit_204",
       "meter": "طويل",
       "verses": [
@@ -5294,7 +5272,7 @@
       ]
     },
     {
-      "poem_index": 205,
+      "poem_index": 203,
       "poem_id": "ḥassān_b_thābit_205",
       "meter": "رجز",
       "verses": [
@@ -5313,7 +5291,7 @@
       ]
     },
     {
-      "poem_index": 206,
+      "poem_index": 204,
       "poem_id": "ḥassān_b_thābit_206",
       "meter": "وافر",
       "verses": [
@@ -5348,7 +5326,7 @@
       ]
     },
     {
-      "poem_index": 207,
+      "poem_index": 205,
       "poem_id": "ḥassān_b_thābit_207",
       "meter": "وافر",
       "verses": [
@@ -5375,7 +5353,7 @@
       ]
     },
     {
-      "poem_index": 208,
+      "poem_index": 206,
       "poem_id": "ḥassān_b_thābit_208",
       "meter": "كامل",
       "verses": [
@@ -5450,7 +5428,7 @@
       ]
     },
     {
-      "poem_index": 209,
+      "poem_index": 207,
       "poem_id": "ḥassān_b_thābit_209",
       "meter": "كامل",
       "verses": [
@@ -5489,7 +5467,7 @@
       ]
     },
     {
-      "poem_index": 210,
+      "poem_index": 208,
       "poem_id": "ḥassān_b_thābit_210",
       "meter": "سريع",
       "verses": [
@@ -5572,7 +5550,7 @@
       ]
     },
     {
-      "poem_index": 211,
+      "poem_index": 209,
       "poem_id": "ḥassān_b_thābit_211",
       "meter": "طويل",
       "verses": [
@@ -5599,7 +5577,7 @@
       ]
     },
     {
-      "poem_index": 212,
+      "poem_index": 210,
       "poem_id": "ḥassān_b_thābit_212",
       "meter": "بسيط",
       "verses": [
@@ -5626,7 +5604,7 @@
       ]
     },
     {
-      "poem_index": 213,
+      "poem_index": 211,
       "poem_id": "ḥassān_b_thābit_213",
       "meter": "طويل",
       "verses": [
@@ -5677,7 +5655,7 @@
       ]
     },
     {
-      "poem_index": 214,
+      "poem_index": 212,
       "poem_id": "ḥassān_b_thābit_214",
       "meter": "طويل",
       "verses": [
@@ -5720,7 +5698,7 @@
       ]
     },
     {
-      "poem_index": 215,
+      "poem_index": 213,
       "poem_id": "ḥassān_b_thābit_215",
       "meter": "بسيط",
       "verses": [
@@ -5779,7 +5757,7 @@
       ]
     },
     {
-      "poem_index": 216,
+      "poem_index": 214,
       "poem_id": "ḥassān_b_thābit_216",
       "meter": "طويل",
       "verses": [
@@ -5810,7 +5788,7 @@
       ]
     },
     {
-      "poem_index": 217,
+      "poem_index": 215,
       "poem_id": "ḥassān_b_thābit_217",
       "meter": "كامل",
       "verses": [
@@ -5881,7 +5859,7 @@
       ]
     },
     {
-      "poem_index": 218,
+      "poem_index": 216,
       "poem_id": "ḥassān_b_thābit_218",
       "meter": "طويل",
       "verses": [
@@ -5920,7 +5898,7 @@
       ]
     },
     {
-      "poem_index": 219,
+      "poem_index": 217,
       "poem_id": "ḥassān_b_thābit_219",
       "meter": "رمل",
       "verses": [
@@ -6011,7 +5989,7 @@
       ]
     },
     {
-      "poem_index": 220,
+      "poem_index": 218,
       "poem_id": "ḥassān_b_thābit_220",
       "meter": "طويل",
       "verses": [
@@ -6050,7 +6028,7 @@
       ]
     },
     {
-      "poem_index": 221,
+      "poem_index": 219,
       "poem_id": "ḥassān_b_thābit_221",
       "meter": "كامل",
       "verses": [
@@ -6081,7 +6059,7 @@
       ]
     },
     {
-      "poem_index": 222,
+      "poem_index": 220,
       "poem_id": "ḥassān_b_thābit_222",
       "meter": "بسيط",
       "verses": [
@@ -6144,7 +6122,7 @@
       ]
     },
     {
-      "poem_index": 223,
+      "poem_index": 221,
       "poem_id": "ḥassān_b_thābit_223",
       "meter": "كامل",
       "verses": [
@@ -6179,7 +6157,7 @@
       ]
     },
     {
-      "poem_index": 224,
+      "poem_index": 222,
       "poem_id": "ḥassān_b_thābit_224",
       "meter": "طويل",
       "verses": [
@@ -6202,7 +6180,7 @@
       ]
     },
     {
-      "poem_index": 225,
+      "poem_index": 223,
       "poem_id": "ḥassān_b_thābit_225",
       "meter": "طويل",
       "verses": [
@@ -6233,7 +6211,7 @@
       ]
     },
     {
-      "poem_index": 226,
+      "poem_index": 224,
       "poem_id": "ḥassān_b_thābit_226",
       "meter": "خفيف",
       "verses": [
@@ -6272,7 +6250,7 @@
       ]
     },
     {
-      "poem_index": 227,
+      "poem_index": 225,
       "poem_id": "ḥassān_b_thābit_227",
       "meter": "طويل",
       "verses": [
@@ -6295,7 +6273,7 @@
       ]
     },
     {
-      "poem_index": 228,
+      "poem_index": 226,
       "poem_id": "ḥassān_b_thābit_228",
       "meter": "طويل",
       "verses": [
@@ -6322,7 +6300,7 @@
       ]
     },
     {
-      "poem_index": 229,
+      "poem_index": 227,
       "poem_id": "ḥassān_b_thābit_229",
       "meter": "كامل",
       "verses": [
@@ -6345,7 +6323,7 @@
       ]
     },
     {
-      "poem_index": 230,
+      "poem_index": 228,
       "poem_id": "ḥassān_b_thābit_230",
       "meter": "طويل",
       "verses": [
@@ -6368,7 +6346,7 @@
       ]
     },
     {
-      "poem_index": 231,
+      "poem_index": 229,
       "poem_id": "ḥassān_b_thābit_231",
       "meter": "طويل",
       "verses": [
@@ -6411,7 +6389,7 @@
       ]
     },
     {
-      "poem_index": 232,
+      "poem_index": 230,
       "poem_id": "ḥassān_b_thābit_232",
       "meter": "كامل",
       "verses": [
@@ -6430,7 +6408,7 @@
       ]
     },
     {
-      "poem_index": 233,
+      "poem_index": 231,
       "poem_id": "ḥassān_b_thābit_233",
       "meter": "طويل",
       "verses": [
@@ -6449,7 +6427,7 @@
       ]
     },
     {
-      "poem_index": 234,
+      "poem_index": 232,
       "poem_id": "ḥassān_b_thābit_234",
       "meter": "بسيط",
       "verses": [
@@ -6504,7 +6482,7 @@
       ]
     },
     {
-      "poem_index": 235,
+      "poem_index": 233,
       "poem_id": "ḥassān_b_thābit_235",
       "meter": "بحر مجزوء المديد",
       "verses": [
@@ -6567,7 +6545,7 @@
       ]
     },
     {
-      "poem_index": 236,
+      "poem_index": 234,
       "poem_id": "ḥassān_b_thābit_236",
       "meter": "منسرح",
       "verses": [
@@ -6622,7 +6600,7 @@
       ]
     },
     {
-      "poem_index": 237,
+      "poem_index": 235,
       "poem_id": "ḥassān_b_thābit_237",
       "meter": "كامل",
       "verses": [
@@ -6681,7 +6659,7 @@
       ]
     },
     {
-      "poem_index": 238,
+      "poem_index": 236,
       "poem_id": "ḥassān_b_thābit_238",
       "meter": "طويل",
       "verses": [
@@ -6704,7 +6682,7 @@
       ]
     },
     {
-      "poem_index": 239,
+      "poem_index": 237,
       "poem_id": "ḥassān_b_thābit_239",
       "meter": "طويل",
       "verses": [
@@ -6727,7 +6705,7 @@
       ]
     },
     {
-      "poem_index": 240,
+      "poem_index": 238,
       "poem_id": "ḥassān_b_thābit_240",
       "meter": "بسيط",
       "verses": [
@@ -6766,7 +6744,7 @@
       ]
     },
     {
-      "poem_index": 241,
+      "poem_index": 239,
       "poem_id": "ḥassān_b_thābit_241",
       "meter": "كامل",
       "verses": [
@@ -6849,7 +6827,7 @@
       ]
     },
     {
-      "poem_index": 242,
+      "poem_index": 240,
       "poem_id": "ḥassān_b_thābit_242",
       "meter": "طويل",
       "verses": [
@@ -6900,7 +6878,7 @@
       ]
     },
     {
-      "poem_index": 243,
+      "poem_index": 241,
       "poem_id": "ḥassān_b_thābit_243",
       "meter": "بسيط",
       "verses": [
@@ -6959,7 +6937,7 @@
       ]
     },
     {
-      "poem_index": 244,
+      "poem_index": 242,
       "poem_id": "ḥassān_b_thābit_244",
       "meter": "كامل",
       "verses": [
@@ -6994,7 +6972,7 @@
       ]
     },
     {
-      "poem_index": 245,
+      "poem_index": 243,
       "poem_id": "ḥassān_b_thābit_245",
       "meter": "بسيط",
       "verses": [
@@ -7021,7 +6999,7 @@
       ]
     },
     {
-      "poem_index": 246,
+      "poem_index": 244,
       "poem_id": "ḥassān_b_thābit_246",
       "meter": "كامل",
       "verses": [
@@ -7064,7 +7042,7 @@
       ]
     },
     {
-      "poem_index": 247,
+      "poem_index": 245,
       "poem_id": "ḥassān_b_thābit_247",
       "meter": "وافر",
       "verses": [
@@ -7083,7 +7061,7 @@
       ]
     },
     {
-      "poem_index": 248,
+      "poem_index": 246,
       "poem_id": "ḥassān_b_thābit_248",
       "meter": "وافر",
       "verses": [
@@ -7126,7 +7104,7 @@
       ]
     },
     {
-      "poem_index": 249,
+      "poem_index": 247,
       "poem_id": "ḥassān_b_thābit_249",
       "meter": "خفيف",
       "verses": [
@@ -7173,7 +7151,7 @@
       ]
     },
     {
-      "poem_index": 250,
+      "poem_index": 248,
       "poem_id": "ḥassān_b_thābit_250",
       "meter": "طويل",
       "verses": [
@@ -7192,7 +7170,7 @@
       ]
     },
     {
-      "poem_index": 251,
+      "poem_index": 249,
       "poem_id": "ḥassān_b_thābit_251",
       "meter": "كامل",
       "verses": [
@@ -7215,7 +7193,7 @@
       ]
     },
     {
-      "poem_index": 252,
+      "poem_index": 250,
       "poem_id": "ḥassān_b_thābit_252",
       "meter": "متقارب",
       "verses": [
@@ -7274,7 +7252,7 @@
       ]
     },
     {
-      "poem_index": 253,
+      "poem_index": 251,
       "poem_id": "ḥassān_b_thābit_253",
       "meter": "سريع",
       "verses": [
@@ -7297,7 +7275,7 @@
       ]
     },
     {
-      "poem_index": 254,
+      "poem_index": 252,
       "poem_id": "ḥassān_b_thābit_254",
       "meter": "طويل",
       "verses": [
@@ -7324,7 +7302,7 @@
       ]
     },
     {
-      "poem_index": 255,
+      "poem_index": 253,
       "poem_id": "ḥassān_b_thābit_255",
       "meter": "طويل",
       "verses": [
@@ -7355,7 +7333,7 @@
       ]
     },
     {
-      "poem_index": 256,
+      "poem_index": 254,
       "poem_id": "ḥassān_b_thābit_256",
       "meter": "رمل",
       "verses": [
@@ -7374,7 +7352,7 @@
       ]
     },
     {
-      "poem_index": 257,
+      "poem_index": 255,
       "poem_id": "ḥassān_b_thābit_257",
       "meter": "وافر",
       "verses": [
@@ -7469,7 +7447,7 @@
       ]
     },
     {
-      "poem_index": 258,
+      "poem_index": 256,
       "poem_id": "ḥassān_b_thābit_258",
       "meter": "متقارب",
       "verses": [
@@ -7564,7 +7542,7 @@
       ]
     },
     {
-      "poem_index": 259,
+      "poem_index": 257,
       "poem_id": "ḥassān_b_thābit_259",
       "meter": "خفيف",
       "verses": [
@@ -7599,7 +7577,7 @@
       ]
     },
     {
-      "poem_index": 260,
+      "poem_index": 258,
       "poem_id": "ḥassān_b_thābit_260",
       "meter": "بسيط",
       "verses": [
@@ -7626,7 +7604,7 @@
       ]
     },
     {
-      "poem_index": 261,
+      "poem_index": 259,
       "poem_id": "ḥassān_b_thābit_261",
       "meter": "كامل",
       "verses": [
@@ -7645,7 +7623,7 @@
       ]
     },
     {
-      "poem_index": 262,
+      "poem_index": 260,
       "poem_id": "ḥassān_b_thābit_262",
       "meter": "طويل",
       "verses": [
@@ -7664,7 +7642,7 @@
       ]
     },
     {
-      "poem_index": 263,
+      "poem_index": 261,
       "poem_id": "ḥassān_b_thābit_263",
       "meter": "وافر",
       "verses": [
@@ -7687,7 +7665,7 @@
       ]
     },
     {
-      "poem_index": 264,
+      "poem_index": 262,
       "poem_id": "ḥassān_b_thābit_264",
       "meter": "كامل",
       "verses": [
@@ -7722,7 +7700,7 @@
       ]
     },
     {
-      "poem_index": 265,
+      "poem_index": 263,
       "poem_id": "ḥassān_b_thābit_265",
       "meter": "وافر",
       "verses": [
@@ -7741,7 +7719,7 @@
       ]
     },
     {
-      "poem_index": 266,
+      "poem_index": 264,
       "poem_id": "ḥassān_b_thābit_266",
       "meter": "بسيط",
       "verses": [
@@ -7764,7 +7742,7 @@
       ]
     },
     {
-      "poem_index": 267,
+      "poem_index": 265,
       "poem_id": "ḥassān_b_thābit_267",
       "meter": "بسيط",
       "verses": [
@@ -7783,7 +7761,7 @@
       ]
     },
     {
-      "poem_index": 268,
+      "poem_index": 266,
       "poem_id": "ḥassān_b_thābit_268",
       "meter": "بسيط",
       "verses": [
@@ -7810,7 +7788,7 @@
       ]
     },
     {
-      "poem_index": 269,
+      "poem_index": 267,
       "poem_id": "ḥassān_b_thābit_269",
       "meter": "طويل",
       "verses": [
@@ -7861,7 +7839,7 @@
       ]
     },
     {
-      "poem_index": 270,
+      "poem_index": 268,
       "poem_id": "ḥassān_b_thābit_270",
       "meter": "وافر",
       "verses": [
@@ -7876,7 +7854,7 @@
       ]
     },
     {
-      "poem_index": 271,
+      "poem_index": 269,
       "poem_id": "ḥassān_b_thābit_271",
       "meter": "بسيط",
       "verses": [
@@ -7915,7 +7893,7 @@
       ]
     },
     {
-      "poem_index": 272,
+      "poem_index": 270,
       "poem_id": "ḥassān_b_thābit_272",
       "meter": "كامل",
       "verses": [
@@ -7954,7 +7932,7 @@
       ]
     },
     {
-      "poem_index": 273,
+      "poem_index": 271,
       "poem_id": "ḥassān_b_thābit_273",
       "meter": "بسيط",
       "verses": [
@@ -7981,7 +7959,7 @@
       ]
     },
     {
-      "poem_index": 274,
+      "poem_index": 272,
       "poem_id": "ḥassān_b_thābit_274",
       "meter": "طويل",
       "verses": [
@@ -8004,7 +7982,7 @@
       ]
     },
     {
-      "poem_index": 275,
+      "poem_index": 273,
       "poem_id": "ḥassān_b_thābit_275",
       "meter": "وافر",
       "verses": [
@@ -8023,7 +8001,7 @@
       ]
     },
     {
-      "poem_index": 276,
+      "poem_index": 274,
       "poem_id": "ḥassān_b_thābit_276",
       "meter": "بسيط",
       "verses": [
@@ -8062,7 +8040,7 @@
       ]
     },
     {
-      "poem_index": 277,
+      "poem_index": 275,
       "poem_id": "ḥassān_b_thābit_277",
       "meter": "كامل",
       "verses": [
@@ -8085,7 +8063,7 @@
       ]
     },
     {
-      "poem_index": 278,
+      "poem_index": 276,
       "poem_id": "ḥassān_b_thābit_278",
       "meter": "وافر",
       "verses": [
@@ -8108,7 +8086,7 @@
       ]
     },
     {
-      "poem_index": 279,
+      "poem_index": 277,
       "poem_id": "ḥassān_b_thābit_279",
       "meter": "كامل",
       "verses": [
@@ -8131,7 +8109,7 @@
       ]
     },
     {
-      "poem_index": 280,
+      "poem_index": 278,
       "poem_id": "ḥassān_b_thābit_280",
       "meter": "وافر",
       "verses": [
@@ -8158,7 +8136,7 @@
       ]
     },
     {
-      "poem_index": 281,
+      "poem_index": 279,
       "poem_id": "ḥassān_b_thābit_281",
       "meter": "بسيط",
       "verses": [
@@ -8181,7 +8159,7 @@
       ]
     },
     {
-      "poem_index": 282,
+      "poem_index": 280,
       "poem_id": "ḥassān_b_thābit_282",
       "meter": "بسيط",
       "verses": [
@@ -8216,7 +8194,7 @@
       ]
     },
     {
-      "poem_index": 283,
+      "poem_index": 281,
       "poem_id": "ḥassān_b_thābit_283",
       "meter": "طويل",
       "verses": [
@@ -8243,7 +8221,7 @@
       ]
     },
     {
-      "poem_index": 284,
+      "poem_index": 282,
       "poem_id": "ḥassān_b_thābit_284",
       "meter": "طويل",
       "verses": [
@@ -8278,7 +8256,7 @@
       ]
     },
     {
-      "poem_index": 285,
+      "poem_index": 283,
       "poem_id": "ḥassān_b_thābit_285",
       "meter": "طويل",
       "verses": [
@@ -8301,7 +8279,7 @@
       ]
     },
     {
-      "poem_index": 286,
+      "poem_index": 284,
       "poem_id": "ḥassān_b_thābit_286",
       "meter": "طويل",
       "verses": [
@@ -8340,7 +8318,7 @@
       ]
     },
     {
-      "poem_index": 287,
+      "poem_index": 285,
       "poem_id": "ḥassān_b_thābit_287",
       "meter": "طويل",
       "verses": [
@@ -8375,7 +8353,7 @@
       ]
     },
     {
-      "poem_index": 288,
+      "poem_index": 286,
       "poem_id": "ḥassān_b_thābit_288",
       "meter": "طويل",
       "verses": [
@@ -8434,7 +8412,7 @@
       ]
     },
     {
-      "poem_index": 289,
+      "poem_index": 287,
       "poem_id": "ḥassān_b_thābit_289",
       "meter": "كامل",
       "verses": [
@@ -8461,7 +8439,7 @@
       ]
     },
     {
-      "poem_index": 290,
+      "poem_index": 288,
       "poem_id": "ḥassān_b_thābit_290",
       "meter": "كامل",
       "verses": [
@@ -8488,7 +8466,7 @@
       ]
     },
     {
-      "poem_index": 291,
+      "poem_index": 289,
       "poem_id": "ḥassān_b_thābit_291",
       "meter": "بسيط",
       "verses": [
@@ -8511,7 +8489,7 @@
       ]
     },
     {
-      "poem_index": 292,
+      "poem_index": 290,
       "poem_id": "ḥassān_b_thābit_292",
       "meter": "كامل",
       "verses": [
@@ -8526,7 +8504,7 @@
       ]
     },
     {
-      "poem_index": 293,
+      "poem_index": 291,
       "poem_id": "ḥassān_b_thābit_293",
       "meter": "وافر",
       "verses": [
@@ -8549,7 +8527,7 @@
       ]
     },
     {
-      "poem_index": 294,
+      "poem_index": 292,
       "poem_id": "ḥassān_b_thābit_294",
       "meter": "كامل",
       "verses": [
@@ -8592,7 +8570,7 @@
       ]
     },
     {
-      "poem_index": 295,
+      "poem_index": 293,
       "poem_id": "ḥassān_b_thābit_295",
       "meter": "طويل",
       "verses": [
@@ -8675,7 +8653,7 @@
       ]
     },
     {
-      "poem_index": 296,
+      "poem_index": 294,
       "poem_id": "ḥassān_b_thābit_296",
       "meter": "بسيط",
       "verses": [
@@ -8694,7 +8672,7 @@
       ]
     },
     {
-      "poem_index": 297,
+      "poem_index": 295,
       "poem_id": "ḥassān_b_thābit_297",
       "meter": "طويل",
       "verses": [
@@ -8725,7 +8703,7 @@
       ]
     },
     {
-      "poem_index": 298,
+      "poem_index": 296,
       "poem_id": "ḥassān_b_thābit_298",
       "meter": "وافر",
       "verses": [
@@ -8760,7 +8738,7 @@
       ]
     },
     {
-      "poem_index": 299,
+      "poem_index": 297,
       "poem_id": "ḥassān_b_thābit_299",
       "meter": "كامل",
       "verses": [
@@ -8787,7 +8765,7 @@
       ]
     },
     {
-      "poem_index": 300,
+      "poem_index": 298,
       "poem_id": "ḥassān_b_thābit_300",
       "meter": "طويل",
       "verses": [
@@ -8798,7 +8776,7 @@
       ]
     },
     {
-      "poem_index": 301,
+      "poem_index": 299,
       "poem_id": "ḥassān_b_thābit_301",
       "meter": "طويل",
       "verses": [
@@ -8817,7 +8795,7 @@
       ]
     },
     {
-      "poem_index": 302,
+      "poem_index": 300,
       "poem_id": "ḥassān_b_thābit_302",
       "meter": "بسيط",
       "verses": [
@@ -8848,7 +8826,7 @@
       ]
     },
     {
-      "poem_index": 303,
+      "poem_index": 301,
       "poem_id": "ḥassān_b_thābit_303",
       "meter": "وافر",
       "verses": [
@@ -8867,7 +8845,7 @@
       ]
     },
     {
-      "poem_index": 304,
+      "poem_index": 302,
       "poem_id": "ḥassān_b_thābit_304",
       "meter": "كامل",
       "verses": [
@@ -8882,7 +8860,7 @@
       ]
     },
     {
-      "poem_index": 305,
+      "poem_index": 303,
       "poem_id": "ḥassān_b_thābit_305",
       "meter": "بسيط",
       "verses": [
@@ -8901,7 +8879,7 @@
       ]
     },
     {
-      "poem_index": 306,
+      "poem_index": 304,
       "poem_id": "ḥassān_b_thābit_306",
       "meter": "وافر",
       "verses": [
@@ -8932,7 +8910,7 @@
       ]
     },
     {
-      "poem_index": 307,
+      "poem_index": 305,
       "poem_id": "ḥassān_b_thābit_307",
       "meter": "بسيط",
       "verses": [
@@ -8955,7 +8933,7 @@
       ]
     },
     {
-      "poem_index": 308,
+      "poem_index": 306,
       "poem_id": "ḥassān_b_thābit_308",
       "meter": "بسيط",
       "verses": [
@@ -8974,7 +8952,7 @@
       ]
     },
     {
-      "poem_index": 309,
+      "poem_index": 307,
       "poem_id": "ḥassān_b_thābit_309",
       "meter": "كامل",
       "verses": [
@@ -8989,7 +8967,7 @@
       ]
     },
     {
-      "poem_index": 310,
+      "poem_index": 308,
       "poem_id": "ḥassān_b_thābit_310",
       "meter": "بسيط",
       "verses": [
@@ -9012,7 +8990,7 @@
       ]
     },
     {
-      "poem_index": 311,
+      "poem_index": 309,
       "poem_id": "ḥassān_b_thābit_311",
       "meter": "متقارب",
       "verses": [
@@ -9043,7 +9021,7 @@
       ]
     },
     {
-      "poem_index": 312,
+      "poem_index": 310,
       "poem_id": "ḥassān_b_thābit_312",
       "meter": "وافر",
       "verses": [
@@ -9078,7 +9056,7 @@
       ]
     },
     {
-      "poem_index": 313,
+      "poem_index": 311,
       "poem_id": "ḥassān_b_thābit_313",
       "meter": "بسيط",
       "verses": [
@@ -9105,7 +9083,7 @@
       ]
     },
     {
-      "poem_index": 314,
+      "poem_index": 312,
       "poem_id": "ḥassān_b_thābit_314",
       "meter": "وافر",
       "verses": [
@@ -9132,7 +9110,7 @@
       ]
     },
     {
-      "poem_index": 315,
+      "poem_index": 313,
       "poem_id": "ḥassān_b_thābit_315",
       "meter": "طويل",
       "verses": [
@@ -9151,7 +9129,7 @@
       ]
     },
     {
-      "poem_index": 316,
+      "poem_index": 314,
       "poem_id": "ḥassān_b_thābit_316",
       "meter": "طويل",
       "verses": [
@@ -9182,7 +9160,7 @@
       ]
     },
     {
-      "poem_index": 317,
+      "poem_index": 315,
       "poem_id": "ḥassān_b_thābit_317",
       "meter": "كامل",
       "verses": [
@@ -9209,7 +9187,7 @@
       ]
     },
     {
-      "poem_index": 318,
+      "poem_index": 316,
       "poem_id": "ḥassān_b_thābit_318",
       "meter": "كامل",
       "verses": [
@@ -9236,7 +9214,7 @@
       ]
     },
     {
-      "poem_index": 319,
+      "poem_index": 317,
       "poem_id": "ḥassān_b_thābit_319",
       "meter": "وافر",
       "verses": [
@@ -9263,7 +9241,7 @@
       ]
     },
     {
-      "poem_index": 320,
+      "poem_index": 318,
       "poem_id": "ḥassān_b_thābit_320",
       "meter": "طويل",
       "verses": [
@@ -9278,7 +9256,7 @@
       ]
     },
     {
-      "poem_index": 321,
+      "poem_index": 319,
       "poem_id": "ḥassān_b_thābit_321",
       "meter": "كامل",
       "verses": [
@@ -9301,7 +9279,7 @@
       ]
     },
     {
-      "poem_index": 322,
+      "poem_index": 320,
       "poem_id": "ḥassān_b_thābit_322",
       "meter": "وافر",
       "verses": [
@@ -9360,7 +9338,7 @@
       ]
     },
     {
-      "poem_index": 323,
+      "poem_index": 321,
       "poem_id": "ḥassān_b_thābit_323",
       "meter": "كامل",
       "verses": [
@@ -9395,7 +9373,7 @@
       ]
     },
     {
-      "poem_index": 324,
+      "poem_index": 322,
       "poem_id": "ḥassān_b_thābit_324",
       "meter": "طويل",
       "verses": [
@@ -9414,7 +9392,7 @@
       ]
     },
     {
-      "poem_index": 325,
+      "poem_index": 323,
       "poem_id": "ḥassān_b_thābit_325",
       "meter": "طويل",
       "verses": [
@@ -9429,7 +9407,7 @@
       ]
     },
     {
-      "poem_index": 326,
+      "poem_index": 324,
       "poem_id": "ḥassān_b_thābit_326",
       "meter": "بسيط",
       "verses": [
@@ -9452,7 +9430,7 @@
       ]
     },
     {
-      "poem_index": 327,
+      "poem_index": 325,
       "poem_id": "ḥassān_b_thābit_327",
       "meter": "وافر",
       "verses": [
@@ -9475,7 +9453,7 @@
       ]
     },
     {
-      "poem_index": 328,
+      "poem_index": 326,
       "poem_id": "ḥassān_b_thābit_328",
       "meter": "طويل",
       "verses": [
@@ -9494,7 +9472,7 @@
       ]
     },
     {
-      "poem_index": 329,
+      "poem_index": 327,
       "poem_id": "ḥassān_b_thābit_329",
       "meter": "طويل",
       "verses": [
@@ -9521,7 +9499,7 @@
       ]
     },
     {
-      "poem_index": 330,
+      "poem_index": 328,
       "poem_id": "ḥassān_b_thābit_330",
       "meter": "طويل",
       "verses": [
@@ -9556,7 +9534,7 @@
       ]
     },
     {
-      "poem_index": 331,
+      "poem_index": 329,
       "poem_id": "ḥassān_b_thābit_331",
       "meter": "بسيط",
       "verses": [
@@ -9575,7 +9553,7 @@
       ]
     },
     {
-      "poem_index": 332,
+      "poem_index": 330,
       "poem_id": "ḥassān_b_thābit_332",
       "meter": "وافر",
       "verses": [
@@ -9610,7 +9588,7 @@
       ]
     },
     {
-      "poem_index": 333,
+      "poem_index": 331,
       "poem_id": "ḥassān_b_thābit_333",
       "meter": "كامل",
       "verses": [
@@ -9629,7 +9607,7 @@
       ]
     },
     {
-      "poem_index": 334,
+      "poem_index": 332,
       "poem_id": "ḥassān_b_thābit_334",
       "meter": "خفيف",
       "verses": [
@@ -9648,7 +9626,7 @@
       ]
     },
     {
-      "poem_index": 335,
+      "poem_index": 333,
       "poem_id": "ḥassān_b_thābit_335",
       "meter": "بسيط",
       "verses": [
@@ -9675,7 +9653,7 @@
       ]
     },
     {
-      "poem_index": 336,
+      "poem_index": 334,
       "poem_id": "ḥassān_b_thābit_336",
       "meter": "طويل",
       "verses": [
@@ -9722,7 +9700,7 @@
       ]
     },
     {
-      "poem_index": 337,
+      "poem_index": 335,
       "poem_id": "ḥassān_b_thābit_337",
       "meter": "طويل",
       "verses": [
@@ -9757,7 +9735,7 @@
       ]
     },
     {
-      "poem_index": 338,
+      "poem_index": 336,
       "poem_id": "ḥassān_b_thābit_338",
       "meter": "بسيط",
       "verses": [
@@ -9800,7 +9778,7 @@
       ]
     },
     {
-      "poem_index": 339,
+      "poem_index": 337,
       "poem_id": "ḥassān_b_thābit_339",
       "meter": "طويل",
       "verses": [
@@ -9827,7 +9805,7 @@
       ]
     },
     {
-      "poem_index": 340,
+      "poem_index": 338,
       "poem_id": "ḥassān_b_thābit_340",
       "meter": "بسيط",
       "verses": [
@@ -9854,7 +9832,7 @@
       ]
     },
     {
-      "poem_index": 341,
+      "poem_index": 339,
       "poem_id": "ḥassān_b_thābit_341",
       "meter": "بسيط",
       "verses": [
@@ -9889,7 +9867,7 @@
       ]
     },
     {
-      "poem_index": 342,
+      "poem_index": 340,
       "poem_id": "ḥassān_b_thābit_342",
       "meter": "رمل",
       "verses": [
@@ -9912,7 +9890,7 @@
       ]
     },
     {
-      "poem_index": 343,
+      "poem_index": 341,
       "poem_id": "ḥassān_b_thābit_343",
       "meter": "بسيط",
       "verses": [
@@ -9939,7 +9917,7 @@
       ]
     },
     {
-      "poem_index": 344,
+      "poem_index": 342,
       "poem_id": "ḥassān_b_thābit_344",
       "meter": "كامل",
       "verses": [
@@ -9970,7 +9948,7 @@
       ]
     },
     {
-      "poem_index": 345,
+      "poem_index": 343,
       "poem_id": "ḥassān_b_thābit_345",
       "meter": "طويل",
       "verses": [
@@ -10045,7 +10023,7 @@
       ]
     },
     {
-      "poem_index": 346,
+      "poem_index": 344,
       "poem_id": "ḥassān_b_thābit_346",
       "meter": "متقارب",
       "verses": [
@@ -10132,7 +10110,7 @@
       ]
     },
     {
-      "poem_index": 347,
+      "poem_index": 345,
       "poem_id": "ḥassān_b_thābit_347",
       "meter": "وافر",
       "verses": [
@@ -10151,7 +10129,7 @@
       ]
     },
     {
-      "poem_index": 348,
+      "poem_index": 346,
       "poem_id": "ḥassān_b_thābit_348",
       "meter": "طويل",
       "verses": [
@@ -10214,7 +10192,7 @@
       ]
     },
     {
-      "poem_index": 349,
+      "poem_index": 347,
       "poem_id": "ḥassān_b_thābit_349",
       "meter": "سريع",
       "verses": [
@@ -10313,7 +10291,7 @@
       ]
     },
     {
-      "poem_index": 350,
+      "poem_index": 348,
       "poem_id": "ḥassān_b_thābit_350",
       "meter": "بسيط",
       "verses": [
@@ -10412,7 +10390,7 @@
       ]
     },
     {
-      "poem_index": 351,
+      "poem_index": 349,
       "poem_id": "ḥassān_b_thābit_351",
       "meter": "طويل",
       "verses": [
@@ -10487,7 +10465,7 @@
       ]
     },
     {
-      "poem_index": 352,
+      "poem_index": 350,
       "poem_id": "ḥassān_b_thābit_352",
       "meter": "بسيط",
       "verses": [
@@ -10534,7 +10512,7 @@
       ]
     },
     {
-      "poem_index": 353,
+      "poem_index": 351,
       "poem_id": "ḥassān_b_thābit_353",
       "meter": "طويل",
       "verses": [
@@ -10569,7 +10547,7 @@
       ]
     },
     {
-      "poem_index": 354,
+      "poem_index": 352,
       "poem_id": "ḥassān_b_thābit_354",
       "meter": "خفيف",
       "verses": [
@@ -10672,7 +10650,7 @@
       ]
     },
     {
-      "poem_index": 355,
+      "poem_index": 353,
       "poem_id": "ḥassān_b_thābit_355",
       "meter": "طويل",
       "verses": [
@@ -10791,7 +10769,7 @@
       ]
     },
     {
-      "poem_index": 356,
+      "poem_index": 354,
       "poem_id": "ḥassān_b_thābit_356",
       "meter": "طويل",
       "verses": [
@@ -10842,7 +10820,7 @@
       ]
     },
     {
-      "poem_index": 357,
+      "poem_index": 355,
       "poem_id": "ḥassān_b_thābit_357",
       "meter": "وافر",
       "verses": [
@@ -10913,7 +10891,7 @@
       ]
     },
     {
-      "poem_index": 358,
+      "poem_index": 356,
       "poem_id": "ḥassān_b_thābit_358",
       "meter": "كامل",
       "verses": [
@@ -10980,7 +10958,7 @@
       ]
     },
     {
-      "poem_index": 359,
+      "poem_index": 357,
       "poem_id": "ḥassān_b_thābit_359",
       "meter": "كامل",
       "verses": [
@@ -11119,7 +11097,7 @@
       ]
     },
     {
-      "poem_index": 360,
+      "poem_index": 358,
       "poem_id": "ḥassān_b_thābit_360",
       "meter": "طويل",
       "verses": [
@@ -11210,7 +11188,7 @@
       ]
     },
     {
-      "poem_index": 361,
+      "poem_index": 359,
       "poem_id": "ḥassān_b_thābit_361",
       "meter": "رمل",
       "verses": [
@@ -11305,7 +11283,7 @@
       ]
     },
     {
-      "poem_index": 362,
+      "poem_index": 360,
       "poem_id": "ḥassān_b_thābit_362",
       "meter": "طويل",
       "verses": [
@@ -11464,7 +11442,7 @@
       ]
     },
     {
-      "poem_index": 363,
+      "poem_index": 361,
       "poem_id": "ḥassān_b_thābit_363",
       "meter": "متقارب",
       "verses": [
@@ -11607,7 +11585,7 @@
       ]
     },
     {
-      "poem_index": 364,
+      "poem_index": 362,
       "poem_id": "ḥassān_b_thābit_364",
       "meter": "كامل",
       "verses": [
@@ -11790,7 +11768,7 @@
       ]
     },
     {
-      "poem_index": 365,
+      "poem_index": 363,
       "poem_id": "ḥassān_b_thābit_365",
       "meter": "طويل",
       "verses": [
@@ -11909,7 +11887,7 @@
       ]
     },
     {
-      "poem_index": 366,
+      "poem_index": 364,
       "poem_id": "ḥassān_b_thābit_366",
       "meter": "طويل",
       "verses": [
@@ -12092,7 +12070,7 @@
       ]
     },
     {
-      "poem_index": 367,
+      "poem_index": 365,
       "poem_id": "ḥassān_b_thābit_367",
       "meter": "خفيف",
       "verses": [
@@ -12195,7 +12173,7 @@
       ]
     },
     {
-      "poem_index": 368,
+      "poem_index": 366,
       "poem_id": "ḥassān_b_thābit_368",
       "meter": "طويل",
       "verses": [
@@ -12346,7 +12324,7 @@
       ]
     },
     {
-      "poem_index": 369,
+      "poem_index": 367,
       "poem_id": "ḥassān_b_thābit_369",
       "meter": "كامل",
       "verses": [
@@ -12465,7 +12443,7 @@
       ]
     },
     {
-      "poem_index": 370,
+      "poem_index": 368,
       "poem_id": "ḥassān_b_thābit_370",
       "meter": "طويل",
       "verses": [
@@ -12560,7 +12538,7 @@
       ]
     },
     {
-      "poem_index": 371,
+      "poem_index": 369,
       "poem_id": "ḥassān_b_thābit_371",
       "meter": "وافر",
       "verses": [
