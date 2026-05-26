@@ -1762,5 +1762,29 @@
     "number_of_lines": 727,
     "source": "data/abu_alaswad_alduali/source.json",
     "analysis": "data/abu_alaswad_alduali/analysis.json"
+  },
+  {
+    "slug": "alnabighah_aljaadi",
+    "name_en": "Al-Nābighah al-Jaʿdī",
+    "name_ar": "النابغة الجعدي",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 920,
+    "source": "data/alnabighah_aljaadi/source.json",
+    "analysis": "data/alnabighah_aljaadi/analysis.json"
+  },
+  {
+    "slug": "suwayd_b_abi_kahil",
+    "name_en": "Suwayd b. Abī Kāhil",
+    "name_ar": "سويد بن أبي كاهل",
+    "tribe": "Yashkur (Bakr b. Wāʾil)",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 171,
+    "source": "data/suwayd_b_abi_kahil/source.json",
+    "analysis": "data/suwayd_b_abi_kahil/analysis.json"
   }
 ]
