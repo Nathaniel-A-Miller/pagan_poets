@@ -1,0 +1,38 @@
+[
+  {
+    "poem_id": "maythāʾ_al-mujāshiʿiyyah_000",
+    "poem_index": 0,
+    "meter": "رمل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "maythāʾ_al-mujāshiʿiyyah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رَبِّ رَبَّ الْبَيْتِ",
+        "notes": "This verse contains an invocation to 'Lord of the House' (رب البيت), a pre-Islamic deity associated with the Kaaba, and mentions 'pilgrims' (الحجاج) performing the pre-Islamic Hajj ritual."
+      },
+      {
+        "poem_id": "maythāʾ_al-mujāshiʿiyyah_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "هَجَّاجَةً",
+        "notes": "The verse describes a person as a 'frequent pilgrim' (هجاجة), explicitly referencing the pre-Islamic ritual of Hajj."
+      },
+      {
+        "poem_id": "maythāʾ_al_mujāshiʿiyyah_000",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الْحاجِ",
+        "notes": "The term 'الحاج' (pilgrimage) in this verse, especially in conjunction with earlier references, points to the pre-Islamic ritual of Hajj."
+      }
+    ],
+    "error": false
+  }
+]

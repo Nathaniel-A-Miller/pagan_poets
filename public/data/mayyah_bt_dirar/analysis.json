@@ -1,0 +1,26 @@
+[
+  {
+    "poem_id": "mayyah_bt_ḍirār_000",
+    "poem_index": 0,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mayyah_bt_ḍirār_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mayyah_bt_ḍirār_002",
+    "poem_index": 2,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

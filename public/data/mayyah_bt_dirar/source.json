@@ -1,0 +1,55 @@
+{
+  "poet": {
+    "name_ar": "مية بنت ضرار",
+    "name_en": "Mayyah bt. Ḍirār",
+    "tribe": "Ḍabbah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "mayyah_bt_ḍirār_000",
+      "meter": "متقارب",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "فَلَمْ يَمْنَعِ الْحَيَّ رَثُّ الْقُوَى  وَلَمْ تُخفِ حَسْناءُ خَلْخالَها"
+        }
+      ]
+    },
+    {
+      "poem_index": 1,
+      "poem_id": "mayyah_bt_ḍirār_001",
+      "meter": "كامل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لا تَبْعُدَنَّ وَكُلَّ شَيْءٍ ذاهِبٌ  زَيْنَ الْمَجالِسِ وَالنَّدِيِّ قُبَيْصا"
+        }
+      ]
+    },
+    {
+      "poem_index": 2,
+      "poem_id": "mayyah_bt_ḍirār_002",
+      "meter": "بسيط",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "ما باتَ مِنْ لَيْلَةٍ مُذْ شَدَّ مِئْزَرَهُ  قُبَيْصَةُ بْنُ ضِرارٍ وَهْوَ مَوْتُورُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "وَلا عَلَى رَيْبةٍ يَوْماً يُزَنُّ بِها  وَلا فَقِيراً وَما بِالْفَقْرِ تَعْبِيرُ"
+        },
+        {
+          "verse_index": 2,
+          "text": "الطَّاعِنُ الطَّعْنَةَ النَّجْلاءَ عَنْ عُرُضٍ  كَأَنَّها قَبَسٌ بِاللَّيْلِ مَسْعُورُ"
+        }
+      ]
+    }
+  ]
+}
