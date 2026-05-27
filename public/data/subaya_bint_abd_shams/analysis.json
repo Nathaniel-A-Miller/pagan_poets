@@ -1,0 +1,18 @@
+[
+  {
+    "poem_id": "subayʿah_bt_ʿabd_shams_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "subayʿah_bt_ʿabd_shams_001",
+    "poem_index": 1,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]

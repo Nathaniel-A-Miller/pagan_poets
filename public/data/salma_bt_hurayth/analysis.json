@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "salmā_bt_ḥurayth_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "salmā_bt_ḥurayth_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The phrase 'ريب الدهر' refers to the pre-Islamic concept of Dahr as an impersonal, often malevolent, force of fate."
+      },
+      {
+        "poem_id": "salmā_bt_ḥurayth_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر, القدر",
+        "notes": "This verse explicitly mentions 'Dahr' and 'Qadar' as forces bringing calamities, reflecting pre-Islamic cosmological views on fate."
+      }
+    ],
+    "error": false
+  }
+]
