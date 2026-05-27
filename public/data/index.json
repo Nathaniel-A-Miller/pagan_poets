@@ -2050,5 +2050,53 @@
     "number_of_lines": 113,
     "source": "data/safiyyah_bt_thalabah_alshaybaniyyah/source.json",
     "analysis": "data/safiyyah_bt_thalabah_alshaybaniyyah/analysis.json"
+  },
+  {
+    "slug": "salma_bt_hurayth",
+    "name_en": "Salmā bt. Ḥurayth",
+    "name_ar": "سلمى بنت حريث",
+    "tribe": "Al-Naḍīr",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 11,
+    "source": "data/salma_bt_hurayth/source.json",
+    "analysis": "data/salma_bt_hurayth/analysis.json"
+  },
+  {
+    "slug": "sarah_alquraziyyah",
+    "name_en": "Sārah al-Quraẓiyyah",
+    "name_ar": "سارة القرظية",
+    "tribe": "Qurayẓah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "source": "data/sarah_alquraziyyah/source.json",
+    "analysis": "data/sarah_alquraziyyah/analysis.json"
+  },
+  {
+    "slug": "subaya_bint_abd_shams",
+    "name_en": "Subayʿah bt. ʿAbd Shams",
+    "name_ar": "سبيعة بنت عبد شمس",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "source": "data/subaya_bint_abd_shams/source.json",
+    "analysis": "data/subaya_bint_abd_shams/analysis.json"
+  },
+  {
+    "slug": "subaya_bint_alahab",
+    "name_en": "Subayʿah bt. al-Aḥab",
+    "name_ar": "سبيعة بنت الأحب",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 12,
+    "source": "data/subaya_bint_alahab/source.json",
+    "analysis": "data/subaya_bint_alahab/analysis.json"
   }
 ]

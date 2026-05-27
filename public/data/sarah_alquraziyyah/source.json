@@ -1,0 +1,37 @@
+{
+  "poet": {
+    "name_ar": "سارة القرظية",
+    "name_en": "Sārah al-Quraẓiyyah",
+    "tribe": "Qurayẓah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 4,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "sārah_al-quraẓiyyah_000",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "بِنَفْسِي رِمَّةٌ لَمْ تُغْنِ شَيْئاً  بِذِي حُرُضٍ تُعَفِّيها الرِّياحُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "كُهُولٌ مِنْ قُرَيْظَةَ أَتْلَفَتْهُمْ  سُيُوفُ الْخَزْرَجِيَّةِ وَالرِّماحُ"
+        },
+        {
+          "verse_index": 2,
+          "text": "رُزِئْنا وَالرَّزِيَّةُ ذاتُ ثِقْلٍ  يَمُرُّ لِأَجْلِها الْماءُ الْقَراحُ"
+        },
+        {
+          "verse_index": 3,
+          "text": "وَلَوْ أَذِنُوا بِحَرْبِهِمُ لَحالَتْ  هُنالِكَ دُونَهُمْ حَرْبٌ رَدَاحُ"
+        }
+      ]
+    }
+  ]
+}

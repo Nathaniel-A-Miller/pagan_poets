@@ -1,0 +1,67 @@
+[
+  {
+    "poem_id": "subayʿah_bt_al-aḥab_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "subayʿah_bt_al-aḥab_000",
+        "verse_indices": [
+          0,
+          1,
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مكة, محارمها",
+        "notes": "These verses refer to Mecca as a sacred precinct (ḥaram) with specific prohibitions (محارمها), a concept central to pre-Islamic Arabian religion."
+      },
+      {
+        "poem_id": "subayʿah_bt_al-aḥab_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ثبير",
+        "notes": "The mention of Thabir, a mountain near Mecca, as a place of safety for animals, highlights its status as part of the sacred geography of the Meccan ḥaram."
+      },
+      {
+        "poem_id": "subayʿah_bt_al-aḥab_000",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بنيتها, كسا",
+        "notes": "The reference to Tubba' clothing 'its structure' (بنيتها, referring to the Kaaba) describes the pre-Islamic ritual of adorning the Kaaba with garments (كسوة الكعبة)."
+      },
+      {
+        "poem_id": "subayʿah_bt_al-aḥab_000",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "النذور",
+        "notes": "The phrase 'fulfilled his vows' (أوفى بالنذور) refers to the pre-Islamic practice of making and fulfilling votive offerings or pledges to deities or sacred sites."
+      },
+      {
+        "poem_id": "subayʿah_bt_al-aḥab_000",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يمشي إليها حافيا",
+        "notes": "The description of walking barefoot to the sacred site is a clear reference to a pre-Islamic pilgrimage ritual, signifying humility and reverence."
+      },
+      {
+        "poem_id": "subayʿah_bt_al-aḥab_000",
+        "verse_indices": [
+          9
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الفيل",
+        "notes": "This verse alludes to the 'Year of the Elephant' (عام الفيل), a well-known pre-Islamic event concerning the divine protection of the Kaaba from Abraha's army."
+      }
+    ],
+    "error": false
+  }
+]
