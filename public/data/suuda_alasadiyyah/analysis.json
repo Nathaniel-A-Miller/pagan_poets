@@ -1,0 +1,21 @@
+[
+  {
+    "poem_id": "suʿdā_al-asadiyyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "suʿdā_al-asadiyyah_000",
+        "verse_indices": [
+          3,
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "جدث, زيارة القبر والشكوى",
+        "notes": "These verses describe the speaker's impending death and burial in a 'grave' (جدث), followed by an instruction for the beloved to visit the grave and lament, reflecting pre-Islamic mortuary practices of grave visitation and lamentation."
+      }
+    ],
+    "error": false
+  }
+]

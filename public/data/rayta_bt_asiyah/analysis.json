@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "rayṭah_bt_ʿāṣiyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "rayṭah_bt_ʿāṣiyah_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ذَحْل",
+        "notes": "The verse mentions 'vengeance' (ذَحْل), which in pre-Islamic Arabian society was a quasi-ritualistic obligation tied to death and tribal honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "rayṭah_bt_ʿāṣiyah_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

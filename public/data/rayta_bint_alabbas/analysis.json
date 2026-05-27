@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "rayṭah_bt_al-ʿabbās_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "rayṭah_bt_al-ʿabbās_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمْرِي",
+        "notes": "This verse contains the pre-Islamic oath formula 'laʿamrī' (by my life), which is a solemn declaration anchored to a sacred entity (one's own life)."
+      },
+      {
+        "poem_id": "rayṭah_bt_al-ʿabbās_000",
+        "verse_indices": [
+          8
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فَأَقْسَمْتُ",
+        "notes": "This verse explicitly states 'fa-aqsamtu' (I swore an oath), referring to the act of making a solemn declaration, a common pre-Islamic practice."
+      }
+    ],
+    "error": false
+  }
+]

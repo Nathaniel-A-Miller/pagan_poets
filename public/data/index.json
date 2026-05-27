@@ -1954,5 +1954,65 @@
     "number_of_lines": 4,
     "source": "data/rafiqah_bint_nubatah/source.json",
     "analysis": "data/rafiqah_bint_nubatah/analysis.json"
+  },
+  {
+    "slug": "rayta_bint_alabbas",
+    "name_en": "Rayṭah bt. al-ʿAbbās",
+    "name_ar": "ريطة بنت العباس",
+    "tribe": "Sulaym",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 9,
+    "source": "data/rayta_bint_alabbas/source.json",
+    "analysis": "data/rayta_bint_alabbas/analysis.json"
+  },
+  {
+    "slug": "rayta_bint_asim",
+    "name_en": "Rayṭah bt. ʿĀṣim",
+    "name_ar": "ريطة بنت عاصم",
+    "tribe": "Hawāzin (?)",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "source": "data/rayta_bint_asim/source.json",
+    "analysis": "data/rayta_bint_asim/analysis.json"
+  },
+  {
+    "slug": "rayta_bint_jidhl",
+    "name_en": "Rayṭah bt. Jidhl al-Ṭaʿʿān",
+    "name_ar": "ريطة بنت جذل الطعان",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 7,
+    "source": "data/rayta_bint_jidhl/source.json",
+    "analysis": "data/rayta_bint_jidhl/analysis.json"
+  },
+  {
+    "slug": "rayta_bt_asiyah",
+    "name_en": "Rayṭah bt. ʿĀṣiyah",
+    "name_ar": "ريطة بنت عاصية",
+    "tribe": "Hudhayl",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 8,
+    "source": "data/rayta_bt_asiyah/source.json",
+    "analysis": "data/rayta_bt_asiyah/analysis.json"
+  },
+  {
+    "slug": "suuda_alasadiyyah",
+    "name_en": "Suʿdā al-Asadiyyah",
+    "name_ar": "سعدى الأسدية",
+    "tribe": "Asad",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "source": "data/suuda_alasadiyyah/source.json",
+    "analysis": "data/suuda_alasadiyyah/analysis.json"
   }
 ]
