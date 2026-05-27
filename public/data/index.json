@@ -2014,5 +2014,41 @@
     "number_of_lines": 5,
     "source": "data/suuda_alasadiyyah/source.json",
     "analysis": "data/suuda_alasadiyyah/analysis.json"
+  },
+  {
+    "slug": "safiyyah_albahiliyyah",
+    "name_en": "Ṣafiyyah al-Bāhiliyyah",
+    "name_ar": "صفية الباهلية",
+    "tribe": "Bāhilah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "source": "data/safiyyah_albahiliyyah/source.json",
+    "analysis": "data/safiyyah_albahiliyyah/analysis.json"
+  },
+  {
+    "slug": "safiyyah_bt_alkhari",
+    "name_en": "Ṣafiyyah bt. al-Khariʿ",
+    "name_ar": "صفية بنت الخرع",
+    "tribe": "Taym",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "source": "data/safiyyah_bt_alkhari/source.json",
+    "analysis": "data/safiyyah_bt_alkhari/analysis.json"
+  },
+  {
+    "slug": "safiyyah_bt_thalabah_alshaybaniyyah",
+    "name_en": "Ṣafiyyah bt. Thaʿlabah al-Shaybāniyyah",
+    "name_ar": "صفية بنت ثعلبة الشيبانية",
+    "tribe": "Shaybān (Bakr b. Wāʾil)",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 113,
+    "source": "data/safiyyah_bt_thalabah_alshaybaniyyah/source.json",
+    "analysis": "data/safiyyah_bt_thalabah_alshaybaniyyah/analysis.json"
   }
 ]

@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "ṣafiyyah_al-bāhiliyyah_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ṣafiyyah_al-bāhiliyyah_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزمان / ريب الزمان",
+        "notes": "The verse attributes destruction to 'ريب الزمان' (vicissitudes of time) and states that 'الزمان' (time) spares nothing, reflecting the pre-Islamic cosmological concept of dahr/زمان as an indifferent, destructive force."
+      }
+    ],
+    "error": false
+  }
+]

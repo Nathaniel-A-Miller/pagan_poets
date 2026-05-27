@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "صفية بنت الخرع",
+    "name_en": "Ṣafiyyah bt. al-Khariʿ",
+    "tribe": "Taym",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ṣafiyyah_bt_al-khariʿ_000",
+      "meter": "بسيط",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "قَدْ غابَ عَنْهُ فَلَمْ يَشْهَدْ فَوارِسُهُ  وَلَمْ يَكُونُوا غَداةِ الرَّوْعِ يَحْزُونَهْ"
+        },
+        {
+          "verse_index": 1,
+          "text": "نِطاقُهُ هِنْدٌ وَإِنَّ وَجْنَتَهُ  فَضْفاضَةٌ كَأَضاةِ النِّهْيِ مَوْضُونَةْ"
+        },
+        {
+          "verse_index": 2,
+          "text": "فَقَدْ قَتَلْنا شَقاءَ النَّفْسِ لَوْ قَنِعَتْ  وَما قَتَلْنا بِهِ إِلَّا امْرَأً دُونَهْ"
+        }
+      ]
+    }
+  ]
+}
