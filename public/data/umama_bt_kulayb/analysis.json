@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "umāmah_bt_kulayb_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "umāmah_bt_kulayb_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "دمه سدى",
+        "notes": "This verse refers to the concept of unavenged blood (dam sudan), which in pre-Islamic society carried a strong obligation for vengeance (tha'r), a quasi-ritual duty."
+      },
+      {
+        "poem_id": "umāmah_bt_kulayb_000",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "عقر الخيل",
+        "notes": "This verse explicitly describes the pre-Islamic funerary ritual of hamstringing horses (aqr al-khayl) over the deceased, a practice associated with mourning and honoring the dead."
+      }
+    ],
+    "error": false
+  }
+]

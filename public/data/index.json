@@ -2098,5 +2098,53 @@
     "number_of_lines": 12,
     "source": "data/subaya_bint_alahab/source.json",
     "analysis": "data/subaya_bint_alahab/analysis.json"
+  },
+  {
+    "slug": "sulayma_bt_muhalhil",
+    "name_en": "Sulaymā bt. al-Muhalhil",
+    "name_ar": "سليمى بنت المهلهل",
+    "tribe": "Taghlib",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 21,
+    "source": "data/sulayma_bt_muhalhil/source.json",
+    "analysis": "data/sulayma_bt_muhalhil/analysis.json"
+  },
+  {
+    "slug": "sumayyah_zawjat_shaddad_alabsi",
+    "name_en": "Sumayyah Zawjat Shaddād al-ʿAbsī",
+    "name_ar": "سمية زوجة شداد العبسي",
+    "tribe": "ʿAbs",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "source": "data/sumayyah_zawjat_shaddad_alabsi/source.json",
+    "analysis": "data/sumayyah_zawjat_shaddad_alabsi/analysis.json"
+  },
+  {
+    "slug": "umamah_aladwaniyyah",
+    "name_en": "Umāmah al-ʿAdwāniyyah",
+    "name_ar": "أمامة العدوانية",
+    "tribe": "ʿAdwān",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "source": "data/umamah_aladwaniyyah/source.json",
+    "analysis": "data/umamah_aladwaniyyah/analysis.json"
+  },
+  {
+    "slug": "umama_bt_kulayb",
+    "name_en": "Umāmah bt. Kulayb",
+    "name_ar": "أمامة بنت كليب",
+    "tribe": "Taghlib",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 8,
+    "source": "data/umama_bt_kulayb/source.json",
+    "analysis": "data/umama_bt_kulayb/analysis.json"
   }
 ]
