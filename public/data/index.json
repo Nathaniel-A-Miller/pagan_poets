@@ -2146,5 +2146,101 @@
     "number_of_lines": 8,
     "source": "data/umama_bt_kulayb/source.json",
     "analysis": "data/umama_bt_kulayb/analysis.json"
+  },
+  {
+    "slug": "umayma_um_taabbata_sharran",
+    "name_en": "Umaymah Umm Taʾabbaṭa Sharran",
+    "name_ar": "أميمة أم تأبط شرا",
+    "tribe": "Qayn",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 14,
+    "source": "data/umayma_um_taabbata_sharran/source.json",
+    "analysis": "data/umayma_um_taabbata_sharran/analysis.json"
+  },
+  {
+    "slug": "umm_amr",
+    "name_en": "Umm ʿAmr",
+    "name_ar": "أم عمرو",
+    "tribe": "unknown",
+    "region": "Other / Unknown",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 32,
+    "source": "data/umm_amr/source.json",
+    "analysis": "data/umm_amr/analysis.json"
+  },
+  {
+    "slug": "umm_amr_bint_adi_b_zayd",
+    "name_en": "Umm ʿAmr b. ʿAdī b. Zayd",
+    "name_ar": "أم عمرو بن عدي بن زيد",
+    "tribe": "Tamīm",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "source": "data/umm_amr_bint_adi_b_zayd/source.json",
+    "analysis": "data/umm_amr_bint_adi_b_zayd/analysis.json"
+  },
+  {
+    "slug": "umm_amr_bint_mukaddam",
+    "name_en": "Umm ʿAmr bt. Mukaddam",
+    "name_ar": "أم عمرو بنت مكدم",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 8,
+    "source": "data/umm_amr_bint_mukaddam/source.json",
+    "analysis": "data/umm_amr_bint_mukaddam/analysis.json"
+  },
+  {
+    "slug": "umm_bistam_alshaybani",
+    "name_en": "Umm Bisṭām al-Shaybānī",
+    "name_ar": "أم بسطام الشيباني",
+    "tribe": "Shaybān (Bakr b. Wāʾil)",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 9,
+    "source": "data/umm_bistam_alshaybani/source.json",
+    "analysis": "data/umm_bistam_alshaybani/analysis.json"
+  },
+  {
+    "slug": "umm_ghaylan_bt_jarir",
+    "name_en": "Umm Ghaylān bt. Jarīr",
+    "name_ar": "أم غيلان بنت جرير",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 2,
+    "source": "data/umm_ghaylan_bt_jarir/source.json",
+    "analysis": "data/umm_ghaylan_bt_jarir/analysis.json"
+  },
+  {
+    "slug": "umm_hakim_bint_abd_almuttalib",
+    "name_en": "Umm Ḥākim bt. ʿAbd al-Muṭṭalib",
+    "name_ar": "أم حكيم بنت عبد المطلب",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 19,
+    "source": "data/umm_hakim_bint_abd_almuttalib/source.json",
+    "analysis": "data/umm_hakim_bint_abd_almuttalib/analysis.json"
+  },
+  {
+    "slug": "umm_nudbah",
+    "name_en": "Umm Nudhbah",
+    "name_ar": "أم ندبة",
+    "tribe": "Dhubyān",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 15,
+    "source": "data/umm_nudbah/source.json",
+    "analysis": "data/umm_nudbah/analysis.json"
   }
 ]

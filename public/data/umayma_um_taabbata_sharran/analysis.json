@@ -1,0 +1,55 @@
+[
+  {
+    "poem_id": "umaymah_umm_taʾabbaṭa_sharran_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umaymah_umm_taʾabbaṭa_sharran_001",
+    "poem_index": 1,
+    "meter": "رمل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "umaymah_umm_taʾabbaṭa_sharran_001",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "مارِد",
+        "notes": "The verse explicitly mentions a 'mārid', referring to a powerful jinn or demon, which falls under supernatural entities."
+      },
+      {
+        "poem_id": "umaymah_umm_taʾabbaṭa_sharran_001",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْر",
+        "notes": "The term 'dahr' is used here to denote fate or time as a powerful, often destructive, cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "umaymah_umm_taʾabbaṭa_sharran_001",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'manāyā' refers to fates or deaths, often personified as an inescapable cosmological force in pre-Islamic thought."
+      },
+      {
+        "poem_id": "umaymah_umm_taʾabbaṭa_sharran_001",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "لِلْمَنايا",
+        "notes": "The phrase 'li-l-manāyā' again invokes 'manāyā' as a cosmological force of fate or death, to which one might be offered."
+      }
+    ],
+    "error": false
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "poem_id": "umm_ʿamr_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 32,
+    "references": [
+      {
+        "poem_id": "umm_ʿamr_000",
+        "verse_indices": [
+          1,
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الْقَبْرِ, أَحْثُو التُّرابَ",
+        "notes": "These verses describe the act of burial and covering the deceased with earth, which are specific mortuary practices."
+      },
+      {
+        "poem_id": "umm_ʿamr_000",
+        "verse_indices": [
+          8
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهْراً",
+        "notes": "The term 'dahr' (time/fate) is used here in a sense that aligns with pre-Islamic cosmological concepts of time as an influential force."
+      },
+      {
+        "poem_id": "umm_ʿamr_000",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنِيَّتُهُ",
+        "notes": "The personification of 'manīya' (fate/death) as an assailing force reflects pre-Islamic cosmological beliefs about fate."
+      },
+      {
+        "poem_id": "umm_ʿamr_000",
+        "verse_indices": [
+          19
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْمَوْتُ",
+        "notes": "This verse personifies death as an active agent, which is consistent with pre-Islamic cosmological understandings of death as a powerful force."
+      },
+      {
+        "poem_id": "umm_ʿamr_000",
+        "verse_indices": [
+          22
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الْقَدْرِ",
+        "notes": "The term 'al-qadr' (fate/destiny) is used here to denote an uncontrollable, pre-ordained aspect of life, aligning with pre-Islamic cosmological concepts."
+      },
+      {
+        "poem_id": "umm_ʿamr_000",
+        "verse_indices": [
+          27
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَفائِحُ الصَّخْرِ",
+        "notes": "This verse describes the use of rock slabs in constructing the grave, a detail of pre-Islamic burial practices."
+      }
+    ],
+    "error": false
+  }
+]

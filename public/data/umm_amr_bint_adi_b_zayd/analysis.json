@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "umm_ʿamr_b_ʿadī_b_zayd_000",
+    "poem_index": 0,
+    "meter": "رمل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "umm_ʿamr_b_ʿadī_b_zayd_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأجل",
+        "notes": "The verse refers to 'al-ajal' (the appointed time or fate) as a force that determines a person's end, aligning with pre-Islamic cosmological views on destiny."
+      },
+      {
+        "poem_id": "umm_ʿamr_b_ʿadī_b_zayd_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse expresses woe to 'al-dahr' (Time/Fate), which was often personified as a powerful, indifferent, and destructive cosmological force in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  }
+]

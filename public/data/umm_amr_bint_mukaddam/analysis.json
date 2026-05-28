@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "umm_ʿamr_bt_mukaddam_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "umm_ʿamr_bt_mukaddam_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term \"المنايا\" (fates/deaths) refers to an irresistible, often personified, force of destiny, a key cosmological concept in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "umm_ʿamr_bt_mukaddam_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Tribal_Sacral_Roles",
+        "entity_or_term": "راقٍ",
+        "notes": "The \"راقٍ\" (enchanter or charmer) refers to a person who performs incantations or charms, representing a specific sacral role in pre-Islamic society."
+      }
+    ],
+    "error": false
+  }
+]
