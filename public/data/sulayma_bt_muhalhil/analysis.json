@@ -1,0 +1,46 @@
+[
+  {
+    "poem_id": "sulaymā_bt_al-muhalhil_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "sulaymā_bt_al_muhalhil_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهْر",
+        "notes": "The term \"دَهْر\" (dahr) is used here to refer to time or fate as a powerful, often malevolent, cosmological force, a common pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "sulaymā_bt_al-muhalhil_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "sulaymā_bt_al-muhalhil_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "sulaymā_bt_al-muhalhil_002",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بَناتُ الدَّهْرِ, الْمَنايا",
+        "notes": "This verse refers to 'daughters of Dahr' (Time/Fate) and 'arrows of Manāyā' (fates/destinies), which are key pre-Islamic cosmological concepts regarding the forces that govern life and death."
+      }
+    ],
+    "error": false
+  }
+]
