@@ -1,0 +1,59 @@
+{
+  "poet": {
+    "name_ar": "أم النحيف",
+    "name_en": "Umm al-Naḥīf",
+    "tribe": "Judhaymah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "umm_al-naḥīf_000",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "مُهفهفة الكشحينِ مَحطوطة المطا  كَهمّ الفتى في كلّ مبدىً ومحضرِ"
+        },
+        {
+          "verse_index": 1,
+          "text": "لَها كفلٌ كالدعصِ لبّده الندى  وَثغرٌ نقيٌّ كالأقاحي المنوَّرِ"
+        }
+      ]
+    },
+    {
+      "poem_index": 1,
+      "poem_id": "umm_al-naḥīf_001",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "تَربّص بِها الأيام علّ صُروفها  سَترمي بِها في جاحمٍ متسعّرِ"
+        }
+      ]
+    },
+    {
+      "poem_index": 2,
+      "poem_id": "umm_al-naḥīf_002",
+      "meter": "طويل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لَعَمري لَقَد أخلفتَ ظنّي وَسُؤتني  فَحُزتَ بِعصياني الندامة فاِصبرِ"
+        },
+        {
+          "verse_index": 1,
+          "text": "وَلا تكُ مِطلاقاً ملولاً وسامحِ ال  قرينة وَاِفعل فعل حرٍّ مشهّرِ"
+        },
+        {
+          "verse_index": 2,
+          "text": "فَقَد حزتَ بِالورهاءِ أخبث خبثةٍ  فَدَع عنكَ ما قد قلت يا سعد واِحذرِ"
+        }
+      ]
+    }
+  ]
+}

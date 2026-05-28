@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "al-zahrāʾ_ukht_kulayb_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zahrāʾ_ukht_kulayb_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-zahrāʾ_ukht_kulayb_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرَ",
+        "notes": "The term \"الدَّهْرَ\" (dahr) in pre-Islamic poetry often refers to an impersonal, irresistible force of time or fate, a key element of pre-Islamic Arabian cosmological thought."
+      }
+    ],
+    "error": false
+  }
+]

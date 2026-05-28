@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "آمنة بنت عتيبة",
+    "name_en": "Āminah bt. ʿUtaybah",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "āminah_bt_ʿutaybah_000",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "عَلى مثلِ اِبن ميّة فَاِنعياه  تشقّ نَواعمُ البشر الجُيوبا"
+        },
+        {
+          "verse_index": 1,
+          "text": "وَكانَ أبي عتيبة شمّريّاً  فَلا تلقاهُ يدّخرُ النصيبا"
+        },
+        {
+          "verse_index": 2,
+          "text": "ضَروباً للكميّ إِذا اِشمعلّت  عوان الحَربِ لا وَرِعاً هَيوبا"
+        }
+      ]
+    }
+  ]
+}

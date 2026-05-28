@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "العوراء الذبيانية",
+    "name_en": "Al-ʿAwrāʾ al-Dhubyāniyyah",
+    "tribe": "Dhubyān",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-ʿawrāʾ_al-dhubyāniyyah_000",
+      "meter": "بحر مجزوء الرجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَبكي لِعَبدِ اللَهِ إِذ  حُشَّت قُبَيلَ الصُبحِ نارُه"
+        },
+        {
+          "verse_index": 1,
+          "text": "طَيّانَ طاوي الكَشحِ ل  يُرخي لِمَطلَمَةٍ إِزارُه"
+        },
+        {
+          "verse_index": 2,
+          "text": "يَعصي البَخيلَ إِذا أَر  دَ المَجدَ مَخلوعاً عِذارُه"
+        }
+      ]
+    }
+  ]
+}

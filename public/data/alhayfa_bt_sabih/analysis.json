@@ -1,0 +1,28 @@
+[
+  {
+    "poem_id": "al-hayfāʾ_bt_ṣabīḥ_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-hayfāʾ_bt_ṣabīḥ_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-hayfāʾ_bt_ṣabīḥ_001",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَّه",
+        "notes": "This verse contains an explicit oath formula 'وَاللَّه' (By God), which was a common form of oath in pre-Islamic Arabia, anchoring the statement to a divine entity."
+      }
+    ],
+    "error": false
+  }
+]

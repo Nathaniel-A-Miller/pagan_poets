@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "umm_abī_jaddābah_000",
+    "poem_index": 0,
+    "meter": "رمل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "umm_abī_jaddābah_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term \"الدهر\" (Dahr) explicitly refers to the pre-Islamic cosmological concept of time or fate as an active, often destructive, force."
+      }
+    ],
+    "error": false
+  }
+]

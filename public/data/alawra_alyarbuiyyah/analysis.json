@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "al-ʿawrāʾ_al-yarbūʿiyyah_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-ʿawrāʾ_al-yarbūʿiyyah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "تنذر النذورا",
+        "notes": "The verse explicitly mentions 'making vows' (تنذر النذورا), which was a common pre-Islamic ritual practice often involving a promise to a deity or sacred site."
+      },
+      {
+        "poem_id": "al-ʿawrāʾ_al-yarbūʿiyyah_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مجمر الركبان",
+        "notes": "The mention of 'the incense burner of the travelers' (مجمر الركبان) refers to a ritual object used in pre-Islamic practices, likely for offerings or purification before journeys."
+      }
+    ],
+    "error": false
+  }
+]

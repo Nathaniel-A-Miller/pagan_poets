@@ -1,0 +1,38 @@
+[
+  {
+    "poem_id": "al-sulakah_bt_al-sulayk_000",
+    "poem_index": 0,
+    "meter": "بحر مجزوء الرمل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "al-sulakah_bt_al-sulayk_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an active agent that 'snatched away', reflecting the pre-Islamic cosmological concept of Dahr as an inescapable force."
+      },
+      {
+        "poem_id": "al-sulakah_bt_al-sulayk_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The verse mentions 'al-Manāyā' (fates/deaths) as an ever-present 'ambush', indicating the pre-Islamic belief in inescapable destiny."
+      },
+      {
+        "poem_id": "al-sulakah_bt_al-sulayk_000",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The verse expresses a wish to be offered to 'al-Manāyā' (fates/deaths) in place of the deceased, highlighting the pre-Islamic concept of fate as an ultimate arbiter of life and death."
+      }
+    ],
+    "error": false
+  }
+]

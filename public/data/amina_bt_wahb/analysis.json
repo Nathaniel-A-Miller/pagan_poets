@@ -1,0 +1,65 @@
+[
+  {
+    "poem_id": "āminah_bt_wahb_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "āminah_bt_wahb_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-Manāyā' (fates/deaths) is used here to personify an irresistible force of destiny, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "āminah_bt_wahb_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "The term 'al-Manāyā' (fates/deaths) is again used to denote a powerful, almost personified force of destiny, aligning with pre-Islamic cosmological views."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "āminah_bt_wahb_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "āminah_bt_wahb_001",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الضرب بالسهام",
+        "notes": "This verse explicitly refers to the pre-Islamic practice of using arrows (azlām) for divination to determine fate, specifically in the context of Abd Allah's near-sacrifice."
+      },
+      {
+        "poem_id": "āminah_bt_wahb_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "المنام",
+        "notes": "The phrase 'if what I saw in the dream is true' indicates a belief in dream interpretation as a form of divination or prophetic insight."
+      },
+      {
+        "poem_id": "āminah_bt_wahb_001",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الأصنام",
+        "notes": "This verse explicitly mentions 'idols' (al-aṣnām) as objects of worship in pre-Islamic Arabian religion, which are representations of deities."
+      }
+    ],
+    "error": false
+  }
+]

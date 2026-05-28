@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "ibnat_ḥakīm_b_ʿamr_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "ibnat_ḥakīm_b_ʿamr_000",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ربّكم, اِسجُدوا له",
+        "notes": "This verse sarcastically instructs the audience to consider Rabīʿ as their 'lord' (ربّكم) and prostrate themselves (اِسجُدوا له), explicitly referencing the concept of a deity and an act of worship."
+      }
+    ],
+    "error": false
+  }
+]
