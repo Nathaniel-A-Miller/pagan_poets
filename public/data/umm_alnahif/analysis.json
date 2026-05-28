@@ -1,0 +1,36 @@
+[
+  {
+    "poem_id": "umm_al-naḥīf_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umm_al-naḥīf_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "umm_al-naḥīf_001",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأيام, صُروفها, جاحم",
+        "notes": "The verse attributes agency to 'الأيام' (days/time) and its 'صُروف' (vicissitudes), reflecting the pre-Islamic concept of *dahr* (fate/time) as a powerful force, leading to a 'جاحم' (blazing hellfire) as a conceptual afterlife punishment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umm_al-naḥīf_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

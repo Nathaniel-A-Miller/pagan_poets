@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "umm_al-agharr_bint_rabīʿah_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "umm_al-agharr_bint_rabīʿah_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "هُبِلتُم",
+        "notes": "This verse contains the pre-Islamic imprecation 'هُبِلتُم' (may you be bereft), a formulaic curse often linked to the deity Hubal or a general sense of divine deprivation."
+      }
+    ],
+    "error": false
+  }
+]

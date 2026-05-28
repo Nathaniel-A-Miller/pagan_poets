@@ -1,0 +1,29 @@
+{
+  "poet": {
+    "name_ar": "الزرقاء بنت زهير",
+    "name_en": "Al-Zarqāʾ bt. al-Zuhayr",
+    "tribe": "Tanūkh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 2,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-zarqāʾ_bt_al-zuhayr_000",
+      "meter": "كامل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "وَدِّعْ تِهامَةَ لا وَداعَ مُخالِقٍ  بِذِمامِهِ لَكِنْ قِلىً وَمَلامُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "لا تُنْكِرِي هَجْراً مُقامَ غَرِيبَةٍ  لَنْ تَعْدَمِي مِنْ ظاعِنِينَ تِهامُ"
+        }
+      ]
+    }
+  ]
+}

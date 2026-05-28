@@ -1,0 +1,41 @@
+{
+  "poet": {
+    "name_ar": "عادية بنت فرعة",
+    "name_en": "ʿĀdiyah bt. Farʿah",
+    "tribe": "unknown",
+    "region": "Other / Unknown",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ʿādiyah_bt_farʿah_000",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَشْبَهَ رَوْسٌ نَفَراً كِراما  كانُوا الذُّرَى وَالْأَنْفَ وَالسِّناما"
+        },
+        {
+          "verse_index": 1,
+          "text": "كانُوا لِمَنْ خالَطَهُمْ أَداما  كَالسَّمْنِ لَمَّا خالَطَ الطَّعاما"
+        },
+        {
+          "verse_index": 2,
+          "text": "لَوْ رَيِّشاً لَكُنْتَ مِنْ قُدَّاما  أَوْ طائِراً قَدْ كُنْتَ أَوْ أَغْناما"
+        },
+        {
+          "verse_index": 3,
+          "text": "صَقْرًا إِذا لاقَى الْحَمامَ اعْتاما  رَأَى قَطاً غُدُوَّةً سِمانا"
+        },
+        {
+          "verse_index": 4,
+          "text": "فَانْفَضَّ وَاحْتَمَّ لَها أَحْتاما"
+        }
+      ]
+    }
+  ]
+}

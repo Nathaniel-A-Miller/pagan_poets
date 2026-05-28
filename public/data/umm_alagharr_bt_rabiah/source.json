@@ -1,0 +1,45 @@
+{
+  "poet": {
+    "name_ar": "أم الأغر بنت ربيعة التغلبية",
+    "name_en": "Umm al-Agharr bint Rabīʿah",
+    "tribe": "Taghlib",
+    "region": "Iraq / Euphrates",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "umm_al-agharr_bint_rabīʿah_000",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَلا فاِبكي أَعِينِيَ لا تَمَلِّي  فَلي بِمصابنا أَبَداً عَويلُ"
+        },
+        {
+          "verse_index": 1,
+          "text": "فَلا سَلِمَت عَشيرتنا وَعادَت  إِذا صُرِعَ اِبنُ رُوحانَ النَّبِيلُ"
+        },
+        {
+          "verse_index": 2,
+          "text": "إذا رُحتُم وخُلِّفتُم هُبِلتُم  لِغَرثانٍ فَلا راحَ القَبيلُ"
+        },
+        {
+          "verse_index": 3,
+          "text": "فَرِحتُم بِالغَنائِمِ حِينَ رُحتُم  وَبانَ بِمَوتِهِ الغُنمُ الجَليلُ"
+        },
+        {
+          "verse_index": 4,
+          "text": "تركتم ذا الحِفاظِ وذا السّرايا  وراءكم أَضَلَّكُم الدَّليلُ"
+        },
+        {
+          "verse_index": 5,
+          "text": "فَقُل لِنُوَيرَةٍ وَكُلَيبَ مَهلاً  أَقيما إِنَّ خِزيَكُما طَويلُ"
+        }
+      ]
+    }
+  ]
+}

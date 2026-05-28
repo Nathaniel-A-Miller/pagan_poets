@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "āminah_bt_ʿutaybah_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "āminah_bt_ʿutaybah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "تشقّ الجيوب",
+        "notes": "This verse describes the pre-Islamic mourning practice of women tearing their garments (shaqq al-juyūb) as a sign of lamentation for the deceased."
+      }
+    ],
+    "error": false
+  }
+]

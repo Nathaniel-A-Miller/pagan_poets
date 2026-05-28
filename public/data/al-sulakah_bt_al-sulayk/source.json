@@ -1,0 +1,69 @@
+{
+  "poet": {
+    "name_ar": "السلكة أم السليك",
+    "name_en": "Al-Sulakah bt. al-Sulayk",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 12,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-sulakah_bt_al-sulayk_000",
+      "meter": "بحر مجزوء الرمل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "طافَ يَبغي نجوةً  من هلاكٍ فَهَلَك"
+        },
+        {
+          "verse_index": 1,
+          "text": "لَيت شِعريضلّةً  أيّ شيءٍ قَتَلك"
+        },
+        {
+          "verse_index": 2,
+          "text": "أَمريض لم تُعَد  أم عدوٌّ خَتَلَك"
+        },
+        {
+          "verse_index": 3,
+          "text": "أَم تولّى بكَ ما  غال في الدهرِ السُّلَك"
+        },
+        {
+          "verse_index": 4,
+          "text": "وَالمَنايا رصدٌ  لِلفَتى حَيثُ سَلَك"
+        },
+        {
+          "verse_index": 5,
+          "text": "أيّ شيءٍ حسن  لِلفَتى لَم يكُ لَك"
+        },
+        {
+          "verse_index": 6,
+          "text": "كلّ شيءٍ قاتلٌ  حينَ تلقى أَجَلَك"
+        },
+        {
+          "verse_index": 7,
+          "text": "طالَ ما قَد نلت في  غيرِ كدٍّ أَمَلك"
+        },
+        {
+          "verse_index": 8,
+          "text": "إِنّ أَمراً فادحاً  عَن جَوابي شَغَلك"
+        },
+        {
+          "verse_index": 9,
+          "text": "سَأُعزّي النفسَ إِذ  لَم تُجِب مَن سَأَلَك"
+        },
+        {
+          "verse_index": 10,
+          "text": "لَيتَقَلبي ساعةً  صبرهُ عَنك مَلَك"
+        },
+        {
+          "verse_index": 11,
+          "text": "لَيتَنَفسي قُدّمَت  لِلمَنايا بَدَلَك"
+        }
+      ]
+    }
+  ]
+}
