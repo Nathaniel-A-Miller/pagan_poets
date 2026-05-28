@@ -1,0 +1,29 @@
+{
+  "poet": {
+    "name_ar": "أم غيلان بنت جرير",
+    "name_en": "Umm Ghaylān bt. Jarīr",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 2,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "umm_ghaylān_bt_jarīr_000",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَصْبَحَ جَعْدٌ وَأَبُو الْمَوْزُونْ  يَرْمُونَ قَطَّاطِنَ بِالظُّنُونْ"
+        },
+        {
+          "verse_index": 1,
+          "text": "ما ساقَ خَمْساً قَبْلَهُ عِنِّينْ  يَسْأَلُ فِي الْمَهْرِ وَيَسْتَدِينْ"
+        }
+      ]
+    }
+  ]
+}

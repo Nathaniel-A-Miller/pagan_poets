@@ -1,0 +1,36 @@
+[
+  {
+    "poem_id": "umm_ḥākim_bt_ʿabd_al-muṭṭalib_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "umm_ḥākim_bt_ʿabd_al-muṭṭalib_001",
+    "poem_index": 1,
+    "meter": "وافر",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "umm_ḥākim_bt_ʿabd_al-muṭṭalib_001",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهْرُ",
+        "notes": "The term \"الدَّهْرُ\" (dahr) refers to the pre-Islamic concept of time or fate as an impersonal, irresistible cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "umm_ḥākim_bt_ʿabd_al-muṭṭalib_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]
