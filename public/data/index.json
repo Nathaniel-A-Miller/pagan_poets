@@ -1081,7 +1081,7 @@
   },
   {
     "slug": "al-musayyab_al-alas",
-    "name_en": "Al-Musayyab al-ʿAlas",
+    "name_en": "Al-Musayyab b. al-ʿAlas",
     "name_ar": "المسيب بن علس",
     "tribe": "Ḍubayʿah (Bakr b. Wāʾil)",
     "region": "Iraq / Euphrates",
@@ -2458,5 +2458,41 @@
     "number_of_lines": 2,
     "source": "data/zarqa_bt_zuhayr/source.json",
     "analysis": "data/zarqa_bt_zuhayr/analysis.json"
+  },
+  {
+    "slug": "hajiz_alazdi",
+    "name_en": "Ḥājiz al-Azdī",
+    "name_ar": "حاجز الأزدي",
+    "tribe": "Azd",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 149,
+    "source": "data/hajiz_alazdi/source.json",
+    "analysis": "data/hajiz_alazdi/analysis.json"
+  },
+  {
+    "slug": "sayfi_alaslat",
+    "name_en": "Ṣayfī al-Aslat",
+    "name_ar": "صيفي الأسلت",
+    "tribe": "Aws",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 150,
+    "source": "data/sayfi_alaslat/source.json",
+    "analysis": "data/sayfi_alaslat/analysis.json"
+  },
+  {
+    "slug": "uhayha_b_aljulah",
+    "name_en": "Uḥayḥah b. al-Julāḥ",
+    "name_ar": "أحيحة بن الجلاح",
+    "tribe": "Aws",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 282,
+    "source": "data/uhayha_b_aljulah/source.json",
+    "analysis": "data/uhayha_b_aljulah/analysis.json"
   }
 ]
