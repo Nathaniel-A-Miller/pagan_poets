@@ -1,0 +1,816 @@
+[
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 47,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "لا بقاء ولا خلود",
+        "notes": "This verse expresses the pre-Islamic belief in the finality of death and the absence of an afterlife or immortality."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_000",
+        "verse_indices": [
+          12
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَه",
+        "notes": "The poet refers to 'Allah' as a supreme, powerful entity, consistent with the pre-Islamic recognition of Allah as a high god within the Arabian pantheon."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_000",
+        "verse_indices": [
+          13
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَه, الجُدودا",
+        "notes": "This verse invokes 'Allah' as a supreme deity who has power over 'al-judūd' (destinies/fortunes), reflecting a pre-Islamic understanding of divine power and fate."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_000",
+        "verse_indices": [
+          16
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "المَحارِم",
+        "notes": "The term 'al-maḥārim' refers to sacred prohibitions or inviolable zones/customs, indicating a pre-Islamic concept of sacred boundaries and their violation."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_000",
+        "verse_indices": [
+          33
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وَئيدا",
+        "notes": "This verse explicitly refers to 'al-waʾīd' (female infanticide), a known pre-Islamic practice related to death and social custom."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_001",
+        "verse_indices": [
+          18
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهر",
+        "notes": "The term 'دَهر' (Dahr) refers to the pre-Islamic concept of an impersonal, often malevolent, force of time or fate, which is a key cosmological idea in Jahiliyya poetry."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 34,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_002",
+        "verse_indices": [
+          26
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طائِرُه",
+        "notes": "The phrase \"وخُيِّبَ طائِرُه\" explicitly refers to the failure of an omen, specifically augury (ṭīra), a common pre-Islamic divinatory practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_003",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حِجارَةَ تَصلُبا",
+        "notes": "The phrase 'except the stones of Taṣlub' implies a special, inviolable status for these stones, reminiscent of pre-Islamic sacred standing stones (anṣāb)."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_003",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "المُحَصَّبا",
+        "notes": "Al-Muḥaṣṣab is a well-known valley near Mecca, serving as a stopping point for pilgrims and thus part of the pre-Islamic sacred geography."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_003",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "قَبلَةً",
+        "notes": "The term 'qibla' refers to the pre-Islamic direction of veneration towards a sacred site, indicating a ritual orientation during prayer or rest."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_006",
+    "poem_index": 6,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_006",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حرام (ḥaram)",
+        "notes": "The term 'ḥaram' refers to a sacred, inviolable zone, the violation of which was a significant act in pre-Islamic Arabian religious and social custom."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "السَماءُ جِلدَها بِالكَواكِبِ",
+        "notes": "The verse describes a cosmic upheaval involving the sky and stars as a reaction to a significant loss, reflecting pre-Islamic cosmological beliefs about the interconnectedness of celestial phenomena and human events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_009",
+    "poem_index": 9,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_009",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الزَمانُ وَتَصريفُهُ",
+        "notes": "The phrase attributes events to the irresistible power of 'Time and its vicissitudes,' reflecting the pre-Islamic concept of *dahr* as a cosmological force that governs human affairs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_012",
+    "poem_index": 12,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_013",
+    "poem_index": 13,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_014",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "القُبورُ",
+        "notes": "The personification of graves as entities that 'blame' or 'reproach' those who visit them suggests a pre-Islamic belief in the agency or judgment associated with the deceased and their resting places."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_015",
+    "poem_index": 15,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_015",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أَبي قُبَيسٍ",
+        "notes": "The mention of Abū Qubays, a sacred mountain in Mecca, implicitly refers to pre-Islamic sacred geography due to its proximity and association with the Kaaba and the ḥaram."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_016",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَهُ",
+        "notes": "The verse explicitly refers to 'Allah' as a divine entity capable of action ('did not raise his mention'), which aligns with the pre-Islamic recognition of Allah as a supreme deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_017",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "هُبالَة",
+        "notes": "This verse explicitly names Hubāla, a prominent pre-Islamic deity worshipped in the Kaaba, indicating a reference to a pre-Islamic deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_018",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الجُدودُ العَواثِرُ",
+        "notes": "This phrase refers to 'stumbling fates' or 'unlucky destinies' as an external force that weakens people, aligning with pre-Islamic concepts of fate (dahr, manāyā)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_019",
+    "poem_index": 19,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_023",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "المَروَةِ البَيضاءِ, تَبالَةٍ",
+        "notes": "The verse explicitly names al-Marwa al-Bayḍāʾ and Tabāla, both significant sacred sites and sanctuaries in pre-Islamic Arabia, indicating a reference to sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_025",
+    "poem_index": 25,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_026",
+    "poem_index": 26,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_027",
+    "poem_index": 27,
+    "meter": "بسيط",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_027",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ القِلاصِ الراقِصاتِ بِنا عَشِيَّةَ النَفرِ",
+        "notes": "This verse contains an oath formula 'وَرَبِّ' (By the Lord of) anchored to the sacred context of pilgrimage camels during 'النفر', a pre-Islamic ritual departure from Mina."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_028",
+        "verse_indices": [
+          11
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "مَوالِيَ مِمَّن لا يَنامُ وَلا يَسري",
+        "notes": "The phrase refers to supernatural allies or protectors, likely jinn, who do not sleep or travel by night, a common pre-Islamic belief about such entities."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_028",
+        "verse_indices": [
+          12
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَبَيتِ اللَهِ",
+        "notes": "This is an oath sworn by the House of God (the Kaaba), which was a revered sanctuary and object of oaths in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_029",
+    "poem_index": 29,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_030",
+    "poem_index": 30,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_031",
+    "poem_index": 31,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_031",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الهَدِيّ",
+        "notes": "The verse uses the term 'الهَدِيّ' (al-hadī), referring to an animal designated for sacrifice, which is an explicit reference to pre-Islamic sacrificial rituals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_032",
+    "poem_index": 32,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_033",
+    "poem_index": 33,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_034",
+    "poem_index": 34,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_035",
+    "poem_index": 35,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_036",
+    "poem_index": 36,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_036",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "رُقيَة",
+        "notes": "The verse explicitly mentions 'ruqya' (incantation or charm), which was a common pre-Islamic performative practice used for protection or healing."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_038",
+    "poem_index": 38,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_038",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبيكَ",
+        "notes": "This phrase constitutes a pre-Islamic oath formula, swearing by the life of the father, which was a common and solemn form of affirmation."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_040",
+    "poem_index": 40,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_041",
+    "poem_index": 41,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_042",
+    "poem_index": 42,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_042",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذو الودعة",
+        "notes": "This verse refers to 'the one with the cowries' (ذو الودعة), alluding to the pre-Islamic practice of wearing cowrie shells as amulets for protection, which falls under ritualistic practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_044",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مَكَّةَ",
+        "notes": "This verse explicitly names Mecca, which was the central sacred city and ḥaram zone in pre-Islamic Arabian religion, thus referencing sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_045",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مُحرِم",
+        "notes": "The term 'muḥrim' refers to a person in a state of ritual consecration, indicating a pre-Islamic ritual practice related to sacred boundaries or restrictions on land use."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_047",
+    "poem_index": 47,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_047",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هامَةٌ, بَلِيَّةٌ",
+        "notes": "This verse explicitly mentions the pre-Islamic beliefs of the *hāmāh* (a bird representing the unavenged soul) and the *balīyah* (a camel left to die at the grave for the deceased's use in the afterlife)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_048",
+    "poem_index": 48,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_049",
+    "poem_index": 49,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_050",
+    "poem_index": 50,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_050",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحَرَمُ",
+        "notes": "The term 'al-ḥaram' refers to a sacred, inviolable zone where certain actions, like fighting, were forbidden in pre-Islamic Arabian practice, indicating a sacred space."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_051",
+    "poem_index": 51,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_051",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البَيتِ, ثِيابَ البَيتِ",
+        "notes": "The verse refers to 'al-Bayt' (the Kaaba) and its 'thiyāb al-Bayt' (covering), indicating a pre-Islamic sacred space and its associated ritualistic elements."
+      },
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_051",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحَجيجِ",
+        "notes": "The verse explicitly mentions 'al-Ḥajīj,' referring to the pre-Islamic pilgrimage, a central ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_052",
+    "poem_index": 52,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_052",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هام",
+        "notes": "This verse references the pre-Islamic belief that the 'hām' (owl) would hoot over the grave of an unavenged person, representing their restless soul."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_053",
+    "poem_index": 53,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_054",
+    "poem_index": 54,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_055",
+    "poem_index": 55,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_055",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مُجَرَّما",
+        "notes": "The term 'mujarriman' (مُجَرَّما), derived from the root ḥ-r-m, implies a state of sacred prohibition or inviolability, often associated with sacred spaces or actions within them in pre-Islamic Arabian religion."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_056",
+    "poem_index": 56,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "khidāsh_al-ʿāmirī_056",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الفِجار, بَطحاءِ الحُجونِ, المَحارِما",
+        "notes": "The verse refers to the violation of sacred prohibitions (al-maḥārim) in the sacred area of al-Ḥujūn during the Fijār wars, indicating a clear understanding of pre-Islamic sacred geography and ritual prohibitions."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_057",
+    "poem_index": 57,
+    "meter": "رمل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khidāsh_al-ʿāmirī_058",
+    "poem_index": 58,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

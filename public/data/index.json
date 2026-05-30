@@ -2578,5 +2578,41 @@
     "number_of_lines": 159,
     "source": "data/qays_b_alhaddadiyyah/source.json",
     "analysis": "data/qays_b_alhaddadiyyah/analysis.json"
+  },
+  {
+    "slug": "amr_albahili",
+    "name_en": "ʿAmr al-Bāhilī",
+    "name_ar": "عمرو الباهلي",
+    "tribe": "Bāhilah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 498,
+    "source": "data/amr_albahili/source.json",
+    "analysis": "data/amr_albahili/analysis.json"
+  },
+  {
+    "slug": "khidash_alamiri",
+    "name_en": "Khidāsh al-ʿĀmirī",
+    "name_ar": "خداش العامري",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 274,
+    "source": "data/khidash_alamiri/source.json",
+    "analysis": "data/khidash_alamiri/analysis.json"
+  },
+  {
+    "slug": "tamim_b_abi_muqbil",
+    "name_en": "Tamīm b. Abī Muqbil",
+    "name_ar": "تميم بن أبي بن مقبل",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 1313,
+    "source": "data/tamim_b_abi_muqbil/source.json",
+    "analysis": "data/tamim_b_abi_muqbil/analysis.json"
   }
 ]
