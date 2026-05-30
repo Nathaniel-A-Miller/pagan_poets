@@ -1,0 +1,276 @@
+[
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_003",
+    "poem_index": 3,
+    "meter": "منسرح",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_004",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "بذي أروني ترومي ورائي الثعالب",
+        "notes": "The verse expresses a wish to be in Dhū Arūnī, a desolate place often associated with graves, with foxes digging behind him, explicitly referencing a state of death and burial."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_007",
+    "poem_index": 7,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بالله",
+        "notes": "The verse contains an oath 'بالله' (by God), which in early Arabic poetry often refers to the pre-Islamic high god and serves as a common oath formula."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_008",
+    "poem_index": 8,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_008",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "قرابين الإله",
+        "notes": "This verse explicitly mentions 'sacrifices to the God' (قرابين الإله) in the context of the Banū Quṣayy, indicating pre-Islamic sacrificial practices associated with a prominent Meccan lineage."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_013",
+    "poem_index": 13,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_015",
+        "verse_indices": [
+          0
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "أبيت اللعن",
+        "notes": "This phrase is a common pre-Islamic salutation or formula used to avert a curse, indicating a belief in the power of curses and their avoidance."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_015",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "يد الدهر",
+        "notes": "The phrase 'hand of Time/Fate' explicitly refers to al-Dahr as an active, often malevolent, cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_015",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جنان عبقر",
+        "notes": "The mention of 'jinn of ʿAbqar' directly refers to jinn, which are non-divine supernatural entities in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_015",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر الختور",
+        "notes": "This verse again personifies al-Dahr as 'treacherous Time/Fate,' highlighting its role as a powerful and unpredictable cosmological agent."
+      },
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_015",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنى",
+        "notes": "The term 'al-Manā' refers to fate or destiny, often associated with the pre-Islamic concept of manāyā (fates) and the deity Manāt, representing an inevitable cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_017",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "ورب الراقصات الرواسم",
+        "notes": "This verse contains an oath formula 'By the Lord of the dancing, marking ones' (referring to camels), which is a common pre-Islamic oath invoking a divine entity through its dominion over significant creatures."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_018",
+    "poem_index": 18,
+    "meter": "خفيف",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_018",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنون",
+        "notes": "The term 'al-manūn' refers to an impersonal, irresistible force of fate or death, a common cosmological concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-ḥārith_b_ẓālim_al-murrī_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "al-ḥārith_b_ẓālim_al-murrī_020",
+        "verse_indices": [
+          11
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمرك",
+        "notes": "The phrase 'لعمرك' (by your life) is a common pre-Islamic oath formula, invoking the life of the addressee as a sacred entity to affirm a statement."
+      }
+    ],
+    "error": false
+  }
+]

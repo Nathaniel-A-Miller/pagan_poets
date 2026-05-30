@@ -1,0 +1,248 @@
+[
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَأَبِيها حِلْفَةً",
+        "notes": "The verse contains an oath sworn 'by her father,' which is a common pre-Islamic oath formula invoking a revered figure or lineage."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 37,
+    "references": [
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_001",
+        "verse_indices": [
+          9
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الدِّوارِ تُطَوِّفُ",
+        "notes": "The phrase \"أَهْلِ الدِّوارِ تُطَوِّفُ\" explicitly describes people performing circumambulation (ṭawāf) around a sacred object or space, which is a pre-Islamic ritual."
+      },
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_001",
+        "verse_indices": [
+          29
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "عَمْرَكَ اللهُ",
+        "notes": "The phrase \"عَمْرَكَ اللهُ\" is a traditional Arabic oath formula, invoking God by the life of the addressee, characteristic of pre-Islamic and early Islamic speech."
+      },
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_001",
+        "verse_indices": [
+          30
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حَدَثانِ الدَّهْرِ",
+        "notes": "The term \"حَدَثانِ الدَّهْرِ\" refers to the vicissitudes or events brought about by Dahr (Time/Fate), which was considered a powerful, often malevolent, cosmological force in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_002",
+        "verse_indices": [
+          0
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "الحنيف",
+        "notes": "The term 'الحنيف' (al-Ḥanīf) refers to a pre-Islamic monotheist, representing a specific religious belief system in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_009",
+    "poem_index": 9,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_010",
+    "poem_index": 10,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_013",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهرَ",
+        "notes": "The term \"الدَّهرَ\" (Dahr) is used here to refer to time or fate as an impersonal, often destructive, cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_014",
+    "poem_index": 14,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهرَ",
+        "notes": "The verse refers to 'Dahr' (Time/Fate) as an agent that can cause or prevent poverty, reflecting its pre-Islamic cosmological role as a force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_018",
+    "poem_index": 18,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_019",
+    "poem_index": 19,
+    "meter": "منسرح",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_020",
+    "poem_index": 20,
+    "meter": "منسرح",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿabd_allāh_b_al-ʿajlān_al-nahdī_020",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "العِتر, الإحْرَام, النُّصُب",
+        "notes": "This verse explicitly mentions the pre-Islamic ritual sacrifice of al-ʿitr, the sacred state of iḥrām, and the nuṣub (standing stones/altars) where sacrifices were made, all indicative of pre-Islamic ritual practices and sacred spaces."
+      }
+    ],
+    "error": false
+  }
+]

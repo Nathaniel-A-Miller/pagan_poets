@@ -2518,5 +2518,65 @@
     "number_of_lines": 80,
     "source": "data/zabban_b_sayyar_alfazari/source.json",
     "analysis": "data/zabban_b_sayyar_alfazari/analysis.json"
+  },
+  {
+    "slug": "aljumay_alasadi",
+    "name_en": "Al-Jumayʿ al-Asadī",
+    "name_ar": "الجميح الأسدي",
+    "tribe": "Asad",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 57,
+    "source": "data/aljumay_alasadi/source.json",
+    "analysis": "data/aljumay_alasadi/analysis.json"
+  },
+  {
+    "slug": "alharith_b_zalim_almurri",
+    "name_en": "Al-Ḥārith b. Ẓālim al-Murrī",
+    "name_ar": "الحارث بن ظالم المري",
+    "tribe": "Murrah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 110,
+    "source": "data/alharith_b_zalim_almurri/source.json",
+    "analysis": "data/alharith_b_zalim_almurri/analysis.json"
+  },
+  {
+    "slug": "ibn_ajlan_alnahdi",
+    "name_en": "ʿAbd Allāh b. al-ʿAjlān al-Nahdī",
+    "name_ar": "عبد الله بن العجلان النهدي",
+    "tribe": "Nahd",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 142,
+    "source": "data/ibn_ajlan_alnahdi/source.json",
+    "analysis": "data/ibn_ajlan_alnahdi/analysis.json"
+  },
+  {
+    "slug": "malik_b_harim",
+    "name_en": "Mālik b. Ḥarīm al-Hamdānī",
+    "name_ar": "مالك بن حريم الهمداني",
+    "tribe": "Hamdān",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 110,
+    "source": "data/malik_b_harim/source.json",
+    "analysis": "data/malik_b_harim/analysis.json"
+  },
+  {
+    "slug": "qays_b_alhaddadiyyah",
+    "name_en": "Qays b. al-Ḥaddādiyyah",
+    "name_ar": "قيس بن الحدادية",
+    "tribe": "Khuzāʿah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 159,
+    "source": "data/qays_b_alhaddadiyyah/source.json",
+    "analysis": "data/qays_b_alhaddadiyyah/analysis.json"
   }
 ]

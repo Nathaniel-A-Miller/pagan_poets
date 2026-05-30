@@ -1,0 +1,224 @@
+[
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_000",
+    "poem_index": 0,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_005",
+    "poem_index": 5,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_007",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأَحرَمَين",
+        "notes": "The term 'al-Ḥaramayn' (the two sacred enclosures) refers to specific sacred geographical areas, which were central to pre-Islamic ritual and sanctuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 41,
+    "references": [
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_009",
+        "verse_indices": [
+          23
+        ],
+        "category": "Sacred_Lexicon",
+        "entity_or_term": "دماؤهم شفاء",
+        "notes": "This verse expresses a pre-Islamic folk belief in the curative or beneficial power of the blood of certain individuals, which is a specific sacred concept."
+      },
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_009",
+        "verse_indices": [
+          24,
+          33
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الوتر والثأر",
+        "notes": "These verses refer to the concept of 'witr' (unavenged wrong) and the obligation of 'tha'r' (vengeance), a central pre-Islamic duty often linked to the honor of the deceased and their perceived state in the afterlife."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_010",
+    "poem_index": 10,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_011",
+    "poem_index": 11,
+    "meter": "منسرح",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_011",
+        "verse_indices": [
+          4
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحجيج",
+        "notes": "This verse refers to the departure of pilgrims (الحجيج), indicating the practice of pre-Islamic pilgrimage as a significant ritual."
+      },
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_011",
+        "verse_indices": [
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَداهُ",
+        "notes": "The phrase \"يَدعو صَداهُ\" explicitly references the pre-Islamic belief in the ṣadā, a bird-like spirit of the deceased that cries out for vengeance."
+      },
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_011",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهر",
+        "notes": "The term \"دَهر\" (dahr) is used here in its pre-Islamic sense as a cosmological force representing fate or time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_015",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "القَطيعُ المُحَرَّمُ",
+        "notes": "The phrase 'القَطيعُ المُحَرَّمُ' refers to a consecrated flock, implying animals set aside for sacred purposes, a concept rooted in pre-Islamic ritual practices concerning sacred animals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "mālik_b_ḥarīm_al-hamdānī_016",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نَحَرتُ",
+        "notes": "The verb 'naḥartu' (I slaughtered) refers to the ritual slaughter of a camel, a common sacrificial act in pre-Islamic Arabian religious practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_b_ḥarīm_al-hamdānī_017",
+    "poem_index": 17,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  }
+]
