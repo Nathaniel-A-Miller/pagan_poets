@@ -2494,5 +2494,29 @@
     "number_of_lines": 282,
     "source": "data/uhayha_b_aljulah/source.json",
     "analysis": "data/uhayha_b_aljulah/analysis.json"
+  },
+  {
+    "slug": "balaa_b_qays_alkinani",
+    "name_en": "Balʿāʾ b. Qays al-Kinānī",
+    "name_ar": "بلعاء بن قيس الكناني",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 63,
+    "source": "data/balaa_b_qays_alkinani/source.json",
+    "analysis": "data/balaa_b_qays_alkinani/analysis.json"
+  },
+  {
+    "slug": "zabban_b_sayyar_alfazari",
+    "name_en": "Zabbān b. Sayyar al-Fazārī",
+    "name_ar": "زبان بن سيار الفزاري",
+    "tribe": "Fazārah (Dhubyān)",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 80,
+    "source": "data/zabban_b_sayyar_alfazari/source.json",
+    "analysis": "data/zabban_b_sayyar_alfazari/analysis.json"
   }
 ]
