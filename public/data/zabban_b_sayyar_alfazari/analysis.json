@@ -1,0 +1,253 @@
+[
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "zabbān_b_sayyar_al-fazārī_003",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "حنّا وأصيدا",
+        "notes": "The phrase 'يدعون حنّا وأصيدا' (they call upon Ḥunnā and Aṣyadā) explicitly refers to the invocation of specific entities, likely tribal deities or revered ancestors, fitting the category of invoking sacred beings."
+      },
+      {
+        "poem_id": "zabbān_b_sayyar_al-fazārī_003",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "جفر الهباءة",
+        "notes": "The verse questions why fire was not kindled 'على جفر الهباءة' (upon the jafr of al-Habāʾa), implying this was a specific, perhaps traditional or ritualistic, location for kindling fires for the clan, thus referencing a sacred space and ritual act."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_004",
+    "poem_index": 4,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "zabbān_b_sayyar_al-fazārī_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيرَهُ",
+        "notes": "The phrase 'تَخَبَّرَ طَيرَهُ' explicitly refers to the pre-Islamic practice of seeking omens through birds (ṭīra)."
+      },
+      {
+        "poem_id": "zabbān_b_sayyar_al-fazārī_005",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "لا طَيرَ",
+        "notes": "The phrase 'لا طَيرَ' directly references the concept of augury (ṭīra), even in the context of denying its efficacy, indicating its presence as a known pre-Islamic belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_008",
+    "poem_index": 8,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_010",
+    "poem_index": 10,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_012",
+    "poem_index": 12,
+    "meter": "كامل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "zabbān_b_sayyar_al-fazārī_017",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أقسم",
+        "notes": "The verb 'أقسم' (he swore an oath) refers to the practice of oath-taking, which was a formal and often religiously-charged commitment in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "zabbān_b_sayyar_al-fazārī_017",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "أقسم",
+        "notes": "The verb 'أقسم' (he swore an oath) refers to the practice of oath-taking, which was a formal and often religiously-charged commitment in pre-Islamic Arabian society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zabbān_b_sayyar_al-fazārī_018",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "مَيموناً, مُهرَ أَشأَما",
+        "notes": "The verse explicitly refers to the concepts of auspiciousness (maymūn) and ill omen (ash'am), which are central to pre-Islamic Arabian practices of divination and augury."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_021",
+    "poem_index": 21,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zabbān_b_sayyar_al-fazārī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]
