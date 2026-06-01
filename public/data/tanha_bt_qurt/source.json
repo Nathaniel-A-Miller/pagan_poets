@@ -1,0 +1,49 @@
+{
+  "poet": {
+    "name_ar": "تنها بنت قرط",
+    "name_en": "Tanhā bt. Qurṭ",
+    "tribe": "ʿAbd al-Qays",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 7,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "tanhā_bt_qurṭ_000",
+      "meter": "بحر مجزوء الرجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "يا سَعدُ يا خيرَ أخٍ  نازَعْتُ دَرَّ الحلمَهْ"
+        },
+        {
+          "verse_index": 1,
+          "text": "يا ذائدَ الخيلِ ومجتا  بَ الدِلاصِ الدَّرِمهْ"
+        },
+        {
+          "verse_index": 2,
+          "text": "سَيفكَ لا يَشقَى به  إلاّ السِنادُ السَّنمهْ"
+        },
+        {
+          "verse_index": 3,
+          "text": "يا سَعْدُ كمْ أوقدتَ للأ  ضيافِ ناراً زَهِمَه"
+        },
+        {
+          "verse_index": 4,
+          "text": "يا قائد الخيل إلى الـ  ـخيل تعادي أضِمَه"
+        },
+        {
+          "verse_index": 5,
+          "text": "جادَ على قَبرِكَ غيْـ  ـث من سماء رزِمَه"
+        },
+        {
+          "verse_index": 6,
+          "text": "يُنْبِتُ نوراً أرِجاً  جرجاره والينمَه"
+        }
+      ]
+    }
+  ]
+}

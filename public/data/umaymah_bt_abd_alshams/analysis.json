@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "umaymah_bt_ʿabd_al-shams_000",
+    "poem_index": 0,
+    "meter": "مجزوء الوافر",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "umaymah_bt_ʿabd_al_shams_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نجم, الدلو, العقرب",
+        "notes": "The mention of specific constellations (Aquarius and Scorpio) and the phrase 'below it are terrors' suggests an ominous or astrological interpretation of stars, aligning with pre-Islamic astral beliefs."
+      },
+      {
+        "poem_id": "umaymah_bt_ʿabd_al_shams_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دهر",
+        "notes": "The personification of 'Dahr' (Time/Fate) as a destructive, active force ('with iron fangs and claws') is a central pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  }
+]

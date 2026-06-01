@@ -1,0 +1,29 @@
+[
+  {
+    "poem_id": "asmāʾ_al-murriyyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "asmāʾ_al-murriyyah_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِاللهِ",
+        "notes": "The phrase \"بِاللهِ\" constitutes an oath by God, a common practice in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "asmāʾ_al_murriyyah_000",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البَيتِ",
+        "notes": "The reference to \"البَيتِ\" (the House) signifies the Kaaba, a central pre-Islamic sanctuary and pilgrimage destination where people sought solace and healing."
+      }
+    ],
+    "error": false
+  }
+]

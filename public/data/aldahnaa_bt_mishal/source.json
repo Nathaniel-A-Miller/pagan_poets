@@ -1,0 +1,48 @@
+{
+  "poet": {
+    "name_ar": "الدهناء بنت مسحل",
+    "name_en": "Al-Dahnāʾ bt. Misḥal",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-dahnāʾ_bt_misḥal_000",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "والله لولا كرمي وخيري  وخشيتي عقوبة الأمير"
+        },
+        {
+          "verse_index": 1,
+          "text": "ورهبة الجلواذ والترتور  لجلت عن شيخ بني البعير"
+        },
+        {
+          "verse_index": 2,
+          "text": "جول قلوص صعبة عسير  تضرب حنوي قتب مأسور"
+        }
+      ]
+    },
+    {
+      "poem_index": 1,
+      "poem_id": "al-dahnāʾ_bt_misḥal_001",
+      "meter": "رجز",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أقسم لا يمسكني بضم  ولا بتقبيل ولا بشم"
+        },
+        {
+          "verse_index": 1,
+          "text": "ولا بغز يسلي غمي  يطير منه فتحي في كمي"
+        }
+      ]
+    }
+  ]
+}

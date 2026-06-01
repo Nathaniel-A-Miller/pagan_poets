@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "أخت الأسود بن غفار",
+    "name_en": "Ukht al-Aswad b. Ghaffār",
+    "tribe": "Jadīs",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "ukht_al-aswad_b_ghaffār_000",
+      "meter": "بسيط",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "لا تَغدُروا إنَ هذا الغدرَ مَنقصةٌ  وَكلّ عيبٍ يرى عيباً وَإِن صغرا"
+        },
+        {
+          "verse_index": 1,
+          "text": "إِنّي أَخافُ عَليكم مثلَ تلك غداً  وَفي الأمورِ تَدابيرٌ لِمَن نَظرا"
+        },
+        {
+          "verse_index": 2,
+          "text": "شَتّان باغٍ علينا غير متّئدٍ  يَغشى الظلامةَ لَن تبقي وَلن تذرا"
+        }
+      ]
+    }
+  ]
+}
