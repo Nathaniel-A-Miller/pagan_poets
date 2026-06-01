@@ -2614,5 +2614,17 @@
     "number_of_lines": 1313,
     "source": "data/tamim_b_abi_muqbil/source.json",
     "analysis": "data/tamim_b_abi_muqbil/analysis.json"
+  },
+  {
+    "slug": "aldaaja_bt_wahb",
+    "name_en": "Al-Daʿjāʾ bt. Wahb",
+    "name_ar": "الدعجاء بنت وهب",
+    "tribe": "Bāhilah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 5,
+    "source": "data/aldaaja_bt_wahb/source.json",
+    "analysis": "data/aldaaja_bt_wahb/analysis.json"
   }
 ]
