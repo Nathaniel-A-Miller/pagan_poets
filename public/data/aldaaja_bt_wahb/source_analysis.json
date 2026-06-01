@@ -1,0 +1,38 @@
+[
+  {
+    "poem_id": "al-daʿjāʾ_bt_wahb_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 34,
+    "references": [
+      {
+        "poem_id": "al-daʿjāʾ_bt_wahb_000",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "معتمر",
+        "notes": "The term 'معتمر' (muʿtamir) explicitly refers to someone performing the ʿumra, a pre-Islamic pilgrimage ritual."
+      },
+      {
+        "poem_id": "al-daʿjāʾ_bt_wahb_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نوء",
+        "notes": "The mention of 'نوء' (nawʾ) refers to the pre-Islamic belief that specific stars or asterisms are responsible for bringing rain, indicating an astral cosmological concept."
+      },
+      {
+        "poem_id": "al-daʿjāʾ_bt_wahb_000",
+        "verse_indices": [
+          30
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حرم",
+        "notes": "The term 'حرم' denotes a sacred, inviolable territory, a significant concept in pre-Islamic Arabian sacred geography and ritual practice."
+      }
+    ],
+    "error": false
+  }
+]
