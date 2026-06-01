@@ -55,7 +55,8 @@
   "zuhayr": [
     "zuhayr_ibn_abi_sulma",
     "kab_b_zuhayr",
-    "zuhayr_b_janab_alkalbi"
+    "zuhayr_b_janab_alkalbi",
+    "alkhansa_bt_zuhayr"
   ],
   "b.": [
     "zuhayr_ibn_abi_sulma",
@@ -210,7 +211,8 @@
     "sayfi_alaslat",
     "uhayha_b_aljulah",
     "balaa_b_qays_alkinani",
-    "qays_b_alhaddadiyyah"
+    "qays_b_alhaddadiyyah",
+    "alkhansa_bt_zuhayr"
   ],
   "male": [
     "zuhayr_ibn_abi_sulma",
@@ -488,7 +490,10 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "term": [
     "zuhayr_ibn_abi_sulma",
@@ -604,7 +609,10 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "maram": [
     "zuhayr_ibn_abi_sulma"
@@ -744,7 +752,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "khansa_bt_altijan"
   ],
   "sacred": [
     "zuhayr_ibn_abi_sulma",
@@ -842,7 +852,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "inviolable": [
     "zuhayr_ibn_abi_sulma",
@@ -868,7 +879,8 @@
     "rabah_b_maqrm",
     "dubaah_alqushayriyyah",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "precinct": [
     "zuhayr_ibn_abi_sulma",
@@ -967,7 +979,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "preislamic": [
     "zuhayr_ibn_abi_sulma",
@@ -1136,7 +1149,11 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan",
+    "alkhansa_bt_zuhayr"
   ],
   "concept": [
     "zuhayr_ibn_abi_sulma",
@@ -1255,7 +1272,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir"
   ],
   "geography": [
     "zuhayr_ibn_abi_sulma",
@@ -1298,7 +1317,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "where": [
     "zuhayr_ibn_abi_sulma",
@@ -1445,7 +1465,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "forbidden": [
     "zuhayr_ibn_abi_sulma",
@@ -1493,7 +1514,8 @@
     "hassan_b_thabit",
     "abu_alaswad_alduali",
     "maytha_almujashiiyyah",
-    "sayfi_alaslat"
+    "sayfi_alaslat",
+    "khansa_bt_altijan"
   ],
   "الذي": [
     "zuhayr_ibn_abi_sulma",
@@ -1965,7 +1987,10 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "khansa_bt_altijan",
+    "alkhansa_bt_zuhayr"
   ],
   "explicitly": [
     "zuhayr_ibn_abi_sulma",
@@ -2077,7 +2102,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "alkhansa_bt_zuhayr"
   ],
   "mentions": [
     "zuhayr_ibn_abi_sulma",
@@ -2168,7 +2195,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "ritual": [
     "zuhayr_ibn_abi_sulma",
@@ -2248,7 +2276,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "circumambulation": [
     "zuhayr_ibn_abi_sulma",
@@ -2475,7 +2504,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "الله": [
     "zuhayr_ibn_abi_sulma",
@@ -2668,7 +2698,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "allah": [
     "zuhayr_ibn_abi_sulma",
@@ -2940,7 +2971,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "early": [
     "zuhayr_ibn_abi_sulma",
@@ -3065,7 +3097,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "supreme": [
     "zuhayr_ibn_abi_sulma",
@@ -3251,7 +3284,8 @@
     "alfariah_bt_muawiyah",
     "alhayfa_bt_sabih",
     "sayfi_alaslat",
-    "alharith_b_zalim_almurri"
+    "alharith_b_zalim_almurri",
+    "alkhansa_bt_zuhayr"
   ],
   "الحساب": [
     "zuhayr_ibn_abi_sulma",
@@ -3365,7 +3399,9 @@
     "malik_b_harim",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "day": [
     "zuhayr_ibn_abi_sulma",
@@ -3487,7 +3523,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "khansa_bt_altijan"
   ],
   "deeds": [
     "zuhayr_ibn_abi_sulma",
@@ -3619,7 +3657,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "while": [
     "zuhayr_ibn_abi_sulma"
@@ -3776,7 +3815,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir"
   ],
   "thought": [
     "zuhayr_ibn_abi_sulma",
@@ -3807,7 +3848,8 @@
     "alnabighah_aljaadi",
     "umayma_um_taabbata_sharran",
     "zahraa_ukht_kulayb",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "منايا": [
     "zuhayr_ibn_abi_sulma",
@@ -3860,7 +3902,8 @@
     "uhayha_b_aljulah",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "used": [
     "zuhayr_ibn_abi_sulma",
@@ -3933,7 +3976,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "alkhansa_bt_zuhayr"
   ],
   "describe": [
     "zuhayr_ibn_abi_sulma",
@@ -4043,7 +4088,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "inevitable": [
     "zuhayr_ibn_abi_sulma",
@@ -4080,7 +4126,8 @@
     "abu_alaswad_alduali",
     "alnabighah_aljaadi",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "force": [
     "zuhayr_ibn_abi_sulma",
@@ -4199,7 +4246,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "common": [
     "zuhayr_ibn_abi_sulma",
@@ -4436,7 +4485,10 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "المنايا": [
     "zuhayr_ibn_abi_sulma",
@@ -4475,7 +4527,8 @@
     "umm_amr_bint_mukaddam",
     "al-sulakah_bt_al-sulayk",
     "amina_bt_wahb",
-    "qays_b_alhaddadiyyah"
+    "qays_b_alhaddadiyyah",
+    "aljayda_bt_zahir"
   ],
   "indiscriminate": [
     "zuhayr_ibn_abi_sulma"
@@ -4522,7 +4575,8 @@
     "al-sulakah_bt_al-sulayk",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "reinforcing": [
     "zuhayr_ibn_abi_sulma",
@@ -4596,7 +4650,8 @@
     "hajiz_alazdi",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "fate": [
     "zuhayr_ibn_abi_sulma",
@@ -4702,7 +4757,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "emphasize": [
     "zuhayr_ibn_abi_sulma",
@@ -4880,7 +4937,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "describes": [
     "zuhayr_ibn_abi_sulma",
@@ -6325,7 +6383,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "sanctuaries": [
     "zuhayr_ibn_abi_sulma",
@@ -6596,7 +6656,8 @@
     "alharith_b_zalim_almurri",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "dahr": [
     "zuhayr_ibn_abi_sulma",
@@ -6738,7 +6799,8 @@
     "amina_bt_wahb",
     "ibn_ajlan_alnahdi",
     "malik_b_harim",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "denote": [
     "zuhayr_ibn_abi_sulma",
@@ -6833,7 +6895,8 @@
     "malik_b_harim",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "powerful": [
     "zuhayr_ibn_abi_sulma",
@@ -6910,7 +6973,8 @@
     "ibn_ajlan_alnahdi",
     "qays_b_alhaddadiyyah",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "destructive": [
     "zuhayr_ibn_abi_sulma",
@@ -6971,7 +7035,8 @@
     "aljumay_alasadi",
     "ibn_ajlan_alnahdi",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "key": [
     "zuhayr_ibn_abi_sulma",
@@ -7139,7 +7204,8 @@
     "abu_khirash_alhudhali",
     "amr_kulthum",
     "safiyyah_bt_thalabah_alshaybaniyyah",
-    "qays_b_alhaddadiyyah"
+    "qays_b_alhaddadiyyah",
+    "khansa_bt_altijan"
   ],
   "destiny": [
     "zuhayr_ibn_abi_sulma",
@@ -7309,7 +7375,8 @@
     "alharith_b_zalim_almurri",
     "ibn_ajlan_alnahdi",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "alkhansa_bt_zuhayr"
   ],
   "منى": [
     "zuhayr_ibn_abi_sulma",
@@ -7406,7 +7473,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "site": [
     "zuhayr_ibn_abi_sulma",
@@ -7490,7 +7558,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "rituals": [
     "zuhayr_ibn_abi_sulma",
@@ -7526,7 +7595,8 @@
     "uhayha_b_aljulah",
     "qays_b_alhaddadiyyah",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "منصب": [
     "zuhayr_ibn_abi_sulma",
@@ -8242,7 +8312,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "period": [
     "zuhayr_ibn_abi_sulma",
@@ -8505,7 +8576,8 @@
     "alnabighah_aljaadi",
     "aljumay_alasadi",
     "qays_b_alhaddadiyyah",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "jinn": [
     "zuhayr_ibn_abi_sulma",
@@ -9359,7 +9431,8 @@
     "ibn_ajlan_alnahdi",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "enduring": [
     "zuhayr_ibn_abi_sulma",
@@ -9490,7 +9563,8 @@
     "alharith_b_zalim_almurri",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "agent": [
     "zuhayr_ibn_abi_sulma",
@@ -9554,7 +9628,8 @@
     "ibn_ajlan_alnahdi",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "can": [
     "zuhayr_ibn_abi_sulma",
@@ -9734,7 +9809,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "performative": [
     "zuhayr_ibn_abi_sulma",
@@ -9857,7 +9933,8 @@
     "balaa_b_qays_alkinani",
     "aljumay_alasadi",
     "alharith_b_zalim_almurri",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "alkhansa_bt_zuhayr"
   ],
   "تكلم": [
     "zuhayr_ibn_abi_sulma",
@@ -10108,7 +10185,8 @@
     "amr_albahili",
     "khidash_alamiri",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir"
   ],
   "نواشر": [
     "zuhayr_ibn_abi_sulma"
@@ -10330,7 +10408,8 @@
     "uhayha_b_aljulah",
     "balaa_b_qays_alkinani",
     "alharith_b_zalim_almurri",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir"
   ],
   "عشرين": [
     "zuhayr_ibn_abi_sulma",
@@ -11113,7 +11192,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "arwa_bt_alhabab"
   ],
   "قيني": [
     "zuhayr_ibn_abi_sulma"
@@ -11283,7 +11363,8 @@
     "aljumay_alasadi",
     "alharith_b_zalim_almurri",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "alkhansa_bt_zuhayr"
   ],
   "حب": [
     "zuhayr_ibn_abi_sulma",
@@ -11666,7 +11747,8 @@
     "hajiz_alazdi",
     "sayfi_alaslat",
     "balaa_b_qays_alkinani",
-    "alharith_b_zalim_almurri"
+    "alharith_b_zalim_almurri",
+    "alkhansa_bt_zuhayr"
   ],
   "قلتما": [
     "zuhayr_ibn_abi_sulma"
@@ -12682,7 +12764,8 @@
     "hajiz_alazdi",
     "sayfi_alaslat",
     "balaa_b_qays_alkinani",
-    "alharith_b_zalim_almurri"
+    "alharith_b_zalim_almurri",
+    "alkhansa_bt_zuhayr"
   ],
   "الحرب": [
     "zuhayr_ibn_abi_sulma",
@@ -12957,7 +13040,8 @@
     "malik_b_harim",
     "amr_albahili",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "alkhansa_bt_zuhayr"
   ],
   "ضريتموها": [
     "zuhayr_ibn_abi_sulma"
@@ -13221,7 +13305,8 @@
     "amr_albahili",
     "khidash_alamiri",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "arwa_bt_alhabab"
   ],
   "تغل": [
     "zuhayr_ibn_abi_sulma"
@@ -14139,7 +14224,8 @@
     "ibn_ajlan_alnahdi",
     "khidash_alamiri",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "alkhansa_bt_zuhayr"
   ],
   "شاركت": [
     "zuhayr_ibn_abi_sulma"
@@ -14175,7 +14261,8 @@
     "amr_b_maadikarib",
     "durrah_al-hshimiyyah",
     "mutammim_b_nuwayrah",
-    "balaa_b_qays_alkinani"
+    "balaa_b_qays_alkinani",
+    "alkhansa_bt_zuhayr"
   ],
   "نوفل": [
     "zuhayr_ibn_abi_sulma",
@@ -15457,7 +15544,8 @@
     "khansaa",
     "imrualqays",
     "labid",
-    "amr_b_maadikarib"
+    "amr_b_maadikarib",
+    "alkhansa_bt_zuhayr"
   ],
   "الرهن": [
     "zuhayr_ibn_abi_sulma",
@@ -17665,7 +17753,8 @@
     "umm_aldahhak_almuharibiyyah",
     "aljumay_alasadi",
     "alharith_b_zalim_almurri",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "khansa_bt_altijan"
   ],
   "نال": [
     "zuhayr_ibn_abi_sulma",
@@ -19527,7 +19616,8 @@
     "hutayah",
     "aktham",
     "hind_bt_utbah",
-    "sayfi_alaslat"
+    "sayfi_alaslat",
+    "alkhansa_bt_zuhayr"
   ],
   "كلهن": [
     "zuhayr_ibn_abi_sulma",
@@ -23347,7 +23437,8 @@
     "alfariah_bt_muawiyah",
     "balaa_b_qays_alkinani",
     "alharith_b_zalim_almurri",
-    "ibn_ajlan_alnahdi"
+    "ibn_ajlan_alnahdi",
+    "alkhansa_bt_zuhayr"
   ],
   "ينبت": [
     "zuhayr_ibn_abi_sulma",
@@ -25539,7 +25630,8 @@
     "balaa_b_qays_alkinani",
     "alharith_b_zalim_almurri",
     "ibn_ajlan_alnahdi",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "alkhansa_bt_zuhayr"
   ],
   "يغشي": [
     "zuhayr_ibn_abi_sulma",
@@ -25851,7 +25943,8 @@
     "sayfi_alaslat",
     "aljumay_alasadi",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir"
   ],
   "ريشها": [
     "zuhayr_ibn_abi_sulma"
@@ -26441,7 +26534,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "حار": [
     "zuhayr_ibn_abi_sulma",
@@ -27701,7 +27796,8 @@
     "amr_b_maadikarib",
     "mutammim_b_nuwayrah",
     "sayfi_alaslat",
-    "alharith_b_zalim_almurri"
+    "alharith_b_zalim_almurri",
+    "aljayda_bt_zahir"
   ],
   "جلدا": [
     "zuhayr_ibn_abi_sulma",
@@ -29850,7 +29946,8 @@
     "abu_alaswad_alduali",
     "umm_aldahhak_almuharibiyyah",
     "zabban_b_sayyar_alfazari",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "alkhansa_bt_zuhayr"
   ],
   "نجدة": [
     "zuhayr_ibn_abi_sulma",
@@ -30202,7 +30299,8 @@
   "يخلد": [
     "zuhayr_ibn_abi_sulma",
     "al-asha",
-    "labid"
+    "labid",
+    "alkhansa_bt_zuhayr"
   ],
   "يمت": [
     "zuhayr_ibn_abi_sulma",
@@ -30602,7 +30700,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "تفنى": [
     "zuhayr_ibn_abi_sulma",
@@ -31166,7 +31265,8 @@
     "dh_al-iba_al-adwn",
     "amr_b_maadikarib",
     "umm_alnahif",
-    "sayfi_alaslat"
+    "sayfi_alaslat",
+    "alkhansa_bt_zuhayr"
   ],
   "وهي": [
     "zuhayr_ibn_abi_sulma",
@@ -31345,7 +31445,8 @@
     "zuhayr_ibn_abi_sulma",
     "khansaa",
     "al-asha",
-    "umayyah_b_ab_al-alt"
+    "umayyah_b_ab_al-alt",
+    "alkhansa_bt_zuhayr"
   ],
   "رأوا": [
     "zuhayr_ibn_abi_sulma",
@@ -33083,7 +33184,8 @@
     "alharith_b_zalim_almurri",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "valley": [
     "qays_ibn_al-khatim",
@@ -33218,7 +33320,8 @@
     "zabban_b_sayyar_alfazari",
     "ibn_ajlan_alnahdi",
     "malik_b_harim",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "within": [
     "qays_ibn_al-khatim",
@@ -33312,7 +33415,9 @@
     "hajiz_alazdi",
     "sayfi_alaslat",
     "ibn_ajlan_alnahdi",
-    "malik_b_harim"
+    "malik_b_harim",
+    "aljayda_bt_zahir",
+    "arwa_bt_alhabab"
   ],
   "حرام / أحلت": [
     "qays_ibn_al-khatim"
@@ -33569,7 +33674,8 @@
     "quss_b_saidah",
     "umayyah_b_ab_al-alt",
     "abd_allah_b_alzibaara",
-    "umm_amr_bint_adi_b_zayd"
+    "umm_amr_bint_adi_b_zayd",
+    "khansa_bt_altijan"
   ],
   "night": [
     "qays_ibn_al-khatim",
@@ -33941,7 +34047,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "beyond": [
     "qays_ibn_al-khatim",
@@ -34333,7 +34440,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "concepts": [
     "qays_ibn_al-khatim",
@@ -34385,7 +34494,8 @@
     "balaa_b_qays_alkinani",
     "zabban_b_sayyar_alfazari",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "الكاهنان": [
     "qays_ibn_al-khatim"
@@ -34444,7 +34554,8 @@
     "labid",
     "rabah_b_maqrm",
     "uhayha_b_aljulah",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "violation": [
     "qays_ibn_al-khatim",
@@ -44190,7 +44301,8 @@
     "amr_albahili",
     "khidash_alamiri",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "khansa_bt_altijan"
   ],
   "رب": [
     "aws_ibn_hajar",
@@ -44677,7 +44789,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "eclipsing": [
     "aws_ibn_hajar",
@@ -45386,7 +45499,8 @@
     "jumal_al-sulamiyyah",
     "humayd_althawr",
     "suwayd_b_abi_kahil",
-    "umm_aldahhak_almuharibiyyah"
+    "umm_aldahhak_almuharibiyyah",
+    "alkhansa_bt_zuhayr"
   ],
   "foundational": [
     "aws_ibn_hajar"
@@ -46060,7 +46174,8 @@
     "alawra_alyarbuiyyah",
     "uhayha_b_aljulah",
     "zabban_b_sayyar_alfazari",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "alkhansa_bt_zuhayr"
   ],
   "related": [
     "aws_ibn_hajar",
@@ -46224,7 +46339,8 @@
     "muraqqish_al-akbar",
     "humayd_althawr",
     "hassan_b_thabit",
-    "alnabighah_aljaadi"
+    "alnabighah_aljaadi",
+    "aldaaja_bt_wahb"
   ],
   "area": [
     "aws_ibn_hajar",
@@ -46544,7 +46660,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "duty": [
     "aws_ibn_hajar",
@@ -49421,7 +49538,8 @@
     "amir_tufayl",
     "shammakh",
     "labid",
-    "al-aswad_b_yafur"
+    "al-aswad_b_yafur",
+    "arwa_bt_alhabab"
   ],
   "الصعاليك": [
     "aws_ibn_hajar",
@@ -55141,7 +55259,8 @@
     "salmah_b_jandal",
     "al-asha",
     "labid",
-    "hutayah"
+    "hutayah",
+    "alkhansa_bt_zuhayr"
   ],
   "مأفون": [
     "aws_ibn_hajar"
@@ -55983,7 +56102,8 @@
     "tufayl_ghanawi",
     "shammakh",
     "kab_b_zuhayr",
-    "alaghlab_alijli"
+    "alaghlab_alijli",
+    "khansa_bt_altijan"
   ],
   "تزيلا": [
     "aws_ibn_hajar"
@@ -60046,7 +60166,8 @@
     "hatimtai",
     "tarafah",
     "tufayl_ghanawi",
-    "labid"
+    "labid",
+    "alkhansa_bt_zuhayr"
   ],
   "رقد": [
     "aws_ibn_hajar",
@@ -60264,7 +60385,8 @@
     "aljumay_alasadi",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "قداح": [
     "alqamah_alfahl",
@@ -64086,7 +64208,8 @@
     "muhalhil_ibn_rabia",
     "antarah_ibn_shaddad",
     "tarafah",
-    "al-asha"
+    "al-asha",
+    "aljayda_bt_zahir"
   ],
   "جحد": [
     "alqamah_alfahl"
@@ -65817,7 +65940,8 @@
     "alharith_b_zalim_almurri",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aldaaja_bt_wahb"
   ],
   "nondivine": [
     "muhalhil_ibn_rabia",
@@ -67097,7 +67221,8 @@
     "alnabighah_aljaadi",
     "hajiz_alazdi",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "physical": [
     "muhalhil_ibn_rabia",
@@ -67117,7 +67242,8 @@
     "umayyah_b_ab_al-alt",
     "alabbas_b_mirdas",
     "hajiz_alazdi",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "objects": [
     "muhalhil_ibn_rabia",
@@ -67138,7 +67264,8 @@
     "hassan_b_thabit",
     "suuda_bt_kurayz",
     "amina_bt_wahb",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "alkhansa_bt_zuhayr"
   ],
   "item": [
     "muhalhil_ibn_rabia",
@@ -68346,7 +68473,8 @@
     "labid",
     "hutayah",
     "al-aswad_b_yafur",
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "arwa_bt_alhabab"
   ],
   "والفخار": [
     "muhalhil_ibn_rabia"
@@ -74731,7 +74859,8 @@
     "suwayd_b_abi_kahil",
     "ibn_ajlan_alnahdi",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "devotedly": [
     "alnabighah_aldhubyani"
@@ -75012,7 +75141,8 @@
     "hassan_b_thabit",
     "suwayd_b_abi_kahil",
     "umayma_um_taabbata_sharran",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "aljayda_bt_zahir"
   ],
   "qabbaa": [
     "alnabighah_aldhubyani"
@@ -79647,7 +79777,8 @@
     "hutayah",
     "al-aswad_b_yafur",
     "jiran_alawd",
-    "umm_musa_alkilabiyyah"
+    "umm_musa_alkilabiyyah",
+    "aljayda_bt_zahir"
   ],
   "زجل": [
     "alnabighah_aldhubyani",
@@ -87506,7 +87637,8 @@
     "tarafah",
     "durayd_b_alsimmah",
     "abu_zubayd_altaii",
-    "humayd_althawr"
+    "humayd_althawr",
+    "aldaaja_bt_wahb"
   ],
   "حُمساً": [
     "saida_ibn_juayya"
@@ -87992,7 +88124,8 @@
     "malik_b_harim",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "aljayda_bt_zahir"
   ],
   "يَتَحَبَّبُ": [
     "saida_ibn_juayya"
@@ -88390,7 +88523,9 @@
     "malik_b_harim",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "وَحشِ": [
     "saida_ibn_juayya",
@@ -88640,7 +88775,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "يُرطَبُ": [
     "saida_ibn_juayya"
@@ -89245,7 +89381,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "هَدَرَ": [
     "saida_ibn_juayya"
@@ -89395,7 +89532,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "نَباةَ": [
     "saida_ibn_juayya"
@@ -89443,7 +89582,8 @@
     "rayta_bt_asiyah",
     "umm_amr_bint_adi_b_zayd",
     "umm_abi_jaddabah",
-    "amr_albahili"
+    "amr_albahili",
+    "khansa_bt_altijan"
   ],
   "الشُجونُ": [
     "saida_ibn_juayya"
@@ -90583,7 +90723,9 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan",
+    "arwa_bt_alhabab"
   ],
   "الخُرسِ": [
     "saida_ibn_juayya"
@@ -91456,7 +91598,10 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan",
+    "arwa_bt_alhabab"
   ],
   "آنَستُ": [
     "saida_ibn_juayya",
@@ -91835,7 +91980,8 @@
     "uhayha_b_aljulah",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "khansa_bt_altijan"
   ],
   "مَنجى": [
     "saida_ibn_juayya",
@@ -92020,7 +92166,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "aljayda_bt_zahir"
   ],
   "صَحيحاً": [
     "saida_ibn_juayya",
@@ -94078,7 +94225,8 @@
     "malik_b_harim",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "khansa_bt_altijan"
   ],
   "ضَرَبٌ": [
     "saida_ibn_juayya",
@@ -96515,7 +96663,8 @@
     "qays_b_alhaddadiyyah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "رَيــبَ": [
     "saida_ibn_juayya"
@@ -99220,7 +99369,8 @@
     "al-asha",
     "bishr_b_abi_khazim",
     "humayd_althawr",
-    "umm_aldahhak_almuharibiyyah"
+    "umm_aldahhak_almuharibiyyah",
+    "alkhansa_bt_zuhayr"
   ],
   "ward": [
     "abu_dhuayb",
@@ -100058,7 +100208,8 @@
     "bishr_b_abi_khazim",
     "humayd_althawr",
     "urwah_b_izm",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "alkhansa_bt_zuhayr"
   ],
   "التمائم": [
     "abu_dhuayb",
@@ -100118,7 +100269,8 @@
     "alharith_b_abbad",
     "alshuwayir_alkinani",
     "abu_zubayd_altaii",
-    "salma_bt_hurayth"
+    "salma_bt_hurayth",
+    "aldaaja_bt_wahb"
   ],
   "either": [
     "abu_dhuayb",
@@ -100233,7 +100385,8 @@
     "bishr_b_abi_khazim",
     "maytha_almujashiiyyah",
     "ibn_ajlan_alnahdi",
-    "amr_albahili"
+    "amr_albahili",
+    "aldaaja_bt_wahb"
   ],
   "including": [
     "abu_dhuayb",
@@ -100620,7 +100773,8 @@
     "khawlah_bt_al-azwar",
     "zabban_b_sayyar_alfazari",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "khansa_bt_altijan"
   ],
   "أَودىبَنِيَّ": [
     "abu_dhuayb"
@@ -103749,7 +103903,8 @@
     "uhayha_b_aljulah",
     "amr_albahili",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "صِرَمٌ": [
     "abu_dhuayb"
@@ -103977,7 +104132,8 @@
   "خَليلاً": [
     "abu_dhuayb",
     "hassan_b_thabit",
-    "abu_alaswad_alduali"
+    "abu_alaswad_alduali",
+    "khansa_bt_altijan"
   ],
   "وَإِحداكُنَّ": [
     "abu_dhuayb"
@@ -106781,7 +106937,8 @@
     "uhayha_b_aljulah",
     "zabban_b_sayyar_alfazari",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "khansa_bt_altijan"
   ],
   "نَخلٌ": [
     "abu_dhuayb",
@@ -108192,7 +108349,8 @@
     "umm_amr_bint_mukaddam",
     "umm_nudbah",
     "ibn_ajlan_alnahdi",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "أَطرِقا": [
     "abu_dhuayb"
@@ -112551,7 +112709,8 @@
     "malik_b_harim",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "khansa_bt_altijan"
   ],
   "مَسَّهُنَّ": [
     "abu_dhuayb"
@@ -113951,7 +114110,8 @@
   "وَأَهلي": [
     "abu_dhuayb",
     "jiran_alawd",
-    "alabbas_b_mirdas"
+    "alabbas_b_mirdas",
+    "khansa_bt_altijan"
   ],
   "بِوادي": [
     "abu_dhuayb",
@@ -118347,7 +118507,8 @@
     "aljumay_alasadi",
     "malik_b_harim",
     "qays_b_alhaddadiyyah",
-    "amr_albahili"
+    "amr_albahili",
+    "khansa_bt_altijan"
   ],
   "بِإِرسالِها": [
     "abu_dhuayb"
@@ -118486,7 +118647,9 @@
     "hassan_b_thabit"
   ],
   "al-khansāʾ": [
-    "khansaa"
+    "khansaa",
+    "khansa_bt_altijan",
+    "alkhansa_bt_zuhayr"
   ],
   "الخنساء": [
     "khansaa"
@@ -118627,7 +118790,11 @@
     "hajiz_alazdi",
     "khidash_alamiri",
     "tamim_b_abi_muqbil",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan",
+    "alkhansa_bt_zuhayr",
+    "arwa_bt_alhabab"
   ],
   "presenting": [
     "khansaa",
@@ -118748,7 +118915,8 @@
     "sakhr_b_amr",
     "hassan_b_thabit",
     "abu_alaswad_alduali",
-    "amr_albahili"
+    "amr_albahili",
+    "aldaaja_bt_wahb"
   ],
   "wellbeing": [
     "khansaa"
@@ -119542,7 +119710,8 @@
   ],
   "وقت": [
     "khansaa",
-    "tarafah"
+    "tarafah",
+    "khansa_bt_altijan"
   ],
   "ومقدار": [
     "khansaa"
@@ -119973,7 +120142,8 @@
     "umm_amr_bint_adi_b_zayd",
     "amina_bt_wahb",
     "uhayha_b_aljulah",
-    "qays_b_alhaddadiyyah"
+    "qays_b_alhaddadiyyah",
+    "aljayda_bt_zahir"
   ],
   "dragging": [
     "khansaa"
@@ -131595,7 +131765,10 @@
     "amina_bt_utaybah",
     "amina_bt_wahb",
     "zarqa_bt_zuhayr",
-    "aldaaja_bt_wahb"
+    "aldaaja_bt_wahb",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan",
+    "arwa_bt_alhabab"
   ],
   "badr": [
     "khirniq_bint_badr"
@@ -131952,7 +132125,8 @@
   ],
   "يساق": [
     "khirniq_bint_badr",
-    "shammakh"
+    "shammakh",
+    "alkhansa_bt_zuhayr"
   ],
   "لاتفخرن": [
     "khirniq_bint_badr"
@@ -132503,7 +132677,8 @@
     "umm_amr",
     "adiyah_bt_faraah",
     "hajiz_alazdi",
-    "amr_albahili"
+    "amr_albahili",
+    "arwa_bt_alhabab"
   ],
   "dhaba": [
     "amr_ibn_qamia"
@@ -135952,7 +136127,8 @@
     "kab_b_mlik_al-anr",
     "hassan_b_thabit",
     "khidash_alamiri",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "vowed": [
     "antarah_ibn_shaddad"
@@ -136508,7 +136684,8 @@
     "antarah_ibn_shaddad",
     "al-asha",
     "labid",
-    "adi_b_zayd"
+    "adi_b_zayd",
+    "khansa_bt_altijan"
   ],
   "mill": [
     "antarah_ibn_shaddad"
@@ -143464,7 +143641,8 @@
     "amir_tufayl",
     "labid",
     "al-aswad_b_yafur",
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "aljayda_bt_zahir"
   ],
   "وتشتكي": [
     "ʿurwah_b_al-ward"
@@ -148032,7 +148210,8 @@
     "al-jufiyyah_imraat_amr_b_madkarib",
     "hajiz_alazdi",
     "ibn_ajlan_alnahdi",
-    "malik_b_harim"
+    "malik_b_harim",
+    "aljayda_bt_zahir"
   ],
   "صداي": [
     "hatimtai",
@@ -152494,7 +152673,8 @@
     "al-jufiyyah_imraat_amr_b_madkarib",
     "hajiz_alazdi",
     "ibn_ajlan_alnahdi",
-    "malik_b_harim"
+    "malik_b_harim",
+    "aljayda_bt_zahir"
   ],
   "حلفة": [
     "imrualqays",
@@ -155060,7 +155240,8 @@
   ],
   "قدار": [
     "imrualqays",
-    "al-asha"
+    "al-asha",
+    "alkhansa_bt_zuhayr"
   ],
   "ظللته": [
     "imrualqays"
@@ -159345,7 +159526,8 @@
     "bishr_b_abi_khazim",
     "alabbas_b_mirdas",
     "hind_bt_utbah",
-    "amr_albahili"
+    "amr_albahili",
+    "aldaaja_bt_wahb"
   ],
   "يحلب": [
     "laqit_b_yamur"
@@ -160175,7 +160357,8 @@
   "نوء": [
     "al-muthaqqib_al-abdi",
     "shammakh",
-    "labid"
+    "labid",
+    "aldaaja_bt_wahb"
   ],
   "المرزمين": [
     "al-muthaqqib_al-abdi"
@@ -160188,7 +160371,8 @@
     "labid",
     "adi_b_zayd",
     "bishr_b_abi_khazim",
-    "hajiz_alazdi"
+    "hajiz_alazdi",
+    "aldaaja_bt_wahb"
   ],
   "almarzamayn": [
     "al-muthaqqib_al-abdi"
@@ -162061,7 +162245,8 @@
   "الحذار": [
     "al-muthaqqib_al-abdi",
     "al-asha",
-    "labid"
+    "labid",
+    "alkhansa_bt_zuhayr"
   ],
   "الرخيمة": [
     "al-muthaqqib_al-abdi"
@@ -170165,7 +170350,8 @@
     "taabbaa_sharran"
   ],
   "نضو": [
-    "taabbaa_sharran"
+    "taabbaa_sharran",
+    "khansa_bt_altijan"
   ],
   "فشدت": [
     "taabbaa_sharran"
@@ -171941,7 +172127,8 @@
   ],
   "أنصار": [
     "tarafah",
-    "labid"
+    "labid",
+    "aljayda_bt_zahir"
   ],
   "حبس": [
     "tarafah",
@@ -187736,7 +187923,8 @@
     "al-asha"
   ],
   "التميم": [
-    "al-asha"
+    "al-asha",
+    "alkhansa_bt_zuhayr"
   ],
   "الغبو": [
     "al-asha"
@@ -207951,7 +208139,8 @@
     "shammakh"
   ],
   "لوقت": [
-    "shammakh"
+    "shammakh",
+    "khansa_bt_altijan"
   ],
   "مشج": [
     "shammakh"
@@ -208231,7 +208420,8 @@
     "umm_amr",
     "adiyah_bt_faraah",
     "sayfi_alaslat",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "arwa_bt_alhabab"
   ],
   "interfering": [
     "kab_b_zuhayr"
@@ -224145,7 +224335,8 @@
   ],
   "another": [
     "hutayah",
-    "alnabighah_aljaadi"
+    "alnabighah_aljaadi",
+    "alkhansa_bt_zuhayr"
   ],
   "imply": [
     "hutayah",
@@ -232306,7 +232497,8 @@
     "aljumay_alasadi",
     "qays_b_alhaddadiyyah",
     "amr_albahili",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "khansa_bt_altijan"
   ],
   "سَبابِ": [
     "alfind_alzimmani"
@@ -233429,7 +233621,8 @@
     "jiran_alawd",
     "al-musayyab_al-alas",
     "almukhabbal_alsaadi",
-    "alnabighah_aljaadi"
+    "alnabighah_aljaadi",
+    "khansa_bt_altijan"
   ],
   "تَملِكُ": [
     "alfind_alzimmani"
@@ -234941,7 +235134,8 @@
     "zayd_alkhayl",
     "umm_qirfah_al-fazriyyah",
     "umama_bt_kulayb",
-    "umm_nudbah"
+    "umm_nudbah",
+    "khansa_bt_altijan"
   ],
   "حارِ": [
     "saad_b_malik",
@@ -235174,7 +235368,8 @@
     "zahraa_ukht_kulayb",
     "malik_b_harim",
     "qays_b_alhaddadiyyah",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "تَبَيَّنَ": [
     "saad_b_malik",
@@ -236076,7 +236271,8 @@
     "zahraa_ukht_kulayb",
     "hajiz_alazdi",
     "ibn_ajlan_alnahdi",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "ساقِها": [
     "saad_b_malik",
@@ -238430,7 +238626,8 @@
     "alnabighah_aljaadi",
     "khawlah_bt_al-azwar",
     "rayta_bt_asiyah",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "بانِيا": [
     "dhibyah_al-fahmiyyah",
@@ -239892,7 +240089,8 @@
     "kab_b_mlik_al-anr",
     "umm_abi_jaddabah",
     "umm_aldahhak_almuharibiyyah",
-    "balaa_b_qays_alkinani"
+    "balaa_b_qays_alkinani",
+    "aljayda_bt_zahir"
   ],
   "قلمّس": [
     "hind_bt_al-khuss"
@@ -240493,7 +240691,8 @@
     "kabshah_al-zubaydiyyah",
     "alhayfa_bt_sabih",
     "ibnat_hakim_b_amr",
-    "umm_aldahhak_almuharibiyyah"
+    "umm_aldahhak_almuharibiyyah",
+    "khansa_bt_altijan"
   ],
   "البكاءُ": [
     "hind_bt_mabad",
@@ -240513,7 +240712,8 @@
     "amr_b_maadikarib",
     "abu_mihjan_althaqafi",
     "mutammim_b_nuwayrah",
-    "kab_b_mlik_al-anr"
+    "kab_b_mlik_al-anr",
+    "khansa_bt_altijan"
   ],
   "البكاءَ": [
     "hind_bt_mabad"
@@ -240532,7 +240732,8 @@
     "mutammim_b_nuwayrah",
     "safiyyah_bt_thalabah_alshaybaniyyah",
     "al-sulakah_bt_al-sulayk",
-    "umm_alnahif"
+    "umm_alnahif",
+    "arwa_bt_alhabab"
   ],
   "مصابِ": [
     "hind_bt_mabad"
@@ -244222,7 +244423,8 @@
     "ablah_bt_khalid"
   ],
   "قاتِلِي": [
-    "ablah_bt_khalid"
+    "ablah_bt_khalid",
+    "khansa_bt_altijan"
   ],
   "وَبِابْنِ": [
     "ablah_bt_khalid"
@@ -248301,7 +248503,8 @@
     "bishr_b_abi_khazim",
     "hassan_b_thabit",
     "alnabighah_aljaadi",
-    "khidash_alamiri"
+    "khidash_alamiri",
+    "khansa_bt_altijan"
   ],
   "القَوانِسِ": [
     "abid_b_alabras",
@@ -253437,7 +253640,8 @@
     "adi_b_zayd",
     "bishr_b_abi_khazim",
     "jiran_alawd",
-    "hassan_b_thabit"
+    "hassan_b_thabit",
+    "aljayda_bt_zahir"
   ],
   "يُفضي": [
     "abid_b_alabras",
@@ -258706,7 +258910,8 @@
     "jiran_alawd",
     "abu_tamhan_alqayni",
     "alnabighah_aljaadi",
-    "amr_albahili"
+    "amr_albahili",
+    "khansa_bt_altijan"
   ],
   "دِمنَها": [
     "abid_b_alabras"
@@ -260297,7 +260502,8 @@
   ],
   "كَبِداً": [
     "abid_b_alabras",
-    "urwah_b_izm"
+    "urwah_b_izm",
+    "khansa_bt_altijan"
   ],
   "شَكّاءَ": [
     "abid_b_alabras"
@@ -261218,7 +261424,8 @@
   ],
   "أَسَفاً": [
     "abid_b_alabras",
-    "bishr_b_abi_khazim"
+    "bishr_b_abi_khazim",
+    "khansa_bt_altijan"
   ],
   "شَبابي": [
     "abid_b_alabras",
@@ -262435,7 +262642,8 @@
     "urwah_b_izm",
     "kab_b_mlik_al-anr",
     "hassan_b_thabit",
-    "suwayd_b_abi_kahil"
+    "suwayd_b_abi_kahil",
+    "khansa_bt_altijan"
   ],
   "قَلْبِي": [
     "abu_duwad_aliyadi",
@@ -262602,7 +262810,8 @@
     "hassan_b_thabit",
     "alnabighah_aljaadi",
     "rayta_bint_alabbas",
-    "uhayha_b_aljulah"
+    "uhayha_b_aljulah",
+    "khansa_bt_altijan"
   ],
   "مِنْـ": [
     "abu_duwad_aliyadi"
@@ -268457,7 +268666,8 @@
   ],
   "فارسٌ": [
     "abu_duwad_aliyadi",
-    "amr_b_maadikarib"
+    "amr_b_maadikarib",
+    "aljayda_bt_zahir"
   ],
   "طارِدٌ": [
     "abu_duwad_aliyadi"
@@ -269363,7 +269573,8 @@
     "durayd_b_alsimmah",
     "alharith_b_abbad",
     "zayd_alkhayl",
-    "zabban_b_sayyar_alfazari"
+    "zabban_b_sayyar_alfazari",
+    "aljayda_bt_zahir"
   ],
   "يُحالِفُ": [
     "abu_khirash_alhudhali"
@@ -274225,7 +274436,8 @@
     "urwah_b_izm",
     "kab_b_mlik_al-anr",
     "sayfi_alaslat",
-    "aljumay_alasadi"
+    "aljumay_alasadi",
+    "khansa_bt_altijan"
   ],
   "أَنيِّ": [
     "adi_b_zayd"
@@ -274277,7 +274489,8 @@
     "kab_b_mlik_al-anr",
     "alhayfa_bt_sabih",
     "umm_abi_jaddabah",
-    "umm_aldahhak_almuharibiyyah"
+    "umm_aldahhak_almuharibiyyah",
+    "khansa_bt_altijan"
   ],
   "ابتِداعا": [
     "adi_b_zayd"
@@ -274560,7 +274773,8 @@
     "muraqqish_alasghar",
     "kab_b_mlik_al-anr",
     "alnabighah_aljaadi",
-    "aljumay_alasadi"
+    "aljumay_alasadi",
+    "aljayda_bt_zahir"
   ],
   "خَضَبنَ": [
     "adi_b_zayd"
@@ -276791,7 +277005,8 @@
     "adi_b_zayd",
     "sakhr_alghayy",
     "zuhayr_b_janab_alkalbi",
-    "ibnat_hakim_b_amr"
+    "ibnat_hakim_b_amr",
+    "khansa_bt_altijan"
   ],
   "غُسَنٌ": [
     "adi_b_zayd"
@@ -279848,7 +280063,8 @@
     "umayyah_b_ab_al-alt",
     "hassan_b_thabit",
     "abu_alaswad_alduali",
-    "alnabighah_aljaadi"
+    "alnabighah_aljaadi",
+    "aljayda_bt_zahir"
   ],
   "ساعَةِ": [
     "adi_b_zayd",
@@ -283047,7 +283263,8 @@
     "hassan_b_thabit",
     "abu_alaswad_alduali",
     "alnabighah_aljaadi",
-    "alhayfa_bt_sabih"
+    "alhayfa_bt_sabih",
+    "arwa_bt_alhabab"
   ],
   "لأُمِّ": [
     "adi_b_zayd"
@@ -286325,7 +286542,8 @@
     "sakhr_b_amr",
     "alaghlab_alijli",
     "amr_b_maadikarib",
-    "kab_b_mlik_al-anr"
+    "kab_b_mlik_al-anr",
+    "aljayda_bt_zahir"
   ],
   "ذيلِ": [
     "adi_b_zayd"
@@ -287394,7 +287612,8 @@
     "adi_b_zayd",
     "dh_al-iba_al-adwn",
     "qays_b_amr_al-najsh",
-    "al-sulakah_bt_al-sulayk"
+    "al-sulakah_bt_al-sulayk",
+    "aljayda_bt_zahir"
   ],
   "ثغرٍ": [
     "adi_b_zayd"
@@ -299007,7 +299226,8 @@
   "umra": [
     "al-aswad_b_yafur",
     "hassan_b_thabit",
-    "amr_albahili"
+    "amr_albahili",
+    "aldaaja_bt_wahb"
   ],
   "جُنّيتَ": [
     "al-aswad_b_yafur"
@@ -299647,7 +299867,8 @@
   ],
   "عليّ": [
     "al-aswad_b_yafur",
-    "dh_al-iba_al-adwn"
+    "dh_al-iba_al-adwn",
+    "khansa_bt_altijan"
   ],
   "درأتها": [
     "al-aswad_b_yafur"
@@ -301411,7 +301632,8 @@
   ],
   "منّي": [
     "al-aswad_b_yafur",
-    "amr_b_maadikarib"
+    "amr_b_maadikarib",
+    "khansa_bt_altijan"
   ],
   "مُحَيَّةً": [
     "al-aswad_b_yafur"
@@ -302757,7 +302979,8 @@
     "al-aswad_b_yafur"
   ],
   "فَهو": [
-    "al-aswad_b_yafur"
+    "al-aswad_b_yafur",
+    "khansa_bt_altijan"
   ],
   "يَزجُرُ": [
     "al-aswad_b_yafur"
@@ -303723,7 +303946,8 @@
     "amr_b_maadikarib",
     "mutammim_b_nuwayrah",
     "kab_b_mlik_al-anr",
-    "hind_bt_utbah"
+    "hind_bt_utbah",
+    "alkhansa_bt_zuhayr"
   ],
   "أتُهلك": [
     "al-aswad_b_yafur"
@@ -305133,7 +305357,9 @@
     "durayd_b_alsimmah",
     "sakhr_b_amr",
     "humayd_althawr",
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "aljayda_bt_zahir",
+    "khansa_bt_altijan"
   ],
   "بِسَلمى": [
     "bishr_b_abi_khazim",
@@ -307758,7 +307984,8 @@
     "zayd_alkhayl",
     "hassan_b_thabit",
     "alnabighah_aljaadi",
-    "uhayha_b_aljulah"
+    "uhayha_b_aljulah",
+    "aljayda_bt_zahir"
   ],
   "كِلا": [
     "bishr_b_abi_khazim",
@@ -308185,7 +308412,8 @@
     "abu_zubayd_altaii",
     "hassan_b_thabit",
     "abu_alaswad_alduali",
-    "alnabighah_aljaadi"
+    "alnabighah_aljaadi",
+    "khansa_bt_altijan"
   ],
   "وَتَكرِمَةِ": [
     "bishr_b_abi_khazim"
@@ -316096,7 +316324,8 @@
     "zayd_alkhayl"
   ],
   "العينُ": [
-    "bishr_b_abi_khazim"
+    "bishr_b_abi_khazim",
+    "khansa_bt_altijan"
   ],
   "عَرَصاتِها": [
     "bishr_b_abi_khazim",
@@ -317920,7 +318149,8 @@
     "qays_b_amr_al-najsh",
     "urwah_b_izm",
     "kab_b_mlik_al-anr",
-    "hajiz_alazdi"
+    "hajiz_alazdi",
+    "khansa_bt_altijan"
   ],
   "يحمجون": [
     "dh_al-iba_al-adwn"
@@ -326135,7 +326365,8 @@
     "durayd_b_alsimmah"
   ],
   "وَحدي": [
-    "durayd_b_alsimmah"
+    "durayd_b_alsimmah",
+    "aljayda_bt_zahir"
   ],
   "وَالرُمحُ": [
     "durayd_b_alsimmah"
@@ -329485,7 +329716,8 @@
     "alharith_b_abbad"
   ],
   "البَواكي": [
-    "alharith_b_abbad"
+    "alharith_b_abbad",
+    "aljayda_bt_zahir"
   ],
   "وَحَبيبٌ": [
     "alharith_b_abbad"
@@ -336732,13 +336964,15 @@
     "umm_aldahhak_almuharibiyyah"
   ],
   "الحجازِ": [
-    "jiran_alawd"
+    "jiran_alawd",
+    "khansa_bt_altijan"
   ],
   "تنسَّمَت": [
     "jiran_alawd"
   ],
   "وجدتُ": [
-    "jiran_alawd"
+    "jiran_alawd",
+    "khansa_bt_altijan"
   ],
   "لمسراها": [
     "jiran_alawd"
@@ -337894,7 +338128,8 @@
   ],
   "لَبِسْتُ": [
     "laqit_b_zurarah",
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "النَّعْماءُ": [
     "laqit_b_zurarah"
@@ -338985,7 +339220,8 @@
   "قَتلي": [
     "al-munakhkhal",
     "amr_b_maadikarib",
-    "amr_albahili"
+    "amr_albahili",
+    "khansa_bt_altijan"
   ],
   "جُر": [
     "al-munakhkhal"
@@ -340670,7 +340906,8 @@
     "muraqqish_al-akbar",
     "umayyah_b_ab_al-alt",
     "amr_b_maadikarib",
-    "kab_b_mlik_al-anr"
+    "kab_b_mlik_al-anr",
+    "khansa_bt_altijan"
   ],
   "أهابَ": [
     "muraqqish_al-akbar"
@@ -351948,7 +352185,8 @@
   ],
   "بِنَفسي": [
     "quss_b_saidah",
-    "abu_alaswad_alduali"
+    "abu_alaswad_alduali",
+    "khansa_bt_altijan"
   ],
   "تَكونَ": [
     "quss_b_saidah",
@@ -358603,7 +358841,8 @@
     "umayyah_b_ab_al-alt"
   ],
   "الضيمَ": [
-    "umayyah_b_ab_al-alt"
+    "umayyah_b_ab_al-alt",
+    "aljayda_bt_zahir"
   ],
   "أَثرى": [
     "umayyah_b_ab_al-alt",
@@ -362829,7 +363068,8 @@
     "humayd_althawr",
     "mutammim_b_nuwayrah",
     "kab_b_mlik_al-anr",
-    "aljumay_alasadi"
+    "aljumay_alasadi",
+    "aljayda_bt_zahir"
   ],
   "فَرَّجَ": [
     "umayyah_b_ab_al-alt"
@@ -369606,7 +369846,8 @@
   "أَلَّا": [
     "inabah_bt_afif",
     "amr_b_maadikarib",
-    "najiyah_bt_damdam"
+    "najiyah_bt_damdam",
+    "khansa_bt_altijan"
   ],
   "أَمْنَعَ": [
     "inabah_bt_afif"
@@ -371470,7 +371711,8 @@
     "layla_bt_salamah"
   ],
   "شَبابَهُ": [
-    "layla_bt_salamah"
+    "layla_bt_salamah",
+    "khansa_bt_altijan"
   ],
   "وَالْجُدُودُ": [
     "layla_bt_salamah"
@@ -372344,7 +372586,8 @@
     "tamim_b_abi_muqbil"
   ],
   "دارِنا": [
-    "amr_b_al-mushamrij"
+    "amr_b_al-mushamrij",
+    "khansa_bt_altijan"
   ],
   "عَدَنُ": [
     "amr_b_al-mushamrij"
@@ -384560,7 +384803,8 @@
     "hajiz_alazdi"
   ],
   "بعدِ": [
-    "alaghlab_alijli"
+    "alaghlab_alijli",
+    "aljayda_bt_zahir"
   ],
   "تاح": [
     "alaghlab_alijli"
@@ -384918,7 +385162,8 @@
     "amr_b_maadikarib",
     "mutammim_b_nuwayrah",
     "urwah_b_izm",
-    "ibn_ajlan_alnahdi"
+    "ibn_ajlan_alnahdi",
+    "khansa_bt_altijan"
   ],
   "النباة": [
     "alaghlab_alijli"
@@ -388578,7 +388823,8 @@
   ],
   "بَدرُ": [
     "amr_b_maadikarib",
-    "hassan_b_thabit"
+    "hassan_b_thabit",
+    "aljayda_bt_zahir"
   ],
   "السماءِ": [
     "amr_b_maadikarib",
@@ -390812,7 +391058,8 @@
     "amr_b_maadikarib"
   ],
   "كفّ": [
-    "amr_b_maadikarib"
+    "amr_b_maadikarib",
+    "aljayda_bt_zahir"
   ],
   "العرينِ": [
     "amr_b_maadikarib"
@@ -392593,7 +392840,8 @@
   ],
   "مَعشرٌ": [
     "amr_b_maadikarib",
-    "umm_abi_jaddabah"
+    "umm_abi_jaddabah",
+    "khansa_bt_altijan"
   ],
   "مُردٌ": [
     "amr_b_maadikarib"
@@ -394171,7 +394419,8 @@
   "عبدِ": [
     "amr_b_maadikarib",
     "kab_b_mlik_al-anr",
-    "aljumay_alasadi"
+    "aljumay_alasadi",
+    "aljayda_bt_zahir"
   ],
   "محمودُ": [
     "amr_b_maadikarib"
@@ -396436,7 +396685,8 @@
   ],
   "أنّني": [
     "abu_mihjan_althaqafi",
-    "kab_b_mlik_al-anr"
+    "kab_b_mlik_al-anr",
+    "khansa_bt_altijan"
   ],
   "لذةً": [
     "abu_mihjan_althaqafi"
@@ -401363,7 +401613,8 @@
     "abu_zubayd_altaii"
   ],
   "جبالِ": [
-    "abu_zubayd_altaii"
+    "abu_zubayd_altaii",
+    "aljayda_bt_zahir"
   ],
   "بِهرا": [
     "abu_zubayd_altaii"
@@ -404609,7 +404860,8 @@
     "humayd_althawr"
   ],
   "تَجوبُ": [
-    "humayd_althawr"
+    "humayd_althawr",
+    "khansa_bt_altijan"
   ],
   "الدُّجى": [
     "humayd_althawr"
@@ -413065,7 +413317,8 @@
     "humayd_althawr"
   ],
   "مِثلها": [
-    "humayd_althawr"
+    "humayd_althawr",
+    "khansa_bt_altijan"
   ],
   "فَعَلت": [
     "humayd_althawr"
@@ -420052,7 +420305,8 @@
     "zayd_alkhayl"
   ],
   "arwā": [
-    "arwa_bt_abd_almuttalib"
+    "arwa_bt_abd_almuttalib",
+    "arwa_bt_alhabab"
   ],
   "al-muṭṭalib": [
     "arwa_bt_abd_almuttalib",
@@ -421175,7 +421429,8 @@
     "umm_musa_alkilabiyyah"
   ],
   "deathdoom": [
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "khansa_bt_altijan"
   ],
   "encounters": [
     "mutammim_b_nuwayrah"
@@ -421404,7 +421659,8 @@
     "mutammim_b_nuwayrah"
   ],
   "بارقٍ": [
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "khansa_bt_altijan"
   ],
   "فانجحَ": [
     "mutammim_b_nuwayrah"
@@ -421699,7 +421955,8 @@
     "mutammim_b_nuwayrah"
   ],
   "الأمورِ": [
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "arwa_bt_alhabab"
   ],
   "المزمعُ": [
     "mutammim_b_nuwayrah"
@@ -423527,7 +423784,8 @@
     "mutammim_b_nuwayrah"
   ],
   "قطاميّ": [
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "khansa_bt_altijan"
   ],
   "مَرقباً": [
     "mutammim_b_nuwayrah"
@@ -424213,7 +424471,8 @@
     "mutammim_b_nuwayrah"
   ],
   "سقامِ": [
-    "mutammim_b_nuwayrah"
+    "mutammim_b_nuwayrah",
+    "khansa_bt_altijan"
   ],
   "كيومِ": [
     "mutammim_b_nuwayrah"
@@ -427577,7 +427836,8 @@
     "qays_b_amr_al-najsh"
   ],
   "وَأهلُ": [
-    "qays_b_amr_al-najsh"
+    "qays_b_amr_al-najsh",
+    "khansa_bt_altijan"
   ],
   "البُيُوتِ": [
     "qays_b_amr_al-najsh"
@@ -427877,7 +428137,8 @@
   ],
   "الأرضِ": [
     "qays_b_amr_al-najsh",
-    "hassan_b_thabit"
+    "hassan_b_thabit",
+    "aljayda_bt_zahir"
   ],
   "حَافٍ": [
     "qays_b_amr_al-najsh"
@@ -429965,7 +430226,8 @@
     "urwah_b_izm"
   ],
   "عفراءُ": [
-    "urwah_b_izm"
+    "urwah_b_izm",
+    "khansa_bt_altijan"
   ],
   "ثمانِيا": [
     "urwah_b_izm"
@@ -437377,7 +437639,8 @@
     "kab_b_mlik_al-anr"
   ],
   "إنِ": [
-    "kab_b_mlik_al-anr"
+    "kab_b_mlik_al-anr",
+    "khansa_bt_altijan"
   ],
   "أَعْقَبَا": [
     "kab_b_mlik_al-anr"
@@ -448241,7 +448504,8 @@
   ],
   "يُقادُ": [
     "qutaylah_bt_alnasr",
-    "alnabighah_aljaadi"
+    "alnabighah_aljaadi",
+    "khansa_bt_altijan"
   ],
   "مُتْعَباً": [
     "qutaylah_bt_alnasr"
@@ -502150,7 +502414,8 @@
     "alhayfa_bt_sabih",
     "amina_bt_utaybah",
     "amina_bt_wahb",
-    "umm_musa_alkilabiyyah"
+    "umm_musa_alkilabiyyah",
+    "arwa_bt_alhabab"
   ],
   "ثعلبةٍ": [
     "safiyyah_bt_thalabah_alshaybaniyyah"
@@ -506095,7 +506360,8 @@
     "umm_alagharr_bt_rabiah"
   ],
   "bint": [
-    "umm_alagharr_bt_rabiah"
+    "umm_alagharr_bt_rabiah",
+    "alkhansa_bt_zuhayr"
   ],
   "أم الأغر بنت ربيعة التغلبية": [
     "umm_alagharr_bt_rabiah"
@@ -506269,7 +506535,8 @@
     "umm_aldahhak_almuharibiyyah"
   ],
   "حبّ": [
-    "umm_aldahhak_almuharibiyyah"
+    "umm_aldahhak_almuharibiyyah",
+    "khansa_bt_altijan"
   ],
   "الضبابي": [
     "umm_aldahhak_almuharibiyyah"
@@ -506530,7 +506797,8 @@
     "umm_aldahhak_almuharibiyyah"
   ],
   "الأيّام": [
-    "umm_aldahhak_almuharibiyyah"
+    "umm_aldahhak_almuharibiyyah",
+    "khansa_bt_altijan"
   ],
   "أجتهدُ": [
     "umm_aldahhak_almuharibiyyah"
@@ -522838,7 +523106,8 @@
     "amr_albahili"
   ],
   "asterisms": [
-    "amr_albahili"
+    "amr_albahili",
+    "aldaaja_bt_wahb"
   ],
   "أَعجازُهُ": [
     "amr_albahili"
@@ -523170,7 +523439,8 @@
     "amr_albahili"
   ],
   "يَركَبونَ": [
-    "amr_albahili"
+    "amr_albahili",
+    "arwa_bt_alhabab"
   ],
   "جَناناً": [
     "amr_albahili"
@@ -531789,7 +532059,8 @@
     "tamim_b_abi_muqbil"
   ],
   "moment": [
-    "tamim_b_abi_muqbil"
+    "tamim_b_abi_muqbil",
+    "khansa_bt_altijan"
   ],
   "revealed": [
     "tamim_b_abi_muqbil"
@@ -553286,6 +553557,12 @@
   "الدعجاء بنت وهب": [
     "aldaaja_bt_wahb"
   ],
+  "معتمر": [
+    "aldaaja_bt_wahb"
+  ],
+  "mutamir": [
+    "aldaaja_bt_wahb"
+  ],
   "مكتئباً": [
     "aldaaja_bt_wahb"
   ],
@@ -553302,9 +553579,6 @@
     "aldaaja_bt_wahb"
   ],
   "وراكب": [
-    "aldaaja_bt_wahb"
-  ],
-  "معتمر": [
     "aldaaja_bt_wahb"
   ],
   "يلوي": [
@@ -553486,5 +553760,383 @@
   ],
   "سالكه": [
     "aldaaja_bt_wahb"
+  ],
+  "al-jaydāʾ": [
+    "aljayda_bt_zahir"
+  ],
+  "zāhir": [
+    "aljayda_bt_zahir"
+  ],
+  "الجيداء بنت زاهر": [
+    "aljayda_bt_zahir"
+  ],
+  "صرفُ": [
+    "aljayda_bt_zahir"
+  ],
+  "دهرهِ": [
+    "aljayda_bt_zahir"
+  ],
+  "قرّح": [
+    "aljayda_bt_zahir"
+  ],
+  "الدمعُ": [
+    "aljayda_bt_zahir"
+  ],
+  "خدّي": [
+    "aljayda_bt_zahir"
+  ],
+  "وَجَفاني": [
+    "aljayda_bt_zahir"
+  ],
+  "الرّقادُ": [
+    "aljayda_bt_zahir"
+  ],
+  "عظمِ": [
+    "aljayda_bt_zahir"
+  ],
+  "سقاهُ": [
+    "aljayda_bt_zahir"
+  ],
+  "عبسٍ": [
+    "aljayda_bt_zahir"
+  ],
+  "بجَورهِ": [
+    "aljayda_bt_zahir"
+  ],
+  "والتعدّي": [
+    "aljayda_bt_zahir"
+  ],
+  "تمّ": [
+    "aljayda_bt_zahir"
+  ],
+  "رَشَقته": [
+    "aljayda_bt_zahir"
+  ],
+  "السهامُ": [
+    "aljayda_bt_zahir"
+  ],
+  "وَرَماني": [
+    "aljayda_bt_zahir"
+  ],
+  "جندي": [
+    "aljayda_bt_zahir"
+  ],
+  "همومٍ": [
+    "aljayda_bt_zahir"
+  ],
+  "أُكابدُ": [
+    "aljayda_bt_zahir"
+  ],
+  "الوجدَ": [
+    "aljayda_bt_zahir"
+  ],
+  "بَكت": [
+    "aljayda_bt_zahir"
+  ],
+  "الفَلا": [
+    "aljayda_bt_zahir"
+  ],
+  "نجدِ": [
+    "aljayda_bt_zahir"
+  ],
+  "القَضيبِ": [
+    "aljayda_bt_zahir"
+  ],
+  "قدّاً": [
+    "aljayda_bt_zahir"
+  ],
+  "قدّه": [
+    "aljayda_bt_zahir"
+  ],
+  "قدِّ": [
+    "aljayda_bt_zahir"
+  ],
+  "لَقومي": [
+    "aljayda_bt_zahir"
+  ],
+  "يَكشفُ": [
+    "aljayda_bt_zahir"
+  ],
+  "وَيراعي": [
+    "aljayda_bt_zahir"
+  ],
+  "al-tījān": [
+    "khansa_bt_altijan"
+  ],
+  "الخنساء بنت التيجان": [
+    "khansa_bt_altijan"
+  ],
+  "القضا": [
+    "khansa_bt_altijan"
+  ],
+  "أهلِ القضا": [
+    "khansa_bt_altijan"
+  ],
+  "fatedecree": [
+    "khansa_bt_altijan"
+  ],
+  "حمامِ": [
+    "khansa_bt_altijan"
+  ],
+  "وقت حمامِ": [
+    "khansa_bt_altijan"
+  ],
+  "الْخِفاجِيِّ": [
+    "khansa_bt_altijan"
+  ],
+  "جَحْوَشٍ": [
+    "khansa_bt_altijan"
+  ],
+  "يَزْدادُ": [
+    "khansa_bt_altijan"
+  ],
+  "بُعْدا": [
+    "khansa_bt_altijan"
+  ],
+  "يَحُلَّ": [
+    "khansa_bt_altijan"
+  ],
+  "نَجْدا": [
+    "khansa_bt_altijan"
+  ],
+  "وَجِدَّتَهُ": [
+    "khansa_bt_altijan"
+  ],
+  "خَلِقاً": [
+    "khansa_bt_altijan"
+  ],
+  "جَرْدا": [
+    "khansa_bt_altijan"
+  ],
+  "وَإِنّ": [
+    "khansa_bt_altijan"
+  ],
+  "بالشامِ": [
+    "khansa_bt_altijan"
+  ],
+  "نستطيعهُ": [
+    "khansa_bt_altijan"
+  ],
+  "تيّحانَ": [
+    "khansa_bt_altijan"
+  ],
+  "مُصافيا": [
+    "khansa_bt_altijan"
+  ],
+  "نَعدّ": [
+    "khansa_bt_altijan"
+  ],
+  "ذِكرهِ": [
+    "khansa_bt_altijan"
+  ],
+  "وَنُحصي": [
+    "khansa_bt_altijan"
+  ],
+  "تيّحان": [
+    "khansa_bt_altijan"
+  ],
+  "اللّياليا": [
+    "khansa_bt_altijan"
+  ],
+  "فَليت": [
+    "khansa_bt_altijan"
+  ],
+  "رَفعنكَ": [
+    "khansa_bt_altijan"
+  ],
+  "مُصعداً": [
+    "khansa_bt_altijan"
+  ],
+  "بِأيديها": [
+    "khansa_bt_altijan"
+  ],
+  "الحزونَ": [
+    "khansa_bt_altijan"
+  ],
+  "الفَيافيا": [
+    "khansa_bt_altijan"
+  ],
+  "ولوجَ": [
+    "khansa_bt_altijan"
+  ],
+  "حلٌّ": [
+    "khansa_bt_altijan"
+  ],
+  "لجحوشٍ": [
+    "khansa_bt_altijan"
+  ],
+  "والمتسأذنون": [
+    "khansa_bt_altijan"
+  ],
+  "نيامُ": [
+    "khansa_bt_altijan"
+  ],
+  "فَأهلُ": [
+    "khansa_bt_altijan"
+  ],
+  "كرهتهم": [
+    "khansa_bt_altijan"
+  ],
+  "كرامِ": [
+    "khansa_bt_altijan"
+  ],
+  "أَمُنتذرٌ": [
+    "khansa_bt_altijan"
+  ],
+  "آنَست": [
+    "khansa_bt_altijan"
+  ],
+  "بِالغورِ": [
+    "khansa_bt_altijan"
+  ],
+  "تهامِ": [
+    "khansa_bt_altijan"
+  ],
+  "مُنهلٌّ": [
+    "khansa_bt_altijan"
+  ],
+  "الغيثَ": [
+    "khansa_bt_altijan"
+  ],
+  "رائحٌ": [
+    "khansa_bt_altijan"
+  ],
+  "بزمامِ": [
+    "khansa_bt_altijan"
+  ],
+  "لِيشربَ": [
+    "khansa_bt_altijan"
+  ],
+  "جحوشٌ": [
+    "khansa_bt_altijan"
+  ],
+  "ويشمّهُ": [
+    "khansa_bt_altijan"
+  ],
+  "بِعيني": [
+    "khansa_bt_altijan"
+  ],
+  "أغرّ": [
+    "khansa_bt_altijan"
+  ],
+  "شآمي": [
+    "khansa_bt_altijan"
+  ],
+  "وكلامهُ": [
+    "khansa_bt_altijan"
+  ],
+  "وَأَنيابُه": [
+    "khansa_bt_altijan"
+  ],
+  "اللّائي": [
+    "khansa_bt_altijan"
+  ],
+  "ببشامِ": [
+    "khansa_bt_altijan"
+  ],
+  "بِالخفاجيّ": [
+    "khansa_bt_altijan"
+  ],
+  "جحوشٍ": [
+    "khansa_bt_altijan"
+  ],
+  "بَرى": [
+    "khansa_bt_altijan"
+  ],
+  "الجسمَ": [
+    "khansa_bt_altijan"
+  ],
+  "وَأُقسمُ": [
+    "khansa_bt_altijan"
+  ],
+  "بجحوشٍ": [
+    "khansa_bt_altijan"
+  ],
+  "وَجدت": [
+    "khansa_bt_altijan"
+  ],
+  "بِاِبن": [
+    "khansa_bt_altijan"
+  ],
+  "حزامِ": [
+    "khansa_bt_altijan"
+  ],
+  "مُؤجّلة": [
+    "khansa_bt_altijan"
+  ],
+  "الخنساء بنت زهير": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "التميم,": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "الغضار": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "التميم, الغضار": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "altamm": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "alghidr": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "توقي": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "ولاقاه": [
+    "alkhansa_bt_zuhayr"
+  ],
+  "al-ḥabāb": [
+    "arwa_bt_alhabab"
+  ],
+  "أروى بنت الحباب": [
+    "arwa_bt_alhabab"
+  ],
+  "لِلأراملِ": [
+    "arwa_bt_alhabab"
+  ],
+  "وَاليَتامى": [
+    "arwa_bt_alhabab"
+  ],
+  "فَلتبكِ": [
+    "arwa_bt_alhabab"
+  ],
+  "أعيُنها": [
+    "arwa_bt_alhabab"
+  ],
+  "لفقدِ": [
+    "arwa_bt_alhabab"
+  ],
+  "حبابِ": [
+    "arwa_bt_alhabab"
+  ],
+  "مخاطرٍ": [
+    "arwa_bt_alhabab"
+  ],
+  "بتلادهِ": [
+    "arwa_bt_alhabab"
+  ],
+  "وَلنفسهِ": [
+    "arwa_bt_alhabab"
+  ],
+  "بقيا": [
+    "arwa_bt_alhabab"
+  ],
+  "الأحسابِ": [
+    "arwa_bt_alhabab"
+  ],
+  "الراكبينَ": [
+    "arwa_bt_alhabab"
+  ],
+  "صُدورَها": [
+    "arwa_bt_alhabab"
+  ],
+  "معاقدَ": [
+    "arwa_bt_alhabab"
+  ],
+  "الأذنابِ": [
+    "arwa_bt_alhabab"
   ]
 }

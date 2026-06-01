@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "أروى بنت الحباب",
+    "name_en": "Arwā bt. al-Ḥabāb",
+    "tribe": "unknown",
+    "region": "Other / Unknown",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "arwā_bt_al-ḥabāb_000",
+      "meter": "كامل",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "قُل لِلأراملِ وَاليَتامى قَد ثوى  فَلتبكِ أعيُنها لفقدِ حبابِ"
+        },
+        {
+          "verse_index": 1,
+          "text": "أودى اِبن كلّ مخاطرٍ بتلادهِ  وَلنفسهِ بقيا على الأحسابِ"
+        },
+        {
+          "verse_index": 2,
+          "text": "الراكبينَ مِنَ الأمورِ صُدورَها  لا يَركَبونَ معاقدَ الأذنابِ"
+        }
+      ]
+    }
+  ]
+}

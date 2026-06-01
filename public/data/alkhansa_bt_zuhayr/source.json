@@ -1,0 +1,33 @@
+{
+  "poet": {
+    "name_ar": "الخنساء بنت زهير",
+    "name_en": "Al-Khansāʾ bint Zuhayr",
+    "tribe": "Muzaynah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "al-khansāʾ_bint_zuhayr_000",
+      "meter": "وافر",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "وما يغني توقي الموت شيئاً  ولا عقد التميم ولا الغضار"
+        },
+        {
+          "verse_index": 1,
+          "text": "إذا لاقى منيته فأمسى  يساق به وقد حق الحذار"
+        },
+        {
+          "verse_index": 2,
+          "text": "ولاقاه من الأيام يوم  كما من قبل لم يخلد قدار"
+        }
+      ]
+    }
+  ]
+}

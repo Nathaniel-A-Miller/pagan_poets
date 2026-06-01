@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "al-khansāʾ_bint_zuhayr_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-khansāʾ_bint_zuhayr_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "التميم, الغضار",
+        "notes": "This verse explicitly mentions 'al-tamīm' (amulets) and 'al-ghidār' (likely another type of charm or amulet), which were physical objects used in pre-Islamic protective rituals."
+      }
+    ],
+    "error": false
+  }
+]
