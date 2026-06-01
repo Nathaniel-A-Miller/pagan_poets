@@ -20,12 +20,23 @@ export default function PoetSelector({ poets, selectedSlugs = [], onTogglePoet, 
       return matchesRegion && matchesPeriod && matchesGender
     })
 
-    // Alphabetize by English name ignoring half-rings, macrons, and underdots
+    // Alphabetize by English name ignoring definite articles, half-rings, macrons, and underdots
     return filtered.sort((a, b) => {
-      const cleanString = (str) => 
-        str.replace(/[‘'’`ʿʾ]/g, '') // Strips out common half-ring modifier symbols
-           .normalize('NFD')         // Decomposes accents (e.g., separating underdots/macrons from their base letter)
-           .replace(/[\u0300-\u036f]/g, '') // Strips out those separated accent markings completely
+      const cleanString = (str) => {
+        if (!str) return ''
+        
+        // 1. First, strip out common half-ring modifier symbols so they don't block the prefix check
+        let workingStr = str.replace(/[‘'’`ʿʾ]/g, '')
+        
+        // 2. Strip common English-transliterated Arabic definite articles at the start of the string.
+        //    Handles 'Al-', 'al-', 'Ar-', 'As-', etc., followed by a hyphen or a space.
+        workingStr = workingStr.replace(/^[Aa][A-Za-z][- ]/, '')
+
+        // 3. Decompose and strip out remaining accent markings (macrons, underdots, etc.)
+        return workingStr
+          .normalize('NFD')         // Decomposes accents (e.g., separating underdots/macrons from their base letter)
+          .replace(/[\u0300-\u036f]/g, '') // Strips out those separated accent markings completely
+      }
 
       return cleanString(a.name_en).localeCompare(cleanString(b.name_en), 'en', { sensitivity: 'base' })
     })
