@@ -30,7 +30,7 @@ export default function App() {
         setPoetIndex(indexData)
         setSearchIndex(searchData)
       })
-      .catch(() => setError('Could not load base index configurations.'))
+      .catch(() => setError('Could not load base index configurations'))
   }, [])
 
   // 2. Sync Global Search: Update selections automatically ONLY when typing a query
@@ -88,7 +88,7 @@ useEffect(() => {
 
     Promise.all(fetchPromises)
       .then(setPooledData)
-      .catch(() => setError('Could not load selected poet profiles.'))
+      .catch(() => setError('Could not load selected poet profiles'))
       .finally(() => setLoading(false))
   }, [selectedSlugs, poetIndex])
 
