@@ -2626,5 +2626,53 @@
     "number_of_lines": 5,
     "source": "data/aldaaja_bt_wahb/source.json",
     "analysis": "data/aldaaja_bt_wahb/analysis.json"
+  },
+  {
+    "slug": "aljayda_bt_zahir",
+    "name_en": "Al-Jaydāʾ bt. Zāhir",
+    "name_ar": "الجيداء بنت زاهر",
+    "tribe": "Madhḥij",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 7,
+    "source": "data/aljayda_bt_zahir/source.json",
+    "analysis": "data/aljayda_bt_zahir/analysis.json"
+  },
+  {
+    "slug": "khansa_bt_altijan",
+    "name_en": "Al-Khansāʾ bt. al-Tījān",
+    "name_ar": "الخنساء بنت التيجان",
+    "tribe": "ʿĀmir b. Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 15,
+    "source": "data/khansa_bt_altijan/source.json",
+    "analysis": "data/khansa_bt_altijan/analysis.json"
+  },
+  {
+    "slug": "alkhansa_bt_zuhayr",
+    "name_en": "Al-Khansāʾ bint Zuhayr",
+    "name_ar": "الخنساء بنت زهير",
+    "tribe": "Muzaynah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "source": "data/alkhansa_bt_zuhayr/source.json",
+    "analysis": "data/alkhansa_bt_zuhayr/analysis.json"
+  },
+  {
+    "slug": "arwa_bt_alhabab",
+    "name_en": "Arwā bt. al-Ḥabāb",
+    "name_ar": "أروى بنت الحباب",
+    "tribe": "unknown",
+    "region": "Other / Unknown",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 3,
+    "source": "data/arwa_bt_alhabab/source.json",
+    "analysis": "data/arwa_bt_alhabab/analysis.json"
   }
 ]
