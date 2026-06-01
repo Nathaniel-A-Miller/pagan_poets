@@ -1,0 +1,45 @@
+{
+  "poet": {
+    "name_ar": "برة بنت عبد المطلب",
+    "name_en": "Birrah bt. ʿAbd al-Muṭṭalib",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "female",
+    "number_of_lines": 6,
+    "metadata_notes": ""
+  },
+  "poems": [
+    {
+      "poem_index": 0,
+      "poem_id": "birrah_bt_ʿabd_al-muṭṭalib_000",
+      "meter": "متقارب",
+      "verses": [
+        {
+          "verse_index": 0,
+          "text": "أَعينيّ جُودا بِدمعٍ دَرِر  على ماجدِ الخيم والمعتصَر"
+        },
+        {
+          "verse_index": 1,
+          "text": "عَلى ماجدِ الجدّ واري الزناد  جَميل المحيّا عَظيم الخَطر"
+        },
+        {
+          "verse_index": 2,
+          "text": "عَلى شيبةِ الحمدِ ذي المَكرمات  وَذِي المجدِ وَالعزّ وَالمُفتخر"
+        },
+        {
+          "verse_index": 3,
+          "text": "وَذي الحلمِ وَالفضلِ في النائبات  كَثيرِ المفاخِرِ جمّ الفخر"
+        },
+        {
+          "verse_index": 4,
+          "text": "لَه فَضل مَجدٍ على قومهِ  مُنيرٌ يلوحُ كَضوءِ القَمَر"
+        },
+        {
+          "verse_index": 5,
+          "text": "أَتَته المَنايا فلم تُشوهِ  بِصرفِ اللّيالي وريبِ القَدَر"
+        }
+      ]
+    }
+  ]
+}

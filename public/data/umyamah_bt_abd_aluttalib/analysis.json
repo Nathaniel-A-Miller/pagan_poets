@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "umaymah_bt_ʿabd_al-muṭṭalib_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "umaymah_bt_ʿabd_al-muṭṭalib_000",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ساقي الحجيج",
+        "notes": "The phrase 'sāqī al-ḥajīj' (waterer of the pilgrims) refers to a specific role associated with the pre-Islamic pilgrimage (ḥajj) ritual in Mecca."
+      }
+    ],
+    "error": false
+  }
+]

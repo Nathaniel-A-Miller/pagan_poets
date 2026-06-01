@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "asmāʾ_al-taghlibiyyah_000",
+    "poem_index": 0,
+    "meter": "رمل",
+    "verse_count": 29,
+    "references": [
+      {
+        "poem_id": "asmāʾ_al-taghlibiyyah_000",
+        "verse_indices": [
+          21
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثَأر",
+        "notes": "The command to 'seek vengeance' (اِطلُبوا ثَأرَ) explicitly refers to the pre-Islamic obligation of blood vengeance, which was a quasi-ritual duty central to tribal honor and the response to death."
+      }
+    ],
+    "error": false
+  }
+]

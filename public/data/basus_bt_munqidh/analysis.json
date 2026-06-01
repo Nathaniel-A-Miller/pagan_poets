@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "al-basūs_bt_munqidh_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "al-basūs_bt_munqidh_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثأري",
+        "notes": "The verse explicitly mentions 'my vengeance' (ثأري), referring to the pre-Islamic tribal obligation of blood vengeance, which was considered a quasi-ritual duty."
+      }
+    ],
+    "error": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "poem_id": "birrah_bt_ʿabd_al-muṭṭalib_000",
+    "poem_index": 0,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "birrah_bt_ʿabd_al-muṭṭalib_000",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا, القَدَر",
+        "notes": "The verse refers to 'al-manāyā' (deaths/fates) and 'rayb al-qadar' (the doubt of fate), which are key terms reflecting pre-Islamic cosmological concepts of an impersonal, irresistible destiny."
+      }
+    ],
+    "error": false
+  }
+]
