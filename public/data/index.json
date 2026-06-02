@@ -3058,5 +3058,53 @@
     "number_of_lines": 52,
     "source": "data/sakhr_b_amr/source.json",
     "analysis": "data/sakhr_b_amr/analysis.json"
+  },
+  {
+    "slug": "damrah_b_damrah",
+    "name_en": "Ḍamrah b. Ḍamrah",
+    "name_ar": "ضمرة بن ضمرة",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 71,
+    "source": "data/damrah_b_damrah/source.json",
+    "analysis": "data/damrah_b_damrah/analysis.json"
+  },
+  {
+    "slug": "muhriz_aldabbi",
+    "name_en": "Muḥriz al-Ḍabbī",
+    "name_ar": "محرز الضبي",
+    "tribe": "Ḍabbah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 68,
+    "source": "data/muhriz_aldabbi/source.json",
+    "analysis": "data/muhriz_aldabbi/analysis.json"
+  },
+  {
+    "slug": "zubayr_b_abd_almuttalib",
+    "name_en": "Zubayr b. ʿAbd al-Muṭṭalib",
+    "name_ar": "الزبير بن عبد المطلب",
+    "tribe": "Quraysh",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 29,
+    "source": "data/zubayr_b_abd_almuttalib/source.json",
+    "analysis": "data/zubayr_b_abd_almuttalib/analysis.json"
+  },
+  {
+    "slug": "umayyah_b_al-askar",
+    "name_en": "Umayyah b. al-Askar",
+    "name_ar": "أمية بن الأسكر",
+    "tribe": "Kinānah",
+    "region": "Hijaz",
+    "chronological_layer": "mukhaḍramūn",
+    "gender": "male",
+    "number_of_lines": 62,
+    "source": "data/umayyah_b_al-askar/source.json",
+    "analysis": "data/umayyah_b_al-askar/analysis.json"
   }
 ]

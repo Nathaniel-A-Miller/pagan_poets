@@ -1,0 +1,159 @@
+[
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_000",
+    "poem_index": 0,
+    "meter": "بحر مشطور الرجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_002",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الْبَيْتِ",
+        "notes": "The term 'الْبَيْتِ' (the House) in this context refers to the Kaaba, a central pre-Islamic sanctuary and sacred space in Mecca."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_003",
+    "poem_index": 3,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_003",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غولاً",
+        "notes": "The verse explicitly mentions a 'ghoul' (غولاً), a type of supernatural entity prominent in pre-Islamic Arabian folklore."
+      },
+      {
+        "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_003",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قبورهم",
+        "notes": "The verse expresses a wish for rain to water the graves (قبورهم) of the departed, reflecting a concern for the deceased and their resting place."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_005",
+    "poem_index": 5,
+    "meter": "سريع",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "مَنَاف",
+        "notes": "The name 'ʿAbd Manāf' explicitly refers to Manāf, a pre-Islamic deity, through the common 'servant of X' naming convention."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_007",
+    "poem_index": 7,
+    "meter": "بحر منهوك الرجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_008",
+    "poem_index": 8,
+    "meter": "بحر منهوك الرجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_008",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "ساهَمَ",
+        "notes": "This verse explicitly mentions casting lots (ساهَمَ), a pre-Islamic practice used for divination or determining shares, fitting the category of Divination_and_Omens."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_009",
+    "poem_index": 9,
+    "meter": "بحر مشطور الرجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_009",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يَضْرِبُ الْكَبْشَ",
+        "notes": "The phrase 'يضرب الكبش' (he strikes/slaughters the ram) in the context of 'إذا البأس ارجحنّ' (when hardship becomes severe) suggests a ritualistic sacrifice or offering of a ram performed in times of crisis, which is a pre-Islamic ritual practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_010",
+    "poem_index": 10,
+    "meter": "بحر منهوك الرجز",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "zubayr_b_ʿabd_al-muṭṭalib_010",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الأزلم",
+        "notes": "The phrase \"سجيس الأزلم\" (sajīsa al-azlam) is an idiom meaning \"forever,\" which explicitly references the pre-Islamic practice of divination using azlām (divinatory arrows)."
+      }
+    ],
+    "error": false
+  }
+]
