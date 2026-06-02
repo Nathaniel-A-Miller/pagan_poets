@@ -1,0 +1,84 @@
+[
+  {
+    "poem_id": "ʿāmir_b_yāsir_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_002",
+    "poem_index": 2,
+    "meter": "سريع",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "ʿāmir_b_yāsir_002",
+        "verse_indices": [
+          12
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الثأر",
+        "notes": "The verse explicitly mentions the obligation to take 'vengeance' (الثأر), a central quasi-ritual duty in pre-Islamic Arabian society tied to honor and the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_003",
+    "poem_index": 3,
+    "meter": "سريع",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_004",
+    "poem_index": 4,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_005",
+    "poem_index": 5,
+    "meter": "خفيف",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_007",
+    "poem_index": 7,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿāmir_b_yāsir_008",
+    "poem_index": 8,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 38,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_000",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "شهور الحج",
+        "notes": "This verse explicitly mentions 'the months of pilgrimage,' referring to the pre-Islamic practice of Hajj."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_001",
+    "poem_index": 1,
+    "meter": "كامل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_001",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كَيسِ الزَمانِ",
+        "notes": "The phrase 'كَيسِ الزَمانِ' (the pouch/fortune of time) implies a pre-Islamic cosmological understanding of Time (Dahr) as a force that dispenses destiny or fortune."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_001",
+        "verse_indices": [
+          5,
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مُعَبَّدٍ, آمِنَ طَيرِهِ وَسِباعِهِ",
+        "notes": "These verses describe a 'مُعَبَّدٍ' (sanctuary or place of worship) where its 'آمِنَ طَيرِهِ وَسِباعِهِ' (safe/protected birds and beasts) are found, strongly indicating a pre-Islamic ḥaram (sacred precinct) where hunting was forbidden."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_002",
+    "poem_index": 2,
+    "meter": "سريع",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_002",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الرُقى",
+        "notes": "This verse explicitly mentions tying incantations or charms (الرُقى) around the neck for protection against malevolent spirits or the envious eye, which is a pre-Islamic ritualistic practice."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_003",
+    "poem_index": 3,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_004",
+    "poem_index": 4,
+    "meter": "وافر",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_004",
+        "verse_indices": [
+          10
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّ أَبيكِ",
+        "notes": "This verse contains an explicit oath formula, 'By the Lord of your father,' which is a common pre-Islamic invocation of a tribal or ancestral deity."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_004",
+        "verse_indices": [
+          11
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "حِجرِ",
+        "notes": "The term 'حجر' refers to a sacred, inviolable enclosure or sanctuary, indicating a specific type of pre-Islamic sacred space."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_004",
+        "verse_indices": [
+          12
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صَروفِ الدَهرِ",
+        "notes": "The phrase 'صروف الدهر' (the vicissitudes of Time/Fate) refers to Dahr as a powerful, often destructive, cosmological force in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_004",
+        "verse_indices": [
+          15
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "عبقري",
+        "notes": "The term 'عبقري' (ʿAbqarī) refers to something extraordinary or supernatural, often associated with the jinn or their mythical abode, implying a supernatural origin for the rain."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_004",
+        "verse_indices": [
+          18
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الأَيسارُ",
+        "notes": "The term 'الأيسار' refers to those who practice *maysir*, a form of divination or lot-casting using arrows, often performed in times of need or for distributing sacrificial meat."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_005",
+    "poem_index": 5,
+    "meter": "متقارب",
+    "verse_count": 21,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_007",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رب مكة, المصلى, أشياخ محلقة",
+        "notes": "The verse contains an explicit oath sworn by the Lord of Mecca, a sacred prayer place, and elders with shaved heads, all serving as sacred anchors for the oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_009",
+    "poem_index": 9,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_009",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ثَبيراً, حِرا",
+        "notes": "This verse mentions Thabīr and Ḥirāʾ, mountains near Mecca that were prominent features of the pre-Islamic sacred geography and associated with pilgrimage and ritual practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_010",
+    "poem_index": 10,
+    "meter": "متقارب",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al_sulamī_011",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'al-manāyā' (fates/deaths) refers to an irresistible cosmological force, a common concept in pre-Islamic Arabian thought regarding destiny and mortality."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al_sulamī_011",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيرِ الشِمالِ",
+        "notes": "The phrase 'ṭayr al-shimāl' (bird of the north/left) explicitly references the practice of augury, where birds flying from the left were typically considered ill omens."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_013",
+    "poem_index": 13,
+    "meter": "متقارب",
+    "verse_count": 28,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القِداح",
+        "notes": "The phrase \"نسيءُ القِداحَ\" (we postpone the lots/arrows) refers to the pre-Islamic practice of using arrows (qidaḥ) for divination (azlām) or ritualized gambling (maysir), which are forms of lots casting."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_014",
+    "poem_index": 14,
+    "meter": "منسرح",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_014",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنونُ",
+        "notes": "The verse refers to al-Manūn as an irresistible force of fate or death, a common pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_015",
+    "poem_index": 15,
+    "meter": "بسيط",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al_sulamī_015",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كَوكَبَ نَحسٍ",
+        "notes": "This verse refers to a \"star of ill omen,\" indicating a belief in astral influence on fate, which is a cosmological concept."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al_sulamī_015",
+        "verse_indices": [
+          14
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "الهامُ",
+        "notes": "The hooting of owls (الهام) was considered an ill omen in pre-Islamic Arabian belief, making this a reference to augury."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_017",
+    "poem_index": 17,
+    "meter": "سريع",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_017",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "تَاللَهِ",
+        "notes": "This verse contains the explicit oath formula 'تَاللَهِ' (By God), which was a common pre-Islamic practice invoking a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_019",
+    "poem_index": 19,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_021",
+    "poem_index": 21,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_022",
+    "poem_index": 22,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_023",
+    "poem_index": 23,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_025",
+    "poem_index": 25,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_026",
+    "poem_index": 26,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_027",
+    "poem_index": 27,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_028",
+    "poem_index": 28,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_029",
+    "poem_index": 29,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_030",
+    "poem_index": 30,
+    "meter": "بسيط",
+    "verse_count": 33,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_030",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لاه",
+        "notes": "The term 'لاه' is an oath particle commonly used in pre-Islamic Arabic poetry, functioning as an invocation or affirmation."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al_sulamī_030",
+        "verse_indices": [
+          18
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الهامَةُ اِسقوني",
+        "notes": "This verse refers to the pre-Islamic belief of the *hāmā*, a bird-like spirit believed to emerge from the skull of an unavenged murdered person, crying for water until vengeance is exacted."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al_sulamī_030",
+        "verse_indices": [
+          24
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' is a common pre-Islamic oath formula meaning 'by your life' or 'by my life', used to lend solemnity to a statement."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_031",
+    "poem_index": 31,
+    "meter": "بسيط",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_031",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "راسِياتٍ ثَلاثٍ حَولَ مُنتَصِبِ",
+        "notes": "This verse describes 'three standing stones around an upright one,' which strongly evokes the anṣāb (standing stones) used as cult objects or altars in pre-Islamic Arabian ritual practices."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_031",
+        "verse_indices": [
+          13
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَجنوكَ بَينَ اللَبنِ وَالخَشَبِ",
+        "notes": "The phrase 'when they bury you between the bricks and the wood' explicitly refers to burial practices, which fall under pre-Islamic mortuary beliefs and customs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_032",
+    "poem_index": 32,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_033",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثأر (tha'r)",
+        "notes": "This verse describes a killing undertaken 'for ʿAbd Allāh,' explicitly referencing the pre-Islamic obligation of blood vengeance (tha'r) as a quasi-ritual duty."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_034",
+    "poem_index": 34,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_035",
+    "poem_index": 35,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_036",
+    "poem_index": 36,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_037",
+    "poem_index": 37,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_039",
+    "poem_index": 39,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_040",
+    "poem_index": 40,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_040",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمْرُ أَبيك",
+        "notes": "This verse contains an oath formula common in pre-Islamic Arabia, swearing by the life of a respected person, which held a quasi-sacred significance."
+      },
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_040",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَّهر",
+        "notes": "The term 'الدَّهر' (Time/Fate) is used, reflecting the pre-Islamic cosmological concept of Dahr as an impersonal, governing force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_041",
+    "poem_index": 41,
+    "meter": "بسيط",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_041",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (al-Dahr) is used here as a personified, active force, reflecting the pre-Islamic cosmological concept of Time as an agent of fate or destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_042",
+    "poem_index": 42,
+    "meter": "كامل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "khufāf_b_nudbah_al-sulamī_042",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحِمام",
+        "notes": "The term 'الحِمام' (al-ḥimām) refers to fate or an inescapable destiny, which aligns with pre-Islamic cosmological views on the predetermined nature of death and human existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_043",
+    "poem_index": 43,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_044",
+    "poem_index": 44,
+    "meter": "سريع",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_045",
+    "poem_index": 45,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_046",
+    "poem_index": 46,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "khufāf_b_nudbah_al-sulamī_047",
+    "poem_index": 47,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

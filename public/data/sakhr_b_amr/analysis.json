@@ -249,5 +249,264 @@
       }
     ],
     "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ṣakhr_b_ʿamr_002",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رمساً",
+        "notes": "The verse explicitly mentions greeting a 'ramsan' (grave), which refers to a burial place and relates to practices surrounding death and the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ṣakhr_b_ʿamr_004",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحدَثَانِ",
+        "notes": "The term 'al-ḥadathān' refers to the vicissitudes of time or fate, often personified as a powerful, destructive cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "ṣakhr_b_ʿamr_004",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعمري",
+        "notes": "'La-ʿamrī' is a common pre-Islamic oath formula, swearing by one's life as a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "ṣakhr_b_ʿamr_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا",
+        "notes": "This verse refers to 'al-manāyā' (fates/deaths) as a powerful, decreeing force, aligning with pre-Islamic cosmological concepts of fate."
+      },
+      {
+        "poem_id": "ṣakhr_b_ʿamr_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الشهر الحرام",
+        "notes": "The mention of 'al-shahr al-ḥarām' (the sacred month) explicitly refers to the pre-Islamic practice of observing periods of truce and sanctity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_009",
+    "poem_index": 9,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_010",
+    "poem_index": 10,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ṣakhr_b_ʿamr_010",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "The verse contains an oath by Allāh, which was a common pre-Islamic practice anchored to a high deity."
+      },
+      {
+        "poem_id": "ṣakhr_b_ʿamr_010",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مزقَت خِمارها واتخذَت من شعرٍ صِدارها",
+        "notes": "This verse describes specific mourning rites, including tearing the veil and using hair as a garment, which were customary pre-Islamic practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_011",
+    "poem_index": 11,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ṣakhr_b_ʿamr_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نذري (nadhrī)",
+        "notes": "The poet states 'I have fulfilled my vow' (أَوفَيتُ نَذري), which refers to the pre-Islamic practice of making and fulfilling a vow, often to a deity or sacred entity, a performative religious act."
+      },
+      {
+        "poem_id": "ṣakhr_b_ʿamr_011",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا (al-manāyā)",
+        "notes": "The term 'al-manāyā' (deaths/fates) in this context alludes to the pre-Islamic concept of fate or destiny as a powerful, often personified, cosmological force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_013",
+    "poem_index": 13,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_014",
+    "poem_index": 14,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ṣakhr_b_ʿamr_016",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَيب الزّمانِ",
+        "notes": "The phrase 'rayb az-zamān' (the vicissitudes of time) refers to the pre-Islamic concept of time (dahr) as an active, often malevolent, cosmological force that dictates fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ṣakhr_b_ʿamr_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ṣakhr_b_ʿamr_017",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse personifies 'al-Dahr' (Time/Fate) as an entity that can be appeased or angered, reflecting a pre-Islamic cosmological understanding of fate."
+      },
+      {
+        "poem_id": "ṣakhr_b_ʿamr_017",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رمس",
+        "notes": "The poet addresses a 'rams' (grave) and wishes it rain, indicating a practice related to the deceased and their burial place."
+      }
+    ],
+    "error": false
   }
 ]

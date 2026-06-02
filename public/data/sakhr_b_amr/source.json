@@ -1,10 +1,10 @@
 {
   "poet": {
-    "name_ar": "صخر بن عمرو السلمي",
-    "name_en": "Ṣakhr b. ʿAmr al-Sulamī",
+    "name_ar": "صخر بن عمرو",
+    "name_en": "Ṣakhr b. ʿAmr",
     "tribe": "Sulaym",
     "region": "Hijaz",
-    "chronological_layer": "pre-Islamic",
+    "chronological_layer": "mukhaḍramūn",
     "gender": "male",
     "number_of_lines": 52,
     "metadata_notes": ""
@@ -12,7 +12,7 @@
   "poems": [
     {
       "poem_index": 0,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_000",
+      "poem_id": "ṣakhr_b_ʿamr_000",
       "meter": "رجز",
       "verses": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "poem_index": 1,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_001",
+      "poem_id": "ṣakhr_b_ʿamr_001",
       "meter": "رجز",
       "verses": [
         {
@@ -34,7 +34,7 @@
     },
     {
       "poem_index": 2,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_002",
+      "poem_id": "ṣakhr_b_ʿamr_002",
       "meter": "طويل",
       "verses": [
         {
@@ -73,7 +73,7 @@
     },
     {
       "poem_index": 3,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_003",
+      "poem_id": "ṣakhr_b_ʿamr_003",
       "meter": "رجز",
       "verses": [
         {
@@ -84,7 +84,7 @@
     },
     {
       "poem_index": 4,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_004",
+      "poem_id": "ṣakhr_b_ʿamr_004",
       "meter": "طويل",
       "verses": [
         {
@@ -123,7 +123,7 @@
     },
     {
       "poem_index": 5,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_005",
+      "poem_id": "ṣakhr_b_ʿamr_005",
       "meter": "طويل",
       "verses": [
         {
@@ -138,7 +138,7 @@
     },
     {
       "poem_index": 6,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_006",
+      "poem_id": "ṣakhr_b_ʿamr_006",
       "meter": "طويل",
       "verses": [
         {
@@ -153,7 +153,7 @@
     },
     {
       "poem_index": 7,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_007",
+      "poem_id": "ṣakhr_b_ʿamr_007",
       "meter": "وافر",
       "verses": [
         {
@@ -164,7 +164,7 @@
     },
     {
       "poem_index": 8,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_008",
+      "poem_id": "ṣakhr_b_ʿamr_008",
       "meter": "طويل",
       "verses": [
         {
@@ -183,7 +183,7 @@
     },
     {
       "poem_index": 9,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_009",
+      "poem_id": "ṣakhr_b_ʿamr_009",
       "meter": "كامل",
       "verses": [
         {
@@ -194,7 +194,7 @@
     },
     {
       "poem_index": 10,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_010",
+      "poem_id": "ṣakhr_b_ʿamr_010",
       "meter": "رجز",
       "verses": [
         {
@@ -209,7 +209,7 @@
     },
     {
       "poem_index": 11,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_011",
+      "poem_id": "ṣakhr_b_ʿamr_011",
       "meter": "وافر",
       "verses": [
         {
@@ -236,7 +236,7 @@
     },
     {
       "poem_index": 12,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_012",
+      "poem_id": "ṣakhr_b_ʿamr_012",
       "meter": "طويل",
       "verses": [
         {
@@ -247,7 +247,7 @@
     },
     {
       "poem_index": 13,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_013",
+      "poem_id": "ṣakhr_b_ʿamr_013",
       "meter": "كامل",
       "verses": [
         {
@@ -258,7 +258,7 @@
     },
     {
       "poem_index": 14,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_014",
+      "poem_id": "ṣakhr_b_ʿamr_014",
       "meter": "كامل",
       "verses": [
         {
@@ -273,7 +273,7 @@
     },
     {
       "poem_index": 15,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_015",
+      "poem_id": "ṣakhr_b_ʿamr_015",
       "meter": "طويل",
       "verses": [
         {
@@ -296,7 +296,7 @@
     },
     {
       "poem_index": 16,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_016",
+      "poem_id": "ṣakhr_b_ʿamr_016",
       "meter": "طويل",
       "verses": [
         {
@@ -327,7 +327,7 @@
     },
     {
       "poem_index": 17,
-      "poem_id": "ṣakhr_b_ʿamr_al-sulamī_017",
+      "poem_id": "ṣakhr_b_ʿamr_017",
       "meter": "طويل",
       "verses": [
         {

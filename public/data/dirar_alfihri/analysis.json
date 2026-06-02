@@ -1,0 +1,422 @@
+[
+  {
+    "poem_id": "ḍirār_al-fihrī_000",
+    "poem_index": 0,
+    "meter": "خفيف",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_000",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "النَسرِ وَالعَوّاءِ",
+        "notes": "The verse mentions al-Nasr and al-Awwa, names of stars/constellations, implying a belief in their agency or power to inflict harm, which reflects pre-Islamic astral belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_002",
+    "poem_index": 2,
+    "meter": "متقارب",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_002",
+        "verse_indices": [
+          6
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "أَوتارِها",
+        "notes": "The phrase 'يشفوا النفوس بأوتارها' refers to the pre-Islamic concept of blood vengeance (thar) as a quasi-ritual duty to appease the unavenged dead and bring peace to their souls."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_003",
+    "poem_index": 3,
+    "meter": "بسيط",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "ḍirār_al_fihrī_003",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "بِاللَهِ",
+        "notes": "The phrase 'نَشَدناهُمُ بِاللَهِ' (we implored them by God) constitutes an oath or solemn appeal to Allah, who was recognized as a high deity in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "ḍirār_al_fihrī_003",
+        "verse_indices": [
+          9
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحَينُ",
+        "notes": "The term 'الحَينُ' (fate, doom, appointed time) reflects a pre-Islamic fatalistic cosmological concept of an inescapable destiny or predetermined time of death."
+      },
+      {
+        "poem_id": "ḍirār_al_fihrī_003",
+        "verse_indices": [
+          16
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "سالِبَةٍ أَثوابُها قِدَدُ",
+        "notes": "The description of women 'stripping their clothes into shreds' ('سالِبَةٍ أَثوابُها قِدَدُ') explicitly refers to a ritualistic mourning practice common in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_004",
+    "poem_index": 4,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_004",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللَهِ",
+        "notes": "This verse contains an oath 'By God' (فَوَ اللَهِ), which is a common pre-Islamic oath formula invoking a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_006",
+    "poem_index": 6,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_006",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "البيت ذي الأركان, جوار البيت",
+        "notes": "The verse explicitly mentions 'the House with the corners' (al-Bayt dhī al-Arkān), referring to the Kaaba, and 'neighboring the House' (jiwār al-Bayt), which signifies a sacred space and the practice of seeking its protection in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_007",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "طُلَّت جِراحُهُ / يُهدَرا",
+        "notes": "The verse refers to wounds going unavenged and blood being shed with impunity, directly addressing the pre-Islamic tribal concept of the vengeance obligation (tha'r) as a quasi-ritual duty."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as holding insights and 'al-ḥayn' (doom/fate) as circling, reflecting the pre-Islamic cosmological concept of Dahr as an active force of destiny."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_009",
+    "poem_index": 9,
+    "meter": "متقارب",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "ḍirār_al_fihrī_009",
+        "verse_indices": [
+          6
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لاتِها (Lāt)",
+        "notes": "The verse explicitly names al-Lāt, a major pre-Islamic deity, as a place of refuge for the Thaqīf tribe during battle, indicating a belief in her protective power."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_010",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرَ, المَقادِرِ",
+        "notes": "The verse explicitly refers to 'al-Dahr' (Time/Fate) as an active, uncontrollable cosmological force and 'al-Maqādir' (fates), which are central to pre-Islamic cosmological beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هام (hām)",
+        "notes": "The verse explicitly mentions 'hām' (bone-bird), a pre-Islamic belief that the spirit of an unavenged murdered person emerges as a bird from their skull."
+      },
+      {
+        "poem_id": "ḍirār_al_fihrī_012",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَجَدِّكَ (wa-jaddika)",
+        "notes": "The phrase 'wa-jaddika' (by your grandfather) is an oath formula common in pre-Islamic Arabia, invoking a revered ancestor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_014",
+    "poem_index": 14,
+    "meter": "بسيط",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_014",
+        "verse_indices": [
+          9
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "فِدىً لَكُمُ أُمّي وَما وَلَدَت",
+        "notes": "This phrase is a common pre-Islamic oath formula, where the speaker pledges their mother and kin as a ransom or sacrifice to emphasize the gravity of their statement or commitment."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_015",
+    "poem_index": 15,
+    "meter": "منسرح",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "ḍirār_al_fihrī_015",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرِ الَّذي تَبيتُ لَهُ لِباتُ بُدنٍ يَنضَحنَ بِالدَفَقِ",
+        "notes": "This verse contains a pre-Islamic oath formula ('لَعَمرِ') anchored to an unnamed sacred entity whose identity is defined by the ritual slaughter of sacrificial camels (بُدنٍ يَنضَحنَ بِالدَفَقِ)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_016",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "تَثأَروا (thaʾr)",
+        "notes": "This verse refers to the obligation of vengeance (thaʾr) for fallen men, which was a central quasi-ritualistic duty in pre-Islamic Arabian society related to death and tribal honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_019",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'المَنايا' (al-manāyā) refers to fate or destiny, a significant cosmological force in pre-Islamic Arabian belief, making this an explicit reference to such a concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_020",
+    "poem_index": 20,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_020",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الحِجر",
+        "notes": "The verse refers to 'al-Ḥijr', a sacred enclosure adjacent to the Kaaba, highlighting its special status as a place where no one is buried, thus referencing pre-Islamic sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_021",
+    "poem_index": 21,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_023",
+    "poem_index": 23,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_024",
+    "poem_index": 24,
+    "meter": "وافر",
+    "verse_count": 17,
+    "references": [
+      {
+        "poem_id": "ḍirār_al-fihrī_024",
+        "verse_indices": [
+          10
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عقيقة",
+        "notes": "The term 'ʿaqīqa' refers to the pre-Islamic ritual sacrifice performed for a newborn child, fitting the category of sacrificial acts."
+      },
+      {
+        "poem_id": "ḍirār_al_fihrī_024",
+        "verse_indices": [
+          14
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نَوحى",
+        "notes": "The word 'nawḥā' explicitly refers to lamentation or wailing, a common pre-Islamic mourning rite for the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_025",
+    "poem_index": 25,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_026",
+    "poem_index": 26,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ḍirār_al-fihrī_027",
+    "poem_index": 27,
+    "meter": "كامل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  }
+]

@@ -1,0 +1,339 @@
+[
+  {
+    "poem_id": "qays_b_zuhayr_000",
+    "poem_index": 0,
+    "meter": "متقارب",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "واللَه",
+        "notes": "This verse contains an explicit oath formula \"واللَه\" (by God), which was a common pre-Islamic practice used to emphasize a statement."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_001",
+    "poem_index": 1,
+    "meter": "بسيط",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 21,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_003",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المقاد",
+        "notes": "The term \"المقاد\" (fate/destiny) reflects pre-Islamic beliefs about an overarching, often negative, force governing human events."
+      },
+      {
+        "poem_id": "qays_b_zuhayr_003",
+        "verse_indices": [
+          6
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "ذات الإصاد",
+        "notes": "“ذات الإصاد” is a known pre-Islamic sanctuary or sacred site, indicating a specific location for religious or ritualistic significance."
+      },
+      {
+        "poem_id": "qays_b_zuhayr_003",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "“الدهر” (Time/Fate) is personified as an active agent bringing misfortune, a central concept in pre-Islamic Arabian cosmology."
+      },
+      {
+        "poem_id": "qays_b_zuhayr_003",
+        "verse_indices": [
+          20
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "يلملم, نصاد",
+        "notes": "“يلملم” and “نصاد” are identified as sacred mountains or places, referencing pre-Islamic sacred geography."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_004",
+    "poem_index": 4,
+    "meter": "متقارب",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_005",
+    "poem_index": 5,
+    "meter": "خفيف",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_005",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "شاطنا",
+        "notes": "The verse refers to a 'shayṭān' (devil/evil spirit), which is a type of non-divine supernatural entity in pre-Islamic Arabian belief."
+      },
+      {
+        "poem_id": "qays_b_zuhayr_005",
+        "verse_indices": [
+          3
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "الجن",
+        "notes": "The verse explicitly mentions 'jinn' alongside humans, referring to a class of non-divine supernatural beings in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_006",
+    "poem_index": 6,
+    "meter": "كامل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_007",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "The phrase 'وَاللَهِ' (By God) is an explicit pre-Islamic oath formula, invoking a supreme deity."
+      },
+      {
+        "poem_id": "qays_b_zuhayr_007",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "The phrase 'وَاللَهِ' (By God) is an explicit pre-Islamic oath formula, invoking a supreme deity."
+      },
+      {
+        "poem_id": "qays_b_zuhayr_007",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهِ",
+        "notes": "The phrase 'وَاللَهِ' (By God) is an explicit pre-Islamic oath formula, invoking a supreme deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_010",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جِنَّيَّة",
+        "notes": "The verse explicitly mentions 'sons of a female Jinn', referring to a supernatural entity from pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_011",
+    "poem_index": 11,
+    "meter": "خفيف",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_011",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "مشؤوما",
+        "notes": "The term 'مشؤوما' (ill-omened, unlucky) explicitly refers to a belief in omens or inherent bad fortune associated with the horse Dahis."
+      },
+      {
+        "poem_id": "qays_b_zuhayr_011",
+        "verse_indices": [
+          7
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "محتوما",
+        "notes": "The phrase 'كان يومهم محتوما' (their day was destined/fated) refers to the pre-Islamic concept of an inevitable, predetermined fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_012",
+        "verse_indices": [
+          5
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "This verse invokes Allah as a protector, reflecting the pre-Islamic recognition of Allah as a supreme deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_014",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an entity from which protection is sought, reflecting the pre-Islamic cosmological concept of Dahr as an active, often destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_017",
+    "poem_index": 17,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "qays_b_zuhayr_017",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الثأر (al-tha'r)",
+        "notes": "This verse describes the poet's act of killing in retaliation for his brothers, reflecting the pre-Islamic quasi-ritualistic duty of blood vengeance (al-tha'r)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_018",
+    "poem_index": 18,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "qays_b_zuhayr_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "poem_id": "ʿamr_b_barrāqah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_001",
+    "poem_index": 1,
+    "meter": "خفيف",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_barrāqah_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "شَياطين",
+        "notes": "The verse explicitly mentions 'shayāṭīn' (devils/demons), which are supernatural entities in pre-Islamic Arabian belief, often associated with malevolent spirits or fierce warriors."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_barrāqah_006",
+        "verse_indices": [
+          18
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الطير على منعفر",
+        "notes": "This verse describes birds scavenging on a fallen warrior (مُنعَفِراً تَليلا), an image frequently used in pre-Islamic poetry to depict the grim reality of death in battle and the absence of proper burial rites, thus relating to mortuary beliefs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 19,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_barrāqah_008",
+        "verse_indices": [
+          7
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَبَيتِ اللَهِ",
+        "notes": "This verse contains an oath sworn by 'the House of God' (the Kaaba), which was a revered sanctuary in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_barrāqah_009",
+    "poem_index": 9,
+    "meter": "بحر مجزوء الكامل",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_barrāqah_009",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "التَمائِم",
+        "notes": "This verse explicitly refers to the practice of hanging amulets (tamāʾim), a common pre-Islamic protective ritual and a performative dimension of religious belief."
+      }
+    ],
+    "error": false
+  }
+]
