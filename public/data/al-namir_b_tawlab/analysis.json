@@ -1,0 +1,658 @@
+[
+  {
+    "poem_id": "al-namir_b_tawlab_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_003",
+    "poem_index": 3,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_003",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse personifies 'al-Dahr' (Time/Fate) as an active agent casting arrows, reflecting the pre-Islamic cosmological concept of Dahr as an impersonal, irresistible force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_005",
+        "verse_indices": [
+          0
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَدا",
+        "notes": "The term 'ṣadā' refers to the pre-Islamic belief that the soul of a deceased person, particularly one whose death was unavenged, would emerge from their skull as a bird."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_005",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The phrase 'ṣurūf al-dahr' (vicissitudes of time/fate) invokes 'Dahr' as a pre-Islamic cosmological force representing impersonal fate or time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_006",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الله",
+        "notes": "The verse contains an oath formula 'فَواللَهِ' (By God), which anchors the statement to Allah, a deity worshipped in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_007",
+    "poem_index": 7,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_008",
+    "poem_index": 8,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_010",
+    "poem_index": 10,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_011",
+    "poem_index": 11,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_011",
+        "verse_indices": [
+          1
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "تَسنَحُني يَسراً / غَيرُ مَسنوحِ",
+        "notes": "This verse explicitly refers to the pre-Islamic practice of augury (ṭīra) from animals, where a left-passing animal was considered an ill omen."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "هُبِلت",
+        "notes": "The term 'هُبِلت' is a common pre-Islamic imprecation or curse, functioning as an oath-like formula expressing a wish for misfortune (bereftness)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_013",
+    "poem_index": 13,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_013",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الحَوادِثُ وَالأَيامُ",
+        "notes": "The phrase attributes agency to 'events and days' (الحَوادِثُ وَالأَيامُ), reflecting a pre-Islamic cosmological understanding of time and fate (dahr) as powerful, shaping forces."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_015",
+    "poem_index": 15,
+    "meter": "متقارب",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_016",
+    "poem_index": 16,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_017",
+    "poem_index": 17,
+    "meter": "كامل",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_017",
+        "verse_indices": [
+          8
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الكعاب",
+        "notes": "This verse explicitly refers to the ritual of circumambulation (ṭawāf) around the Ka'ba, a central pre-Islamic sanctuary."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_017",
+        "verse_indices": [
+          15
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "القداح",
+        "notes": "This verse explicitly mentions 'القداح' (divining arrows), a well-known pre-Islamic practice for seeking omens or making decisions."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_018",
+    "poem_index": 18,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_019",
+    "poem_index": 19,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_020",
+    "poem_index": 20,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_021",
+    "poem_index": 21,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_022",
+    "poem_index": 22,
+    "meter": "كامل",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_023",
+    "poem_index": 23,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_024",
+    "poem_index": 24,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_026",
+    "poem_index": 26,
+    "meter": "متقارب",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_026",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "هدي",
+        "notes": "The verse describes an oath sworn by a 'hady' (sacrificial animal), which was a common pre-Islamic practice to solemnize an oath."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_027",
+    "poem_index": 27,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 41,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_028",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المُنَخَّلُ",
+        "notes": "The verse links the return of a lost camel to the reappearance of the star al-Munakhkhal (Pleiades), reflecting pre-Islamic astral belief in stars as agents or markers of events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_029",
+    "poem_index": 29,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_030",
+    "poem_index": 30,
+    "meter": "متقارب",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_033",
+    "poem_index": 33,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_033",
+        "verse_indices": [
+          2
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الهام",
+        "notes": "This verse explicitly refers to 'al-hām,' a pre-Islamic belief about a bird emerging from the skull of the deceased, crying out for vengeance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_034",
+    "poem_index": 34,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_035",
+    "poem_index": 35,
+    "meter": "متقارب",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_035",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as a powerful, respected force, reflecting pre-Islamic cosmological beliefs."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_035",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "'al-Maniyya' (Death/Fate) is depicted as an inescapable force, a central element in pre-Islamic cosmological thought."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_035",
+        "verse_indices": [
+          10
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حتفه",
+        "notes": "The term 'ḥatf' (doom/death) signifies an unavoidable, predetermined fate, consistent with pre-Islamic cosmological concepts."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_035",
+        "verse_indices": [
+          15
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "'al-Dahr' (Time/Fate) is presented as an active agent, providing a person with something, which aligns with pre-Islamic cosmological views."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_035",
+        "verse_indices": [
+          15
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أسهما",
+        "notes": "The phrase 'turning arrows in his hand' explicitly refers to the pre-Islamic practice of divination using arrows (azlām)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_036",
+    "poem_index": 36,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_037",
+    "poem_index": 37,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_038",
+    "poem_index": 38,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_039",
+    "poem_index": 39,
+    "meter": "بسيط",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_039",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كَوكَبٍ نَزل بِالماءِ",
+        "notes": "This verse attributes the bringing of rain to a star, reflecting pre-Islamic astral beliefs (anwāʾ) about celestial bodies influencing weather."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_039",
+        "verse_indices": [
+          12
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الهامِ",
+        "notes": "The term 'الهام' (al-hām) refers to the bone-bird (ṣadā), a pre-Islamic belief about the soul of the deceased that emerges from the skull."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_040",
+    "poem_index": 40,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_041",
+    "poem_index": 41,
+    "meter": "وافر",
+    "verse_count": 22,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_041",
+        "verse_indices": [
+          17
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لِلآلِهِ",
+        "notes": "The phrase 'لِلآلِهِ' (for the sake of the deity/god) is an explicit invocation or plea to a divine entity, characteristic of pre-Islamic appeals."
+      },
+      {
+        "poem_id": "al-namir_b_tawlab_041",
+        "verse_indices": [
+          20
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنايا",
+        "notes": "The term 'المَنايا' (al-manāyā) refers to fate or death as an inescapable, often personified, cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_042",
+    "poem_index": 42,
+    "meter": "مديد",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_043",
+    "poem_index": 43,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_044",
+    "poem_index": 44,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_045",
+    "poem_index": 45,
+    "meter": "منسرح",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_045",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نجم (star) and وبله (its rain)",
+        "notes": "This verse alludes to the pre-Islamic belief in the influence of stars (anwāʾ) on weather, specifically rain, by mentioning a star's failure to bring its expected downpour."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_046",
+    "poem_index": 46,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_047",
+    "poem_index": 47,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_047",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بنات الدّهر",
+        "notes": "The phrase 'بنات الدّهر' (daughters of Time/Fate) personifies Dahr as a powerful, often destructive, cosmological force, a common concept in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_048",
+    "poem_index": 48,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_049",
+    "poem_index": 49,
+    "meter": "متقارب",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_050",
+    "poem_index": 50,
+    "meter": "بحر أحذ الكامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_051",
+    "poem_index": 51,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-namir_b_tawlab_052",
+    "poem_index": 52,
+    "meter": "وافر",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "al-namir_b_tawlab_052",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبيكَ",
+        "notes": "This verse contains a common pre-Islamic oath formula, 'by the life of your father,' which is a form of oath-taking."
+      }
+    ],
+    "error": false
+  }
+]

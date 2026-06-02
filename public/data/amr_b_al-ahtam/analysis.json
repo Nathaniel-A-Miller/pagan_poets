@@ -1,0 +1,252 @@
+[
+  {
+    "poem_id": "ʿamr_b_al-ahtam_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_al-ahtam_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدّهر",
+        "notes": "The term 'الدّهر' (al-Dahr) is used here to refer to Time as a powerful, impersonal force that brings about change and wonders, aligning with pre-Islamic cosmological notions of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_002",
+    "poem_index": 2,
+    "meter": "خفيف",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_al-ahtam_002",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رَهنَ ضَبعٍ مُسلَحِبّا وَرَهنَ طُلسِ الذِئابِ",
+        "notes": "This verse describes leaving the enemy's dead body unburied to be consumed by hyenas and wolves, which is a significant aspect of pre-Islamic mortuary belief concerning the dishonorable fate of the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_003",
+    "poem_index": 3,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_006",
+    "poem_index": 6,
+    "meter": "وافر",
+    "verse_count": 28,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_al-ahtam_006",
+        "verse_indices": [
+          26
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "كَوَاكِبُهُ تَسيرُ",
+        "notes": "This phrase refers to the movement of stars on a significant day, implying an astral belief where celestial bodies influence events or signify fate, a common pre-Islamic cosmological concept."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_008",
+    "poem_index": 8,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_010",
+    "poem_index": 10,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_011",
+    "poem_index": 11,
+    "meter": "خفيف",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_013",
+    "poem_index": 13,
+    "meter": "خفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 24,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_al-ahtam_016",
+        "verse_indices": [
+          21
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "The phrase 'لَعَمرُكَ' (By your life) is a common pre-Islamic oath formula, used to lend solemnity and weight to a statement, fitting the category of oath formulae."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_017",
+    "poem_index": 17,
+    "meter": "بسيط",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_018",
+    "poem_index": 18,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "ʿamr_b_al-ahtam_019",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهر",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as a powerful, almost personified force whose relentless passage is 'enough to kill' the poet, reflecting the pre-Islamic fatalistic concept of Dahr as a cosmological agent."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_020",
+    "poem_index": 20,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "ʿamr_b_al-ahtam_024",
+    "poem_index": 24,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  }
+]

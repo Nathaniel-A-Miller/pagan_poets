@@ -1,0 +1,640 @@
+[
+  {
+    "poem_id": "maʿn_al-muzanī_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_000",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَرَبِّكُما",
+        "notes": "This verse contains an explicit oath formula 'by your Lord' (wa-rabbikuma), which is a common pre-Islamic oath anchored to a divine entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_003",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "أَولادَ التنَوِّطِ",
+        "notes": "This verse refers to 'awlād al-tanawwuṭ,' which describes a pre-Islamic ritualistic practice of hanging objects on trees or sacred stones to seek blessings or protection."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_004",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula 'laʿamruka' (by your life), which is a common pre-Islamic oath by a sacred entity (the life of the addressed person)."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_006",
+    "poem_index": 6,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 53,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_007",
+        "verse_indices": [
+          36
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرَ",
+        "notes": "The verse refers to 'الدَهرَ' (Time/Fate) as an agent capable of afflicting someone, reflecting the pre-Islamic cosmological concept of Dahr as a powerful, often destructive, force of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_008",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المَنيّةُ",
+        "notes": "The term 'al-maniyya' (death/fate) is used in a context that evokes the pre-Islamic concept of fate (manāyā) as an overarching cosmological force determining human destiny."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_008",
+        "verse_indices": [
+          14
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرِ",
+        "notes": "The term 'al-dahr' (time/fate) is a central pre-Islamic cosmological concept, often personified as an indifferent force, and its usage here reflects this understanding of time as a powerful, overarching entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_009",
+    "poem_index": 9,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_009",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الآجال, حمام",
+        "notes": "The verse refers to 'al-ājāl' (appointed times/fates) and 'ḥimām' (predetermined death), which are key pre-Islamic cosmological concepts related to destiny and the inevitability of death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 25,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_011",
+        "verse_indices": [
+          7
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بَطحاءُ مَكَّةَ",
+        "notes": "This verse refers to the *baṭḥāʾ* of Mecca, a significant sacred geographical location in pre-Islamic Arabian religion, implying its ancient sanctity and importance."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_012",
+    "poem_index": 12,
+    "meter": "وافر",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "مِنىً",
+        "notes": "The mention of Minā (مِنىً) refers to a sacred geographical location central to pre-Islamic pilgrimage rituals."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_013",
+        "verse_indices": [
+          6
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "سَنيحٍ وَبارِحٍ, نعيق الأَشاحيج",
+        "notes": "The verse explicitly references augury from birds or animals (sanīḥ and bāriḥ) and the hooting of owls (نعيق الأَشاحيج), both considered omens in pre-Islamic belief."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_013",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "النَوائِحُ",
+        "notes": "The absence of wailing women (النَوائِحُ) directly refers to pre-Islamic mourning rites and the importance of proper lamentation for the deceased."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_013",
+        "verse_indices": [
+          11
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "رَنَّة, نَوح",
+        "notes": "This verse describes the act of lamentation and wailing (رَنَّة, نَوح) by daughters, which was a central component of pre-Islamic mourning rituals."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 30,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_016",
+    "poem_index": 16,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_017",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الجارِياتِ الذَوابِحا",
+        "notes": "This verse warns Layla to fear 'the running, the slaughtering ones,' which is a likely reference to stars or celestial bodies believed to influence fate and bring destruction in pre-Islamic cosmology."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_018",
+    "poem_index": 18,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_020",
+    "poem_index": 20,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_020",
+        "verse_indices": [
+          6
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "غول",
+        "notes": "The verse explicitly mentions 'غول' (ghoul), a type of supernatural entity believed to inhabit desolate places in pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_021",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيرٍ جَرَت",
+        "notes": "The phrase 'طَيرٍ جَرَت' (birds that flew/moved) refers to the observation of bird movements, a common practice of augury (ṭīra) in pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_023",
+        "verse_indices": [
+          4
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "نَوءُ الذِراعَينِ",
+        "notes": "This verse refers to the *nawʾ* of al-Dhirāʿayn, which is an explicit reference to the pre-Islamic astral belief system linking stars to weather phenomena."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_024",
+    "poem_index": 24,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_024",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُ أَبي رَبيعَةَ",
+        "notes": "This verse contains a pre-Islamic oath formula, 'By the life of Abu Rabi'a,' which invokes the life of a revered individual as a guarantor, fitting the category of oaths anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_025",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرِ",
+        "notes": "The term 'al-Dahr' (Time/Fate) is invoked as an agent of misfortune, reflecting the pre-Islamic cosmological belief in Dahr as a powerful, often destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_026",
+        "verse_indices": [
+          1
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "سقايات الحجيج",
+        "notes": "This verse explicitly mentions 'watering stations for the pilgrims,' referring to the pre-Islamic pilgrimage (ḥajj) and its associated services and rituals in Mecca."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_026",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "حادث الدهر",
+        "notes": "The phrase 'incident of time/fate' (ḥādith al-dahr) refers to 'dahr' as a pre-Islamic cosmological force representing impersonal fate or time that brings about events like death."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 30,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_029",
+        "verse_indices": [
+          11
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللهِ",
+        "notes": "The verse contains an explicit oath by 'Allāh,' who was recognized as a high god in pre-Islamic Arabian religion."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_029",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "دَهري",
+        "notes": "The phrase 'أَنيابُ دَهري' (the fangs of time/fate) refers to Dahr as an active, often malevolent, cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_029",
+        "verse_indices": [
+          21
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَهُ",
+        "notes": "The verse invokes 'Allāh' as a guardian, reflecting a belief in a deity's protective power, common in pre-Islamic invocations."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_029",
+        "verse_indices": [
+          26
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "بَيتِهِ, مُصَلّى, مُهِلّاً, لَبَّدا",
+        "notes": "The verse explicitly describes the Kaaba ('His House') as a place of prayer and refers to the pre-Islamic pilgrimage rituals of ihlāl and talbiya."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_031",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الأَيامُ تَعثُرُ بِالفَتى",
+        "notes": "The phrase personifies 'days' (الأيام) as an agent of misfortune, reflecting the pre-Islamic concept of dahr (time/fate) as an uncontrollable cosmological force."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_031",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "عَوائِدُ, نَوائِحُ",
+        "notes": "The mention of 'ʿawāʾid' (women who visit the bereaved or mourn) and 'nawāʾiḥ' (wailing women) explicitly refers to pre-Islamic mourning rites and practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_035",
+    "poem_index": 35,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_036",
+    "poem_index": 36,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_037",
+    "poem_index": 37,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_039",
+    "poem_index": 39,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_040",
+    "poem_index": 40,
+    "meter": "وافر",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "maʿn_al-muzanī_040",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعَمرُكَ",
+        "notes": "The phrase 'لعَمرُكَ' (by your life) is a common pre-Islamic oath formula, fitting the category of oaths anchored to a sacred entity."
+      },
+      {
+        "poem_id": "maʿn_al-muzanī_040",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لعَمركَ",
+        "notes": "The phrase 'لعَمركَ' (by your life) is a common pre-Islamic oath formula, fitting the category of oaths anchored to a sacred entity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_041",
+    "poem_index": 41,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_042",
+    "poem_index": 42,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_043",
+    "poem_index": 43,
+    "meter": "بحر مجزوء الخفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_044",
+    "poem_index": 44,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "maʿn_al-muzanī_045",
+    "poem_index": 45,
+    "meter": "بحر مجزوء الخفيف",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

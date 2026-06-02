@@ -1,0 +1,415 @@
+[
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_000",
+    "poem_index": 0,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_001",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "معاذ الهي",
+        "notes": "The phrase \"معاذ الهي\" (My God's refuge!) is an invocation seeking divine protection, characteristic of pre-Islamic appeals to a deity."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_004",
+    "poem_index": 4,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_004",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "هِبَل",
+        "notes": "The verse explicitly names Hibāl, a prominent pre-Islamic deity worshipped in the Kaaba."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_005",
+    "poem_index": 5,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_006",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to 'al-Dahr' as an insurmountable force of fate or time, a key pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_006",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "ولد الظهر",
+        "notes": "The phrase 'walad al-Dahr' (offspring of al-Dahr) reinforces the pre-Islamic cosmological concept of al-Dahr as a powerful, almost generative force of fate."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_008",
+    "poem_index": 8,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 15,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_011",
+        "verse_indices": [
+          11
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The verse refers to \"صروف الدهر\" (the vicissitudes of Time/Fate), which is a central pre-Islamic cosmological concept representing an impersonal, destructive force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_012",
+    "poem_index": 12,
+    "meter": "بسيط",
+    "verse_count": 16,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_012",
+        "verse_indices": [
+          7
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جان",
+        "notes": "The verse explicitly mentions \"جان\" (jinn), referring to a non-divine supernatural entity from pre-Islamic Arabian belief."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_014",
+    "poem_index": 14,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_014",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الليالي",
+        "notes": "The verse describes the destructive power of 'the nights' (al-layālī), a common poetic trope for *dahr* (time/fate) as a cosmological force in pre-Islamic belief."
+      },
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_014",
+        "verse_indices": [
+          1,
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنية",
+        "notes": "These verses describe 'al-manīya' (death/fate) as an active cosmological force that arrives, persists, and fulfills its vows, reflecting pre-Islamic fatalism."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 13,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_018",
+        "verse_indices": [
+          3,
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "These verses refer to 'Time' (الدهر) as an unyielding cosmological force that determines human destiny and cannot be appeased or blamed, a common pre-Islamic concept of fate."
+      },
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_018",
+        "verse_indices": [
+          4,
+          7,
+          12
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "قبر, جثمان, جدث",
+        "notes": "These verses describe the act of standing over a grave (قبر, جدث) or corpse (جثمان) and lamenting, explicitly referencing pre-Islamic burial and mourning practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_019",
+    "poem_index": 19,
+    "meter": "وافر",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_019",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "والله",
+        "notes": "This verse contains an explicit oath formula invoking 'Allāh,' a common practice in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_019",
+        "verse_indices": [
+          5
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "بنات قين",
+        "notes": "The mention of 'Banāt Qayn' (the Pleiades) as a time marker reflects pre-Islamic astral belief and its role in marking significant events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_020",
+    "poem_index": 20,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 10,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_022",
+        "verse_indices": [
+          7
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "ظهر الغيب",
+        "notes": "The phrase 'ظهر الغيب' (the unseen) being able to inform one about future actions reflects pre-Islamic beliefs in obtaining foreknowledge, a form of divination."
+      },
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_022",
+        "verse_indices": [
+          9
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "أحلام النيام",
+        "notes": "The phrase 'ابن أحلام النيام' (son of the dreams of sleepers) refers to dreams as a source of knowledge or revelation, which was a recognized form of divination in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_023",
+    "poem_index": 23,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_024",
+    "poem_index": 24,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_025",
+    "poem_index": 25,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_027",
+    "poem_index": 27,
+    "meter": "متقارب",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_028",
+    "poem_index": 28,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_030",
+    "poem_index": 30,
+    "meter": "بسيط",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_031",
+    "poem_index": 31,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "arṭaʾah_b_suhayyah_031",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "Vengeance obligation (الثأر)",
+        "notes": "This verse describes the intention to avenge the slain ('سنبكي بالرماح'), which was a significant quasi-ritual duty in pre-Islamic Arabian society."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "arṭaʾah_b_suhayyah_032",
+    "poem_index": 32,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]

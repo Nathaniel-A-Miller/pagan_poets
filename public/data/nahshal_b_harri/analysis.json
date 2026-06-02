@@ -1,0 +1,517 @@
+[
+  {
+    "poem_id": "nahshal_b_ḥarrī_000",
+    "poem_index": 0,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_002",
+    "poem_index": 2,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_002",
+        "verse_indices": [
+          6
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَلو وَالجَوزاءَ",
+        "notes": "This verse invokes specific constellations (al-Dalw and al-Jawzā') as sources of rain for the grave, reflecting pre-Islamic astral beliefs about stars influencing natural phenomena."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_003",
+    "poem_index": 3,
+    "meter": "وافر",
+    "verse_count": 36,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_003",
+        "verse_indices": [
+          11
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "مَشؤوم, نَحس",
+        "notes": "This verse explicitly refers to days being considered 'inauspicious' (مَشؤوم) or 'unlucky' (نَحس), reflecting a pre-Islamic belief in omens derived from the nature of specific days."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_003",
+        "verse_indices": [
+          32
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "الأَضاحي",
+        "notes": "This verse explicitly mentions 'الأَضاحي' (sacrificial animals), indicating a reference to pre-Islamic sacrificial rituals."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_003",
+        "verse_indices": [
+          35
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَوائِرُ",
+        "notes": "The phrase 'تَأخُذُهُ الدَوائِرُ' refers to the inescapable turns of fate or time, a common pre-Islamic cosmological concept related to dahr."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_005",
+    "poem_index": 5,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_007",
+    "poem_index": 7,
+    "meter": "كامل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_009",
+    "poem_index": 9,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_010",
+    "poem_index": 10,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_012",
+    "poem_index": 12,
+    "meter": "كامل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_012",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإِلَهُ",
+        "notes": "The verse contains an imprecation invoking 'al-Ilāh' (the god) to curse, which is a direct appeal to a divine entity."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الإِلَهُ",
+        "notes": "This verse repeats the imprecation from the previous verse, invoking 'al-Ilāh' (the god) to condemn, indicating a belief in divine agency for curses."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_015",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "دِماءُ الهَدايا مِن مِنىً وَثَبيرِ",
+        "notes": "This verse explicitly refers to the ritual act of offering sacrifices ('دِماءُ الهَدايا') at the sacred locations of Minā and Thabīr, which were significant sites for pre-Islamic pilgrimage and worship."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 56,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_016",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "عَنَتِ الدَهرِ",
+        "notes": "The phrase 'عَنَتِ الدَهرِ' (the hardship of Time/Fate) refers to 'Dahr' as a cosmological force, a common pre-Islamic concept of an impersonal, often destructive, destiny."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_016",
+        "verse_indices": [
+          17
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَدرَجَةِ الدَهرِ",
+        "notes": "The phrase 'مَدرَجَةِ الدَهرِ' (the course of Time/Fate) invokes 'Dahr' as a cosmological force that governs events, a key pre-Islamic belief."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_016",
+        "verse_indices": [
+          21
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمري",
+        "notes": "The oath formula 'لَعَمري' (By my life) is a common pre-Islamic expression used to affirm a statement, fitting the category of oath formulae."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_016",
+        "verse_indices": [
+          35
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "مَنايا",
+        "notes": "The term 'مَنايا' (fates/deaths) refers to the pre-Islamic concept of an inescapable destiny or end, often personified as a powerful force."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_016",
+        "verse_indices": [
+          37
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ثَأَرنا",
+        "notes": "The act of taking 'ثَأَر' (vengeance) was a central, quasi-ritualistic duty in pre-Islamic tribal society, deeply connected to honor and the deceased."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 23,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_018",
+        "verse_indices": [
+          3
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "العَواطِسُ",
+        "notes": "The verse refers to sneezes not foretelling separation, implicitly acknowledging the pre-Islamic belief in sneezing as a form of omen or augury."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_019",
+    "poem_index": 19,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_019",
+        "verse_indices": [
+          8
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "تَبَعٌ",
+        "notes": "The term 'tabaʿ' (follower/spirit) here refers to a jinnī companion or familiar spirit, a common belief in pre-Islamic Arabia associated with individuals of special status."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_020",
+    "poem_index": 20,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_020",
+        "verse_indices": [
+          8
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "طَيرَتِهِ",
+        "notes": "The term 'طَيرَتِهِ' (ṭayratihi) refers to *ṭīra*, the pre-Islamic practice of augury or omen-taking, indicating a belief in divination."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_021",
+    "poem_index": 21,
+    "meter": "طويل",
+    "verse_count": 52,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_021",
+        "verse_indices": [
+          3
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدَهرُ",
+        "notes": "The verse refers to 'al-Dahr' (Time/Fate) as an active agent shaping events for humans, a common pre-Islamic cosmological concept."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_021",
+        "verse_indices": [
+          49
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "المُعَلّى",
+        "notes": "The term 'al-Muʿallā' refers to one of the arrows used in the pre-Islamic practice of azlām (divination by arrows), specifically the one indicating success."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_022",
+    "poem_index": 22,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_023",
+    "poem_index": 23,
+    "meter": "وافر",
+    "verse_count": 32,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_023",
+        "verse_indices": [
+          31
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "المنايا, الدهر",
+        "notes": "This verse explicitly refers to 'al-manāyā' (fates/deaths) and 'al-dahr' (time/fate), both central pre-Islamic cosmological concepts representing impersonal forces of destiny and time."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_024",
+    "poem_index": 24,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_025",
+    "poem_index": 25,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_026",
+    "poem_index": 26,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_027",
+    "poem_index": 27,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_028",
+    "poem_index": 28,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_029",
+    "poem_index": 29,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_030",
+    "poem_index": 30,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_032",
+    "poem_index": 32,
+    "meter": "طويل",
+    "verse_count": 34,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_032",
+        "verse_indices": [
+          15
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عَبَدتُ بُيوتَكُم",
+        "notes": "The verb 'ʿabada' (to worship) applied to 'houses' suggests a form of veneration of specific dwellings or locations, fitting pre-Islamic sacred practices."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_032",
+        "verse_indices": [
+          22
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عِطرَ مَنشِما",
+        "notes": "The phrase refers to the pre-Islamic ritual of anointing oneself with Manšam's perfume as a pledge to fight to the death."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_032",
+        "verse_indices": [
+          30
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "رُقى الناسِ",
+        "notes": "'Ruqā' (incantations or charms) were a common pre-Islamic practice for healing, protection, or other magical purposes."
+      },
+      {
+        "poem_id": "nahshal_b_ḥarrī_032",
+        "verse_indices": [
+          31
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "مَأتَما",
+        "notes": "The term 'maʾtam' explicitly refers to a mourning gathering, which is a key aspect of pre-Islamic mortuary rites."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_033",
+    "poem_index": 33,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [
+      {
+        "poem_id": "nahshal_b_ḥarrī_033",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "نَوحاً يَلتَدِمنَ قِياما",
+        "notes": "This verse describes a specific pre-Islamic mourning ritual involving lamenters beating their chests while standing, which falls under mortuary practices."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_034",
+    "poem_index": 34,
+    "meter": "طويل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_035",
+    "poem_index": 35,
+    "meter": "بسيط",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nahshal_b_ḥarrī_036",
+    "poem_index": 36,
+    "meter": "بسيط",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  }
+]

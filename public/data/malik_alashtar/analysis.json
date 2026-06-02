@@ -1,0 +1,496 @@
+[
+  {
+    "poem_id": "mālik_al-ashtar_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_004",
+    "poem_index": 4,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_005",
+    "poem_index": 5,
+    "meter": "خفيف",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_006",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "لَيسَ امرُؤٌ مِن يَومِهِ بسَالِمِ",
+        "notes": "This verse expresses the idea that no one can escape their appointed fate or destiny, reflecting pre-Islamic cosmological concepts of time (dahr) or fate (manāyā) as an irresistible force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_007",
+    "poem_index": 7,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_009",
+    "poem_index": 9,
+    "meter": "وافر",
+    "verse_count": 8,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_009",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "لَعَمرُكَ",
+        "notes": "This verse contains the oath formula \"laʿamruka\" (by your life), a common pre-Islamic oath invoking a sacred aspect of existence."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_010",
+    "poem_index": 10,
+    "meter": "بحر مجزوء الرجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_011",
+    "poem_index": 11,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_012",
+    "poem_index": 12,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_012",
+        "verse_indices": [
+          0
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "أُمُّ المَنَايَا",
+        "notes": "The phrase 'Umm al-Manāyā' (Mother of Fates) refers to the pre-Islamic concept of fate or destiny as an irresistible cosmological force."
+      },
+      {
+        "poem_id": "mālik_al-ashtar_012",
+        "verse_indices": [
+          1
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الطَّوَاغِيتِ الأُوَل",
+        "notes": "The term 'al-Ṭawāghīt al-Awwal' (the first tyrants/idols) explicitly references pre-Islamic false deities or objects of worship whose rule is being condemned."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_013",
+    "poem_index": 13,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_013",
+        "verse_indices": [
+          2
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "الهبل",
+        "notes": "The verse explicitly mentions \"الهبل\" (al-Hibal), which is a clear reference to the pre-Islamic deity Hubal, indicating a connection to pre-Islamic religious belief in the context of battle."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_016",
+    "poem_index": 16,
+    "meter": "خفيف",
+    "verse_count": 11,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_017",
+    "poem_index": 17,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_019",
+    "poem_index": 19,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_020",
+    "poem_index": 20,
+    "meter": "بحر مجزوء الرجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_021",
+    "poem_index": 21,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_022",
+    "poem_index": 22,
+    "meter": "بحر منهوك المنسرح",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_023",
+    "poem_index": 23,
+    "meter": "كامل",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_023",
+        "verse_indices": [
+          2
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "السَّعالِي",
+        "notes": "The verse explicitly mentions \"al-saʿālī\" (ghouls), which are supernatural entities in pre-Islamic Arabian folklore."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_024",
+    "poem_index": 24,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_025",
+    "poem_index": 25,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_026",
+    "poem_index": 26,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_027",
+    "poem_index": 27,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_027",
+        "verse_indices": [
+          2
+        ],
+        "category": "Divination_and_Omens",
+        "entity_or_term": "مَشَائيمَ",
+        "notes": "The term 'مَشَائيمَ' (ill-omened) reflects a pre-Islamic belief in omens and their influence on fortune, which falls under the broader category of divination and augury."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_028",
+    "poem_index": 28,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_028",
+        "verse_indices": [
+          0
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "نَذر",
+        "notes": "The term 'nadhr' (vow) refers to a ritual promise, often made to a deity or sacred entity in pre-Islamic Arabian practice."
+      },
+      {
+        "poem_id": "mālik_al-ashtar_028",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وِتر",
+        "notes": "The concept of 'witr' (blood-vengeance) was a central quasi-ritualistic obligation in pre-Islamic society, tied to the honor of the deceased and the tribe."
+      },
+      {
+        "poem_id": "mālik_al-ashtar_028",
+        "verse_indices": [
+          3
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "طَعَامَ النَّسرِ",
+        "notes": "Making someone 'food for the eagle' refers to the practice of leaving a body unburied, a significant denial of proper mortuary rites in pre-Islamic belief."
+      },
+      {
+        "poem_id": "mālik_al-ashtar_028",
+        "verse_indices": [
+          3
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رَبِّي",
+        "notes": "The invocation 'Rabbī' (my Lord) functions as an oath or an appeal to a deity, common in pre-Islamic expressions of divine judgment or excuse."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_029",
+    "poem_index": 29,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_030",
+    "poem_index": 30,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_031",
+    "poem_index": 31,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_032",
+    "poem_index": 32,
+    "meter": "خفيف",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_033",
+    "poem_index": 33,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_034",
+    "poem_index": 34,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_035",
+    "poem_index": 35,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_036",
+    "poem_index": 36,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_037",
+    "poem_index": 37,
+    "meter": "رجز",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_038",
+    "poem_index": 38,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_039",
+    "poem_index": 39,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_040",
+    "poem_index": 40,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_041",
+    "poem_index": 41,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_042",
+    "poem_index": 42,
+    "meter": "بسيط",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_042",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "صَولَةَ الحِقَبِ",
+        "notes": "The phrase 'fear the assault of ages' (صَولَةَ الحِقَبِ) alludes to the overwhelming and destructive power of time or fate, a concept akin to *dahr* in pre-Islamic cosmology."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_043",
+    "poem_index": 43,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_044",
+    "poem_index": 44,
+    "meter": "رجز",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "mālik_al-ashtar_045",
+    "poem_index": 45,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "mālik_al-ashtar_045",
+        "verse_indices": [
+          0
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "آلَيتُ",
+        "notes": "The verb 'آلَيتُ' (I swore/vowed) indicates the act of making an oath, a common ritualistic practice in pre-Islamic Arabia often implicitly or explicitly invoking a deity or sacred entity."
+      }
+    ],
+    "error": false
+  }
+]

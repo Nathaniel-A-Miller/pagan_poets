@@ -1,0 +1,229 @@
+[
+  {
+    "poem_id": "nāfiʿ_al-aswad_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_001",
+    "poem_index": 1,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_002",
+    "poem_index": 2,
+    "meter": "كامل",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_004",
+    "poem_index": 4,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [
+      {
+        "poem_id": "nāfiʿ_al_aswad_004",
+        "verse_indices": [
+          1
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "الطير تحجل حوله",
+        "notes": "This verse describes the enemy's body being left for birds of prey, implicitly referencing the absence of proper burial practices, which were a significant aspect of pre-Islamic mortuary customs."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_005",
+    "poem_index": 5,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_006",
+    "poem_index": 6,
+    "meter": "طويل",
+    "verse_count": 8,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_007",
+    "poem_index": 7,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_008",
+    "poem_index": 8,
+    "meter": "طويل",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_009",
+    "poem_index": 9,
+    "meter": "خفيف",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_010",
+    "poem_index": 10,
+    "meter": "طويل",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "nāfiʿ_al-aswad_010",
+        "verse_indices": [
+          4
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "رَبُّ القَوادِسِ",
+        "notes": "The phrase 'Lord of al-Qawādis' explicitly names a specific deity or sacred entity associated with a place, fitting the category of pre-Islamic deities."
+      },
+      {
+        "poem_id": "nāfiʿ_al-aswad_010",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "هامُها المُتَفَرِّقُ",
+        "notes": "The reference to 'scattered skulls' (هامُها) crying out evokes the pre-Islamic belief in the ṣadā or hām, the spirit of the deceased often associated with the skull, which would cry out from the grave."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_011",
+    "poem_index": 11,
+    "meter": "طويل",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "nāfiʿ_al_aswad_011",
+        "verse_indices": [
+          3
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "عَقَرنا ركابَنا",
+        "notes": "The act of slaughtering mounts (ʿaqr) in a battle context can signify a ritualistic sacrifice or a vow of no retreat, common in pre-Islamic Arabian practices."
+      },
+      {
+        "poem_id": "nāfiʿ_al_aswad_011",
+        "verse_indices": [
+          5
+        ],
+        "category": "Rituals_and_Spaces",
+        "entity_or_term": "العَلائِق",
+        "notes": "The mention of being protected by al-ʿalāʾiq (amulets) refers to a pre-Islamic practice of wearing charms for supernatural protection against harm or evil."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_012",
+    "poem_index": 12,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_013",
+    "poem_index": 13,
+    "meter": "طويل",
+    "verse_count": 9,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_014",
+    "poem_index": 14,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_015",
+    "poem_index": 15,
+    "meter": "طويل",
+    "verse_count": 12,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_016",
+    "poem_index": 16,
+    "meter": "طويل",
+    "verse_count": 26,
+    "references": [
+      {
+        "poem_id": "nāfiʿ_al-aswad_016",
+        "verse_indices": [
+          10
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "وَتَراً",
+        "notes": "This verse refers to 'witr' (an unavenged wrong or killing), which necessitates blood vengeance, a fundamental quasi-ritual duty in pre-Islamic Arabian society."
+      },
+      {
+        "poem_id": "nāfiʿ_al-aswad_016",
+        "verse_indices": [
+          23
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "ذَحلُها",
+        "notes": "This verse explicitly mentions 'dhal' (vengeance), a core pre-Islamic concept of blood feud and a quasi-ritual obligation related to death and honor."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_017",
+    "poem_index": 17,
+    "meter": "طويل",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_018",
+    "poem_index": 18,
+    "meter": "طويل",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "nāfiʿ_al-aswad_019",
+    "poem_index": 19,
+    "meter": "خفيف",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  }
+]
