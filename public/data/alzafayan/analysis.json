@@ -1,0 +1,172 @@
+[
+  {
+    "poem_id": "al-zafayān_000",
+    "poem_index": 0,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_001",
+    "poem_index": 1,
+    "meter": "رجز",
+    "verse_count": 9,
+    "references": [
+      {
+        "poem_id": "al-zafayān_001",
+        "verse_indices": [
+          0
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "أولق",
+        "notes": "The term 'أولق' (awlaq) refers to a form of madness or epilepsy, which in pre-Islamic Arabian belief was often attributed to possession or influence by jinn."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_002",
+    "poem_index": 2,
+    "meter": "رجز",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_003",
+    "poem_index": 3,
+    "meter": "رجز",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_004",
+    "poem_index": 4,
+    "meter": "رجز",
+    "verse_count": 20,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_005",
+    "poem_index": 5,
+    "meter": "رجز",
+    "verse_count": 15,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_006",
+    "poem_index": 6,
+    "meter": "رجز",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-zafayān_006",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "العَيُّوقِ",
+        "notes": "The verse mentions the star al-ʿAyyūq (Capella) as a destination, which aligns with pre-Islamic astral belief where stars could be seen as significant cosmological entities."
+      },
+      {
+        "poem_id": "al-zafayān_006",
+        "verse_indices": [
+          8
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "مَألُوقَةً",
+        "notes": "The term 'maʾlūqa' (possessed/mad) explicitly refers to the belief in jinn as agents causing such states, fitting the category of supernatural beings."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_007",
+    "poem_index": 7,
+    "meter": "رجز",
+    "verse_count": 18,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_008",
+    "poem_index": 8,
+    "meter": "رجز",
+    "verse_count": 5,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_009",
+    "poem_index": 9,
+    "meter": "رجز",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_010",
+    "poem_index": 10,
+    "meter": "رجز",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_011",
+    "poem_index": 11,
+    "meter": "رجز",
+    "verse_count": 10,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-zafayān_012",
+    "poem_index": 12,
+    "meter": "رجز",
+    "verse_count": 18,
+    "references": [
+      {
+        "poem_id": "al-zafayān_012",
+        "verse_indices": [
+          8
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "صَداها",
+        "notes": "The verse mentions the owl answering its 'ṣadā,' referring to the pre-Islamic belief that a bird (ṣadā) emerges from the skull of the deceased, representing their spirit."
+      },
+      {
+        "poem_id": "al-zafayān_012",
+        "verse_indices": [
+          12
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "وَاللَّهِ",
+        "notes": "The phrase 'wa-Allāhi' is an explicit oath by God, common in pre-Islamic Arabian discourse, indicating an invocation of a supreme deity."
+      },
+      {
+        "poem_id": "al-zafayān_012",
+        "verse_indices": [
+          13
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "رَهبَةَ النّارِ",
+        "notes": "The mention of 'the fear of fire' (hellfire) reflects a pre-Islamic concept of afterlife punishment, indicating a theological understanding of death and its consequences."
+      },
+      {
+        "poem_id": "al-zafayān_012",
+        "verse_indices": [
+          13
+        ],
+        "category": "Deities_and_Oaths",
+        "entity_or_term": "اللاّها",
+        "notes": "The phrase 'يدعو الناس علينا اللاّها' refers to people invoking 'al-Lāhā' (a form of Allāh or a deity) against them, which is an explicit appeal to a divine entity for judgment or curse."
+      }
+    ],
+    "error": false
+  }
+]
