@@ -3166,5 +3166,65 @@
     "number_of_lines": 54,
     "source": "data/rabi_b_abi_alhuqayq/source.json",
     "analysis": "data/rabi_b_abi_alhuqayq/analysis.json"
+  },
+  {
+    "slug": "alajdaa_alhamdani",
+    "name_en": "Al-Ajdaʿ al-Hamdānī",
+    "name_ar": "الأجدع الهمداني",
+    "tribe": "Hamdān",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 67,
+    "source": "data/alajdaa_alhamdani/source.json",
+    "analysis": "data/alajdaa_alhamdani/analysis.json"
+  },
+  {
+    "slug": "alasaar_aljuufii",
+    "name_en": "Al-Asʿar al-Juʿfī",
+    "name_ar": "الأسعر الجعفي",
+    "tribe": "Madhḥij",
+    "region": "Yemen / South Arabia",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 63,
+    "source": "data/alasaar_aljuufii/source.json",
+    "analysis": "data/alasaar_aljuufii/analysis.json"
+  },
+  {
+    "slug": "alrabii_b_ziyad",
+    "name_en": "Al-Rabīʿ b. Ziyād al-ʿAbsī",
+    "name_ar": "الربيع بن زياد العبسي",
+    "tribe": "ʿAbs",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 56,
+    "source": "data/alrabii_b_ziyad/source.json",
+    "analysis": "data/alrabii_b_ziyad/analysis.json"
+  },
+  {
+    "slug": "awf_b_alahwas",
+    "name_en": "ʿAwf ibn al-Aḥwaṣ",
+    "name_ar": "عوف بن الأحوص",
+    "tribe": "ʿĀmir ibn Ṣaʿṣaʿah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 66,
+    "source": "data/awf_b_alahwas/source.json",
+    "analysis": "data/awf_b_alahwas/analysis.json"
+  },
+  {
+    "slug": "suwayd_b_alkhadhdhaq",
+    "name_en": "Suwayd b. al-Khadhdhāq",
+    "name_ar": "سويد بن الخذاق",
+    "tribe": "ʿAbd al-Qays",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 30,
+    "source": "data/suwayd_b_alkhadhdhaq/source.json",
+    "analysis": "data/suwayd_b_alkhadhdhaq/analysis.json"
   }
 ]

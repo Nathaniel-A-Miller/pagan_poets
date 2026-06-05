@@ -1,0 +1,131 @@
+[
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_000",
+    "poem_index": 0,
+    "meter": "بسيط",
+    "verse_count": 4,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_001",
+    "poem_index": 1,
+    "meter": "وافر",
+    "verse_count": 5,
+    "references": [
+      {
+        "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_001",
+        "verse_indices": [
+          1
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "الدهر",
+        "notes": "The term 'الدهر' (Dahr) refers to the pre-Islamic cosmological concept of time or fate as an impersonal, often destructive, force."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_002",
+    "poem_index": 2,
+    "meter": "وافر",
+    "verse_count": 1,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_003",
+    "poem_index": 3,
+    "meter": "طويل",
+    "verse_count": 2,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_004",
+    "poem_index": 4,
+    "meter": "بسيط",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_005",
+    "poem_index": 5,
+    "meter": "وافر",
+    "verse_count": 3,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_006",
+    "poem_index": 6,
+    "meter": "متقارب",
+    "verse_count": 6,
+    "references": [
+      {
+        "poem_id": "al-rabīʿ_b_ziyād_al_ʿabsī_006",
+        "verse_indices": [
+          1
+        ],
+        "category": "Supernatural_Beings",
+        "entity_or_term": "جَنِيّة",
+        "notes": "This verse refers to \"جَنِيّةُ حربٍ\" (a jinnīya of war), explicitly invoking the concept of jinn as supernatural entities associated with events."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_007",
+    "poem_index": 7,
+    "meter": "وافر",
+    "verse_count": 7,
+    "references": [],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_008",
+    "poem_index": 8,
+    "meter": "كامل",
+    "verse_count": 11,
+    "references": [
+      {
+        "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_008",
+        "verse_indices": [
+          4
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يضربنَ أوجههن بالأحجارِ",
+        "notes": "This verse describes women striking their faces with stones, a specific and often ritualized mourning practice in pre-Islamic Arabia."
+      },
+      {
+        "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_008",
+        "verse_indices": [
+          5
+        ],
+        "category": "Death_and_Mortuary_Belief",
+        "entity_or_term": "يخمشن حرات الوجوه",
+        "notes": "This verse describes women scratching their faces, a common and ritualized mourning practice in pre-Islamic Arabia."
+      }
+    ],
+    "error": false
+  },
+  {
+    "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_009",
+    "poem_index": 9,
+    "meter": "بسيط",
+    "verse_count": 14,
+    "references": [
+      {
+        "poem_id": "al-rabīʿ_b_ziyād_al-ʿabsī_009",
+        "verse_indices": [
+          2
+        ],
+        "category": "Cosmological_Concepts",
+        "entity_or_term": "القدر",
+        "notes": "The verse refers to 'al-qadar' (fate/destiny) as an active force that delivers death, aligning with pre-Islamic cosmological beliefs about an impersonal, irresistible fate."
+      }
+    ],
+    "error": false
+  }
+]
