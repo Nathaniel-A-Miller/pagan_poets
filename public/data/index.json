@@ -3226,5 +3226,17 @@
     "number_of_lines": 30,
     "source": "data/suwayd_b_alkhadhdhaq/source.json",
     "analysis": "data/suwayd_b_alkhadhdhaq/analysis.json"
+  },
+  {
+    "slug": "malik_b_khalid",
+    "name_en": "Mālik b. Khālid al-Hudhalī",
+    "name_ar": "حارث بن خالد الهذلي",
+    "tribe": "Hudhayl",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 55,
+    "source": "data/malik_b_khalid/source.json",
+    "analysis": "data/malik_b_khalid/analysis.json"
   }
 ]
