@@ -111,7 +111,7 @@
     "slug": "khirniq_bint_badr",
     "name_en": "Al-Khirniq bt. Badr",
     "name_ar": "الخرنق بنت بدر",
-    "tribe": "Qays ibn Thaʿlabah",
+    "tribe": "Qays b. Thaʿlabah",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 57,
@@ -123,7 +123,7 @@
     "slug": "amr_ibn_qamia",
     "name_en": "ʿAmr b. Qamīʾah",
     "name_ar": "عمرو بن قميئة",
-    "tribe": "Qays ibn Thaʿlabah",
+    "tribe": "Qays b. Thaʿlabah",
     "region": "Najd",
     "chronological_layer": "pre-Islamic",
     "number_of_lines": 232,
@@ -361,7 +361,7 @@
   },
   {
     "slug": "shammakh",
-    "name_en": "Al-Shammākh ibn Ḍirār",
+    "name_en": "Al-Shammākh b. Ḍirār",
     "name_ar": "الشماخ بن ضرار",
     "tribe": "Dhubyān",
     "region": "Najd",
@@ -3106,5 +3106,65 @@
     "number_of_lines": 62,
     "source": "data/umayyah_b_al-askar/source.json",
     "analysis": "data/umayyah_b_al-askar/analysis.json"
+  },
+  {
+    "slug": "alburraq",
+    "name_en": "Al-Burrāq",
+    "name_ar": "البراق",
+    "tribe": "Rabīʿah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 84,
+    "source": "data/alburraq/source.json",
+    "analysis": "data/alburraq/analysis.json"
+  },
+  {
+    "slug": "atghatammash_aldabbi",
+    "name_en": "Al-Ghaṭammash al-Ḍabbī",
+    "name_ar": "الغطمش الضبي",
+    "tribe": "Ḍabbah",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 40,
+    "source": "data/atghatammash_aldabbi/source.json",
+    "analysis": "data/atghatammash_aldabbi/analysis.json"
+  },
+  {
+    "slug": "alzafayan",
+    "name_en": "Al-Zafayān",
+    "name_ar": "الزفيان",
+    "tribe": "Tamīm",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 131,
+    "source": "data/alzafayan/source.json",
+    "analysis": "data/alzafayan/analysis.json"
+  },
+  {
+    "slug": "bashamah_b_alghadir",
+    "name_en": "Bashāmah b. al-Ghadīr",
+    "name_ar": "بشامة بن الغدير",
+    "tribe": "Ghaṭafān",
+    "region": "Najd",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 106,
+    "source": "data/bashamah_b_alghadir/source.json",
+    "analysis": "data/bashamah_b_alghadir/analysis.json"
+  },
+  {
+    "slug": "rabi_b_abi_alhuqayq",
+    "name_en": "Al-Rabīʿ b. Abī al-Ḥuqayq",
+    "name_ar": "الربيع بن أبي الحقيق",
+    "tribe": "Qurayẓah",
+    "region": "Hijaz",
+    "chronological_layer": "pre-Islamic",
+    "gender": "male",
+    "number_of_lines": 54,
+    "source": "data/rabi_b_abi_alhuqayq/source.json",
+    "analysis": "data/rabi_b_abi_alhuqayq/analysis.json"
   }
 ]
